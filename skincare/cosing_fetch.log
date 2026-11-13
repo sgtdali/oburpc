@@ -1,0 +1,21 @@
+ingredient: toplam 33656, 8 dilim, dilim toplamı 33656
+  önek 1: 4724 kayıt, şu ana kadar 4708
+  önek 3: 4188 kayıt, şu ana kadar 8896
+  önek 4: 1332 kayıt, şu ana kadar 10228
+  önek 5: 5490 kayıt, şu ana kadar 15718
+  önek 6: 305 kayıt, şu ana kadar 16023
+  önek 7: 2872 kayıt, şu ana kadar 18895
+  önek 8: 6549 kayıt, şu ana kadar 25444
+  önek 9: 8196 kayıt, şu ana kadar 33640
+  UYARI: ingredient için 33656 beklenip 33640 alındı
+substance: toplam 2389, 6 dilim, dilim toplamı 2389
+  önek 1: 186 kayıt, şu ana kadar 182
+  önek 2: 1168 kayıt, şu ana kadar 1350
+  önek 3: 418 kayıt, şu ana kadar 1768
+  önek 4: 4 kayıt, şu ana kadar 1772
+  önek 8: 223 kayıt, şu ana kadar 1995
+  önek 9: 390 kayıt, şu ana kadar 2385
+  UYARI: substance için 2389 beklenip 2385 alındı
+ingredients: 33640 kayıt -> C:\Users\tvural.REPKON\Desktop\parfüm\uygun-bakim\scripts\skincare\cosing\ingredients.json (19738 KB)
+substances: 2385 kayıt -> C:\Users\tvural.REPKON\Desktop\parfüm\uygun-bakim\scripts\skincare\cosing\substances.json (3517 KB)
+functions: 83 kayıt -> C:\Users\tvural.REPKON\Desktop\parfüm\uygun-bakim\scripts\skincare\cosing\functions.json (19 KB)

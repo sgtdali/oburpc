@@ -1,0 +1,618 @@
+[
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "WATER/AQUA/EAU",
+  "eslesen": "AQUA",
+  "urun": 7,
+  "ornek": "innisfree-green-tea-seramid-yuz-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "PHENYL BENZIMIDAZOLE SULFONIC ACID",
+  "eslesen": "PHENYLBENZIMIDAZOLE SULFONIC ACID",
+  "urun": 5,
+  "ornek": "cire-aseptine-50-spf-cocuk-gunes-koruyucu-krem"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "CI 19 140 (YELLOW 5)",
+  "eslesen": "CI 19140",
+  "urun": 4,
+  "ornek": "janssen-cosmetics-aydinlatici-anti-age-tonik"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "CI 42 090 (BLUE 1)",
+  "eslesen": "CI 42090",
+  "urun": 4,
+  "ornek": "janssen-cosmetics-aydinlatici-anti-age-tonik"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "CI 15 985 (YELLOW 6)",
+  "eslesen": "CI 15985",
+  "urun": 4,
+  "ornek": "janssen-cosmetics-gunluk-derin-yagli-cilt-temizleyici"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "TETRA SODIUM EDTA",
+  "eslesen": "TETRASODIUM EDTA",
+  "urun": 3,
+  "ornek": "dermokil-99-purity-pdrn-sodium-dna-cica-centella-skin-barrier-kagit-jel-maske"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "POLYACRYLATE -13",
+  "eslesen": "POLYACRYLATE-13",
+  "urun": 3,
+  "ornek": "dermoten-10-ure-iceren-nemlendirici-vucut-bakim-sutu"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "IRON OXIDES (CI 77492)",
+  "eslesen": "CI 77492",
+  "urun": 3,
+  "ornek": "innisfree-tone-up-50-spf-gunes-kremi-bej"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "IRON OXIDES (CI 77491)",
+  "eslesen": "CI 77491",
+  "urun": 3,
+  "ornek": "innisfree-tone-up-50-spf-gunes-kremi-bej"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "IRON OXIDES (CI 77499)",
+  "eslesen": "CI 77499",
+  "urun": 3,
+  "ornek": "innisfree-tone-up-50-spf-gunes-kremi-bej"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "POLYSORBATE-20",
+  "eslesen": "POLYSORBATE 20",
+  "urun": 2,
+  "ornek": "cream-co-everyday-pink-spf50-renkli-gunes-koruyucu"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "HYALURONICACID",
+  "eslesen": "HYALURONIC ACID",
+  "urun": 2,
+  "ornek": "dermoten-nemlendirici-hyaluronik-asit-serumu"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "COCO GLUCOSIDE",
+  "eslesen": "COCO-GLUCOSIDE",
+  "urun": 2,
+  "ornek": "himalaya-leke-karsiti-zerdecal-ozlu-serum-icerikli-yuz-temizleyici"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "HYDROGENATED COCOGLYCERIDES",
+  "eslesen": "HYDROGENATED COCO-GLYCERIDES",
+  "urun": 2,
+  "ornek": "janssen-cosmetics-kolajen-ve-elastin-sentez-c-vitamini-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "SODIUMHYALURONATE",
+  "eslesen": "SODIUM HYALURONATE",
+  "urun": 2,
+  "ornek": "mamonde-calming-shot-aydinlatici-ve-nemlendirici-azulen-yuz-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "HYDROGENATEDRAPESEED OIL",
+  "eslesen": "HYDROGENATED RAPESEED OIL",
+  "urun": 2,
+  "ornek": "nivea-glowy-lips-nemlendirici-dudak-parlaticisi-ve-bakim-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "SODIUMPCA",
+  "eslesen": "SODIUM PCA",
+  "urun": 1,
+  "ornek": "anyong-nemlendirici-hyaluron-gece-makesi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "BIS- DIGLYCERYL POLYACYLADIPATE-2",
+  "eslesen": "BIS-DIGLYCERYL POLYACYLADIPATE-2",
+  "urun": 1,
+  "ornek": "bee-beauty-ahududu-aromali-dudak-kremi"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "CI 77891 [TITANIUM DIOXIDE]",
+  "eslesen": "CI 77891",
+  "urun": 1,
+  "ornek": "bolbe-shine-drop-aydinlatici-leke-karsiti-niacinamide-iceren-isilti-veren-yuz-serumu"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "CI 77491 [IRON OXIDES]",
+  "eslesen": "CI 77491",
+  "urun": 1,
+  "ornek": "bolbe-shine-drop-aydinlatici-leke-karsiti-niacinamide-iceren-isilti-veren-yuz-serumu"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "BIS-ETHYLHEXY-LOXYPHENOL METHOXYPHENYL TRIAZINE",
+  "eslesen": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+  "urun": 1,
+  "ornek": "calliel-72-saat-yogun-nemlendirme-etikili-4d-hyaluronic-acid-ve-cica-complex-bariyer-deste"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "C12 15 ALKYL BENZOATE",
+  "eslesen": "C12-15 ALKYL BENZOATE",
+  "urun": 1,
+  "ornek": "cire-aseptine-50-spf-cocuk-gunes-koruyucu-krem"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "BIS ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+  "eslesen": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+  "urun": 1,
+  "ornek": "cire-aseptine-50-spf-cocuk-gunes-koruyucu-krem"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "C14 22 ALCOHOLS",
+  "eslesen": "C14-22 ALCOHOLS",
+  "urun": 1,
+  "ornek": "cire-aseptine-50-spf-cocuk-gunes-koruyucu-krem"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "DIETHYLHEXYL BUTAMIDOTRIAZONE",
+  "eslesen": "DIETHYLHEXYL BUTAMIDO TRIAZONE",
+  "urun": 1,
+  "ornek": "cire-aseptine-50-spf-cocuk-gunes-koruyucu-krem"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "C12 20 ALKYL GLUCOSIDE",
+  "eslesen": "C12-20 ALKYL GLUCOSIDE",
+  "urun": 1,
+  "ornek": "cire-aseptine-50-spf-cocuk-gunes-koruyucu-krem"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "HYDROXYETHYLACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
+  "eslesen": "HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
+  "urun": 1,
+  "ornek": "cire-aseptine-50-spf-cocuk-gunes-koruyucu-krem"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "POLYACRYLATECROSSPOLYMER 6",
+  "eslesen": "POLYACRYLATE CROSSPOLYMER-6",
+  "urun": 1,
+  "ornek": "cire-aseptine-50-spf-cocuk-gunes-koruyucu-krem"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "TETRAMETHYL ACETYL OCTAHYDRONAPHTHALENES",
+  "eslesen": "TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES",
+  "urun": 1,
+  "ornek": "cire-aseptine-50-spf-seffaf-gunes-koruyucu-sprey"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "ALPHA ARBUTIN",
+  "eslesen": "ALPHA-ARBUTIN",
+  "urun": 1,
+  "ornek": "cire-aseptine-leke-karsiti-anti-blemish-50-spf-yuz-gunes-koruyucu-krem"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "BIS DIGLYCERYL POLYACYLADIPATE-2",
+  "eslesen": "BIS-DIGLYCERYL POLYACYLADIPATE-2",
+  "urun": 1,
+  "ornek": "cire-aseptine-soft-cilek-prebiyotikli-krem"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "SODIUM ACRYLATE/SODIUM ACRYLOYL DIMETHYL TAURATE COPOLYMER",
+  "eslesen": "SODIUM ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
+  "urun": 1,
+  "ornek": "cosmogenesis-labs-bariyer-guclendirici-ve-nemlendirici-yuz-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "CAPRYLIC CAPRIC TRIGLYCERIDE",
+  "eslesen": "CAPRYLIC/CAPRIC TRIGLYCERIDE",
+  "urun": 1,
+  "ornek": "dermokil-100-dogal-gul-suyu-canlandirici-yenileyici-3d-kapsul-krem"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "PUNICAGRANATUM SEED OIL",
+  "eslesen": "PUNICA GRANATUM SEED OIL",
+  "urun": 1,
+  "ornek": "dermoten-kirisiklik-karsiti-ve-aydinlatici-goz-cevresi-goz-alti-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "POLYSORBATE20",
+  "eslesen": "POLYSORBATE 20",
+  "urun": 1,
+  "ornek": "dermoten-kirisiklik-karsiti-ve-aydinlatici-goz-cevresi-goz-alti-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "BENZYLSALICYLATE",
+  "eslesen": "BENZYL SALICYLATE",
+  "urun": 1,
+  "ornek": "dermoten-kirisiklik-karsiti-ve-aydinlatici-goz-cevresi-goz-alti-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "HYDROLYZED HYALURONICACID",
+  "eslesen": "HYDROLYZED HYALURONIC ACID",
+  "urun": 1,
+  "ornek": "dermoten-nemlendirici-hyaluronik-asit-serumu"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "EPILOBIUM FLEISCHERI FLOWER/- LEAF/STEM EXTRACT",
+  "eslesen": "EPILOBIUM FLEISCHERI FLOWER/LEAF/STEM EXTRACT",
+  "urun": 1,
+  "ornek": "dermoten-niacinamide-ve-cay-agaci-yagi-iceren-akne-karsiti-cilt-bakim-serumu"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "HYDROGENATED POLY (C6-12 OLEFIN)",
+  "eslesen": "HYDROGENATED POLY(C6-12 OLEFIN)",
+  "urun": 1,
+  "ornek": "hada-labo-tokyo-glow-nemlendirici-gece-ve-gunduz-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "STEARYL OCTYLDODECYL CITRATE CROSSPOLYMER",
+  "eslesen": "STEARYL/OCTYLDODECYL CITRATE CROSSPOLYMER",
+  "urun": 1,
+  "ornek": "himalaya-sun-protect-ultra-light-spf50-pa-gunes-koruyucu-krem"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "SODIUM AS-CORBYL PHOSPHATE",
+  "eslesen": "SODIUM ASCORBYL PHOSPHATE",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-leke-karsiti-tonik-ped"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "TITAN IUM DIOXIDE (CI 77891)",
+  "eslesen": "CI 77891",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "DIBUTYL ADI PATE",
+  "eslesen": "DIBUTYL ADIPATE",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "LAVAN DULA ANGUSTIFOLIA (LAVENDER) FLOWER EXTRACT",
+  "eslesen": "LAVANDULA ANGUSTIFOLIA FLOWER EXTRACT",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "DI PHENYLSILOXY PHENYL TRIMETHICONE",
+  "eslesen": "DIPHENYLSILOXY PHENYL TRIMETHICONE",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "ETHYLHEXYL TRIA ZONE",
+  "eslesen": "ETHYLHEXYL TRIAZONE",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "TEREPHTHALYLIDENE DICAM PHOR SULFONIC ACID",
+  "eslesen": "TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "ISODO DECANE",
+  "eslesen": "ISODODECANE",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "OCTYLDO DECANOL",
+  "eslesen": "OCTYLDODECANOL",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "HYDROXYE THYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
+  "eslesen": "HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "AMMONIUM POLYACRYLOYLDIMETHYL TA URATE",
+  "eslesen": "AMMONIUM POLYACRYLOYLDIMETHYL TAURATE",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "ISOPROPYL TITA NIUM TRIISOSTEARATE",
+  "eslesen": "ISOPROPYL TITANIUM TRIISOSTEARATE",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "TRISODIUM ETHYL ENEDIAMINE DISUCCINATE",
+  "eslesen": "TRISODIUM ETHYLENEDIAMINE DISUCCINATE",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "NEOPENTYL GLYCOL DIETHYLHEXANOA TE",
+  "eslesen": "NEOPENTYL GLYCOL DIETHYLHEXANOATE",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "POLYGLYCERYL-10 STEA RATE",
+  "eslesen": "POLYGLYCERYL-10 STEARATE",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "ASCORBYL GLUCO SIDE",
+  "eslesen": "ASCORBYL GLUCOSIDE",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "AR GININE/LYSINE POLYPEPTIDE",
+  "eslesen": "ARGININE/LYSINE POLYPEPTIDE",
+  "urun": 1,
+  "ornek": "isntree-sogan-ozlu-ton-esitleyici-50-spf-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "CI 42 090",
+  "eslesen": "CI 42090",
+  "urun": 1,
+  "ornek": "janssen-cosmetics-goz-cevresi-kirisikliklari-ve-halka-giderici-goz-bakim-jeli"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "CI 15 850 (RED 6)",
+  "eslesen": "CI 15850",
+  "urun": 1,
+  "ornek": "janssen-cosmetics-onarici-gece-dudak-maskesi"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "CI 16 035 (RED 40)",
+  "eslesen": "CI 16035",
+  "urun": 1,
+  "ornek": "janssen-cosmetics-probiyotik-dijital-yaslanma-karsiti-serum"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "ALPHA DAMASCONE",
+  "eslesen": "ALPHA-DAMASCONE",
+  "urun": 1,
+  "ornek": "lip-smacker-dudak-kremi-elsa"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "SODIUM HYALURONATECROSSPOLYMER",
+  "eslesen": "SODIUM HYALURONATE CROSSPOLYMER",
+  "urun": 1,
+  "ornek": "mamonde-calming-shot-aydinlatici-ve-nemlendirici-azulen-yuz-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "HYDROLYZEDHYALURONIC ACID",
+  "eslesen": "HYDROLYZED HYALURONIC ACID",
+  "urun": 1,
+  "ornek": "mamonde-calming-shot-azulen-ampul-kagit-yuz-maskesi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "TETRAMETHYLACETYLOCTAHYDRO NAPHTHALENES",
+  "eslesen": "TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES",
+  "urun": 1,
+  "ornek": "mamonde-skin-barrier-probiyotik-ve-seramid-icerikli-nemlendirici-emulsiyon"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "HYDROXYPROPYLBISPALMITAMIDE MEA",
+  "eslesen": "HYDROXYPROPYL BISPALMITAMIDE MEA",
+  "urun": 1,
+  "ornek": "mamonde-skin-barrier-probiyotik-ve-seramid-icerikli-tonik"
+ },
+ {
+  "yol": "parça ('/' ya da parantez içi)",
+  "etiket": "HELIANTHUSANNUUS (SUNFLOWER) SEED OIL",
+  "eslesen": "HELIANTHUS ANNUUS SEED OIL",
+  "urun": 1,
+  "ornek": "maruderm-10-urea-ure-yogun-nemlendirici-vucut-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "HYDROLYZEDSODIUM HYALURONATE",
+  "eslesen": "HYDROLYZED SODIUM HYALURONATE",
+  "urun": 1,
+  "ornek": "nivea-epigenetics-yaslanma-ve-kirisiklik-karsiti-goz-serumu"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "PENTYLENEGLYCOL",
+  "eslesen": "PENTYLENE GLYCOL",
+  "urun": 1,
+  "ornek": "nivea-epigenetics-yaslanma-ve-kirisiklik-karsiti-goz-serumu"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "CAPRYLIC-CAPRIC-TRIGLYCERIDE",
+  "eslesen": "CAPRYLIC/CAPRIC TRIGLYCERIDE",
+  "urun": 1,
+  "ornek": "nivea-luminous630-thiamidol-etkili-koyu-halka-karsiti-goz-bakim-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "1-2-HEXANEDIOL",
+  "eslesen": "1,2-HEXANEDIOL",
+  "urun": 1,
+  "ornek": "nivea-luminous630-thiamidol-etkili-koyu-halka-karsiti-goz-bakim-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "BIS-ETHYLHEXYLOXYPHENOL METHOXY PHENYL TRIAZINE",
+  "eslesen": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+  "urun": 1,
+  "ornek": "nivea-spf30-glowy-lips-berry-nemlendirici-dudak-parlaticisi-ve-bakim-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "LACTICACID",
+  "eslesen": "LACTIC ACID",
+  "urun": 1,
+  "ornek": "olalab-aydinlatici-ton-esitleyici-spf-50-yuksek-uv-koruma-pembe-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "CI77491",
+  "eslesen": "CI 77491",
+  "urun": 1,
+  "ornek": "olalab-aydinlatici-ton-esitleyici-spf-50-yuksek-uv-koruma-pembe-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "ZINCOXIDE",
+  "eslesen": "ZINC OXIDE",
+  "urun": 1,
+  "ornek": "olalab-c-vitaminli-leke-karsiti-spf-50-yuksek-uv-korumali-yuz-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "SALVIA OFFICINALISLEAF EXTRACT",
+  "eslesen": "SALVIA OFFICINALIS LEAF EXTRACT",
+  "urun": 1,
+  "ornek": "rimu-health-cilt-tonu-esitleyici-ve-yogun-nemlendirici-yuz-kremi-hyaluronic-acid-niacinami"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "OLEAEUROPAEA LEAF EXTRACT",
+  "eslesen": "OLEA EUROPAEA LEAF EXTRACT",
+  "urun": 1,
+  "ornek": "rimu-health-cilt-tonu-esitleyici-ve-yogun-nemlendirici-yuz-kremi-hyaluronic-acid-niacinami"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "SODIUMASCORBYL PHOSPHATE",
+  "eslesen": "SODIUM ASCORBYL PHOSPHATE",
+  "urun": 1,
+  "ornek": "rimu-health-goz-alti-aydinlatici-ve-kirisiklik-karsiti-bakim-serumu-caffeine-6-regu-age"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "POLYGLYCERYL - 3 STEARATE",
+  "eslesen": "POLYGLYCERYL-3 STEARATE",
+  "urun": 1,
+  "ornek": "she-vec-just-protected-from-sun-nemlendirici-onarici-ve-aydinlatici-50-spf-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "1,2 - HEXANEDIOL",
+  "eslesen": "1,2-HEXANEDIOL",
+  "urun": 1,
+  "ornek": "she-vec-just-protected-from-sun-nemlendirici-onarici-ve-aydinlatici-50-spf-gunes-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "MADECASSICACID",
+  "eslesen": "MADECASSIC ACID",
+  "urun": 1,
+  "ornek": "skin1004-madagascar-centella-probio-cica-tonik"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "PHENOXYETH-ANOL",
+  "eslesen": "PHENOXYETHANOL",
+  "urun": 1,
+  "ornek": "the-fine-organics-hint-dutu-ozlu-beyazlatici-yuz-ve-vucut-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "ACRYLATES/C10 30 ALKYL ACRYLATE CROSSPOLYMER",
+  "eslesen": "ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER",
+  "urun": 1,
+  "ornek": "vaseline-gluta-hya-serum-etkili-yogun-nemlendirici-gece-losyonu"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "ALPHA ISOMETHYL IONONE",
+  "eslesen": "ALPHA-ISOMETHYL IONONE",
+  "urun": 1,
+  "ornek": "vaseline-gluta-hya-serum-etkili-yogun-nemlendirici-gece-losyonu"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "GLYCERETH 26",
+  "eslesen": "GLYCERETH-26",
+  "urun": 1,
+  "ornek": "vt-cosmetics-hydrop-reedle-shot-300hl-yuz-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "C12 14 ALKETH 12",
+  "eslesen": "C12-14 ALKETH-12",
+  "urun": 1,
+  "ornek": "vt-cosmetics-hydrop-reedle-shot-300hl-yuz-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "POLYGLYCERYL 10 LAURATE",
+  "eslesen": "POLYGLYCERYL-10 LAURATE",
+  "urun": 1,
+  "ornek": "vt-cosmetics-hydrop-reedle-shot-300hl-yuz-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "POLYGLYCERYL 10 MYRISTATE",
+  "eslesen": "POLYGLYCERYL-10 MYRISTATE",
+  "urun": 1,
+  "ornek": "vt-cosmetics-hydrop-reedle-shot-300hl-yuz-kremi"
+ },
+ {
+  "yol": "boşluk farkı",
+  "etiket": "DECAPEPTIDE 40",
+  "eslesen": "DECAPEPTIDE-40",
+  "urun": 1,
+  "ornek": "vt-cosmetics-hydrop-reedle-shot-300hl-yuz-kremi"
+ }
+]

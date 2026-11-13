@@ -1,0 +1,17 @@
+DENETÇİ: Devam et (kalan 30 ürün + 70 madde). İlk partideki yeni metinler doğru yönde; şu düzeltmelerle sürdür:
+
+1. Pazarlama dili yok: "tarihi bir güzellik iksirinden ilham alan", "vazgeçilmez", "sağlıklı bir ışıltı kazandırır",
+   "çevresel etkenlere karşı korur", "hassas ciltler için güvenlidir" gibi marka tanıtımı/iddia cümleleri yazma.
+   İçerik listesinden doğrulanabileni yaz.
+2. Analizle tutarlılık ŞART: her açıklamada `summary` çıktısındaki İÇERİR listesinden ürün için önemli olanları açıkça
+   belirt (ör. alkol ilk sıralardaysa "listenin ikinci sırasında alkol var", parfüm/uçucu yağ ve AB alerjenleri,
+   yüksek komedojenlik puanlı madde ilk 7'de). İlk partideki 15 ürünü de bu açıdan gözden geçir (ör. Beauty Elixir'de
+   alkol ve uçucu yağ alerjenleri yazılmalı).
+3. Madde nameTr TÜRKÇE: "Hexyldecyl Stearate" → "Heksildesil stearat", "Phospholipids" → "Fosfolipitler",
+   "Mel" → "Bal", "Polyglyceryl 10 Stearate" → "Poligliseril-10 stearat", "Hexyl Cinnamal" → "Heksil sinnamal".
+   Açıklamalarda doğrulanmamış nitelik yazma ("bitkisel kökenli" sentetik olabilir; emin değilsen yazma).
+   hexyl-cinnamal gibi AB koku alerjenlerinde "AB'de etikette belirtilmesi gereken koku alerjenidir" bilgisini ekle.
+4. Ayrıca C:\Users\tvural.REPKON\Desktop\parfüm\uygun-bakim\scripts\skincare\staging\_runs\feedback_scope.txt
+   dosyasındaki kapsam ve ad maddelerini de uygula (excluded.json eksiksiz, Türkçe ürün adları seri adıyla,
+   vinoterapist slug düzeltmesi, kategori kontrolü).
+5. Partiler halinde ilerle; her partide check. Bitiremezsen DURUM: DEVAM.

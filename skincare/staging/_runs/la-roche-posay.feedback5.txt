@@ -1,0 +1,14 @@
+DENETÇİ (tur 3, son düzeltmeler): İş büyük ölçüde onaylandı. Yalnızca şunlar:
+
+1. synonyms.json'dan şu iki satırı SİL:
+   "COPOLYMER": "AQUA"   (uydurma: tek başına COPOLYMER suya çevrilemez, listeye sahte su ekler)
+   "ACRYLONITRILE/METHYL METHACRYLATE/VINYLIDENE CHLORIDE": "...COPOLYMER"
+   Analiz motoru yanlış bölünmüş "…VINYLIDENE CHLORIDE", "COPOLYMER" çiftini kendisi birleştiriyor; eşanlam gerekmez.
+   Kural: eşanlam yalnızca aynı maddenin yazım hatasına/eski adına verilir; bir öğeyi başka bir maddeye ya da suya
+   eşlemek yasaktır. Sildikten sonra check'te Effaclar A.I. için tanınmayan madde kalmadığını doğrula.
+
+2. Yaş/güvenlik ifadesi yok: lipikar-baume-ap-plus-max, lipikar-gel-lavant, lipikar-syndet-ap,
+   toleriane-sensitive-riche açıklamalarındaki "bebek", "yeni doğan", "bebek ciltlerinde dahi kullanılabilir",
+   "tüm aileye uygun" ifadelerini çıkar; yerine içerik listesine dayalı nötr bir cümle yaz.
+
+3. check → 0 HATA; report.md'yi güncelle; son satır DURUM: BİTTİ.

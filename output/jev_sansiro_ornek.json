@@ -1,0 +1,596 @@
+{
+ "K233": {
+  "accuracy": {
+   "type": "score",
+   "score": 2.73,
+   "confidence": 0.74,
+   "legend": {
+    "0": "Contradicts the facts",
+    "1": "Several claims not in the facts",
+    "2": "Mostly consistent, one minor stretch",
+    "3": "Fully consistent with the facts"
+   },
+   "probabilities": {
+    "0": 0.02,
+    "1": 0.05,
+    "2": 0.1,
+    "3": 0.83
+   }
+  },
+  "unsupported": {
+   "type": "noul",
+   "noul": 0.47
+  },
+  "overpromise": {
+   "type": "noul",
+   "noul": 0.44
+  },
+  "answers_query": {
+   "type": "score",
+   "score": 2.2,
+   "confidence": 0.21,
+   "legend": {
+    "0": "No",
+    "1": "Only later in the text",
+    "2": "Yes but vaguely",
+    "3": "Yes, clearly and immediately"
+   },
+   "probabilities": {
+    "0": 0.18,
+    "1": 0.07,
+    "2": 0.11,
+    "3": 0.64
+   }
+  },
+  "generic": {
+   "type": "noul",
+   "noul": 0.11
+  },
+  "useful": {
+   "type": "score",
+   "score": 2.87,
+   "confidence": 0.86,
+   "legend": {
+    "0": "Not useful",
+    "1": "Slightly useful",
+    "2": "Useful",
+    "3": "Very useful, concrete differences explained"
+   },
+   "probabilities": {
+    "0": 0.0,
+    "1": 0.02,
+    "2": 0.1,
+    "3": 0.88
+   }
+  },
+  "fluent_turkish": {
+   "type": "score",
+   "score": 2.13,
+   "confidence": 0.54,
+   "legend": {
+    "0": "Hard to read, unnatural",
+    "1": "Readable but clunky",
+    "2": "Mostly natural, minor awkwardness",
+    "3": "Natural, fluent Turkish"
+   },
+   "probabilities": {
+    "0": 0.0,
+    "1": 0.16,
+    "2": 0.54,
+    "3": 0.3
+   }
+  },
+  "ai_impression": {
+   "type": "score",
+   "score": 0.22,
+   "confidence": 0.79,
+   "legend": {
+    "0": "Plainly human, specific",
+    "1": "Mostly human",
+    "2": "Somewhat formulaic",
+    "3": "Clearly AI or template copy"
+   },
+   "probabilities": {
+    "0": 0.87,
+    "1": 0.07,
+    "2": 0.04,
+    "3": 0.02
+   }
+  }
+ },
+ "E14": {
+  "accuracy": {
+   "type": "score",
+   "score": 2.35,
+   "confidence": 0.36,
+   "legend": {
+    "0": "Contradicts the facts",
+    "1": "Several claims not in the facts",
+    "2": "Mostly consistent, one minor stretch",
+    "3": "Fully consistent with the facts"
+   },
+   "probabilities": {
+    "0": 0.04,
+    "1": 0.1,
+    "2": 0.32,
+    "3": 0.54
+   }
+  },
+  "unsupported": {
+   "type": "noul",
+   "noul": 0.62
+  },
+  "overpromise": {
+   "type": "noul",
+   "noul": 0.46
+  },
+  "answers_query": {
+   "type": "score",
+   "score": 2.72,
+   "confidence": 0.71,
+   "legend": {
+    "0": "No",
+    "1": "Only later in the text",
+    "2": "Yes but vaguely",
+    "3": "Yes, clearly and immediately"
+   },
+   "probabilities": {
+    "0": 0.07,
+    "1": 0.02,
+    "2": 0.04,
+    "3": 0.87
+   }
+  },
+  "generic": {
+   "type": "noul",
+   "noul": 0.17
+  },
+  "useful": {
+   "type": "score",
+   "score": 2.52,
+   "confidence": 0.52,
+   "legend": {
+    "0": "Not useful",
+    "1": "Slightly useful",
+    "2": "Useful",
+    "3": "Very useful, concrete differences explained"
+   },
+   "probabilities": {
+    "0": 0.0,
+    "1": 0.06,
+    "2": 0.36,
+    "3": 0.58
+   }
+  },
+  "fluent_turkish": {
+   "type": "score",
+   "score": 1.85,
+   "confidence": 0.48,
+   "legend": {
+    "0": "Hard to read, unnatural",
+    "1": "Readable but clunky",
+    "2": "Mostly natural, minor awkwardness",
+    "3": "Natural, fluent Turkish"
+   },
+   "probabilities": {
+    "0": 0.01,
+    "1": 0.31,
+    "2": 0.49,
+    "3": 0.19
+   }
+  },
+  "ai_impression": {
+   "type": "score",
+   "score": 0.45,
+   "confidence": 0.55,
+   "legend": {
+    "0": "Plainly human, specific",
+    "1": "Mostly human",
+    "2": "Somewhat formulaic",
+    "3": "Clearly AI or template copy"
+   },
+   "probabilities": {
+    "0": 0.73,
+    "1": 0.13,
+    "2": 0.1,
+    "3": 0.04
+   }
+  }
+ },
+ "Ivy": {
+  "accuracy": {
+   "type": "score",
+   "score": 2.24,
+   "confidence": 0.24,
+   "legend": {
+    "0": "Contradicts the facts",
+    "1": "Several claims not in the facts",
+    "2": "Mostly consistent, one minor stretch",
+    "3": "Fully consistent with the facts"
+   },
+   "probabilities": {
+    "0": 0.04,
+    "1": 0.13,
+    "2": 0.38,
+    "3": 0.45
+   }
+  },
+  "unsupported": {
+   "type": "noul",
+   "noul": 0.72
+  },
+  "overpromise": {
+   "type": "noul",
+   "noul": 0.57
+  },
+  "answers_query": {
+   "type": "score",
+   "score": 2.03,
+   "confidence": 0.03,
+   "legend": {
+    "0": "No",
+    "1": "Only later in the text",
+    "2": "Yes but vaguely",
+    "3": "Yes, clearly and immediately"
+   },
+   "probabilities": {
+    "0": 0.18,
+    "1": 0.2,
+    "2": 0.03,
+    "3": 0.59
+   }
+  },
+  "generic": {
+   "type": "noul",
+   "noul": 0.17
+  },
+  "useful": {
+   "type": "score",
+   "score": 1.81,
+   "confidence": 0.57,
+   "legend": {
+    "0": "Not useful",
+    "1": "Slightly useful",
+    "2": "Useful",
+    "3": "Very useful, concrete differences explained"
+   },
+   "probabilities": {
+    "0": 0.02,
+    "1": 0.27,
+    "2": 0.59,
+    "3": 0.12
+   }
+  },
+  "fluent_turkish": {
+   "type": "score",
+   "score": 1.93,
+   "confidence": 0.48,
+   "legend": {
+    "0": "Hard to read, unnatural",
+    "1": "Readable but clunky",
+    "2": "Mostly natural, minor awkwardness",
+    "3": "Natural, fluent Turkish"
+   },
+   "probabilities": {
+    "0": 0.01,
+    "1": 0.28,
+    "2": 0.49,
+    "3": 0.22
+   }
+  },
+  "ai_impression": {
+   "type": "score",
+   "score": 0.58,
+   "confidence": 0.44,
+   "legend": {
+    "0": "Plainly human, specific",
+    "1": "Mostly human",
+    "2": "Somewhat formulaic",
+    "3": "Clearly AI or template copy"
+   },
+   "probabilities": {
+    "0": 0.69,
+    "1": 0.12,
+    "2": 0.13,
+    "3": 0.06
+   }
+  }
+ },
+ "U30": {
+  "accuracy": {
+   "type": "score",
+   "score": 2.49,
+   "confidence": 0.48,
+   "legend": {
+    "0": "Contradicts the facts",
+    "1": "Several claims not in the facts",
+    "2": "Mostly consistent, one minor stretch",
+    "3": "Fully consistent with the facts"
+   },
+   "probabilities": {
+    "0": 0.08,
+    "1": 0.07,
+    "2": 0.14,
+    "3": 0.71
+   }
+  },
+  "unsupported": {
+   "type": "noul",
+   "noul": 0.44
+  },
+  "overpromise": {
+   "type": "noul",
+   "noul": 0.65
+  },
+  "answers_query": {
+   "type": "score",
+   "score": 2.23,
+   "confidence": 0.23,
+   "legend": {
+    "0": "No",
+    "1": "Only later in the text",
+    "2": "Yes but vaguely",
+    "3": "Yes, clearly and immediately"
+   },
+   "probabilities": {
+    "0": 0.21,
+    "1": 0.03,
+    "2": 0.08,
+    "3": 0.68
+   }
+  },
+  "generic": {
+   "type": "noul",
+   "noul": 0.13
+  },
+  "useful": {
+   "type": "score",
+   "score": 1.9,
+   "confidence": 0.53,
+   "legend": {
+    "0": "Not useful",
+    "1": "Slightly useful",
+    "2": "Useful",
+    "3": "Very useful, concrete differences explained"
+   },
+   "probabilities": {
+    "0": 0.04,
+    "1": 0.2,
+    "2": 0.57,
+    "3": 0.19
+   }
+  },
+  "fluent_turkish": {
+   "type": "score",
+   "score": 2.15,
+   "confidence": 0.52,
+   "legend": {
+    "0": "Hard to read, unnatural",
+    "1": "Readable but clunky",
+    "2": "Mostly natural, minor awkwardness",
+    "3": "Natural, fluent Turkish"
+   },
+   "probabilities": {
+    "0": 0.0,
+    "1": 0.16,
+    "2": 0.52,
+    "3": 0.32
+   }
+  },
+  "ai_impression": {
+   "type": "score",
+   "score": 0.44,
+   "confidence": 0.55,
+   "legend": {
+    "0": "Plainly human, specific",
+    "1": "Mostly human",
+    "2": "Somewhat formulaic",
+    "3": "Clearly AI or template copy"
+   },
+   "probabilities": {
+    "0": 0.73,
+    "1": 0.14,
+    "2": 0.08,
+    "3": 0.05
+   }
+  }
+ },
+ "K225": {
+  "accuracy": {
+   "type": "score",
+   "score": 1.97,
+   "confidence": 0.38,
+   "legend": {
+    "0": "Contradicts the facts",
+    "1": "Several claims not in the facts",
+    "2": "Mostly consistent, one minor stretch",
+    "3": "Fully consistent with the facts"
+   },
+   "probabilities": {
+    "0": 0.06,
+    "1": 0.21,
+    "2": 0.44,
+    "3": 0.29
+   }
+  },
+  "unsupported": {
+   "type": "noul",
+   "noul": 0.68
+  },
+  "overpromise": {
+   "type": "noul",
+   "noul": 0.57
+  },
+  "answers_query": {
+   "type": "score",
+   "score": 1.88,
+   "confidence": 0.0,
+   "legend": {
+    "0": "No",
+    "1": "Only later in the text",
+    "2": "Yes but vaguely",
+    "3": "Yes, clearly and immediately"
+   },
+   "probabilities": {
+    "0": 0.25,
+    "1": 0.11,
+    "2": 0.14,
+    "3": 0.5
+   }
+  },
+  "generic": {
+   "type": "noul",
+   "noul": 0.11
+  },
+  "useful": {
+   "type": "score",
+   "score": 2.01,
+   "confidence": 0.56,
+   "legend": {
+    "0": "Not useful",
+    "1": "Slightly useful",
+    "2": "Useful",
+    "3": "Very useful, concrete differences explained"
+   },
+   "probabilities": {
+    "0": 0.01,
+    "1": 0.2,
+    "2": 0.57,
+    "3": 0.22
+   }
+  },
+  "fluent_turkish": {
+   "type": "score",
+   "score": 2.01,
+   "confidence": 0.54,
+   "legend": {
+    "0": "Hard to read, unnatural",
+    "1": "Readable but clunky",
+    "2": "Mostly natural, minor awkwardness",
+    "3": "Natural, fluent Turkish"
+   },
+   "probabilities": {
+    "0": 0.0,
+    "1": 0.22,
+    "2": 0.54,
+    "3": 0.24
+   }
+  },
+  "ai_impression": {
+   "type": "score",
+   "score": 0.37,
+   "confidence": 0.63,
+   "legend": {
+    "0": "Plainly human, specific",
+    "1": "Mostly human",
+    "2": "Somewhat formulaic",
+    "3": "Clearly AI or template copy"
+   },
+   "probabilities": {
+    "0": 0.79,
+    "1": 0.09,
+    "2": 0.08,
+    "3": 0.04
+   }
+  }
+ },
+ "E1": {
+  "accuracy": {
+   "type": "score",
+   "score": 2.12,
+   "confidence": 0.11,
+   "legend": {
+    "0": "Contradicts the facts",
+    "1": "Several claims not in the facts",
+    "2": "Mostly consistent, one minor stretch",
+    "3": "Fully consistent with the facts"
+   },
+   "probabilities": {
+    "0": 0.14,
+    "1": 0.12,
+    "2": 0.23,
+    "3": 0.51
+   }
+  },
+  "unsupported": {
+   "type": "noul",
+   "noul": 0.51
+  },
+  "overpromise": {
+   "type": "noul",
+   "noul": 0.06
+  },
+  "answers_query": {
+   "type": "score",
+   "score": 2.91,
+   "confidence": 0.93,
+   "legend": {
+    "0": "No",
+    "1": "Only later in the text",
+    "2": "Yes but vaguely",
+    "3": "Yes, clearly and immediately"
+   },
+   "probabilities": {
+    "0": 0.02,
+    "1": 0.0,
+    "2": 0.01,
+    "3": 0.97
+   }
+  },
+  "generic": {
+   "type": "noul",
+   "noul": 0.13
+  },
+  "useful": {
+   "type": "score",
+   "score": 2.84,
+   "confidence": 0.82,
+   "legend": {
+    "0": "Not useful",
+    "1": "Slightly useful",
+    "2": "Useful",
+    "3": "Very useful, concrete differences explained"
+   },
+   "probabilities": {
+    "0": 0.01,
+    "1": 0.03,
+    "2": 0.09,
+    "3": 0.87
+   }
+  },
+  "fluent_turkish": {
+   "type": "score",
+   "score": 2.14,
+   "confidence": 0.53,
+   "legend": {
+    "0": "Hard to read, unnatural",
+    "1": "Readable but clunky",
+    "2": "Mostly natural, minor awkwardness",
+    "3": "Natural, fluent Turkish"
+   },
+   "probabilities": {
+    "0": 0.0,
+    "1": 0.16,
+    "2": 0.53,
+    "3": 0.31
+   }
+  },
+  "ai_impression": {
+   "type": "score",
+   "score": 0.16,
+   "confidence": 0.86,
+   "legend": {
+    "0": "Plainly human, specific",
+    "1": "Mostly human",
+    "2": "Somewhat formulaic",
+    "3": "Clearly AI or template copy"
+   },
+   "probabilities": {
+    "0": 0.9,
+    "1": 0.07,
+    "2": 0.02,
+    "3": 0.01
+   }
+  }
+ }
+}

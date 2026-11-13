@@ -1,0 +1,41 @@
+{
+ "slug": "thalia-natural-beauty-marjoram-yagi-cay-agaci-yuz-temizleme-jeli",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/marjoram-oil-tea-tree-cleansing-gel",
+  "nameTr": "Thalia Marjoram Yağı & Çay Ağacı Yüz Temizleme Jeli",
+  "inci": [
+   "AQUA (WATER)",
+   "DISODIUM LAURETH SULFOSUCCINATE",
+   "COCO-GLUCOSIDE",
+   "SODIUM METHYL OLEOYL TAURATE",
+   "DISODIUM COCOAMPHODIACETATE",
+   "ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER",
+   "GLYCERIN",
+   "BENZYL ALCOHOL",
+   "PARFUM (FRAGRANCE)",
+   "PEG-12 DIMETHICONE",
+   "ORIGANUM MAJORANA LEAF OIL",
+   "PANTHENOL",
+   "MELALEUCA ALTERNIFOLIA LEAF OIL",
+   "DEHYDROACETIC ACID",
+   "TETRASODIUM EDTA",
+   "TOCOPHERYL ACETATE",
+   "CITRIC ACID",
+   "TRIETHANOLAMINE",
+   "LIMONENE",
+   "LINALOOL",
+   "CITRAL"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Islak yüzünüze yeterli miktarda jel uygulayın.",
+   "Dairesel hareketlerle nazikçe masaj yaparak köpürtün.",
+   "Bol su ile durulayın."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220297-boN9ivHY8V-01_1024x1024.jpg",
+  "title": "marjoram-oil-tea-tree-cleansing-gel",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

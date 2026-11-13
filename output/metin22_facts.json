@@ -1,0 +1,957 @@
+{
+ "bargello-695-erkek": {
+  "id": 24261,
+  "dupe": "Bargello 695",
+  "gender": "Erkek",
+  "original": "Carolina Herrera 212 Men",
+  "match_score": 93,
+  "dupe_notes": {
+   "top": [
+    "Yeşil Notalar",
+    "Greyfurt",
+    "Baharatlı Notalar",
+    "Bergamot",
+    "Lavanta",
+    "Petitgrain"
+   ],
+   "middle": [
+    "Zencefil",
+    "Menekşe",
+    "Gardenya",
+    "Adaçayı"
+   ],
+   "base": [
+    "Misk",
+    "Sandal Ağacı",
+    "Tütsü",
+    "Vetiver",
+    "Guayak Ağacı",
+    "Labdanum"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Greyfurt",
+    "Bergamot",
+    "Lavanta",
+    "Petitgrain",
+    "Baharatlı Notalar"
+   ],
+   "middle": [
+    "Zencefil",
+    "Gardenya",
+    "Adaçayı"
+   ],
+   "base": [
+    "Misk",
+    "Sandal Ağacı",
+    "Tütsü",
+    "Vetiver",
+    "Labdanum"
+   ]
+  },
+  "old_text": "Bargello 695, Carolina Herrera 212 Men'in muadilidir (%93 nota benzerliği). Greyfurt, bergamot, lavanta ve petitgrainli açılış, zencefil, gardenya ve adaçayılı kalp, misk, sandal ağacı, tütsü, vetiver ve labdanumlu dip iki parfümde de ortak. Fark: Bargello 695 bunlara yeşil notalar, menekşe ve guayak ağacı ekler."
+ },
+ "bargello-616-erkek": {
+  "id": 24263,
+  "dupe": "Bargello 616",
+  "gender": "Erkek",
+  "original": "Kenzo L Eau Par Kenzo Pour Homme",
+  "match_score": 35,
+  "dupe_notes": {
+   "top": [
+    "Turunçgil",
+    "Taze Baharatlı"
+   ],
+   "middle": [
+    "Aromatik Notalar",
+    "Yeşil Notalar"
+   ],
+   "base": [
+    "Misk",
+    "Sıcak Baharatlı"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Yuzu",
+    "Limon",
+    "Yeşil Biber"
+   ],
+   "middle": [
+    "Nane",
+    "Su Notları",
+    "Lotus"
+   ],
+   "base": [
+    "Beyaz Misk"
+   ]
+  },
+  "old_text": "Bargello 616 Erkek, Kenzo L'Eau Par Kenzo Pour Homme'un muadilidir. L'Eau Par yuzu, limon ve yeşil biberle açılır, kalpte nane, su notaları ve lotus, dipte beyaz misk taşır. Bargello 616 için nota piramidi değil yalnızca koku ailesi paylaşıyor: turunçgil, taze baharat, aromatik, yeşil, misk ve sıcak baharat. Turunçgil ve misk iki tarafta da açıkça var; sıcak baharat ise L'Eau Par'da yok."
+ },
+ "mad-parfum-v112-selective": {
+  "id": 24301,
+  "dupe": "Mad Parfüm V112 Selective",
+  "gender": "Kadın",
+  "original": "Victoria's Secret Tease Creme Cloud",
+  "match_score": 83,
+  "dupe_notes": {
+   "top": [
+    "Kiraz"
+   ],
+   "middle": [
+    "Amber",
+    "Misk"
+   ],
+   "base": [
+    "Vanilya",
+    "Sandal Ağacı"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Beze",
+    "Vanilya"
+   ],
+   "middle": [
+    "Sandal Ağacı"
+   ],
+   "base": [
+    "Misk",
+    "Amber"
+   ]
+  },
+  "old_text": "Mad Parfüm V112 Selective, Victoria's Secret Tease Creme Cloud'un muadilidir (%83 nota benzerliği). V112'nin notaları: üstte kiraz, kalpte amber ve misk, dipte sandal ağacı ve vanilya. Vanilya, sandal ağacı, misk ve amber iki parfümde de ortak. Fark: V112 kirazla açılır; Tease Creme Cloud'daki beze notası V112'de yok."
+ },
+ "mad-parfum-a102-selective": {
+  "id": 24317,
+  "dupe": "Mad Parfüm A102 Selective",
+  "gender": "Erkek",
+  "original": "Giorgio Armani Acqua Di Gio",
+  "match_score": 47,
+  "dupe_notes": {
+   "top": [
+    "Portakal",
+    "Misket Limonu",
+    "Mandalina"
+   ],
+   "middle": [
+    "Muhabbet Çiçeği",
+    "Muskat",
+    "Kişniş"
+   ],
+   "base": [
+    "Sedir Ağacı",
+    "Amber",
+    "Beyaz Misk"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Misket Limonu",
+    "Limon",
+    "Bergamot",
+    "Yasemin",
+    "Neroli"
+   ],
+   "middle": [
+    "Deniz Notaları",
+    "Yasemin",
+    "Calone",
+    "Biberiye",
+    "Şeftali",
+    "Siklamen",
+    "Kişniş",
+    "Gül",
+    "Muskat",
+    "Muhabbet Çiçeği",
+    "Sümbül"
+   ],
+   "base": [
+    "Beyaz Misk",
+    "Meşe Yosunu",
+    "Paçuli"
+   ]
+  },
+  "old_text": "Mad Parfüm A102 Selective, Giorgio Armani Acqua di Giò'nun muadilidir. Acqua di Giò'nun kalbindeki muskat, muhabbet çiçeği ve kişniş A102'de de var; misket limonu ve beyaz misk de ortak. Fark: A102 deniz notaları yerine portakal ve mandalinayla açılır, dipte amber ve sedir ağacı taşır."
+ },
+ "mad-parfum-l105-selective": {
+  "id": 24325,
+  "dupe": "Mad Parfüm L105 Selective",
+  "gender": "Erkek",
+  "original": "Lacoste Fragrances Eau De Lacoste L 12 12 Rouge",
+  "match_score": 74,
+  "dupe_notes": {
+   "top": [
+    "Mandalina",
+    "Mango",
+    "Rooibos Çayı"
+   ],
+   "middle": [
+    "Biber",
+    "Zencefil",
+    "Kakule"
+   ],
+   "base": [
+    "Benzoin",
+    "Siyah Akasya Ağacı",
+    "Odunsu Notalar"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Mango",
+    "Rooibos Çayı",
+    "Portakal"
+   ],
+   "middle": [
+    "Kakule",
+    "Zencefil",
+    "Biber"
+   ],
+   "base": [
+    "Kara Çekirge",
+    "Ormanlık Notlar",
+    "Benzoin"
+   ]
+  },
+  "old_text": "Mad Parfüm L105 Selective, Eau de Lacoste L.12.12 Rouge'un muadilidir (%74 nota benzerliği). Mango ve rooibos çayı, kakule, zencefil ve biber ile benzoin iki parfümde de ortak. Fark: L105 mandalinayla açılır, dipte siyah akasya ağacı ve odunsu notalar taşır; L.12.12 Rouge'da ise portakal, kara çekirge ve ormanlık notalar bulunur."
+ },
+ "mad-parfum-c114-selective": {
+  "id": 24333,
+  "dupe": "Mad Parfüm C114 Selective",
+  "gender": "Erkek",
+  "original": "Calvin Klein Euphoria Men",
+  "match_score": 91,
+  "dupe_notes": {
+   "top": [
+    "Biber",
+    "Zencefil"
+   ],
+   "middle": [
+    "Sedir Ağacı",
+    "Fesleğen",
+    "Adaçayı"
+   ],
+   "base": [
+    "Süet",
+    "Amber"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Zencefil",
+    "Biber"
+   ],
+   "middle": [
+    "Fesleğen",
+    "Adaçayı",
+    "Sedir Ağacı"
+   ],
+   "base": [
+    "Süet",
+    "Brezilya Sekoyu",
+    "Paçuli",
+    "Amber"
+   ]
+  },
+  "old_text": "Mad Parfüm C114 Selective, Calvin Klein Euphoria Men'in muadilidir (%91 nota benzerliği). İkisi de zencefil ve biberle açılır, kalpte fesleğen, adaçayı ve sedir ağacı, dipte süet ve amber taşır. Fark: Euphoria Men'in dibindeki Brezilya sekoyası ve paçuli C114'te yok."
+ },
+ "mad-parfum-b107-selective-erkek": {
+  "id": 24339,
+  "dupe": "Mad Parfüm B107 Selective Erkek",
+  "gender": "Erkek",
+  "original": "Bvlgari Bvlgari Man In Black",
+  "match_score": 70,
+  "dupe_notes": {
+   "top": [
+    "Rom",
+    "Baharatlı Notalar",
+    "Tarçın",
+    "Kakule",
+    "Bergamot"
+   ],
+   "middle": [
+    "Sümbülteber",
+    "Odunsu Notalar",
+    "Sedir Ağacı",
+    "İris"
+   ],
+   "base": [
+    "Misk",
+    "Tonka Fasulyesi",
+    "Benzoin",
+    "Paçuli",
+    "Guayak Ağacı"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Rom",
+    "Tütün",
+    "Baharatlı Notalar"
+   ],
+   "middle": [
+    "Deri",
+    "İris",
+    "Sümbülteber"
+   ],
+   "base": [
+    "Tonka Fasulyesi",
+    "Benzoin",
+    "Guayak Ağacı"
+   ]
+  },
+  "old_text": "Mad Parfüm B107 Selective Erkek, Bvlgari Man In Black'in muadilidir (%70 nota benzerliği). İkisi de rom ve baharatla açılır, kalpte iris ve sümbülteber, dipte guayak ağacı, benzoin ve tonka taşır. Fark: Man In Black'te tütün ve deri var; B107'de bunlar yok, onun yerine tarçın, kakule, bergamot, sedir, paçuli ve misk bulunur."
+ },
+ "mad-parfum-r103-selective": {
+  "id": 24344,
+  "dupe": "Mad Parfüm R103 Selective",
+  "gender": "Erkek",
+  "original": "Rochas Rochas Man",
+  "match_score": 85,
+  "dupe_notes": {
+   "top": [
+    "Bergamot",
+    "Lavanta"
+   ],
+   "middle": [
+    "Yasemin",
+    "Cappuccino",
+    "Ahududu",
+    "Müge Çiçeği"
+   ],
+   "base": [
+    "Vanilya",
+    "Amber",
+    "Paçuli",
+    "Sandal Ağacı"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Lavanta",
+    "Bergamot"
+   ],
+   "middle": [
+    "Cappuccino",
+    "Ahududu",
+    "Yasemin"
+   ],
+   "base": [
+    "Sandal Ağacı",
+    "Paçuli"
+   ]
+  },
+  "old_text": "Mad Parfüm R103 Selective, Rochas Man'in muadilidir (%85 nota benzerliği). Bergamot, lavanta, yasemin, cappuccino, ahududu, sandal ağacı ve paçuli iki parfümde de ortak. Fark: R103'te bunlara ek olarak müge çiçeği, vanilya ve amber bulunur."
+ },
+ "mad-parfum-w184-selective": {
+  "id": 24346,
+  "dupe": "Mad Parfüm W184 Selective",
+  "gender": "Erkek",
+  "original": "Tom Ford Tobacco Vanille",
+  "match_score": 93,
+  "dupe_notes": {
+   "top": [
+    "Tütün",
+    "Baharatlı Notalar"
+   ],
+   "middle": [
+    "Tonka Fasulyesi",
+    "Kakao",
+    "Vanilya"
+   ],
+   "base": [
+    "Kurutulmuş Meyveler",
+    "Odunsu Notalar"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Baharatlı Notalar",
+    "Tütün Yaprağı"
+   ],
+   "middle": [
+    "Kakao",
+    "Tonka Fasulyesi",
+    "Tütün Çiçeği",
+    "Vanilya"
+   ],
+   "base": [
+    "Kurutulmuş Meyveler",
+    "Odunsu Notalar"
+   ]
+  },
+  "old_text": "Mad Parfüm W184 Selective (erkek), Tom Ford Tobacco Vanille'in muadilidir (%93 nota benzerliği). Tütünlü ve baharatlı açılış, tonka fasulyesi, kakao ve vanilyalı kalp, kurutulmuş meyveler ve odunsu notalı dip iki parfümde de ortak. Tek fark: Tobacco Vanille'deki tütün çiçeği W184'te yok."
+ },
+ "mad-parfum-w212-selective": {
+  "id": 24392,
+  "dupe": "Mad Parfüm W212 Selective",
+  "gender": "Kadın",
+  "original": "Michael Kors Sexy Amber",
+  "match_score": 64,
+  "dupe_notes": {
+   "top": [
+    "Narenciye",
+    "Çiçeksi Notalar"
+   ],
+   "middle": [
+    "Sandal Ağacı",
+    "Beyaz Çiçekler"
+   ],
+   "base": [
+    "Paçuli",
+    "Misk",
+    "Amber"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Amber"
+   ],
+   "middle": [
+    "Beyaz Çiçekler"
+   ],
+   "base": [
+    "Sandal Ağacı"
+   ]
+  },
+  "old_text": "Mad Parfüm W212 Selective, Michael Kors Sexy Amber'in muadilidir (%64 nota benzerliği). Sexy Amber'in üç notası, yani amber, beyaz çiçekler ve sandal ağacı, W212'de de var. Fark açılışta ve dipte: W212'de üstte narenciye ve çiçeksi notalar, dipte paçuli ve misk de bulunur."
+ },
+ "mad-parfum-p101-selective": {
+  "id": 24401,
+  "dupe": "Mad Parfüm P101 Selective",
+  "gender": "Erkek",
+  "original": "Parfums De Marly Pegasus",
+  "match_score": 90,
+  "dupe_notes": {
+   "top": [
+    "Bergamot",
+    "Kimyon",
+    "Heliotrop"
+   ],
+   "middle": [
+    "Yasemin",
+    "Badem",
+    "Lavanta"
+   ],
+   "base": [
+    "Amber",
+    "Sandal Ağacı",
+    "Vanilya"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Heliotrop",
+    "Kimyon",
+    "Bergamot",
+    "Pembe Biber"
+   ],
+   "middle": [
+    "Acı Badem",
+    "Lavanta",
+    "Yasemin"
+   ],
+   "base": [
+    "Sandal Ağacı",
+    "Vanilya",
+    "Amber",
+    "Ada Miski",
+    "Sedir Ağacı"
+   ]
+  },
+  "old_text": "Mad Parfüm P101 Selective, Parfums de Marly Pegasus'un muadilidir (%90 nota benzerliği). Bergamot, kimyon ve heliotroplu açılış, yasemin, badem ve lavantalı kalp, amber, sandal ağacı ve vanilyalı dip iki parfümde de ortak. Fark: Pegasus'taki pembe biber, ada miski ve sedir ağacı P101'de yok."
+ },
+ "mad-parfum-w175-selective": {
+  "id": 24408,
+  "dupe": "Mad Parfüm W175 Selective",
+  "gender": "Kadın",
+  "original": "Burberry Body",
+  "match_score": 87,
+  "dupe_notes": {
+   "top": [
+    "Pelin Otu",
+    "Frezya",
+    "Şeftali"
+   ],
+   "middle": [
+    "İris",
+    "Gül"
+   ],
+   "base": [
+    "Sandal Ağacı",
+    "Kaşmir",
+    "Vanilya",
+    "Misk",
+    "Amber"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Frezya",
+    "Şeftali",
+    "Pelin Otu"
+   ],
+   "middle": [
+    "Gül",
+    "Sandal Ağacı",
+    "İris"
+   ],
+   "base": [
+    "Kaşmir",
+    "Misk"
+   ]
+  },
+  "old_text": "Mad Parfüm W175 Selective, Burberry Body'nin muadilidir (%87 nota benzerliği). Pelin otu, şeftali ve frezyalı açılış, gül ve irisli kalp, sandal ağacı, kaşmir ve misk iki parfümde de ortak. Fark: W175 dibe vanilya ve amber ekler."
+ },
+ "mad-parfum-q106-selective": {
+  "id": 24420,
+  "dupe": "Mad Parfüm Q106 Selective",
+  "gender": "Unisex",
+  "original": "Tom Ford Vanille Fatale",
+  "match_score": 77,
+  "dupe_notes": {
+   "top": [
+    "Safran",
+    "Kişniş",
+    "Rom",
+    "Mandalina",
+    "Tütsü"
+   ],
+   "middle": [
+    "Erik",
+    "Gül",
+    "Frangipani",
+    "Nergis",
+    "Mür"
+   ],
+   "base": [
+    "Sandal Ağacı",
+    "Paçuli",
+    "Tütün",
+    "Vanilya",
+    "Maun"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Rom",
+    "Mür",
+    "Olibanum",
+    "Safran",
+    "Kişniş",
+    "Misket Limonu",
+    "Portakal"
+   ],
+   "middle": [
+    "Nergis",
+    "Erik",
+    "Arpa",
+    "Kahve",
+    "Frangipani",
+    "Artemisia",
+    "Gül"
+   ],
+   "base": [
+    "Vanilya",
+    "Süet",
+    "Tütün",
+    "Maun",
+    "Paçuli",
+    "Meşe Yosunu",
+    "Menekşe"
+   ]
+  },
+  "old_text": "Mad Parfüm Q106 Selective, Tom Ford Vanille Fatale'ın muadilidir (%77 nota benzerliği). Rom, safran ve kişniş, erik, gül, nergis, frangipani ve mür, vanilya, tütün, maun ve paçuli iki parfümde de ortak. Fark: Vanille Fatale'daki kahve, arpa ve süet Q106'da yok; Q106'da bunların yerine mandalina, tütsü ve sandal ağacı bulunur."
+ },
+ "mad-parfum-w120-selective": {
+  "id": 24527,
+  "dupe": "Mad Parfüm W120 Selective",
+  "gender": "Erkek",
+  "original": "Carolina Herrera 212 Sexy Men",
+  "match_score": 94,
+  "dupe_notes": {
+   "top": [
+    "Mandalina",
+    "Portakal",
+    "Yeşil Notalar",
+    "Bergamot"
+   ],
+   "middle": [
+    "Kakule",
+    "Çiçeksi Notalar",
+    "Biber"
+   ],
+   "base": [
+    "Guayak Ağacı",
+    "Sandal Ağacı",
+    "Vanilya",
+    "Misk",
+    "Amber"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Yeşil Notalar",
+    "Bergamot",
+    "Mandalina"
+   ],
+   "middle": [
+    "Çiçeksi Notalar",
+    "Kakule"
+   ],
+   "base": [
+    "Sandal Ağacı",
+    "Misk",
+    "Guayak Ağacı",
+    "Vanilya",
+    "Amber"
+   ]
+  },
+  "old_text": "Mad Parfüm W120 Selective, Carolina Herrera 212 Sexy Men'in muadilidir (%94 nota benzerliği). Mandalina, bergamot, yeşil notalar, kakule, çiçeksi notalar, sandal ağacı, guayak ağacı, vanilya, misk ve amber iki parfümde de ortak. Fark: W120'de bunlara ek olarak portakal ve biber bulunur."
+ },
+ "mad-parfum-b107-selective-kadin": {
+  "id": 24769,
+  "dupe": "Mad Parfüm B107 Selective",
+  "gender": "Kadın",
+  "original": "Burberry Goddess",
+  "match_score": 43,
+  "dupe_notes": {
+   "top": [
+    "Bergamot",
+    "Lavanta"
+   ],
+   "middle": [
+    "Beyaz Çiçekler",
+    "Çikolata"
+   ],
+   "base": [
+    "Vanilya",
+    "Sandal Ağacı"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Lavanta",
+    "Kakao",
+    "Zencefil",
+    "Vanilya"
+   ],
+   "middle": [
+    "Vanilya"
+   ],
+   "base": [
+    "Vanilla Absolute"
+   ]
+  },
+  "old_text": "Mad Parfüm B107 Selective (kadın), Burberry Goddess'ın muadilidir. İkisinde de lavanta ve vanilya var; Goddess'ta kakao, B107'de çikolata bulunur. Fark: Goddess'ta zencefil ve vanilla absolute, B107'de ise bergamot, beyaz çiçekler ve sandal ağacı var."
+ },
+ "mad-parfum-a116-selective": {
+  "id": 24940,
+  "dupe": "Mad Parfüm A116 Selective",
+  "gender": "Erkek",
+  "original": "Giorgio Armani Emporio Armani Stronger With You Powerfully",
+  "match_score": 62,
+  "dupe_notes": {
+   "top": [
+    "Kiraz",
+    "Mandalina",
+    "Portakal"
+   ],
+   "middle": [
+    "Lavanta",
+    "Baharatlı Notalar"
+   ],
+   "base": [
+    "Amber Ağacı",
+    "Vanilya",
+    "Muskat"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Vişne",
+    "Mandalina"
+   ],
+   "middle": [
+    "Baharatlı Notalar",
+    "Lavanta"
+   ],
+   "base": [
+    "Kestane",
+    "Ambergris",
+    "Vanilya"
+   ]
+  },
+  "old_text": "Mad Parfüm A116 Selective, Giorgio Armani Emporio Armani Stronger With You Powerfully'nin muadilidir (%62 nota benzerliği). Mandalina, lavanta, baharatlı notalar ve vanilya iki parfümde de var. Fark açılışta ve dipte: A116 kiraz ve portakalla açılıp muskat ve amber ağacıyla biterken, Powerfully vişneyle açılır, dipte kestane ve ambergris taşır."
+ },
+ "mad-parfum-a123-selective": {
+  "id": 24945,
+  "dupe": "Mad Parfüm A123 Selective",
+  "gender": "Kadın",
+  "original": "Byredo Lil Fleur",
+  "match_score": 78,
+  "dupe_notes": {
+   "top": [
+    "Siyah Frenk Üzümü",
+    "Safran"
+   ],
+   "middle": [
+    "Gül",
+    "Yasemin"
+   ],
+   "base": [
+    "Deri",
+    "Paçuli",
+    "Vanilya"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Mandalina",
+    "Safran",
+    "Cassis"
+   ],
+   "middle": [
+    "Şam Gülü",
+    "Deri"
+   ],
+   "base": [
+    "Vanilya",
+    "Odunsu Notalar"
+   ]
+  },
+  "old_text": "Mad Parfüm A123 Selective, Byredo Lil Fleur'ün muadilidir (%78 nota benzerliği). Siyah frenk üzümü (cassis), safran, gül, deri ve vanilya iki parfümde de var. A123 bunlara kalpte yasemin, dipte paçuli ekler; Lil Fleur'deki mandalina ve odunsu notalar A123'te yok."
+ },
+ "mad-parfum-c127-selective": {
+  "id": 24946,
+  "dupe": "Mad Parfüm C127 Selective",
+  "gender": "Kadın",
+  "original": "Chanel Chance Eau Splendide",
+  "match_score": 64,
+  "dupe_notes": {
+   "top": [
+    "Bergamot",
+    "Mandalina",
+    "Yeşil Yapraklar"
+   ],
+   "middle": [
+    "Gül",
+    "Müge Çiçeği",
+    "Ahududu",
+    "İris"
+   ],
+   "base": [
+    "Misk",
+    "Sedir Ağacı",
+    "Şeftali",
+    "Gurme Notalar"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Kırmızı Meyveler",
+    "Ahududu",
+    "Gül",
+    "Menekşe",
+    "Şeftali"
+   ],
+   "middle": [
+    "İris",
+    "Sardunya"
+   ],
+   "base": [
+    "Misk",
+    "Sedir Ağacı"
+   ]
+  },
+  "old_text": "Mad Parfüm C127 Selective, Chanel Chance Eau Splendide'in muadilidir (%64 nota benzerliği). Ahududu, gül, iris, şeftali, misk ve sedir ağacı iki parfümde de var. Fark: C127 bergamot, mandalina ve yeşil yapraklarla açılır, kalpte müge çiçeği, dipte gurme notalar taşır; Eau Splendide'de ise kırmızı meyveler, menekşe ve sardunya bulunur."
+ },
+ "bargello-229-kadin": {
+  "id": 25055,
+  "dupe": "Bargello 229",
+  "gender": "Kadın",
+  "original": "Yves Saint Laurent Libre Intense",
+  "match_score": 96,
+  "dupe_notes": {
+   "top": [
+    "Lavanta",
+    "Mandalina",
+    "Bergamot"
+   ],
+   "middle": [
+    "Orkide",
+    "Lavanta",
+    "Yasemin",
+    "Portakal Çiçeği"
+   ],
+   "base": [
+    "Vanilya",
+    "Vetiver",
+    "Ambergris",
+    "Tonka Fasulyesi"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Lavanta",
+    "Bergamot"
+   ],
+   "middle": [
+    "Yasemin",
+    "Lavanta",
+    "Orkide",
+    "Portakal Çiçeği"
+   ],
+   "base": [
+    "Vanilya",
+    "Tonka Fasulyesi",
+    "Vetiver",
+    "Ambergris"
+   ]
+  },
+  "old_text": "Bargello 229, Yves Saint Laurent Libre Intense'in muadilidir (%96 nota benzerliği). Lavanta ve bergamotlu açılış, yasemin, orkide ve portakal çiçekli kalp, vanilya, tonka fasulyesi, vetiver ve ambergrisli dip iki parfümde de ortak. Fark: Bargello 229 açılışa mandalina ekler."
+ },
+ "mad-parfum-w209-selective": {
+  "id": 25119,
+  "dupe": "Mad Parfüm W209 Selective",
+  "gender": "Kadın",
+  "original": "Burberry My Burberry",
+  "match_score": 44,
+  "dupe_notes": {
+   "top": [
+    "Bergamot",
+    "Ozonik Notalar",
+    "Yeşil Notalar",
+    "Meyveli Notalar",
+    "Salatalık",
+    "Tatlı Notalar"
+   ],
+   "middle": [
+    "Sardunya",
+    "Sümbül",
+    "Amber",
+    "Odunsu Notalar"
+   ],
+   "base": [
+    "Yasemin",
+    "Gül",
+    "Paçuli",
+    "Balsamik Notalar"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Tatlı Bezelye",
+    "Bergamot",
+    "Greyfurt",
+    "Limon",
+    "Portakal"
+   ],
+   "middle": [
+    "Yeşil Notalar",
+    "Frezya",
+    "Ayva",
+    "Sardunya",
+    "Şeftali",
+    "Gardenya",
+    "Tutku Meyvesi"
+   ],
+   "base": [
+    "Menekşe",
+    "Şam Gülü",
+    "Gül",
+    "Paçuli",
+    "Misk",
+    "Deri"
+   ]
+  },
+  "old_text": "Mad Parfüm W209 Selective, Burberry My Burberry'nin muadilidir. Bergamot, yeşil notalar, sardunya, gül ve paçuli iki parfümde de ortak. W209'da bunlara salatalık, ozonik notalar, sümbül, amber ve yasemin eklenir; My Burberry'deki tatlı bezelye, ayva ve frezya W209'da yok."
+ },
+ "mad-parfum-p101-selective-kadin": {
+  "id": 26527,
+  "dupe": "Mad Parfüm P101 Selective Kadın",
+  "gender": "Kadın",
+  "original": "Parfums De Marly Oriana",
+  "match_score": 91,
+  "dupe_notes": {
+   "top": [
+    "Mandalina",
+    "Greyfurt",
+    "Bergamot"
+   ],
+   "middle": [
+    "Portakal Çiçeği",
+    "Ahududu",
+    "Siyah Frenk Üzümü"
+   ],
+   "base": [
+    "Marshmallow",
+    "Krema",
+    "Misk",
+    "Amber",
+    "Vanilya"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Bergamot",
+    "Greyfurt",
+    "Mandalina"
+   ],
+   "middle": [
+    "Portakal Çiçeği",
+    "Ahududu",
+    "Siyah Frenk Üzümü"
+   ],
+   "base": [
+    "Misk",
+    "Marshmallow",
+    "Ambrette",
+    "Vanilya",
+    "Krema"
+   ]
+  },
+  "old_text": "Mad Parfüm P101 Selective (kadın), Parfums de Marly Oriana'nın muadilidir (%91 nota benzerliği). Mandalina, greyfurt ve bergamotlu açılış, portakal çiçeği, ahududu ve siyah frenk üzümlü kalp, marshmallow, krema, misk ve vanilyalı dip iki parfümde de ortak. Tek fark dipte: Oriana'da ambrette, P101'de amber bulunur."
+ },
+ "mad-parfum-l105-selective-kadin": {
+  "id": 26528,
+  "dupe": "Mad Parfüm L105 Selective Kadın",
+  "gender": "Kadın",
+  "original": "Lancome La Vie Est Belle L'Elixir",
+  "match_score": 84,
+  "dupe_notes": {
+   "top": [
+    "Ahududu",
+    "Meyan Kökü",
+    "Bergamot"
+   ],
+   "middle": [
+    "Menekşe Yaprağı",
+    "Gül"
+   ],
+   "base": [
+    "Deri",
+    "Kakao",
+    "Sedir Ağacı"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Ahududu",
+    "Bergamot"
+   ],
+   "middle": [
+    "Menekşe Yaprağı",
+    "Gül"
+   ],
+   "base": [
+    "Deri",
+    "Kakao Yağı",
+    "Sedir Ağacı"
+   ]
+  },
+  "old_text": "Mad Parfüm L105 Selective (kadın), Lancôme La Vie Est Belle L'Elixir'in muadilidir (%84 nota benzerliği). Ahududu ve bergamot, menekşe yaprağı ve gül, deri ve sedir ağacı iki parfümde de ortak. Fark: L105 açılışa meyan kökü ekler; L'Elixir'deki kakao yağının yerinde L105'te kakao bulunur."
+ }
+}

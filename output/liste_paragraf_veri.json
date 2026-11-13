@@ -1,0 +1,257 @@
+{
+ "A104": {
+  "id": 24361,
+  "slug": "mad-parfum-a104-selective",
+  "name": "A104 Selective",
+  "score": 77,
+  "gender": "Erkek",
+  "dupe_notes": [
+   [
+    "top",
+    "Limon"
+   ],
+   [
+    "top",
+    "Bergamot"
+   ],
+   [
+    "top",
+    "Meyveli Notalar"
+   ],
+   [
+    "middle",
+    "Sardunya"
+   ],
+   [
+    "middle",
+    "Lavanta"
+   ],
+   [
+    "middle",
+    "Biberiye"
+   ],
+   [
+    "base",
+    "Paçuli"
+   ],
+   [
+    "base",
+    "Tonka Fasulyesi"
+   ],
+   [
+    "base",
+    "Amber"
+   ]
+  ],
+  "original": "Giorgio Armani Acqua Di Gio Absolu",
+  "original_slug": "giorgio-armani-acqua-di-gio-absolu",
+  "original_notes": [
+   [
+    "top",
+    "Deniz Notaları"
+   ],
+   [
+    "top",
+    "Bergamot"
+   ],
+   [
+    "top",
+    "Armut"
+   ],
+   [
+    "top",
+    "Elma"
+   ],
+   [
+    "top",
+    "Greyfurt"
+   ],
+   [
+    "top",
+    "Limon"
+   ],
+   [
+    "middle",
+    "Lavanta"
+   ],
+   [
+    "middle",
+    "Biberiye"
+   ],
+   [
+    "middle",
+    "Sardunya"
+   ],
+   [
+    "base",
+    "Tonka Fasulyesi"
+   ],
+   [
+    "base",
+    "Paçuli"
+   ],
+   [
+    "base",
+    "Labdanum"
+   ],
+   [
+    "base",
+    "Odunsu Notalar"
+   ],
+   [
+    "base",
+    "Amber"
+   ]
+  ]
+ },
+ "A112": {
+  "id": 24315,
+  "slug": "mad-parfum-a112-selective",
+  "name": "A112 Selective",
+  "score": 78,
+  "gender": "Kadın",
+  "dupe_notes": [
+   [
+    "top",
+    "Karamel"
+   ],
+   [
+    "top",
+    "Yasemin"
+   ],
+   [
+    "middle",
+    "Kaşmir"
+   ],
+   [
+    "base",
+    "Amber"
+   ],
+   [
+    "base",
+    "Odunsu Notalar"
+   ]
+  ],
+  "original": "Mugler Alien",
+  "original_slug": "mugler-alien",
+  "original_notes": [
+   [
+    "top",
+    "Yasemin"
+   ],
+   [
+    "middle",
+    "Kaşmir"
+   ],
+   [
+    "base",
+    "Amber"
+   ]
+  ]
+ },
+ "C101": {
+  "id": 24532,
+  "slug": "mad-parfum-c101-selective",
+  "name": "C101 Selective",
+  "score": 64,
+  "gender": "Erkek",
+  "dupe_notes": [
+   [
+    "middle",
+    "Gardenya"
+   ],
+   [
+    "middle",
+    "Yeşil Biber"
+   ],
+   [
+    "middle",
+    "Zencefil"
+   ],
+   [
+    "middle",
+    "Menekşe"
+   ],
+   [
+    "base",
+    "Sandal Ağacı"
+   ],
+   [
+    "base",
+    "Vetiver"
+   ],
+   [
+    "base",
+    "Guayak Ağacı"
+   ],
+   [
+    "base",
+    "Misk"
+   ],
+   [
+    "base",
+    "Laden"
+   ],
+   [
+    "middle",
+    "Adaçayı"
+   ]
+  ],
+  "original": "Carolina Herrera 212 Men",
+  "original_slug": "carolina-herrera-212-men",
+  "original_notes": [
+   [
+    "top",
+    "Greyfurt"
+   ],
+   [
+    "top",
+    "Bergamot"
+   ],
+   [
+    "top",
+    "Lavanta"
+   ],
+   [
+    "top",
+    "Petitgrain"
+   ],
+   [
+    "middle",
+    "Zencefil"
+   ],
+   [
+    "middle",
+    "Gardenya"
+   ],
+   [
+    "base",
+    "Misk"
+   ],
+   [
+    "base",
+    "Sandal Ağacı"
+   ],
+   [
+    "base",
+    "Tütsü"
+   ],
+   [
+    "base",
+    "Vetiver"
+   ],
+   [
+    "base",
+    "Labdanum"
+   ],
+   [
+    "top",
+    "Baharatlı Notalar"
+   ],
+   [
+    "middle",
+    "Adaçayı"
+   ]
+  ]
+ }
+}

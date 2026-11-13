@@ -1,0 +1,416 @@
+{
+ "C101": {
+  "eski (B107 paragrafları)": {
+   "text": "Mad B107, lavanta ve bergamotun yarattığı o tertemiz, asil açılışla teninizde ferah bir başlangıç yapıyor. Ancak bu klasik yapının asıl heyecan verici yanı, orta notalarda beyaz çiçeklerin arasına sızan çikolata dokunuşu; bu beklenmedik gurme detay, kokuyu sıradan bir çiçeksi parfümden çıkarıp modern ve iştah açıcı bir derinliğe taşıyor. Kuruma aşamasında ise vanilya ve sandal ağacının kremsi sıcaklığı, çikolatanın tatlılığını mühürleyerek tende kalıcı ve güven veren bir imza bırakıyor. Guerlain Mon Guerlain L'Essence karakterini %77 nota benzerliğiyle yakalayan B107, hem geleneksel bir zarafeti hem de çağdaş bir tatlılığı aynı anda taşımak isteyenler için koleksiyonun en özgün dengelerinden birini sunuyor. B107 aynı zamanda Nishane Santalove ile de notalarıyl %65 benzerlik göstermekte.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 0.33,
+     "confidence": 0.68,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.68,
+      "1": 0.32,
+      "2": 0.0,
+      "3": 0.0
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.97
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.47
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 0.04,
+     "confidence": 0.97,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.97,
+      "1": 0.03,
+      "2": 0.0,
+      "3": 0.0
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.32
+    },
+    "useful": {
+     "type": "score",
+     "score": 0.2,
+     "confidence": 0.81,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.87,
+      "1": 0.09,
+      "2": 0.02,
+      "3": 0.02
+     }
+    }
+   }
+  },
+  "yeni": {
+   "text": "Mad C101, Carolina Herrera 212 Men'in muadilidir (%64 nota benzerliği). Zencefil, gardenya ve adaçayından oluşan kalp ile misk, sandal ağacı ve vetiverli dip iki parfümde de ortak. Fark: 212 Men greyfurt, bergamot, lavanta ve petitgrainle açılır; C101'de ise bunların yerine yeşil biber, menekşe ve guayak ağacı bulunur.",
+   "answers": {
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.19
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.97,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.99
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.07
+    },
+    "useful": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.98,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.02,
+      "3": 0.98
+     }
+    },
+    "accuracy": {
+     "type": "score",
+     "score": 2.77,
+     "confidence": 0.76,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.02,
+      "1": 0.02,
+      "2": 0.14,
+      "3": 0.82
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.16
+    }
+   }
+  }
+ },
+ "A112": {
+  "eski (A104 paragrafları)": {
+   "text": "Deniz notalarının ferahlığı ile meyveli bir tatlılığı aynı şişede buluşturan Mad A104, alışılmış su kokularının ötesine geçerek daha derin bir hikaye anlatıyor. Açılıştaki limon ve bergamotun keskin enerjisi, orta notalarda yer alan biberiye ve lavantanın aromatik dokusuyla birleşerek parfüme maskülen bir canlılık katıyor. Tene yerleştiğinde ise paçuli ve tonka fasulyesinin yarattığı o sıcak, odunsu derinlik kendini hissettirmeye başlıyor. %77 nota benzerliği ile deniz tuzu ve toprak kokusunu bir araya getiren Acqua Di Gio Absolu karakterini başarıyla yansıtan bu koku, hem taze hem de oturaklı bir imza arayanlar için ideal bir seçenek.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 0.09,
+     "confidence": 0.92,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.92,
+      "1": 0.08,
+      "2": 0.0,
+      "3": 0.0
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.96
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.52
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 0.03,
+     "confidence": 0.96,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.98,
+      "1": 0.01,
+      "2": 0.0,
+      "3": 0.01
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.52
+    },
+    "useful": {
+     "type": "score",
+     "score": 0.23,
+     "confidence": 0.77,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.84,
+      "1": 0.11,
+      "2": 0.03,
+      "3": 0.02
+     }
+    }
+   }
+  },
+  "yeni": {
+   "text": "Mad A112, Mugler Alien'ın muadilidir (%78 nota benzerliği). Alien'ın üç notası olan yasemin, kaşmir ve amber A112'de de var. A112 bunlara açılışta karamel, dipte odunsu notalar ekler.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.03,
+      "3": 0.97
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.12
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.25
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 2.86,
+     "confidence": 0.86,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.04,
+      "1": 0.0,
+      "2": 0.02,
+      "3": 0.94
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.1
+    },
+    "useful": {
+     "type": "score",
+     "score": 2.78,
+     "confidence": 0.78,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.01,
+      "2": 0.2,
+      "3": 0.79
+     }
+    }
+   }
+  }
+ },
+ "A104": {
+  "eski": {
+   "text": "Deniz notalarının ferahlığı ile meyveli bir tatlılığı aynı şişede buluşturan Mad A104, alışılmış su kokularının ötesine geçerek daha derin bir hikaye anlatıyor. Açılıştaki limon ve bergamotun keskin enerjisi, orta notalarda yer alan biberiye ve lavantanın aromatik dokusuyla birleşerek parfüme maskülen bir canlılık katıyor. Tene yerleştiğinde ise paçuli ve tonka fasulyesinin yarattığı o sıcak, odunsu derinlik kendini hissettirmeye başlıyor. %77 nota benzerliği ile deniz tuzu ve toprak kokusunu bir araya getiren Acqua Di Gio Absolu karakterini başarıyla yansıtan bu koku, hem taze hem de oturaklı bir imza arayanlar için ideal bir seçenek.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 1.62,
+     "confidence": 0.36,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.07,
+      "1": 0.37,
+      "2": 0.43,
+      "3": 0.13
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.86
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.53
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 0.96,
+     "confidence": 0.47,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.28,
+      "1": 0.55,
+      "2": 0.09,
+      "3": 0.08
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.25
+    },
+    "useful": {
+     "type": "score",
+     "score": 1.82,
+     "confidence": 0.73,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.22,
+      "2": 0.73,
+      "3": 0.05
+     }
+    }
+   }
+  },
+  "yeni": {
+   "text": "Mad A104, Giorgio Armani Acqua Di Gio Absolu'nun muadilidir (%77 nota benzerliği). Limon ve bergamotlu açılış, sardunya, lavanta ve biberiyeli kalp, paçuli, tonka ve amberli dip iki parfümde de ortak. Fark: Acqua Di Gio Absolu'daki deniz notaları, armut, elma ve greyfurt A104'te yok; A104 bunların yerine meyveli notalar taşır.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.98,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.02,
+      "3": 0.98
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.12
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.23
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.96,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.07
+    },
+    "useful": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.98,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.02,
+      "3": 0.98
+     }
+    }
+   }
+  }
+ }
+}

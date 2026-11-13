@@ -1,0 +1,119 @@
+{
+ "state": {
+  "search_query": "mad w212 hangi parfüm muadili",
+  "page_title": "Mad Parfüm - W212 Selective | Notaları ve Yorumları",
+  "meta_description": "Afnan Souvenir Desert Rose'un lüks ve derin gül notalarından vazgeçemeyenler için W212 Selective, aynı büyüleyici koku deneyimini çok daha akıllıca bir bütçe...",
+  "h1": "Mad Parfüm W212 Selective",
+  "gender": "Kadın",
+  "notes": {
+   "top": [
+    "Narenciye",
+    "Çiçeksi Notalar"
+   ],
+   "heart": [
+    "Sandal Ağacı",
+    "Beyaz Çiçekler"
+   ],
+   "base": [
+    "Paçuli",
+    "Misk",
+    "Amber"
+   ]
+  },
+  "about_text": "Afnan Souvenir Desert Rose'un lüks ve derin gül notalarından vazgeçemeyenler için W212 Selective, aynı büyüleyici koku deneyimini çok daha akıllıca bir bütçeyle sunan göz alıcı bir muadil. Bu zarif alternatif, orijinalin o ikonik karakterini başarıyla yakalayarak, parfüm koleksiyonunuza fiyat/performans dengesinde eşsiz bir dokunuş katıyor.",
+  "seo_keywords": [
+   "genç koku",
+   "çiçeksi esans",
+   "şehirli kadın",
+   "günlük kullanım",
+   "meyveli narenciye"
+  ],
+  "reviews": "Henüz yorum yok.",
+  "similar_perfumes": [
+   "Candy Addiction Prestige: Bergamot, Armut, Ahududu",
+   "C117: Mandalina, Kakule, Armut",
+   "Citrus Energy Prestige: Bergamot, Kakule",
+   "Divine Desire: Tropikal Meyveler, Limon",
+   "W174: Limon, Nane, Elma",
+   "V106: İris, Portakal, Bergamot"
+  ],
+  "unique_word_count": 60
+ },
+ "answers": {
+  "answers_query": {
+   "type": "score",
+   "score": 1.82,
+   "confidence": 0.77,
+   "legend": {
+    "0": "Does not answer",
+    "1": "Answer is only buried in body text",
+    "2": "Answer is present but not in title/H1",
+    "3": "Answer is clear and prominent (title or H1)"
+   },
+   "probabilities": {
+    "0": 0.01,
+    "1": 0.18,
+    "2": 0.78,
+    "3": 0.03
+   }
+  },
+  "title_intent": {
+   "type": "score",
+   "score": 2.06,
+   "confidence": 0.38,
+   "legend": {
+    "0": "Searcher would skip it",
+    "1": "Promise unclear",
+    "2": "Relevant but does not promise the answer",
+    "3": "Directly promises the answer to the query"
+   },
+   "probabilities": {
+    "0": 0.11,
+    "1": 0.06,
+    "2": 0.49,
+    "3": 0.34
+   }
+  },
+  "rose_supported": {
+   "type": "noul",
+   "noul": 0.15
+  },
+  "keywords_consistent": {
+   "type": "noul",
+   "noul": 0.2
+  },
+  "overpromise": {
+   "type": "noul",
+   "noul": 0.86
+  },
+  "generic_text": {
+   "type": "noul",
+   "noul": 0.68
+  },
+  "similar_relevant": {
+   "type": "noul",
+   "noul": 0.14
+  },
+  "thin": {
+   "type": "noul",
+   "noul": 0.66
+  },
+  "trust": {
+   "type": "score",
+   "score": 1.2,
+   "confidence": 0.63,
+   "legend": {
+    "0": "Not at all",
+    "1": "Little",
+    "2": "Moderately",
+    "3": "Fully"
+   },
+   "probabilities": {
+    "0": 0.09,
+    "1": 0.64,
+    "2": 0.26,
+    "3": 0.01
+   }
+  }
+ }
+}

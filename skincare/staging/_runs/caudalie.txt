@@ -1,0 +1,7 @@
+MARKA: caudalie (Caudalie). Hazırlık klasörün: scripts\skincare\staging\caudalie\
+Türkiye sitesi: https://tr.caudalie.com  (ürün sayfaları /p/<kod>/<ad>.html; kategoriler /c/tum-urunler/...)
+Katalogdaki mevcut 5 ürün (tekrar ekleme): vinohydra-hyaluronic-serum, vinopure-salicylic-serum, vinopure-toner, vinohydra-cleansing-gel, resveratrol-lift-night-cream.
+İçerik listesi ld+json additionalProperty "İçerik Listesi" alanından geliyor (çıkarıcı hazır; sondaki "(182/036) * Organik..." notu temizleniyor).
+Kapsam notları: kod "P1" ile biten veya adı rutin/kit/ikili/set/tanışma olan paketler HARİÇ; "yedek" (refill) HARİÇ; güneş/SPF, güneşsiz bronzlaştırıcı, parfüm, saç, deodorant HARİÇ. Vücut bakımı kapsamda (vucut-bakimi).
+Görsel uyarısı: Caudalie og:image bazen kampanya fotoğrafı (ör. "heroshot", pembe zemin, meyveli). Bu durumda kategori sayfasındaki "packshot" adresini imageUrl olarak ver.
+Uçucu yağ içeren ürünlerde marka "parfüm içermez" diyebilir; bizim analiz "parfüm içerir" der. Açıklamada marka beyanını aktarma; "Listede eklenmiş parfüm yok; ancak uçucu yağlar koku veriyor" gibi yaz.

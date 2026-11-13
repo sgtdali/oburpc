@@ -1,0 +1,138 @@
+{
+ "A": {
+  "text": "Mad Parfüm W209 Selective, Burberry My Burberry'nin muadilidir. İkisinde de bergamot, yeşil notalar, sardunya, gül ve paçuli var. Fark açılışta: W209 salatalık ve ozonik notalarla daha ferah açılır; My Burberry'de ise tatlı bezelye, ayva ve frezya öne çıkar. W209'un kalbinde sümbül ve amber, dibinde yasemin bulunur.",
+  "answers": {
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.35
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.9,
+    "confidence": 0.9,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.96
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.11
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.77,
+    "confidence": 0.77,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.21,
+     "3": 0.78
+    }
+   },
+   "accuracy": {
+    "type": "score",
+    "score": 2.7,
+    "confidence": 0.71,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.06,
+     "2": 0.14,
+     "3": 0.79
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.28
+   }
+  }
+ },
+ "B": {
+  "text": "Mad Parfüm W209 Selective, Burberry My Burberry'nin muadilidir. Bergamot, yeşil notalar, sardunya, gül ve paçuli iki parfümde de ortak. W209'da bunlara salatalık, ozonik notalar, sümbül, amber ve yasemin eklenir; My Burberry'deki tatlı bezelye, ayva ve frezya W209'da yok.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.83,
+    "confidence": 0.84,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.03,
+     "2": 0.07,
+     "3": 0.89
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.2
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.23
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.95,
+    "confidence": 0.96,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.98
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.09
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.78,
+    "confidence": 0.79,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.19,
+     "3": 0.8
+    }
+   }
+  }
+ }
+}

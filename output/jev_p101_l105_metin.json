@@ -1,0 +1,418 @@
+{
+ "mad-parfum-p101-selective": {
+  "eski": {
+   "text": "Parfums De Marly Pegasus'un sofistike ve zamansız çekiciliğini modern bir yorumla günümüze taşıyan P101 Selective, bu ikonik kokunun büyüleyici bir yansımasıdır. Klasik notaların çağdaş bir dokunuşla harmanlandığı P101 Selective, lüks koku deneyimini uygun fiyatla arayanlar için Parfums De Marly Pegasus tarzında, oldukça etkileyici bir eşdeğer sunuyor.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 1.84,
+     "confidence": 0.13,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.39999999999999997,
+      "2": 0.32,
+      "3": 0.27
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.86
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.75
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 2.05,
+     "confidence": 0.04,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.22,
+      "1": 0.08,
+      "2": 0.14,
+      "3": 0.56
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.63
+    },
+    "useful": {
+     "type": "score",
+     "score": 1.08,
+     "confidence": 0.82,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.05,
+      "1": 0.82,
+      "2": 0.13,
+      "3": 0.0
+     }
+    }
+   }
+  },
+  "yeni": {
+   "text": "Mad Parfüm P101 Selective, Parfums de Marly Pegasus'un muadilidir (%90 nota benzerliği). Bergamot, kimyon ve heliotroplu açılış, yasemin, badem ve lavantalı kalp, amber, sandal ağacı ve vanilyalı dip iki parfümde de ortak. Fark: Pegasus'taki pembe biber, ada miski ve sedir ağacı P101'de yok.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.93,
+     "confidence": 0.94,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.01,
+      "2": 0.04,
+      "3": 0.95
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.12
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.35
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.96,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "useful": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.04,
+      "3": 0.96
+     }
+    }
+   }
+  }
+ },
+ "mad-parfum-l105-selective": {
+  "eski": {
+   "text": "Lacoste Eau De Lacoste Rouge Energetic'in enerjik ve modern ruhunu çağdaş bir yorumla yakalayan L105 Selective, şehirli ve dinamik notaların çarpıcı bir buluşmasını sunuyor. Orijinalin çekici karakterini bütçe dostu bir alternatifle deneyimlemek isteyenler için L105 Selective, benzer bir tazelik ve canlılık sunarak modern stilinizi tamamlamanın büyüleyici bir yolu.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 1.55,
+     "confidence": 0.36,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.04,
+      "1": 0.44,
+      "2": 0.44,
+      "3": 0.08
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.88
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.6
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 2.17,
+     "confidence": 0.17,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.21,
+      "1": 0.02,
+      "2": 0.16,
+      "3": 0.61
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.65
+    },
+    "useful": {
+     "type": "score",
+     "score": 1.1,
+     "confidence": 0.84,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.03,
+      "1": 0.84,
+      "2": 0.13,
+      "3": 0.0
+     }
+    }
+   }
+  },
+  "yeni": {
+   "text": "Mad Parfüm L105 Selective, Eau de Lacoste L.12.12 Rouge'un muadilidir (%74 nota benzerliği). Mango ve rooibos çayı, kakule, zencefil ve biber ile benzoin iki parfümde de ortak. Fark: L105 mandalinayla açılır, dipte siyah akasya ağacı ve odunsu notalar taşır; L.12.12 Rouge'da ise portakal, kara çekirge ve ormanlık notalar bulunur.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.01,
+      "2": 0.02,
+      "3": 0.97
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.14
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.24
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 2.87,
+     "confidence": 0.87,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.04,
+      "1": 0.0,
+      "2": 0.01,
+      "3": 0.95
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.08
+    },
+    "useful": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.95,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.05,
+      "3": 0.95
+     }
+    }
+   }
+  }
+ },
+ "mad-parfum-p101-selective-kadin": {
+  "yeni": {
+   "text": "Mad Parfüm P101 Selective (kadın), Parfums de Marly Oriana'nın muadilidir (%91 nota benzerliği). Mandalina, greyfurt ve bergamotlu açılış, portakal çiçeği, ahududu ve siyah frenk üzümlü kalp, marshmallow, krema, misk ve vanilyalı dip iki parfümde de ortak. Tek fark dipte: Oriana'da ambrette, P101'de amber bulunur.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.95,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.01,
+      "2": 0.03,
+      "3": 0.96
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.1
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.43
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.96,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.04
+    },
+    "useful": {
+     "type": "score",
+     "score": 2.89,
+     "confidence": 0.89,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.01,
+      "2": 0.09,
+      "3": 0.9
+     }
+    }
+   }
+  }
+ },
+ "mad-parfum-l105-selective-kadin": {
+  "yeni": {
+   "text": "Mad Parfüm L105 Selective (kadın), Lancôme La Vie Est Belle L'Elixir'in muadilidir (%84 nota benzerliği). Ahududu ve bergamot, menekşe yaprağı ve gül, deri ve sedir ağacı iki parfümde de ortak. Fark: L105 açılışa meyan kökü ekler; L'Elixir'deki kakao yağının yerinde L105'te kakao bulunur.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.94,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.04,
+      "3": 0.96
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.14
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.3
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.96,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "useful": {
+     "type": "score",
+     "score": 2.88,
+     "confidence": 0.87,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.01,
+      "2": 0.11,
+      "3": 0.88
+     }
+    }
+   }
+  }
+ }
+}

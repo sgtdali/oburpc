@@ -1,0 +1,451 @@
+{
+  "products": {
+    "caudalie-vinoclean-gentle-buffing-cream": "Ciltteki ölü hücreleri uzaklaştırmak için tasarlanmış fiziksel peeling kremi. Üzüm çekirdeği yağı ve bal özleri cildin temizlenirken kurumamasını destekler. Formülündeki hexyldecyl stearate ve hidrojene jojoba yağı, sivilceye veya mantar aknesine eğilimli kişilerde komedojenik potansiyel taşıyabilir. Limonen, linalool, heksil sinnamal gibi koku alerjenleri ile parfüm içerir.",
+    "caudalie-vinoclean-instant-foaming-cleanser": "Papatya ve adaçayı özleri içeren bu köpük formlu temizleyici, cildi günlük kirlerden arındırmayı hedefler. Üzüm suyu desteği ile cildin pH dengesini korumaya ve yatıştırmaya yardımcı olur. Sabun içermeyen yapısına rağmen, koku verici parfüm maddesi ve AB uyarı listesindeki linalool alerjenini barındırır.",
+    "caudalie-beauty-elixir": "Gül, biberiye ve nane uçucu yağları ile zenginleştirilmiş sprey toniktir. Gözenek görünümünü sıkılaştırmaya ve cilde ferahlık vermeye yardımcı olur. İçerik listesinin ikinci sırasında alkol bulunmaktadır, bu nedenle çok kuru ciltler dikkatli kullanmalıdır. Sitral, farnesol, geraniol ve limonen gibi koku alerjenleri barındırır.",
+    "caudalie-grape-water": "Sadece organik üzüm suyu bileşeninden oluşan, hassasiyet yaşayan ciltleri yatıştırmayı ve ferahlatmayı amaçlayan yüz spreyidir. Antioksidan polifenoller ile cildin çevresel faktörlere karşı desteklenmesine yardımcı olur. Parfüm, alkol veya bilinen herhangi bir alerjen madde içermez.",
+    "caudalie-vinoperfect-glycolic-peel-mask": "Glikolik asit ve meyve asitleri (AHA) içeren, cilt tonu eşitsizliklerini on dakikalık kullanımla dengelemeyi hedefleyen maskedir. Asma çubuğu özü (Viniferine) ile formüle edilmiştir. İlk sıralardaki sorbitan stearat ve gliseril stearat SE bileşenleri mantar aknesine yatkın ciltler için gözenek tıkayıcı olabilir. Benzil alkol ve parfüm içerir.",
+    "caudalie-vinoperfect-brightening-eye-cream": "Göz altı morluklarının görünümünü hafifletmek için tasarlanmış, asma çubuğu özü ve niasinamid barındıran bakım kremidir. Formülünde yer alan kafein sayesinde yorgunluk belirtilerine karşı destek sağlar. Kokusuzdur, parfüm ya da esansiyel yağ alerjenleri içermez.",
+    "caudalie-vinotherapist-lip-conditioner": "Üzüm çekirdeği, macadamia ve shea yağı içeren dudak nemlendiricisidir. Soğuk hava gibi çevresel faktörlere karşı dudakları korumayı ve nemlendirmeyi hedefler. C10-18 trigliseritleri gibi komedojenik olabilecek maddeler içerir; koku profili ise limonen, linalool ve geraniol alerjenleri ile oluşturulmuştur.",
+    "caudalie-vinotherapist-replenishing-vegan-body-butter": "Çok kuru ve atopiye eğilimli ciltlerde yoğun nem sağlamak üzere çöl hurması yağı, shea ve üzüm çekirdeği yağı ile formüle edilmiş vücut balmıdır. Formülün üst kısımlarındaki c10-18 trigliseritleri ve hexyldecyl stearat, sivilce oluşumuna yatkın bölgelerde dikkat gerektirir. Parfüm içerir.",
+    "caudalie-vinotherapist-hyaluronic-nourishing-body-lotion": "Hyalüronik asit ve shea yağı ile formüle edilen, günlük kullanıma yönelik nemlendirici vücut losyonudur. Yağlı his bırakmadan cilde esneklik kazandırmayı amaçlar. Glyceryl stearate içerdiği için gözenek tıkayıcı potansiyeli bulunabilir. Limonen, linalool, sitral gibi parfüm alerjenleri barındırır.",
+    "caudalie-the-des-vignes-hyaluronic-nourishing-body-lotion": "Beyaz misk, turunç ve zencefil notaları taşıyan hyalüronik asitli nemlendirici vücut kremidir. Cildin su tutma kapasitesini artırmayı hedefler. Fungal akneye yatkın ciltler için sorun olabilen glyceryl stearate maddesi içerir. Limonen ve linalool alerjenlerinin yanı sıra parfüm barındırır.",
+    "caudalie-fleur-de-vigne-shower-gel": "Aloe vera özü ve bitkisel temizleyici maddeler içeren, sabunsuz formüllü duş jelidir. Karpuz, pembe biber ve beyaz gül koku notalarına sahiptir. İçeriğindeki sucrose cocoate bileşeni bazı ciltlerde komedojenik etki gösterebilir. Linalool ve sitronellol gibi AB uyarı listesindeki koku alerjenleri içerir.",
+    "caudalie-the-des-vignes-shower-gel": "Beyaz misk, turunç ve zencefil kokularıyla zenginleştirilmiş temizleyici duş jelidir. Cildin bariyerine zarar vermeden kirleri uzaklaştırmayı amaçlar. Üst sıralardaki sucrose cocoate sivilceye eğilimli vücut bölgelerinde dikkatli kullanılmalıdır. Parfüm, limonen ve linalool alerjenleri bulunur.",
+    "caudalie-rose-de-vigne-shower-gel": "Gül ve ışkın otu aromasıyla geliştirilmiş, aloe vera destekli vücut temizleyicisidir. Sabun içermeyen yapısıyla cildi kurutmadan arındırmaya yardımcı olur. Sucrose cocoate formülün ilk 7 maddesi arasında yer alır ve komedojenik olabilir. Hidroksisitronellal, sitronellol ve parfüm içerir.",
+    "caudalie-eau-des-vignes-shower-gel": "Bergamot, iris ve beyaz misk notaları barındıran günlük banyo ürünüdür. Yüksek toleranslı sabunsuz yapısıyla tüm ciltleri yatıştırarak yıkamayı hedefler. Mantar aknesini tetikleme potansiyeli olan sucrose cocoate barındırır. Kumarin, geraniol, limonen alerjenleri mevcuttur.",
+    "caudalie-vinoperfect-concentrated-brightening-glycolic-essence": "Leke karşıtı bakım öncesi cildi hazırlamak için formüle edilmiş, glikolik asit ve organik üzüm suyu barındıran sıvı toniktir. Cildi ölü hücrelerden nazikçe arındırmaya destek olur. Koku profili linalool, limonen ve parfüm gibi alerjen içeriklerden oluşur.",
+    "caudalie-vinoperfect-illuminating-micropeel-cleansing-foam": "AHA (Mandelik asit) ve organik üzüm suyu ile zenginleştirilmiş formülüyle cildi ölü hücrelerden arındırmayı amaçlayan köpük formlu temizleyicidir. Günlük kullanımla cildin daha aydınlık ve pürüzsüz bir görünüm kazanmasına yardımcı olur. Vinoperfect Işıltı Verici Mikro Peeling Temizleme Köpüğü formülünde koku verici parfüm bileşenleri bulunmaktadır.",
+    "caudalie-vinoperfect-complexion-correcting-radiance-serum": "Asma çubuğundan elde edilen Viniferine bileşeni içeren leke karşıtı bakım serumudur. Güneş, yaşlanma ve akne izleri gibi farklı kaynaklı leke görünümlerini hafifletmeye ve cilt tonunu eşitlemeye destek olur. Koku profili çeşitli parfüm bileşenlerinden oluşur. İlk sıralarda yer alan poligliseril 3 distearat gibi içeriklerin komedojenik veya mantar aknesi tetikleyici potansiyeli olabilir, bu duruma hassas olanların dikkatli kullanması önerilir.",
+    "caudalie-vinoclean-instant-detox-mask": "Pembe kil ve kahve çekirdeği özü ile formüle edilen, ciltteki kir ve fazla sebumu arındırmayı hedefleyen bakım maskesidir. Beş dakikalık kullanımda gözenek görünümünü sıkılaştırmaya ve cilt dokusunu pürüzsüzleştirmeye yardımcı olur. Formülünde alkol yer almaktadır. İçeriğindeki benzil alkol, bergamot yağı, linalool ve sandal ağacı yağı gibi maddeler, Avrupa Birliği kozmetik mevzuatına göre etiketlerde belirtilmesi gereken koku alerjenlerindendir.",
+    "caudalie-vinohydra-sos-intense-moisturizing-cream": "Hiyalüronik asit ve hodan (borage) yağı içeren, özellikle kuru ciltlerin nem ihtiyacını karşılamayı amaçlayan yoğun kremdir. Cildin bariyerini destekleyerek kuruluktan kaynaklanan gerginlik hissinin azalmasına yardımcı olur. Ürüne koku veren parfüm içeriğine sahiptir. Etil oleat barındırması sebebiyle sivilceye veya fungal akneye yatkın ciltlerin temkinli olması faydalı olabilir.",
+    "caudalie-vinohydra-moisturizing-mask": "Organik üzüm suyu ve asiatica (Centella asiatica) özü içeren, cilde yoğun nem desteği sunmayı hedefleyen bakımdır. Cildi yatıştırarak nem bariyerini güçlendirmeye ve esneklik kazandırmaya destek sağlar. Hoş koku vermesi için parfüm eklenmiştir. İçeriğindeki poligliseril 3 distearat gözenek tıkayıcı özellik gösterebileceğinden, komedon sorunu yaşayan cilt tipleri dikkatli olmalıdır.",
+    "caudalie-vinohydra-moisturizing-sorbet": "Papatya özü ve shea yağı barındıran, su bazlı ve hafif dokulu nemlendiricidir. Hassasiyete eğilimli ciltleri yatıştırmayı ve anında nemlendirmeyi hedefler, yağlı his bırakmadan hızla emilir. İçeriğinde alkol ve parfüm bulunmaktadır. Heksildesil laurat gibi maddeler barındırdığı için mantar aknesini tetikleme potansiyeli taşıyabilir.",
+    "caudalie-vinohydra-grape-water-gel-moisturizer": "Organik üzüm suyu ve aloe vera özü içeren jel formlu günlük bakım kremidir. Hafif yapısıyla cildi ağırlık yapmadan nemlendirmeye ve canlandırmaya yardımcı olur. Formülünde benzil alkol gibi bilinen koku alerjenleri mevcuttur. İzostearil izostearat ve oktildodesil miristat bileşenlerini içerdiğinden dolayı sivilceye yatkın olanların kullanımına dikkat etmesi tavsiye edilir.",
+    "caudalie-ange-des-vignes-shower-gel": "Sabun içermeyen nazik yapısıyla cildi kurutmadan temizlemeyi hedefleyen vücut yıkama ürünüdür. Neroli (acı portakal çiçeği) ve ahududu notalarından oluşan meyvemsi kokusuyla banyo rutinine eşlik eder. Limonen gibi AB'de bildirilmesi zorunlu parfüm alerjenlerine sahiptir. Üst sıralardaki sükroz kokoat bileşeni bazı kişilerde sivilcelenmeye yol açabilir.",
+    "caudalie-moisturizing-oil-elixir": "Argan yağı ve incir çekirdeği yağı gibi bitkisel yağlar içeren, vücut, yüz ve saç için kullanılabilen çok amaçlı kuru yağdır. Besleyici formülüyle cildi ve saçları yumuşatmayı, kuruluktan korumayı hedefler. Kumarin, linalool ve limonen gibi alerjik potansiyeli olan koku vericiler barındırır. Etilheksil palmitat maddesi komedojenik özellik sergileyebilir.",
+    "caudalie-resveratrol-lift-lightweight-firming-cashmere-cream": "Resveratrol, hiyalüronik asit ve vegan kolajen güçlendirici barındıran hafif dokulu gündüz nemlendiricisidir. Kırışıklık görünümünü hafifletmeyi ve sıkılık kaybını dengelemeyi destekler, yağlı ciltlere de uygundur. Benzil alkol, linalool, limonen ve kumarin koku alerjenleri arasında yer alır. İzostearil izostearat içerdiği için akne eğilimi olan bölgelerde dikkat gerektirir.",
+    "caudalie-premier-cru-the-eye-cream": "Asma çubuğu özü (Viniferine) içeren, göz çevresindeki koyu halka ve kırışıklık görünümünü hafifletmeyi amaçlayan bakımdır. Özel masaj ucu ile uygulanarak yorgunluk belirtilerini azaltmaya destek olur. İçeriğindeki etilheksil stearat, gözenekleri tıkama riski taşıdığından milia veya sivilceye yatkın göz çevresine sahip kişiler dikkat etmelidir.",
+    "caudalie-premier-cru-the-serum": "Hyalüronik asit ve niasinamid ile zenginleştirilmiş, yaşlanma belirtilerine karşı kapsamlı bakım sunmayı amaçlayan serumdur. Cildi sıkılaştırmaya, nemlendirmeye ve daha aydınlık bir görünüme kavuşmasına yardımcı olur. Parfümün yanı sıra geraniol, linalool ve sitronellol gibi AB alerjen listesindeki koku maddelerini içerir.",
+    "caudalie-premier-cru-the-cream": "Hyalüronik asit, Viniferine ve TET8 teknolojisi içeren çok yönlü bir yaşlanma karşıtı gündüz kremidir. Düzenli kullanımla cildi beslemeyi, kırışıklık ve leke görünümünü dengelemeyi destekler. Koku alerjenleri olan geraniol, linalool ve sitronellol barındırır. Hidrojene etilheksil olivat bileşeni sivilce oluşumuna müsait ciltler için komedojenik risk oluşturabilir.",
+    "caudalie-premier-cru-the-rich-cream": "Shea yağı ve bitkisel seramidlerle formüle edilmiş, özellikle kuru cilt tipleri için geliştirilmiş yoğun yaşlanma karşıtı bakımdır. Kapsamlı yaşlanma belirtileriyle mücadele ederken cildin nem bariyerini desteklemeyi hedefler. Geraniol, linalool ve sitronellol koku alerjenleridir. Mantar aknesine veya sivilceye yatkın kişiler, hidrojene etilheksil olivat maddesine karşı temkinli yaklaşmalıdır.",
+    "caudalie-vinoperfect-dark-spot-correcting-hand-cream": "Avokado yağı, shea yağı ve asma çubuğu özü (Viniferine) ile formüle edilen el bakım ürünüdür. Elleri nemlendirirken yaşlanma veya güneşe bağlı oluşan koyu leke görünümünü hafifletmeyi hedefler. Limonen adlı koku alerjeni ile parfüm içerir. İçeriğinde gliseril stearat bulunduğundan, mantar aknesini tetikleme ihtimali vardır.",
+    "caudalie-vinoperfect-instant-brightening-moisturizer": "Niasinamid ve Viniferine bileşenleriyle geliştirilen günlük nemlendiricidir. Cildin doğal ışıltısını artırmayı, cilt tonunu eşitlemeyi ve leke görünümünü dengelemeyi amaçlar. Formülüne koku katması için parfüm ilave edilmiştir. Oktildodesil miristat içerdiğinden dolayı sivilce problemi yaşayan ciltlerin kullanımı sırasında dikkatli olması faydalı olacaktır.",
+    "caudalie-vinoperfect-dark-spot-correcting-glycolic-night-cream": "Glikolik asit, asma çubuğu özü ve papaya enzimi içeren gece bakım kremidir. Gece boyunca cildi nazikçe ölü hücrelerden arındırarak daha pürüzsüz ve aydınlık bir görünüme kavuşmasına yardımcı olur. Vinoperfect Leke Karşıtı Glikolik Gece Bakım Kremi formülünde koku verici parfüm bileşenleri bulunmaktadır.",
+    "caudalie-vinopure-moisturizing-mattifying-fluid": "Organik gül suyu ve polifenoller içeren, yağlı ve karma ciltler için geliştirilen matlaştırıcı sıvı kremdir. Silika tozu sayesinde gün içinde ciltteki sebum fazlasını emerek parlama görünümünü kontrol altına almayı hedefler. Alkol içerir. Formülünde ıtır çiçeği yağı, nane yağı, limon otu yağı ile sitral, sitronellol, geraniol, linalool ve limonen gibi alerjen koku maddeleri yer almaktadır.",
+    "caudalie-vinopure-salicylic-spot-solution": "Doğal salisilik asit, niasinamid ve çay ağacı uçucu yağı içeren bölgesel bakım ürünüdür. Akneli bölgelere lokal olarak uygulanır, kurutmaya ve görünümünü hafifletmeye yardımcı olur. Alkol barındırır. Itır çiçeği yağı, nane yağı ve limon otu yağının yanı sıra çeşitli alerjen bileşenler formülde bulunur. Gliseril stearat SE içeriği mantar aknesini besleyebilir.",
+    "caudalie-vinopure-purifying-gel-cleanser": "Doğal salisilik asit içeren, cildi derinlemesine temizlemeyi amaçlayan yüz yıkama jelidir. Gözenekleri arındırmaya, fazla sebumu dengelemeye ve cilt dokusunu pürüzsüzleştirmeye destek sağlar. Formülün başlarında yer alan sükroz kokoat bileşeninin sivilcelenmeye yatkın ciltlerde komedojenik etki gösterme ihtimali bulunmaktadır.",
+    "caudalie-vinotherapist-tinted-lip-balm": "Üzüm çekirdeği yağı, macadamia yağı ve shea yağı ile formüle edilen renkli dudak nemlendiricisidir. Dudakları çevresel etkenlere karşı koruyup beslerken, hafif ve doğal bir renk tonu kazandırmaya yardımcı olur. Parfüm içermektedir. C10-18 trigliseritleri ile macadamia fındığı yağı komedojenik risk taşıdığından, dudak çevresinde sivilcelenmeye yatkın kişiler dikkat etmelidir.",
+    "caudalie-resveratrol-lift-firming-cashmere-body-cream": "Resveratrol, hyalüronik asit ve vegan kolajen alternatifi içeren sıkılaştırıcı vücut bakım ürünüdür. Kaşmir dokusuyla cildi yoğun şekilde beslerken elastikiyet kaybını dengelemeyi ve cildi toparlamayı hedefler. Linalil asetat, portakal kabuğu yağı, limonen, kumarin gibi çok sayıda uçucu bileşen ve koku alerjeni barındırır. Heksildesil stearat maddesi sivilce oluşumuna müsait vücut bölgeleri için tıkayıcı olabilir.",
+    "caudalie-vinoclean-moisturizing-toner": "Organik gül suyu ve Vinolevure (üzüm mayası özü) içeren, alkolsüz formüle sahip nemlendirici toniktir. Cildi nazikçe arındırmayı, makyaj kalıntılarını uzaklaştırmayı ve cilt bariyerini yatıştırarak nemlendirmeyi amaçlar.",
+    "caudalie-vinoclean-micellar-cleansing-water": "Papatya özü ve organik üzüm suyu ile zenginleştirilmiş misel sudur. Yüz ve göz makyajını cildi ovalamaya gerek kalmadan, nazikçe temizlemeyi ve cildi yatıştırmayı hedefler. Vinoclean Misel Temizleyici Üzüm Suyu formülünde koku verici parfüm bileşenleri bulunmaktadır.",
+    "caudalie-vinoclean-cleansing-almond-milk": "Tatlı badem yağı ve peygamber çiçeği özü içeren makyaj temizleyici süt yapılı ürünüdür. Hassas ciltleri kurutmadan yüz ve göz makyajını arındırmaya, cildi besleyip yumuşatmaya yardımcı olur. Koku verici parfüm bileşenlerine sahiptir. İçeriğindeki geranil asetat ve ardıç yağı gibi maddeler alerji riski taşıyabilir.",
+    "caudalie-vinoclean-makeup-removing-cleansing-oil": "Tatlı badem, hint ve üzüm çekirdeği yağları karışımından oluşan temizleme ürünüdür. Suya dayanıklı makyajı bile cilt bariyerini bozmadan çözerek arındırmayı ve cildi beslemeyi hedefler. Hoş kokması için parfüm ilave edilmiştir. Koku profili içinde Avrupa uyarı listesinde yer alan geranil asetat alerjeni bulunmaktadır.",
+    "caudalie-resveratrol-lift-instant-firming-serum": "Hyalüronik asit, resveratrol ve vegan kolajen içeriğiyle formüle edilen serumdur. Ciltteki ince çizgi ve kırışıklık görünümünü hafifletmeyi, yüz ovalini toparlamaya ve sıkılaştırmaya yardımcı olur. Linalil asetat, portakal kabuğu yağı, limonen ve kumarin gibi etiketlenmesi zorunlu parfüm alerjenleri barındırır. Heksildesil laurat içerdiği için fungal aknesi olan ciltlerin kullanımı riskli olabilir.",
+    "caudalie-resveratrol-lift-firming-cashmere-cream": "Kaşmir hissi veren yumuşak dokusuyla geliştirilen, resveratrol ve vegan kolajen içerikli yaşlanma karşıtı gündüz nemlendiricisidir. Cildi beslerken elastikiyetini artırmayı ve daha sıkı bir görünüm sağlamayı amaçlar. Linalil asetat, limon kabuğu yağı, nane yağı ve kumarin dahil birçok koku alerjenine sahiptir. Oktildodesil miristat bileşeni komedojenik etki gösterebilir.",
+    "caudalie-resveratrol-lift-firming-eye-gel-cream": "Kinoa özü, biopolimerler ve sıkılaştırıcı aktifler içeren jel formlu göz çevresi bakımıdır. Göz etrafındaki yorgunluk belirtilerini, şişkinliği ve ince çizgileri hafifletmeyi hedefler. Benzil alkol koku alerjeni mevcuttur. İlk sıralardaki izoamil laurat maddesi, sivilcelenmeye yatkın veya milia sorunu olan göz çevreleri için potansiyel bir tıkayıcıdır.",
+    "caudalie-vinotherapist-overnight-detox-oil": "Üzüm çekirdeği, badem, lavanta ve biberiye gibi doğal yağlardan oluşan bir karışımdır. Gece boyunca cildi beslemeyi, serbest radikallerin etkilerine karşı korumayı ve yorgun görünümü hafifletmeyi hedefler. Acı portakal yaprağı yağı, sandal ağacı yağı ve portakal çiçeği yağı ile limonen, geraniol gibi alerjenler içerir. Kuşburnu meyvesi yağı barındırdığından sivilceye yatkın ciltlerin dikkatli olması gerekir."
+  },
+  "ingredients": {
+    "hexyldecyl-stearate": {
+      "nameTr": "Heksildesil stearat",
+      "description": "Cilt bakım ürünlerinde cildi yumuşatmak ve nemin tutulmasına yardımcı olmak için kullanılan, sürülebilirliği artıran bir cilt bakım maddesi (emoliyan) ve yağ asidi esteridir."
+    },
+    "hydrogenated-jojoba-oil": {
+      "nameTr": "Hidrojene jojoba yağı",
+      "description": "Jojoba yağının hidrojenle doyurulmasıyla elde edilen katı formlu bir cilt bakım maddesidir. Genellikle peeling ürünlerinde cildi nazikçe arındırmak için fiziksel tanecikler olarak görev yapar."
+    },
+    "mel": {
+      "nameTr": "Bal",
+      "description": "Kozmetiklerde cildi yatıştırmak, yumuşatmak ve nemlendirmek için kullanılan doğal bir nem çekici (hümektan) ve cilt bakım bileşenidir."
+    },
+    "hexyl-cinnamal": {
+      "nameTr": "Heksil sinnamal",
+      "description": "Kozmetik formüllerde ürünlere çiçeksi bir koku kazandırmak amacıyla kullanılır. AB regülasyonlarına göre ürün etiketinde özellikle belirtilmesi zorunlu olan koku alerjenleri listesindedir."
+    },
+    "phospholipids": {
+      "nameTr": "Fosfolipitler",
+      "description": "Hücre zarlarının temel yapı taşı olan ve cildin doğal yapısıyla uyumlu, nemlendirici (emoliyan) özellikleri sayesinde cilt bariyerini güçlendirmeye yardımcı olan lipitlerdir."
+    },
+    "polyglyceryl-10-stearate": {
+      "nameTr": "Poligliseril-10 stearat",
+      "description": "Yağ ve su bazlı içeriklerin formül içinde homojen şekilde karışmasını sağlayan temizleyici ve emülgatör (yüzey aktif) maddedir."
+    },
+    "benzyl-benzoate": {
+      "nameTr": "Benzil Benzoat",
+      "description": "Formüllerde koku maddelerinin çözülmesini sağlayan ve koku verici özellikleri bulunan antimikrobiyal bir çözücüdür. AB'de etikette belirtilmesi gereken koku alerjenidir."
+    },
+    "salvia-officinalis-leaf-extract": {
+      "nameTr": "Adaçayı Yaprağı Özü",
+      "description": "Ciltte yatıştırıcı, ferahlatıcı ve sebum dengeleyici özellikleriyle bilinen, adaçayı yapraklarından elde edilen doğal bir cilt bakım özütüdür."
+    },
+    "potassium-alum": {
+      "nameTr": "Potasyum Şapı",
+      "description": "Cilt gözeneklerini sıkılaştırmak ve koku oluşumunu engellemek amacıyla kullanılan antimikrobiyal, büzücü (astrenjan) özellikli bir mineral tuzdur."
+    },
+    "commiphora-myrrha-resin-extract": {
+      "nameTr": "Mür Ağacı Reçinesi Özü",
+      "description": "Mür ağacının reçinesinden elde edilen, cildi yatıştırma ve ürüne karakteristik odunsu bir koku sağlama işlevleri bulunan doğal bir bitki özütüdür."
+    },
+    "styrax-tonkinensis-resin-extract": {
+      "nameTr": "Sığla Reçinesi Özü",
+      "description": "Aselbent ağacı reçinesinden elde edilen, cildi koruma özelliğine sahip ve formülasyonlara hafif vanilyamsı koku veren bir maddedir."
+    },
+    "citrus-aurantium-amara-flower-oil": {
+      "nameTr": "Acı Portakal Çiçeği Yağı",
+      "description": "Neroli olarak da bilinen, ürüne parfüm etkisi katan uçucu yağdır. Cilt bakım işlevi de tanımlıdır; ancak içerdiği alerjenler nedeniyle hassas ciltleri tahriş edebilir."
+    },
+    "rosa-damascena-flower-oil": {
+      "nameTr": "Şam Gülü Yağı",
+      "description": "Gül çiçeklerinden damıtılarak elde edilen, ürüne yoğun gül kokusu veren esansiyel bir yağdır. Cildi nemlendirme işlevi bulunmakla birlikte koku alerjenleri içerir."
+    },
+    "vitis-vinifera-fruit-extract": {
+      "nameTr": "Üzüm Meyvesi Özü",
+      "description": "Antioksidan polifenoller açısından zengin olan üzüm özütü, cildi serbest radikallerin çevresel zararlarına karşı desteklemek için formüllere eklenir."
+    },
+    "farnesol": {
+      "nameTr": "Farnesol",
+      "description": "Doğada birçok esansiyel yağın içinde bulunan antibakteriyel bir koku maddesidir. AB standartlarına göre etikette ayrıca belirtilmesi zorunlu koku alerjenleri arasında yer alır."
+    },
+    "nitrogen": {
+      "nameTr": "Azot (Nitrojen)",
+      "description": "Sprey ve aerosol ürünlerin sıkıldığında dışarı itilmesini sağlayan itici (propellant) bir gazdır. Formülün havayla temas edip bozulmasını engeller."
+    },
+    "salix-alba-bark-extract": {
+      "nameTr": "Ak Söğüt Kabuğu Özü",
+      "description": "Doğal salisilik asit türevleri (salisin) içeren, cilt yüzeyini pürüzsüzleştirmeye ve gözenek görünümünü arındırmaya yardımcı büzücü bir cilt bakım ekstraktıdır."
+    },
+    "polyglyceryl-6-laurate": {
+      "nameTr": "Poligliseril-6 laurat",
+      "description": "Su ve yağ fazlarının ayrışmasını önlemek için formüllere katılan, temizleme özelliğine de sahip olan bitkisel kökenli bir emülgatördür."
+    },
+    "paeonia-lactiflora-root-extract": {
+      "nameTr": "Şakayık Kökü Özü",
+      "description": "Ciltteki ton eşitsizliklerini hedef alarak aydınlık bir görünüm sağlamaya yardımcı olan ve antioksidan (cilt koruyucu) işlevi bulunan bir bitki özütüdür."
+    },
+    "polyglycerin-6": {
+      "nameTr": "Poligliserin-6",
+      "description": "Gliserinin polimerik hali olan bu nem çekici (hümektan) madde, su moleküllerini cilde bağlayarak yoğun nemlendirme ve yumuşatma işlevi sunar."
+    },
+    "acer-saccharum-extract": {
+      "nameTr": "Şeker Akçaağacı Özü",
+      "description": "İçerdiği doğal malik asit ve tartarik asit bileşenleri sayesinde cildi nazikçe eksfoliye etmeye ve cilt yenilenmesini desteklemeye yardımcı olan bitkisel özüttür."
+    },
+    "papain": {
+      "nameTr": "Papain Enzimi",
+      "description": "Papaya meyvesinden elde edilen doğal bir enzimdir. Cildin en üst katmanındaki ölü hücre bağlarını çözerek peeling (arındırma) işlemi yapar."
+    },
+    "oleic-acid": {
+      "nameTr": "Oleic Asidi",
+      "description": "Zeytinyağı gibi doğal yağlarda bolca bulunan Omega-9 yağ asididir. Cildi beslemeye, yumuşatmaya ve bariyerini güçlendirmeye destek olur."
+    },
+    "terminalia-arjuna-extract": {
+      "nameTr": "Terminalia Arjuna Özü",
+      "description": "Arjuna ağacı kabuğundan elde edilen bitkisel bir özüttür. Antioksidan özellikleriyle cildi desteklemeye yardımcı olur."
+    },
+    "sodium-dehydroacetate": {
+      "nameTr": "Sodyum Dehydroasetat",
+      "description": "Formüllerin mikrobiyal bozulmalara karşı korunmasına yardımcı olan, kozmetikte sıkça kullanılan bir koruyucu maddedir."
+    },
+    "copernicia-cerifera-cera": {
+      "nameTr": "Copernicia Cerifera Mumu",
+      "description": "Karnauba mumu olarak da bilinir. Brezilya'da yetişen bir palmiye türünden elde edilir, ürünlere yapı ve kıvam kazandırmaya destek olur."
+    },
+    "hydrogenated-castor-oil": {
+      "nameTr": "Hydrogenated Castor Yağı",
+      "description": "Hint yağından elde edilen ve hidrojene edilerek katılaştırılan bir içeriktir. Cildi yumuşatmaya ve nemin buharlaşmasını önlemeye yardımcı olur."
+    },
+    "leontopodium-alpinum-flower-leaf-extract": {
+      "nameTr": "Leontopodium Alpinum Çiçeği Yaprağı Özü",
+      "description": "Edelweiss (Alp Yıldızı) çiçeği özüdür. Güçlü antioksidan özellikleriyle cildi çevresel faktörlere karşı korumaya destek olur."
+    },
+    "butyrospermum-parkii-butter-extract": {
+      "nameTr": "Butyrospermum Parkii Yağı Özü",
+      "description": "Shea yağından elde edilen zengin bir ekstrakttır. Cildi yoğun şekilde beslemeye ve pürüzsüzlük hissi sağlamaya yardımcı olur."
+    },
+    "octyldodecyl-myristate": {
+      "nameTr": "Octyldodecyl Miristat",
+      "description": "Bitkisel yağ asitlerinden türetilen bir emoliyandır. Cildi yağlandırmadan yumuşatmaya ve formülün sürülebilirliğini artırmaya destek olur."
+    },
+    "balanites-roxburghii-seed-oil": {
+      "nameTr": "Balanites Roxburghii Çekirdeği Yağı",
+      "description": "Çöl hurması olarak bilinen bu bitkinin çekirdeklerinden elde edilen yağ, yüksek oranda doymamış yağ asitleri sayesinde cildi kurutmadan yoğun nem takviyesi sunar."
+    },
+    "candelilla-jojoba-rice-bran-polyglyceryl-3-esters": {
+      "nameTr": "Candelilla Jojoba Rice Bran Poligliseril 3 Esters",
+      "description": "Kandelila, jojoba ve pirinç kepeğinden türetilen bitkisel kökenli bu emülgatör, krem ve losyonların dokusunu pürüzsüzleştirip su ile yağ fazının birleşmesini sağlar."
+    },
+    "sodium-stearoyl-lactylate": {
+      "nameTr": "Sodyum Stearoyl Lactylate",
+      "description": "Cilt üzerinde yumuşatıcı his bırakan ve kozmetik formüllerin kıvamını stabil tutmaya yarayan güvenilir bir surfaktan ve emülsifiye edici maddedir."
+    },
+    "hydroxycitronellal": {
+      "nameTr": "Hidroksisitronellal",
+      "description": "Kozmetik formüllerde ürünlere tatlı, çiçeksi koku vermek için kullanılan sentetik bir maddedir. AB kuralları gereği etikette yazılması zorunlu koku alerjenleri listesindedir."
+    },
+    "phenylpropanol": {
+      "nameTr": "Fenilpropanol",
+      "description": "Çiçeksi koku profiline sahip bir solvent ve koku maskeleyici olmasının yanı sıra, formülün mikrobiyal bozulmasını geciktiren antimikrobiyal bir bileşendir."
+    },
+    "p-anisic-acid": {
+      "nameTr": "P Anisic Asidi",
+      "description": "Anason bitkisinden doğal olarak da elde edilebilen p-anisik asit, ürüne hoş bir koku katmasının yanında hafif mikrop kırıcı özelliğiyle formülü korur."
+    },
+    "citrus-paradisi-fruit-extract": {
+      "nameTr": "Citrus Paradisi Meyvesi Özü",
+      "description": "Greyfurt meyvesinin özütüdür. Antioksidan C vitamini ve meyve asitleri açısından zengin yapısıyla cildi canlandırmaya ve daha parlak göstermeye destek verir."
+    },
+    "polyglyceryl-3-distearate": {
+      "nameTr": "Poligliseril 3 Distearat",
+      "description": "Cilt bariyerine zarar vermeden ürünün kolayca yayılmasını sağlayan ve su-yağ dengesini koruyan bitkisel bazlı bir bağlayıcı maddedir."
+    },
+    "rosa-canina-fruit-oil": {
+      "nameTr": "Rosa Canina Meyvesi Yağı",
+      "description": "Kuşburnu çekirdeği yağı, A vitamini (retinol) ve esansiyel yağ asitleri bakımından zengin olup yara izleri ve leke görünümünün azalmasına yardımcı olan besleyici bir botaniktir."
+    },
+    "citrus-aurantium-amara-leaf-twig-oil": {
+      "nameTr": "Citrus Aurantium Amara Yaprağı Twig Yağı",
+      "description": "Turunç ağacının yaprak ve dallarından damıtılan petitgrain yağıdır. Ferahlatıcı kokusuyla parfüm etkisi yaratırken aynı zamanda ciltteki yağlanmayı dengelemeyi destekler."
+    },
+    "daucus-carota-sativa-seed-oil": {
+      "nameTr": "Daucus Carota Sativa Çekirdeği Yağı",
+      "description": "Havuç tohumundan elde edilen bu esansiyel yağ, güçlü antioksidanlar barındırır ve cildi dış etkenlerin yaşlandırıcı etkilerine karşı koruma işleviyle öne çıkar."
+    },
+    "santalum-album-oil": {
+      "nameTr": "Santalum Album Yağı",
+      "description": "Sandal ağacı yağı, kozmetiklere sıcak ve odunsu bir koku karakteri kazandıran, geçmişten bugüne parfümeride çok sık tercih edilen uçucu bir bileşendir."
+    },
+    "lavandula-angustifolia-oil": {
+      "nameTr": "Lavandula Angustifolia Yağı",
+      "description": "Gerçek lavanta yağı, karakteristik çiçek kokusunu veren ve aromaterapide sakinleştirici etkisinden faydalanılan, hassas ciltlerde bazen alerji yapabilen bir koku maddesidir."
+    },
+    "bentonite": {
+      "nameTr": "Bentonite",
+      "description": "Volkanik kül kaynaklı doğal bir kil türüdür. Fazla sebumu emerek cildi matlaştırmak ve ürünlere yoğun, macunsu bir kıvam vermek için formüllerde yer alır."
+    },
+    "citrus-aurantium-bergamia-fruit-oil": {
+      "nameTr": "Citrus Aurantium Bergamia Meyvesi Yağı",
+      "description": "Bergamot meyvesinden sıkılan uçucu yağ, narenciye tazeliğinde bir parfüm notası sağlar ancak güneşe çıkıldığında ciltte lekelenme (fototoksisite) riskini artırabilir."
+    },
+    "coffea-arabica-seed-extract": {
+      "nameTr": "Coffea Arabica Çekirdeği Özü",
+      "description": "Arabica kahve çekirdeklerinden elde edilen ekstrakt, içeriğindeki kafein ve antioksidanlar sayesinde ciltteki mikro dolaşımı destekleyerek yorgunluk izleriyle savaşır."
+    },
+    "coffea-robusta-seed-extract": {
+      "nameTr": "Coffea Robusta Çekirdeği Özü",
+      "description": "Robusta türü kahveden üretilen bu öz, yüksek kafein oranıyla özellikle göz altı torbaları veya selülit karşıtı ürünlerde canlandırıcı etki yaratmak üzere kullanılır."
+    },
+    "cupressus-sempervirens-oil": {
+      "nameTr": "Cupressus Sempervirens Yağı",
+      "description": "Akdeniz selvisinin dallarından çıkarılan selvi uçucu yağı, ferah ve ağaçsı bir koku vermesinin yanı sıra damar büzücü özellikleriyle ciltte sıkılaştırıcı his bırakır."
+    },
+    "salvia-sclarea-oil": {
+      "nameTr": "Salvia Sclarea Yağı",
+      "description": "Misk adaçayı yağı, formülasyonlara topraksı ve tatlı bir koku katan, geleneksel olarak cildi dengelemek için de yararlanılan doğal bir aromatik maddedir."
+    },
+    "commiphora-myrrha-oil": {
+      "nameTr": "Commiphora Myrrha Yağı",
+      "description": "Mür ağacı yağı, reçineli ve hafif dumanlı koku profiline sahip eski bir parfüm içeriğidir; cildi dış hasarlara karşı koruyucu bir tabaka gibi sarar."
+    },
+    "anthemis-nobilis-flower-oil": {
+      "nameTr": "Anthemis Nobilis Çiçeği Yağı",
+      "description": "Roma papatyasından elde edilen papatya yağı, hafif tatlı elma kokusuyla yatıştırıcı bir aura yaratırken kozmetik ürünlere doğal bir koku profili ekler."
+    },
+    "ethyl-oleate": {
+      "nameTr": "Etil Oleat",
+      "description": "Zeytinyağı asitleri ve etanolün birleşmesiyle ortaya çıkan bu ester, cilt tarafından kolayca emilir ve kremlerin yağlı değil kadifemsi bir his bırakmasını sağlar."
+    },
+    "cetearyl-wheat-straw-glycosides": {
+      "nameTr": "Setearil Buğday Samanı Glikozitleri",
+      "description": "Buğday samanı kaynaklı şekerlerden ve setearil alkolden üretilen bu bileşen, kremlerin ayrışmasını engelleyen doğal bir emülgatör görevi görür."
+    },
+    "hydrogenated-castor-oil-sebacic-acid-copolymer": {
+      "nameTr": "Hydrogenated Castor Yağı Sebacic Asidi Kopolimer",
+      "description": "Hint yağı ve sebasik asitten elde edilen, saçta veya ciltte koruyucu bir film tabakası oluşturan yenilikçi bir bakım kopolimeridir."
+    },
+    "hydrogenated-olive-oil-stearyl-esters": {
+      "nameTr": "Hydrogenated Olive Yağı Stearyl Esters",
+      "description": "Zeytinyağından elde edilen ve hidrojene edilerek sertleştirilen bitkisel mumsu maddelerdir. Ürüne katılık verirken cildi kuruluğa karşı sarıp sarmalar."
+    },
+    "hexyldecyl-laurate": {
+      "nameTr": "Heksildesil Laurat",
+      "description": "Yağ asitlerinden elde edilen heksildesil laurat, oldukça hafif yapılı bir yumuşatıcıdır ve ciltte kaygan, pürüzsüz bir dokunuş hissi yaratır."
+    },
+    "homarine-hcl": {
+      "nameTr": "Homarin HCl",
+      "description": "Deniz yosunlarında ve bazı deniz canlılarında bulunan bu molekül, hücresel düzeyde su tutma kapasitesini artırarak cildin nem dengesini korumaya destektir."
+    },
+    "acetyl-tetrapeptide-15": {
+      "nameTr": "Asetil Tetrapeptid 15",
+      "description": "Acetyl Tetrapeptide 15, cildin elastikiyetini ve genç görünümünü desteklemek için formüllerde yer alan peptid yapılı bir içeriktir."
+    },
+    "isostearyl-isostearate": {
+      "nameTr": "Isostearyl Isostearat",
+      "description": "İzostearil alkol ile izostearik asidin esterleşmiş hali olan bu madde, cilt yüzeyinde ince bir tabaka oluşturarak su kaybını azaltmaya yardımcı olan yumuşatıcıdır."
+    },
+    "sesamum-indicum-seed-oil": {
+      "nameTr": "Sesamum Indicum Çekirdeği Yağı",
+      "description": "Susam çekirdeği yağı, antioksidan sesamin ve E vitamini deposudur; cildi derinlemesine nemlendirip güneşin yıpratıcı etkilerine karşı bariyer görevini üstlenir."
+    },
+    "argania-spinosa-kernel-oil": {
+      "nameTr": "Argania Spinosa Kernel Yağı",
+      "description": "Fas'ın meşhur argan ağacı meyvelerinden sıkılan argan yağı, yağ asitleri bakımından zengin, cildi yumuşatan ve besleyen bir bitkisel yağdır."
+    },
+    "opuntia-ficus-indica-seed-oil": {
+      "nameTr": "Opuntia Ficus Indica Çekirdeği Yağı",
+      "description": "Frenk inciri yağı olarak da bilinen bu nadide kaktüs çekirdeği yağı, cildi serbest radikallerden korumada olağanüstü yüksek linoleik asit seviyesi sunar."
+    },
+    "solanum-lycopersicum-fruit-extract": {
+      "nameTr": "Solanum Lycopersicum Meyvesi Özü",
+      "description": "Domates meyvesinden çıkarılan bu zengin içerik, barındırdığı likopen sayesinde cildi oksidatif strese ve çevresel kirliliğe karşı güçlendirici bir kalkan oluşturur."
+    },
+    "rosmarinus-officinalis-leaf-extract": {
+      "nameTr": "Rosmarinus Officinalis Yaprağı Özü",
+      "description": "Biberiye yaprağı ekstraktı, koku ve ferahlık vermesinin yanında ürün içindeki yağların bozulmasını (oksitlenmesini) önleyen doğal bir koruyucu ajandır."
+    },
+    "polyglyceryl-3-stearate": {
+      "nameTr": "Poligliseril 3 Stearat",
+      "description": "Bitkisel gliserin ve stearik asidin reaksiyonuyla üretilen emülgatördür; yağ ve suyun karışık kalmasına, formülün homojen olmasına yardımcı olur."
+    },
+    "khaya-senegalensis-bark-extract": {
+      "nameTr": "Khaya Senegalensis Kabuğu Özü",
+      "description": "Afrika maun ağacının kabuklarından elde edilen öz, ciltte sıkılaştırıcı etki sağlamak ve kolajen yapısını desteklemek amacıyla yaşlanma karşıtı formüllere eklenir."
+    },
+    "tin-oxide": {
+      "nameTr": "Kalay Oksit",
+      "description": "Kalay Oksit, kozmetik ürünlere istenen rengi vermek veya matlık sağlamak amacıyla kullanılan pigment özellikli bir maddedir."
+    },
+    "nicotiana-benthamiana-hexapeptide-40-sh-polypeptide-47": {
+      "nameTr": "Tütün Yaprağı Ekstraktı Polipeptidi",
+      "description": "Nicotiana Benthamiana Hexapeptide 40 Sh Polypeptide 47, cildin elastikiyetini ve genç görünümünü desteklemek için formüllerde yer alan peptid yapılı bir içeriktir."
+    },
+    "ethylhexyl-stearate": {
+      "nameTr": "Etilheksil Stearat",
+      "description": "Sürülebilirliği kolaylaştıran sentetik bir yağlı esterdir. Ürünün cilt üzerinde kalın veya yapışkan bir tabaka oluşturmadan kaymasını sağlar."
+    },
+    "bis-behenyl-isostearyl-phytosteryl-dimer-dilinoleyl-dimer-dilinoleate": {
+      "nameTr": "Bis Behenil İzostearil Fitosteril Dimer Dilinoleat",
+      "description": "Farklı bitkisel sterol ve yağ asitlerinden sentezlenen oldukça kompleks yapılı bu reçinemsi madde, dudak balmı gibi ürünlerde parlaklık ve uzun süreli kalıcılık verir."
+    },
+    "hydrogenated-avocado-oil": {
+      "nameTr": "Hydrogenated Avocado Yağı",
+      "description": "Avokado yağının kıvamının koyulaştırılmasıyla oluşturulan bu yağ, ciltte yoğun bir nem bariyeri kurarak kuruyup çatlamış bölgeleri hızla yumuşatır."
+    },
+    "magnolia-officinalis-bark-extract": {
+      "nameTr": "Magnolia Officinalis Kabuğu Özü",
+      "description": "Manolya ağacı kabuğundan gelen bu güçlü öz, magnolol ve honokiol bileşenleriyle cildi yatıştırmaya, kızarıklık ve iltihabi reaksiyonları dindirmeye destek olur."
+    },
+    "gleditsia-triacanthos-seed-extract": {
+      "nameTr": "Gleditsia Triacanthos Çekirdeği Özü",
+      "description": "Yalancı akasya tohumu özü, cilt yüzeyini germe ve kırışıklık görünümünü anında daha düzgün gösterme etkileriyle anında pürüzsüzlük hissi yaratmak için kullanılır."
+    },
+    "aniba-rosodora-wood-extract": {
+      "nameTr": "Aniba Rosodora Wood Özü",
+      "description": "Gül ağacı odunundan çıkarılan özüt, cildi dengelerken aromaterapik bir gül-odun arası lüks parfüm kokusu sağlar."
+    },
+    "magnolia-grandiflora-bark-extract": {
+      "nameTr": "Magnolia Grandiflora Kabuğu Özü",
+      "description": "Büyük çiçekli manolya ağacının kabuğu ekstraktı, serbest radikal hasarına karşı cilt direncini artıran yatıştırıcı özellikli bir biyo-aktif maddedir."
+    },
+    "hydrogenated-ethylhexyl-olivate": {
+      "nameTr": "Hidrojene Etilheksil Olivat",
+      "description": "Zeytinyağı asitlerinden elde edilen ve silikonlara doğal bir alternatif olarak kullanılan bu içerik, cilde ipeksi bir dokunuş kazandırıp kuruluk hissini alır."
+    },
+    "hydrogenated-olive-oil-unsaponifiables": {
+      "nameTr": "Hydrogenated Olive Yağı Unsaponifiables",
+      "description": "Hydrogenated Olive Yağı Unsaponifiables, cildi beslemeye, nemlendirmeye ve nem kaybını önlemeye yardımcı olan doğal veya sentetik yağ formunda bir bileşendir."
+    },
+    "pentaerythrityl-distearate": {
+      "nameTr": "Pentaerythrityl Distearat",
+      "description": "Kremlerin ve losyonların kıvamını artıran, mat ve kadifemsi bir bitiş sağlayarak ciltte yağlanma parlamasını engelleyen yapılandırıcı bir mumdur."
+    },
+    "calcium-citrate": {
+      "nameTr": "Kalsiyum Sitrat",
+      "description": "Kalsiyum tuzu olan kalsiyum sitrat, formülün asitlik derecesini (pH) sabitlemek ve cilt yüzeyinde mat bir zemin yaratmak amacıyla kozmetiklerde tercih edilir."
+    },
+    "enantia-chlorantha-bark-extract": {
+      "nameTr": "Enantia Chlorantha Kabuğu Özü",
+      "description": "Afrika kökenli bir ağacın kabuklarından sağlanan bu özüt, sebum üretimini kontrol altına alarak genişlemiş gözeneklerin daha sıkı görünmesini hedefler."
+    },
+    "orthosiphon-stamineus-extract": {
+      "nameTr": "Orthosiphon Stamineus Özü",
+      "description": "Kedi bıyığı bitkisi olarak bilinen bu bitkinin özü, anti-enflamatuar yapısıyla fazla yağlanmayı azaltmaya ve cildin daha mat, temiz görünmesine olanak tanır."
+    },
+    "oleanolic-acid": {
+      "nameTr": "Oleanolic Asidi",
+      "description": "Zeytin yaprağı gibi bitkilerde bulunan oleanolik asit, cildi sakinleştiren, antimikrobiyal etkisiyle akneye meyilli ciltleri rahatlatan etkili bir triterpendir."
+    },
+    "hydrolyzed-gardenia-florida-extract": {
+      "nameTr": "Hydrolyzed Gardenia Florida Özü",
+      "description": "Gardenya çiçeğinden suyla hidrolize edilerek çıkarılan bu içerik, doğal bir renklendirici veya cilt bakımını destekleyici özellikleriyle formülasyona katkı sunar."
+    },
+    "aloe-barbadensis-leaf-powder": {
+      "nameTr": "Aloe Barbadensis Yaprağı Tozu",
+      "description": "Aloe vera yapraklarının kurutulup toz haline getirilmiş versiyonudur. Suyla buluştuğunda cildi ferahlatan ve yatıştıran aloe jeline dönüşerek hassasiyeti dindirir."
+    },
+    "ci-15850": {
+      "nameTr": "Kırmızı Pigment (CI 15850)",
+      "description": "CI 15850, kozmetik ürünlere istenen rengi vermek veya matlık sağlamak amacıyla kullanılan pigment özellikli bir maddedir."
+    },
+    "polyhydroxystearic-acid": {
+      "nameTr": "Polyhydroxystearic Asidi",
+      "description": "Güneş kremlerinde pigmentlerin veya mineral filtrelerin topaklanmasını engelleyen ve kremin cilde eşit dağılmasını sağlayan pürüzsüzleştirici bitkisel asittir."
+    },
+    "iris-florentina-root-extract": {
+      "nameTr": "Iris Florentina Kökü Özü",
+      "description": "Süsen çiçeği kökünden elde edilen bu pudramsı öz, cildin yenilenme hızını desteklemek ve elastikiyet kaybını önlemek amacıyla aktif olarak kullanılır."
+    },
+    "anethole": {
+      "nameTr": "Anethole",
+      "description": "Anason ve rezene gibi bitkilerden doğal olarak da bulunabilen anetol, ürüne karakteristik meyan kökü-anason benzeri tatlı bir koku profili vermek için eklenir."
+    },
+    "camphor": {
+      "nameTr": "Camphor",
+      "description": "Kâfur ağacından veya sentetik olarak üretilen kâfur, cilde uygulandığında ferahlatıcı, karıncalandırıcı bir serinlik veren ve keskin nane-çam benzeri koku katan aktif bir ajandır."
+    },
+    "heptyl-glucoside": {
+      "nameTr": "Heptil Glikozit",
+      "description": "Heptyl Glucoside, cildi temizlemek ve formüldeki kirleri arındırmak için kullanılan yüzey aktif bir temizleyici maddedir."
+    },
+    "capryl-capramidopropyl-betaine": {
+      "nameTr": "Kapril Kapramidopropil Betain",
+      "description": "Capryl Capramidopropyl Betaine, cildi temizlemek ve formüldeki kirleri arındırmak için kullanılan yüzey aktif bir temizleyici maddedir."
+    },
+    "isopropyl-isostearate": {
+      "nameTr": "Isopropyl Isostearat",
+      "description": "İzopropil alkol ve izostearik asitten oluşan bu sentetik ester, ürüne lüks bir kayganlık katarak aktif içeriklerin cilt tarafından hızla emilmesine olanak verir."
+    },
+    "centaurea-cyanus-flower-extract": {
+      "nameTr": "Centaurea Cyanus Çiçeği Özü",
+      "description": "Peygamber çiçeği (cornflower) suyu veya özü, özellikle göz çevresindeki şişlikleri yatıştırma ve yorgun bakışları canlandırma konusunda çok ünlüdür."
+    },
+    "benzaldehyde": {
+      "nameTr": "Benzaldehyde",
+      "description": "Acı badem kokusu veren sentetik veya doğal olarak kiraz çekirdeklerinde bulunabilen uçucu koku maddesidir, formüllere lezzetli meyvemsi bir aroma katar."
+    },
+    "juniperus-virginiana-oil": {
+      "nameTr": "Juniperus Virginiana Yağı",
+      "description": "Virginia sedirinden elde edilen odunsu koku, kremlere ve temizleyicilere topraksı bir derinlik kazandırır ancak bazı cilt tiplerinde duyarlılığa yol açabilir."
+    },
+    "c12-16-alcohols": {
+      "nameTr": "C12-16 Alkolleri",
+      "description": "Formüllerde emoliyan (yumuşatıcı) ve kıvam artırıcı olarak görev yapan, cildi kurutmayan yağ alkolü yapısında bir bileşendir."
+    },
+    "isoamyl-laurate": {
+      "nameTr": "Isoamyl Laurat",
+      "description": "Hindistan cevizi veya palm yağından elde edilebilen ve siklopentasiloksan (silikon) alternatifi olarak cilde yumuşak, pudramsı bir bitiş sunan doğal kaynaklı maddedir."
+    },
+    "chenopodium-quinoa-seed-extract": {
+      "nameTr": "Chenopodium Quinoa Çekirdeği Özü",
+      "description": "Kinoa tohumu ekstraktı, zengin amino asit ve vitamin profili sayesinde cildin doğal kolajen yapısını destekleyerek yorgunluk işaretlerini silmeye yardımcı olur."
+    },
+    "caesalpinia-spinosa-fruit-extract": {
+      "nameTr": "Caesalpinia Spinosa Meyvesi Özü",
+      "description": "Tara ağacı meyvesinden çıkarılan bitkisel polisakkaritler barındıran bu özüt, cilt üzerinde görünmez bir gerginlik tabakası oluşturarak toparlayıcı his verir."
+    },
+    "kappaphycus-alvarezii-extract": {
+      "nameTr": "Kappaphycus Alvarezii Özü",
+      "description": "Bir tür kırmızı deniz yosunu olan bu bitkinin ekstraktı, suyu cilde mükemmel hapsederek bitkisel bir hiyalüronik asit gibi dolgunlaştırıcı etki yaratır."
+    }
+  }
+}

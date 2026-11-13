@@ -1,0 +1,50 @@
+{
+ "slug": "cream-co-cloud-moisturizer-bariyer-guclendirici-yuz-nemlendirici",
+ "brandSite": {
+  "url": "https://creamco.com.tr/products/cloud-moisturizer",
+  "nameTr": "Cloud Moisturizer Bariyer Güçlendirici Yüz Nemlendirici",
+  "inci": [
+   "AQUA",
+   "GLYCERIN",
+   "SQUALANE",
+   "PROPANEDIOL",
+   "XYLITYLGLUCOSIDE",
+   "SACCHARIDE ISOMERATE",
+   "BISABOLOL",
+   "PROPYLENE GLYCOL DIBENZOATE",
+   "ISOSTEARYL ALCOHOL",
+   "PENTYLENE GLYCOL",
+   "CAPRYLYL GLYCOL",
+   "ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER",
+   "ANHYDROXYLITOL",
+   "SODIUM ACRYLATES COPOLYMER",
+   "BETA-GLUCAN",
+   "CALENDULA OFFICINALIS FLOWER OIL",
+   "XYLITOL",
+   "LECITHIN",
+   "SODIUM HYDROXIDE",
+   "ETHYLHEXYLGLYCERIN",
+   "AVENA SATIVA KERNEL EXTRACT",
+   "CITRIC ACID",
+   "HUMULUS LUPULUS (HOPS) EXTRACT",
+   "HYDROLYZED GLYCOSAMINOGLYCANS",
+   "CERAMIDE 3",
+   "SODIUM HYALURONATE",
+   "SODIUM CITRATE",
+   "HYDROLYZED HYALURONIC ACID",
+   "HYALURONIC ACID",
+   "SODIUM HYALURONATE CROSSPOLYMER",
+   "TERMINALIA CHEBULA FRUIT EXTRACT"
+  ],
+  "inciSource": "cream-co",
+  "claims": null,
+  "howTo": [
+   "Günde iki kez cildi temizledikten sonra hafif masaj yaparak yüz ve boyun bölgesine uygulayın.",
+   "Hassas ciltler gün içinde bölgesel olarak da uygulayabilir."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/8683767633548-LvtPoTR0D8-01_1024x1024.jpg",
+  "title": "cloud-moisturizer",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıda okundu (Python'a 429); liste Gratis'tekiyle aynı, kullanım talimatı marka sayfasından (tanıtım notları çıkarıldı)"
+ }
+}

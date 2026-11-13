@@ -1,0 +1,371 @@
+{
+ "eski": {
+  "text": "Burberry Body Crystal Baccarat'ın sofistike ve ışıltılı aurasını arayanlar için W175 Selective, lüks koku deneyimine akıllıca bir dokunuş sunuyor. Bu muadil, orijinalinin büyüleyici notalarına sadık kalarak, bütçeyi sarsmadan etkileyici ve kalıcı bir izlenim bırakmak isteyenlere zarif bir alternatif sunuyor.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 0.58,
+    "confidence": 0.44,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.56,
+     "1": 0.31,
+     "2": 0.11,
+     "3": 0.01
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.94
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.76
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 1.7,
+    "confidence": 0.0,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.37,
+     "1": 0.02,
+     "2": 0.16,
+     "3": 0.45
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.73
+   },
+   "useful": {
+    "type": "score",
+    "score": 1.08,
+    "confidence": 0.82,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.05,
+     "1": 0.82,
+     "2": 0.13,
+     "3": 0.0
+    }
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.76,
+    "confidence": 0.76,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.03,
+     "2": 0.18,
+     "3": 0.79
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 1.17,
+    "confidence": 0.52,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.15,
+     "1": 0.57,
+     "2": 0.23,
+     "3": 0.05
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 2.06,
+    "confidence": 0.37,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.06,
+     "1": 0.17,
+     "2": 0.43,
+     "3": 0.34
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.8
+   }
+  }
+ },
+ "A": {
+  "text": "Mad Parfüm W175 Selective, Burberry Body'nin muadilidir (%87 nota benzerliği). Pelin otu, şeftali ve frezyalı açılış, gül ve irisli kalp, sandal ağacı, kaşmir ve misk iki parfümde de ortak. Fark: W175 dibe vanilya ve amber ekler.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.91,
+    "confidence": 0.91,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.01,
+     "2": 0.04,
+     "3": 0.94
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.15
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.33
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.96,
+    "confidence": 0.96,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.98
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.05
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.92,
+    "confidence": 0.93,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.07,
+     "3": 0.93
+    }
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.53,
+    "confidence": 0.53,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.05,
+     "2": 0.37,
+     "3": 0.58
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 2.86,
+    "confidence": 0.88,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.12,
+     "3": 0.88
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 2.92,
+    "confidence": 0.9,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.01,
+     "2": 0.02,
+     "3": 0.95
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.66
+   }
+  }
+ },
+ "B": {
+  "text": "Mad Parfüm W175 Selective, Burberry Body'nin muadilidir (%87 nota benzerliği). Body'nin sekiz notasının hepsi W175'te de var: pelin otu, şeftali, frezya, gül, iris, sandal ağacı, kaşmir ve misk. W175 bunlara dipte vanilya ve amber ekler.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.76,
+    "confidence": 0.75,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.04,
+     "1": 0.02,
+     "2": 0.09,
+     "3": 0.85
+    }
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.38
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.93,
+    "confidence": 0.93,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.97
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.06
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.7,
+    "confidence": 0.7,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.03,
+     "2": 0.24,
+     "3": 0.73
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 2.73,
+    "confidence": 0.74,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.02,
+     "2": 0.22,
+     "3": 0.76
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.73
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.38
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.78,
+    "confidence": 0.78,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.2,
+     "3": 0.79
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 2.97,
+    "confidence": 0.99,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.99
+    }
+   }
+  }
+ }
+}

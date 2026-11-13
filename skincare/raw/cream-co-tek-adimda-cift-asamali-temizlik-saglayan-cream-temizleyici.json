@@ -1,0 +1,46 @@
+{
+ "slug": "cream-co-tek-adimda-cift-asamali-temizlik-saglayan-cream-temizleyici",
+ "brandSite": {
+  "url": "https://creamco.com.tr/products/cream-cleanser",
+  "nameTr": "Tek Adımda Çift Aşamalı Temizlik Sağlayan Cream Temizleyici",
+  "inci": [
+   "AQUA",
+   "SODIUM COCOYL ISETHIONATE",
+   "GLYCERIN",
+   "STEARIC ACID",
+   "CETEARYL ALCOHOL",
+   "ISOPENTYLDIOL",
+   "LAURYL GLUCOSIDE",
+   "SODIUM CHLORIDE",
+   "SODIUM PCA",
+   "COCO-GLUCOSIDE",
+   "PENTYLENE GLYCOL",
+   "CAPRYLYL GLYCOL",
+   "GLYCOL DISTEARATE",
+   "COCAMIDOPROPYL BETAINE",
+   "CELLULOSE GUM",
+   "ALLANTOIN",
+   "PROPYLENE GLYCOL",
+   "ETHYLHEXYLGLYCERIN",
+   "ALOE BARBADENSIS LEAF JUICE",
+   "CAMELLIA SINENSIS LEAF EXTRACT",
+   "GLYCYRRHIZA GLABRA ROOT EXTRACT",
+   "HAMAMELIS VIRGINIANA (WITCH HAZEL) EXTRACT",
+   "SODIUM BENZOATE",
+   "SODIUM CITRATE",
+   "PHRAGMITES KARKA EXTRACT",
+   "PORIA COCOS EXTRACT",
+   "CITRIC ACID"
+  ],
+  "inciSource": "cream-co",
+  "claims": null,
+  "howTo": [
+   "Günde iki kez masaj yaparak önce yüze, sonra göz bölgesine uygulayın.",
+   "Bol su ile durulayın."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/8683767633777-W1dtitMkRX-01_1024x1024.jpg",
+  "title": "cream-cleanser",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıda okundu (Python'a 429); liste Gratis'tekiyle aynı, kullanım talimatı marka sayfasından (tanıtım notları çıkarıldı)"
+ }
+}

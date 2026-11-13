@@ -1,0 +1,218 @@
+{
+ "P101": {
+  "id": 24401,
+  "slug": "mad-parfum-p101-selective",
+  "gender": "Erkek",
+  "score": 90,
+  "original": "Parfums De Marly Pegasus",
+  "dupe_notes": {
+   "top": [
+    "Bergamot",
+    "Kimyon",
+    "Heliotrop"
+   ],
+   "middle": [
+    "Yasemin",
+    "Badem",
+    "Lavanta"
+   ],
+   "base": [
+    "Amber",
+    "Sandal Ağacı",
+    "Vanilya"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Heliotrop",
+    "Kimyon",
+    "Bergamot",
+    "Pembe Biber"
+   ],
+   "middle": [
+    "Acı Badem",
+    "Lavanta",
+    "Yasemin"
+   ],
+   "base": [
+    "Sandal Ağacı",
+    "Vanilya",
+    "Amber",
+    "Ada Miski",
+    "Sedir Ağacı"
+   ]
+  },
+  "mad": "Üst Nota Mandalina, Greyfurt, Bergamot Kalp Nota Portakal Çiçeği, Ahududu, Siyah Frenk Üzümü Dip Nota Marshmallow, Krema, Misk, Amber, Vanilya ",
+  "old": "Parfums De Marly Pegasus'un sofistike ve zamansız çekiciliğini modern bir yorumla günümüze taşıyan P101 Selective, bu ikonik kokunun büyüleyici bir yansımasıdır. Klasik notaların çağdaş bir dokunuşla harmanlandığı P101 Selective, lüks koku deneyimini uygun fiyatla arayanlar için Parfums De Marly Pegasus tarzında, oldukça etkileyici bir eşdeğer sunuyor."
+ },
+ "R103": {
+  "id": 24344,
+  "slug": "mad-parfum-r103-selective",
+  "gender": "Erkek",
+  "score": 85,
+  "original": "Rochas Rochas Man",
+  "dupe_notes": {
+   "top": [
+    "Bergamot",
+    "Lavanta"
+   ],
+   "middle": [
+    "Yasemin",
+    "Cappuccino",
+    "Ahududu",
+    "Müge Çiçeği"
+   ],
+   "base": [
+    "Vanilya",
+    "Amber",
+    "Paçuli",
+    "Sandal Ağacı"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Lavanta",
+    "Bergamot"
+   ],
+   "middle": [
+    "Cappuccino",
+    "Ahududu",
+    "Yasemin"
+   ],
+   "base": [
+    "Sandal Ağacı",
+    "Paçuli"
+   ]
+  },
+  "mad": "Üst Nota Bergamot, Lavanta Kalp Nota Yasemin, Vadi Zambağı, Kapuçino, Ahududu Dip Nota Sandal Ağacı, Paçuli, Amber, Vanilya ",
+  "old": "Rochas Rochas Man'in zamansız ve karizmatik duruşundan ilham alan R103 Selective, bu efsanevi kokunun sıcak ve davetkar karakterini modern bir yorumla başarıyla yakalıyor. İmza parfümünüz olmaya aday R103 Selective, orijinalin ruhunu ve kalıcılığını arayanlar için erişilebilir ve etkileyici bir seçenek sunarak, her anınızda fark edilir bir iz bırakmanızı sağlıyor."
+ },
+ "W120": {
+  "id": 24527,
+  "slug": "mad-parfum-w120-selective",
+  "gender": "Erkek",
+  "score": 94,
+  "original": "Carolina Herrera 212 Sexy Men",
+  "dupe_notes": {
+   "top": [
+    "Mandalina",
+    "Portakal",
+    "Yeşil Notalar",
+    "Bergamot"
+   ],
+   "middle": [
+    "Kakule",
+    "Çiçeksi Notalar",
+    "Biber"
+   ],
+   "base": [
+    "Guayak Ağacı",
+    "Sandal Ağacı",
+    "Vanilya",
+    "Misk",
+    "Amber"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Yeşil Notalar",
+    "Bergamot",
+    "Mandalina"
+   ],
+   "middle": [
+    "Çiçeksi Notalar",
+    "Kakule"
+   ],
+   "base": [
+    "Sandal Ağacı",
+    "Misk",
+    "Guayak Ağacı",
+    "Vanilya",
+    "Amber"
+   ]
+  },
+  "mad": "Üst Nota Mandalina, Portakal, Bergamot, Yeşil Notalar Kalp Nota Kakule, Çiçek, Biber Dip Nota Vanilya, Sandal Ağacı, Guaıac Ağacı, Misk, Amber ",
+  "old": "Carolina Herrera 212 Sexy Men'in o akılda kalıcı, baştan çıkarıcı ve modern erkeksi imzasına hayransanız, W120 Selective bu büyülü atmosferi sizin için yeniden yorumluyor! Bu eşsiz muadil, orijinalinin o şehvetli ve dinamik ruhunu inanılmaz bir ustalıkla yakalarken, sizlere erişilebilir lüksün kapılarını aralıyor; adeta aynı etkileyicilikte bir koku deneyimi sunarak çevrenizdekileri kesinlikle büyüleyeceksiniz!"
+ },
+ "L105": {
+  "id": 24325,
+  "slug": "mad-parfum-l105-selective",
+  "gender": "Erkek",
+  "score": 71,
+  "original": "Lacoste Fragrances Eau De Lacoste L 12 12 Rouge Energetic",
+  "dupe_notes": {
+   "top": [
+    "Mandalina",
+    "Mango",
+    "Rooibos Çayı"
+   ],
+   "middle": [
+    "Biber",
+    "Zencefil",
+    "Kakule"
+   ],
+   "base": [
+    "Benzoin",
+    "Siyah Akasya Ağacı"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Zencefil",
+    "Kakule",
+    "Karabiber"
+   ],
+   "middle": [
+    "Rooibos Çayı",
+    "Mango"
+   ],
+   "base": [
+    "Benzoin",
+    "Akasya Çiçeği"
+   ]
+  },
+  "mad": "Üst Nota Ahududu, Meyan Kökü, Bergamot Kalp Nota Menekşe Yaprağı, Gül Dip Nota Deri, Kakao, Sedir Ağacı ",
+  "old": "Lacoste Eau De Lacoste Rouge Energetic'in enerjik ve modern ruhunu çağdaş bir yorumla yakalayan L105 Selective, şehirli ve dinamik notaların çarpıcı bir buluşmasını sunuyor. Orijinalin çekici karakterini bütçe dostu bir alternatifle deneyimlemek isteyenler için L105 Selective, benzer bir tazelik ve canlılık sunarak modern stilinizi tamamlamanın büyüleyici bir yolu."
+ },
+ "C114": {
+  "id": 24333,
+  "slug": "mad-parfum-c114-selective",
+  "gender": "Erkek",
+  "score": 91,
+  "original": "Calvin Klein Euphoria Men",
+  "dupe_notes": {
+   "top": [
+    "Biber",
+    "Zencefil"
+   ],
+   "middle": [
+    "Sedir Ağacı",
+    "Fesleğen",
+    "Adaçayı"
+   ],
+   "base": [
+    "Süet",
+    "Amber"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Zencefil",
+    "Biber"
+   ],
+   "middle": [
+    "Fesleğen",
+    "Adaçayı",
+    "Sedir Ağacı"
+   ],
+   "base": [
+    "Süet",
+    "Brezilya Sekoyu",
+    "Paçuli",
+    "Amber"
+   ]
+  },
+  "mad": "Üst Nota Zencefil, Biber Kalp Nota Siyah Fesleğen, Adaçayı, Sedir Dip Nota Amber, Süet ",
+  "old": "Calvin Klein Euphoria Men'in odunsu, baharatlı ve modern çekiciliğini arayanlar için C114 Selective, sadece uygun fiyatlı değil, aynı zamanda etkileyici bir eşdeğer sunuyor. Bu büyüleyici muadil, Euphoria Men'in o tanıdık imza niteliğindeki derinliğini ve karakterini başarılı bir şekilde yansıtarak, girdiğiniz her ortamda kalıcı bir izlenim bırakmanızı sağlayacak yeni imza parfümünüz olmaya aday."
+ }
+}

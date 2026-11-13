@@ -1,0 +1,862 @@
+{
+  "/urunlerimiz": {
+    "reported": 105,
+    "products": {
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/hand-cream": {
+        "name": "Cicabio Hand Cream",
+        "description": "Hasar görmüş elleri nemlendirerek yatıştıran ellerdeki kuruluk kaynaklı kaşıntı ve gerginlik hissini azaltan, cilt bariyerini onarmaya ve korumaya yardımcı olan besleyici, suya dayanıklı el kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/kerato": {
+        "name": "Sébium Kerato+",
+        "description": "Sivilce, siyah nokta ve akne lekesi oluşumunu engelleyen yüksek toleranslı nemlendirici jel krem"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-cc-cream-spf-50": {
+        "name": "Sensibio AR+ CC Cream SPF 50+",
+        "description": "Kızarıklık eğilimli ciltlerin hassasiyet, dış etkenler ve kuruluk kaynaklı kızarıklık görünümünü azaltmaya ve cilt tonunu eşitlemeye yardımcı güneş koruması sağlayan CC krem"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/foaming-gel-refill": {
+        "name": "Sébium Foaming Gel Refill",
+        "description": "Karma, Yağlı ve Akne Eğilimli Ciltler için Temizleme Jeli Yeniden Dolum Paketi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/kerato-body": {
+        "name": "Sébium Kerato+ BODY",
+        "description": "Sivilce ve Akne Lekesi Karşıtı Salisilik Asit ve Niasinamid İçeren Yatıştırıcı ve Ferahlatıcı Vücut Spreyi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/kerato-cover": {
+        "name": "Sébium Kerato+ COVER",
+        "description": "Sivilce, Akne Lekesi Karşıtı AHA, BHA, Salisilik Asit İçeren Renkli Nemlendirici Bakım Kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/kerato-spf30": {
+        "name": "Sébium Kerato+ SPF30",
+        "description": "Sivilce, Akne Lekesi Karşıtı AHA, BHA, Salisilik Asit İçeren SPF30 Güneş Korumalı Nemlendirici Krem"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/matricium/matricium-cilt-yenileyici-bakim-kapsulu": {
+        "name": "Matricium Matricium",
+        "description": "Cildin kendisinde bulunan 53 elementten oluşan, cildin yenilenmesine ve güçlenmesine destek olan antioksidan etkili bakım kapsülü"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/photoderm-ar-ultra-fluid-spf50-40-ml": {
+        "name": "Photoderm Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
+        "description": "Kızarık ve reaksiyon gösterme eğilimli ciltler için kızarıklık karşıtı etkili çok yüksek koruma sağlayan ultra akışkan güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/cream-ultra": {
+        "name": "Atoderm Atoderm Cream Ultra",
+        "description": "Kuru ciltler için ultra nemlendirici, besleyici ve koruyucu bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/cream-0": {
+        "name": "Cicabio Cream+",
+        "description": "Cildin bariyerini onarıcı, yatıştırıcı ve ultra nemlendirici hassas cilt bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/abcderm/foaming-cleanser": {
+        "name": "ABCDerm Foaming Cleanser",
+        "description": "Bebek ve çocukların yüz, vücut ve saçları için göz yakmayan hassas temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/foaming-gel": {
+        "name": "Sébium Foaming Gel",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için günlük arındırıcı temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/h2o": {
+        "name": "Sensibio H2O",
+        "description": "Hassas ciltler için durulama gerektirmeyen misel temizleme suyu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/sensitive-areas": {
+        "name": "Pigmentbio Sensitive Areas",
+        "description": "Hassas, özel bölgeler ve eklem bölgelerinde görülen kararmaların azaltılmasına ve cildi aydınlatarak cilt tonunu eşitlemeye yardımcı nemlendirici ve yatıştırıcı etkili bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/cleansing-balm": {
+        "name": "Cicabio Cleansing Balm",
+        "description": "Hasarlı ciltler için cildin doğal yenilenme sürecine yardımcı yüz, vücut, saçlı deri ve özel bölge kullanımına uygun onarıcı temizleme balmı"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/cream": {
+        "name": "Hydrabio Cream",
+        "description": "Kurudan çok kuruya dönük nemsiz ve hassas ciltler için yoğun dokulu nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/foaming-cream": {
+        "name": "Pigmentbio Foaming Cream",
+        "description": "Leke sorunu yaşayan hassas ciltlerin, cilt tonunu eşitlemeye ve aydınlatmaya yardımcı peeling etkili temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/foaming-gel": {
+        "name": "Sensibio Foaming Gel",
+        "description": "Hassas ve nem kaybı yaşayan ciltlere özel durulanan misel temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/abcderm/gentle-shampoo": {
+        "name": "ABCDerm Gentle Shampoo",
+        "description": "Saç ve saçlı deriyi nazikçe temizleyen göz yakmayan şampuan"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/hydra": {
+        "name": "Sébium Hydra",
+        "description": "Kurutucu dermatolojik uygulama sonucu yoğun kuruluk yaşayan ciltlere özel yoğun nemlendirici ve yatıştırıcı bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/spot-spf-50": {
+        "name": "Photoderm Photoderm Spot SPF50+",
+        "description": "Leke sorunu yaşayan ya da leke oluşma riski taşıyan ciltler için çok yüksek koruma sağlayan güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/daily-care-spf-50": {
+        "name": "Pigmentbio Daily Care SPF 50+",
+        "description": "Leke sorunu yaşayan hassas ciltler için leke görünümünün azaltılmasına yardımcı, aydınlatıcı ve güneşten koruyucu gündüz bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/h2o": {
+        "name": "Hydrabio H2O",
+        "description": "Nemsiz ciltler için nemlendirici etkili ve durulama gerektirmeyen temizleyici misel su"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/abcderm/hydratant": {
+        "name": "ABCDerm Hydratant",
+        "description": "Yoğun cilt kuruluğu olma riski yüksek bebek cildi için besleyici ve koruyucu bakım sütü."
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/micellar-cleansing-oil": {
+        "name": "Sensibio Micellar Cleansing Oil",
+        "description": "Hassas ciltler dahil tüm ciltler için çift aşamalı temizliğin ilk aşamasında, yüz ve göz makyajını çıkarmaya, cildi yatıştırmaya yardımcı misel temizleme yağı"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/shower-oil": {
+        "name": "Atoderm Shower Oil",
+        "description": "Kuru, hassas ve atopi eğilimli ciltler için durulanan duş yağı"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/xdefense-ultra-fluid-spf50": {
+        "name": "Photoderm XDefense Ultra-Fluid SPF50+",
+        "description": "Hassas ciltler dahil tüm cilt tiplerine uygun, su bazlı ve akışkan dokulu, çevresel kirliliğe ve UVA/UVB ışınlarına karşı çok yüksek koruma sağlayan güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/ar-spf50": {
+        "name": "Photoderm AR SPF50+",
+        "description": "Kızarıklık sorunu yaşayan ciltler için renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/abcderm/change-intensif": {
+        "name": "ABCDerm Change Intensive",
+        "description": "Pişik önleyici su bazlı günlük bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/h2o": {
+        "name": "Pigmentbio H2O",
+        "description": "Leke sorunu yaşayan hassas ciltler için aydınlatıcı etkili durulama gerektirmeyen temizleyici misel su"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/shower-gel": {
+        "name": "Atoderm Shower Gel",
+        "description": "Kuru ve hassas ciltler için temizleyici duş jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/defensive-cream": {
+        "name": "Sensibio Defensive Cream",
+        "description": "Hassas ve hassaslaşabilen cildin kendi savunma mekanizmasını güçlendiren antioksidan etkili günlük nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/hyalu-serum": {
+        "name": "Hydrabio Hyalu+ Serum",
+        "description": "Nemsiz ciltler için hyalüronik asit içeren erken yaşlanma belirtilerine karşı etkili, dolgunlaştırıcı ve yoğun nemlendirici bakım serumu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/intensive-foaming-gel": {
+        "name": "Atoderm Intensive Foaming Gel",
+        "description": "Çok kuru ve atopi eğilimli ciltler için zengin içerikli temizleyici jel."
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/2-1-body-oil": {
+        "name": "Atoderm 2-in-1 Body Oil",
+        "description": "Hamilelik döneminde kullanıma uygun çatlak önleyici, nemlendirici ve besleyici cilt bakım yağı"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/c-concentrate": {
+        "name": "Pigmentbio C-Concentrate",
+        "description": "Yoğun leke sorunu yaşayan hassas ciltler için leke görünümünün azaltılmasına yardımcı, aydınlatıcı ve peeling etkili taze C vitaminli yoğun gece serumu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/defensive-rich-cream": {
+        "name": "Sensibio Defensive Rich Cream",
+        "description": "Hassas ve hassaslaşabilen cildin kendi savunma mekanizmasını güçlendiren besleyici ve antioksidan etkili yoğun nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/akn-mat-spf30": {
+        "name": "Photoderm Photoderm AKN Mat SPF30",
+        "description": "Karma, yağlı ve akne eğilimli cilter için uzun süreli matlaştırıcı etkiye sahip akne karşıtı güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/pore-refiner": {
+        "name": "Sébium Pore Refiner",
+        "description": "Karma ve yağlı ciltler için gözeneklerin sıkılaşmasına yardımcı bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/cream-spf50": {
+        "name": "Photoderm Cream SPF50+",
+        "description": "Kuru ve çok kuru ciltler için çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/defensive-serum": {
+        "name": "Sensibio Defensive Serum",
+        "description": "Hassas ve hassaslaşabilen cildi erken yaşlanmaya ve dış etkenlere karşı koruyan antioksidan etkili yatıştırıcı ve nemlendirici bakım serumu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/intensive-eye": {
+        "name": "Atoderm Intensive Eye",
+        "description": "Çok kuru ve atopi eğilimli ciltlerde göz çevresini yatıştırmaya ve onarmaya yardımcı nemlendirici bakım kremi."
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/lait-ultra-spf50": {
+        "name": "Photoderm Lait Ultra SPF50+",
+        "description": "En hassas ve toleransı en düşük ciltler dahil tüm ciltler için çok yüksek koruma sağlayan güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/sensitive": {
+        "name": "Sébium Sensitive",
+        "description": "Akne eğilimli ciltler için kurutucu medikal tedavi sonucu kuruyan ve hassaslaşan ciltler için nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar": {
+        "name": "Sensibio AR",
+        "description": "Kızarıklık sorunu olan hassas ciltler için kızarıklığın giderilmesine yardımcı, yatıştırıcı ve nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/h2o": {
+        "name": "Sébium H2O",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için durulama gerektirmeyen misel temizleme suyu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/intensive-gel-cream": {
+        "name": "Atoderm Intensive Gel-Cream",
+        "description": "Çok kuru ve atopi eğilimli ciltler için yoğun kaşıntı karşıtı besleyici, ferahlatıcı ve nemlendirici jel krem."
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/xdefense-ultra-fluid-spf50-very-light": {
+        "name": "Photoderm XDefense Ultra-Fluid SPF50+ Very Light",
+        "description": "Hassas ciltler dahil tüm cilt tiplerine uygun, su bazlı ve akışkan dokulu, çevresel kirliliğe ve UVA/UVB ışınlarına karşı çok yüksek koruma sağlayan renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-micellar-gel": {
+        "name": "Sensibio AR+ Micellar Gel",
+        "description": "Kızarıklık* eğilimli hassas ciltler için durulama gerektirmeyen temizleyici, makyaj çıkarıcı ve cildi yatıştırmaya yardımcı ferahlatıcı etkili misel jel"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/lip-balm": {
+        "name": "Atoderm Lip Balm",
+        "description": "Çok kuru ve çatlamış dudaklar için besleyici ve yoğun nemlendirici balm"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/spot-age-spf50": {
+        "name": "Photoderm Spot-Age SPF50+",
+        "description": "Leke eğilimli normal ve kuru ciltler için yaşlanma karşıtı çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-cream": {
+        "name": "Sensibio AR+ Cream",
+        "description": "Kızarıklık* eğilimli hassas ciltler için kızarıklık* görünümünün azalmasına yardımcı, yatıştırıcı ve nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-sos-spray": {
+        "name": "Sensibio AR+ SOS Spray",
+        "description": "Kızarıklık* eğilimli hassas ciltler için yatıştırıcı, soğutucu etkili ferahlatıcı sprey"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/cream-spf50-light": {
+        "name": "Photoderm Cream SPF50+ Light",
+        "description": "Kuru ve çok kuru ciltler için çok yüksek koruma sağlayan renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/lip-stick": {
+        "name": "Atoderm Lip Stick",
+        "description": "Kuru ve hassas dudaklar için stick formunda koruyucu ve nemlendirici bakım"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/mat-control": {
+        "name": "Sébium Mat Control",
+        "description": "Karma ve yağlı ciltler için parlamayı kontrol altına almaya yardımcı bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-bb-cream": {
+        "name": "Sensibio AR BB Cream",
+        "description": "Kızarıklığa eğilimli hassas ciltlerin kızarık görünümünü azaltmaya ve cilt tonunu eşitlemeye yardımcı BB krem"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-bi-serum": {
+        "name": "Sensibio AR+ BI-Serum",
+        "description": "Kızarıklık* eğilimli hassas ciltler için yaşlanma belirtilerini hedefleyen; kızarıklık* görünümünün giderilmesine yardımcı, yatıştırıcı çift etkili serum"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/hand-nail-cream": {
+        "name": "Atoderm Hand & Nail Cream",
+        "description": "Kuru ve yıpranmış el ve tırnaklar için nemlendirici ve besleyici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/mineral-fluid-spf50": {
+        "name": "Photoderm MINERAL Fluid SPF50+",
+        "description": "Kimyasal filtre alerjisi olan hassas ciltler ve atopi eğilimli ciltler için %100 mineral filtreli çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/serum": {
+        "name": "Sébium Serum",
+        "description": "Akne eğilimli ciltler için sivilce, siyah nokta ve akne lekesi oluşumunu engellemeye yardımcı, erken yaşlanma belirtilerine karşı etkili bakım serumu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/nutrition-cream": {
+        "name": "Atoderm Nutrition Cream",
+        "description": "Çok kuru ve olgun ciltlerin yüz bölgesi için yoğun besleyici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/eye": {
+        "name": "Sensibio Eye+",
+        "description": "Hassas göz çevresi için yorgunluk karşıtı etki sağlayan, koyu halka, ince çizgi ve şişlik görünümünü azaltmaya yardımcı nemlendirici göz kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/stick-spf50-8-gr": {
+        "name": "Photoderm Stick SPF50+ 8 GR",
+        "description": "Tüm cilt tipleri için göz çevresi, dudak, kulak, burun gibi hassas bölgeler için stick formunda güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/m-spf50-light": {
+        "name": "Photoderm M SPF50+ Light",
+        "description": "Mavi ışığa karşı güçlendirilmiş koyu leke karşıtı ve çok yüksek koruma sağlayan açık renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/night-peel": {
+        "name": "Sébium Night Peel",
+        "description": "Arındırıcı ve güçlü peeling etkili yoğun gece serumu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ds-cream": {
+        "name": "Sensibio DS+ Cream",
+        "description": "Yağlı cilt nedeniyle rahatsızlık hissi, kızarık görünüm, pullanma ve aşırı yağlanma problemi yaşayan hassas ciltler için bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/nude-touch-spf50-very-light": {
+        "name": "Photoderm NUDE Touch SPF50+ Very Light",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için %100 mineral filtreli ve doğal kapatıcı etkili çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/h2o-eye": {
+        "name": "Sensibio H2O Eye",
+        "description": "Hassas göz çevresi ve dudaklar için suya dayanıklı makyajı çıkaran ve kirpikleri güçlendiren çift fazlı misel temizleyici"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/nude-touch-spf50-light": {
+        "name": "Photoderm NUDE Touch SPF50+ Light",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için %100 mineral filtreli ve doğal kapatıcı etkili çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/pediatrics-spray-spf50": {
+        "name": "Photoderm Pediatrics Spray SPF50+",
+        "description": "Çocukların ve bebeklerin hassas cildi için çok yüksek koruma sağlayan, suya ve kuma dayanıklı sprey güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/after-sun-gel-cream": {
+        "name": "Photoderm After Sun Gel-Cream",
+        "description": "Güneş sonrası yatıştırıcı ve onarıcı bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/pediatrics-lait-spf50": {
+        "name": "Photoderm Pediatrics Lait SPF50+",
+        "description": "Çocukların ve bebeklerin hassas cildi için çok yüksek koruma sağlayan, suya ve kuma dayanıklı süt formda güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/cover-touch-spf50-very-light": {
+        "name": "Photoderm Cover Touch SPF50+ Very Light",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için %100 mineral filtreli ve doğal kapatıcı etkili çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/xdefense-ultra-fluid-spf50-light": {
+        "name": "Photoderm XDefense Ultra-Fluid SPF50+ Light",
+        "description": "Hassas ciltler dahil tüm cilt tiplerine uygun, su bazlı ve akışkan dokulu, çevresel kirliliğe ve UVA/UVB ışınlarına karşı çok yüksek koruma sağlayan renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/mineral-compact-light-spf50": {
+        "name": "Photoderm MINERAL Compact Light SPF50+",
+        "description": "%100 mineral filtreli, kapatıcı etkili ve çok yüksek güneş korumasına sahip renkli kompakt pudra"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/pediatrics-mineral-spf50": {
+        "name": "Photoderm Pediatrics Mineral SPF50+",
+        "description": "Yenidoğan bebeklerin ve çocukların hassas cildi için çok yüksek koruma sağlayan, suya ve kuma dayanıklı %100 mineral filtreli  güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/xdefense-ultra-fluid-spf50-golden": {
+        "name": "Photoderm XDefense Ultra-Fluid SPF50+ Golden",
+        "description": "Hassas ciltler dahil tüm cilt tiplerine uygun, su bazlı ve akışkan dokulu, çevresel kirliliğe ve UVA/UVB ışınlarına karşı çok yüksek koruma sağlayan renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/anti-ox-sun-protective-water-spf50-200-ml": {
+        "name": "Photoderm Anti OX Sun Protective Water SPF50",
+        "description": "Antioksidan ve yaşlanma karşıtı etkili yüz, vücut ve saç kullanımına uygun çift fazlı güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/arnica": {
+        "name": "Cicabio Arnica+",
+        "description": "Hasar görmüş ciltler için onarıcı bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/bronz-sun-protective-water-spf30-200-ml": {
+        "name": "Photoderm Bronz Sun Protective Water SPF30 200 ML",
+        "description": "Doğal bronzlaşmayı hızlandırmaya yardımcı ve bronzluğun kalıcılığını artıran yüz, vücut ve saç kullanımına uygun çift fazlı güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/cover-touch-spf50-light": {
+        "name": "Photoderm Cover Touch SPF50+ Light",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için %100 mineral filtreli ve doğal kapatıcı etkili çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/cream-spf-50": {
+        "name": "Cicabio Cream+ SPF 50+",
+        "description": "Cildin bariyerini onarıcı, yatıştırıcı ve ultra nemlendirici, leke karşıtı etkili UV koruması içeren hassas cilt bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ds-foaming-gel": {
+        "name": "Sensibio DS+ Foaming Gel",
+        "description": "Yağlı ciltten doğan rahatsızlık hissi artan ve yağlı pullanma problemi yaşayan hassas ciltler için arındırıcı temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/node/ds-shampoo": {
+        "name": "Nodé DS+ Shampoo",
+        "description": "Tekrarlayan yağlı pullanma sorununa karşı deterjan içermeyen şampuan"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/exfoliating-gel-0": {
+        "name": "Sébium EXFOLIATING GEL",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için peeling etkili temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/eye-contour-gel": {
+        "name": "Sensibio Eye Contour Gel",
+        "description": "Hassas ve tolerans seviyesi düşük göz çevresi için yatıştırıcı ve nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/node/fluid-shampoo": {
+        "name": "Nodé Fluid Shampoo",
+        "description": "Tüm saç tipleri için sık kullanıma uygun ve akışkan formüllü şampuan"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/foaming-gel": {
+        "name": "Hydrabio Foaming Gel",
+        "description": "Tüm cilt tipleri için 24 saat nemlendirme sağlayan durulanan misel temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/abcderm/h2o": {
+        "name": "ABCDerm H2O",
+        "description": "Bebeklerin bez bölgesi, yüz ve göz çevresi için durulama gerektirmeyen temizleyici misel su"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/hydra-cleanser": {
+        "name": "Sébium Hydra Cleanser",
+        "description": "Akneli ve hassas ciltler için yatıştırıcı etkili balm dokulu temizleyici"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/intensive-bar-kalip-temizleyici": {
+        "name": "Atoderm Intensive Bar Kalıp Temizleyici",
+        "description": "Çok kuru ve atopi eğilimli ciltler için nemlendirici kalıp temizleyici."
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/light-cream": {
+        "name": "Hydrabio Light Cream",
+        "description": "Normal ve karma ciltler için 72 saat nemlendirme sağlayan hafif dokulu nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/lip-repair": {
+        "name": "Cicabio Lip Repair",
+        "description": "Kuruluktan çatlamış dudakları onarmaya, korumaya ve beslemeye yardımcı yoğun nemlendirici etkili dudak balmı"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/lotion": {
+        "name": "Sébium Lotion",
+        "description": "Karma, yağlı, akne eğilimli ciltler için gözenekleri sıkılaştırmaya yardımcı tonik"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/lotion-spray": {
+        "name": "Cicabio Lotion Spray",
+        "description": "Hasar görmüş cilt için yatıştırıcı sprey losyon"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/m-spf50-golden": {
+        "name": "Photoderm M SPF50+ Golden",
+        "description": "Mavi ışığa karşı güçlendirilmiş koyu leke karşıtı ve çok yüksek koruma sağlayan koyu renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/night-renewer": {
+        "name": "Pigmentbio Night Renewer",
+        "description": "Leke sorunu yaşayan hassas ciltler için leke görünümünün azaltılmasına yardımcı, aydınlatıcı ve sıkılaştırıcı gece bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/perfecteur-spf-30-0": {
+        "name": "Hydrabio Perfecteur SPF30",
+        "description": "Nemsiz ciltler için 72 saat boyunca cildi nemlendiren SPF30 koruması sağlayan aydınlatıcı etkili bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/photoderm-spray-invisible-spf50-200-ml": {
+        "name": "Photoderm Photoderm Spray Invisible SPF50+ 200 ML",
+        "description": "Tüm cilt tipleri, yüz ve vücut için, aile boyu kullanıma uygun, nemlendirici etkili, çok yüksek koruma sağlayan sprey formda güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/abcderm/relaxing-oil": {
+        "name": "ABCDerm Relaxing Oil",
+        "description": "Bebek ve çocukların hassas cildi için besleyici ve rahatlatıcı masaj yağı"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/riche-cream": {
+        "name": "Hydrabio Rich Cream",
+        "description": "Kuru ve çok kuru ciltler için 72 saat nemlendirme sağlayan yoğun dokulu nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/hydrabio-serum": {
+        "name": "Hydrabio Serum",
+        "description": "Nemsiz kalmış ciltler için 72 saat nemlendirme sağlayan yoğun nemlendirici serum"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/sun-mist-spf50": {
+        "name": "Photoderm Sun Mist SPF50+",
+        "description": "Uygulama sonrası yayma gerektirmeyen ve tüm cilt tiplerinin kullanımına uygun çok yüksek güneş koruyucu"
+      }
+    }
+  },
+  "/cilt-bakimi": {
+    "reported": 50,
+    "products": {
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/hand-cream": {
+        "name": "Cicabio Hand Cream",
+        "description": "Hasar görmüş elleri nemlendirerek yatıştıran ellerdeki kuruluk kaynaklı kaşıntı ve gerginlik hissini azaltan, cilt bariyerini onarmaya ve korumaya yardımcı olan besleyici, suya dayanıklı el kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/kerato": {
+        "name": "Sébium Kerato+",
+        "description": "Sivilce, siyah nokta ve akne lekesi oluşumunu engelleyen yüksek toleranslı nemlendirici jel krem"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-cc-cream-spf-50": {
+        "name": "Sensibio AR+ CC Cream SPF 50+",
+        "description": "Kızarıklık eğilimli ciltlerin hassasiyet, dış etkenler ve kuruluk kaynaklı kızarıklık görünümünü azaltmaya ve cilt tonunu eşitlemeye yardımcı güneş koruması sağlayan CC krem"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/kerato-body": {
+        "name": "Sébium Kerato+ BODY",
+        "description": "Sivilce ve Akne Lekesi Karşıtı Salisilik Asit ve Niasinamid İçeren Yatıştırıcı ve Ferahlatıcı Vücut Spreyi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/kerato-cover": {
+        "name": "Sébium Kerato+ COVER",
+        "description": "Sivilce, Akne Lekesi Karşıtı AHA, BHA, Salisilik Asit İçeren Renkli Nemlendirici Bakım Kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/matricium/matricium-cilt-yenileyici-bakim-kapsulu": {
+        "name": "Matricium Matricium",
+        "description": "Cildin kendisinde bulunan 53 elementten oluşan, cildin yenilenmesine ve güçlenmesine destek olan antioksidan etkili bakım kapsülü"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/cream-ultra": {
+        "name": "Atoderm Atoderm Cream Ultra",
+        "description": "Kuru ciltler için ultra nemlendirici, besleyici ve koruyucu bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/cream-0": {
+        "name": "Cicabio Cream+",
+        "description": "Cildin bariyerini onarıcı, yatıştırıcı ve ultra nemlendirici hassas cilt bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/sensitive-areas": {
+        "name": "Pigmentbio Sensitive Areas",
+        "description": "Hassas, özel bölgeler ve eklem bölgelerinde görülen kararmaların azaltılmasına ve cildi aydınlatarak cilt tonunu eşitlemeye yardımcı nemlendirici ve yatıştırıcı etkili bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/cream": {
+        "name": "Hydrabio Cream",
+        "description": "Kurudan çok kuruya dönük nemsiz ve hassas ciltler için yoğun dokulu nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/hydra": {
+        "name": "Sébium Hydra",
+        "description": "Kurutucu dermatolojik uygulama sonucu yoğun kuruluk yaşayan ciltlere özel yoğun nemlendirici ve yatıştırıcı bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/daily-care-spf-50": {
+        "name": "Pigmentbio Daily Care SPF 50+",
+        "description": "Leke sorunu yaşayan hassas ciltler için leke görünümünün azaltılmasına yardımcı, aydınlatıcı ve güneşten koruyucu gündüz bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/abcderm/hydratant": {
+        "name": "ABCDerm Hydratant",
+        "description": "Yoğun cilt kuruluğu olma riski yüksek bebek cildi için besleyici ve koruyucu bakım sütü."
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/abcderm/change-intensif": {
+        "name": "ABCDerm Change Intensive",
+        "description": "Pişik önleyici su bazlı günlük bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/defensive-cream": {
+        "name": "Sensibio Defensive Cream",
+        "description": "Hassas ve hassaslaşabilen cildin kendi savunma mekanizmasını güçlendiren antioksidan etkili günlük nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/hyalu-serum": {
+        "name": "Hydrabio Hyalu+ Serum",
+        "description": "Nemsiz ciltler için hyalüronik asit içeren erken yaşlanma belirtilerine karşı etkili, dolgunlaştırıcı ve yoğun nemlendirici bakım serumu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/2-1-body-oil": {
+        "name": "Atoderm 2-in-1 Body Oil",
+        "description": "Hamilelik döneminde kullanıma uygun çatlak önleyici, nemlendirici ve besleyici cilt bakım yağı"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/c-concentrate": {
+        "name": "Pigmentbio C-Concentrate",
+        "description": "Yoğun leke sorunu yaşayan hassas ciltler için leke görünümünün azaltılmasına yardımcı, aydınlatıcı ve peeling etkili taze C vitaminli yoğun gece serumu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/defensive-rich-cream": {
+        "name": "Sensibio Defensive Rich Cream",
+        "description": "Hassas ve hassaslaşabilen cildin kendi savunma mekanizmasını güçlendiren besleyici ve antioksidan etkili yoğun nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/pore-refiner": {
+        "name": "Sébium Pore Refiner",
+        "description": "Karma ve yağlı ciltler için gözeneklerin sıkılaşmasına yardımcı bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/defensive-serum": {
+        "name": "Sensibio Defensive Serum",
+        "description": "Hassas ve hassaslaşabilen cildi erken yaşlanmaya ve dış etkenlere karşı koruyan antioksidan etkili yatıştırıcı ve nemlendirici bakım serumu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/intensive-eye": {
+        "name": "Atoderm Intensive Eye",
+        "description": "Çok kuru ve atopi eğilimli ciltlerde göz çevresini yatıştırmaya ve onarmaya yardımcı nemlendirici bakım kremi."
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/sensitive": {
+        "name": "Sébium Sensitive",
+        "description": "Akne eğilimli ciltler için kurutucu medikal tedavi sonucu kuruyan ve hassaslaşan ciltler için nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar": {
+        "name": "Sensibio AR",
+        "description": "Kızarıklık sorunu olan hassas ciltler için kızarıklığın giderilmesine yardımcı, yatıştırıcı ve nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/intensive-gel-cream": {
+        "name": "Atoderm Intensive Gel-Cream",
+        "description": "Çok kuru ve atopi eğilimli ciltler için yoğun kaşıntı karşıtı besleyici, ferahlatıcı ve nemlendirici jel krem."
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/lip-balm": {
+        "name": "Atoderm Lip Balm",
+        "description": "Çok kuru ve çatlamış dudaklar için besleyici ve yoğun nemlendirici balm"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-cream": {
+        "name": "Sensibio AR+ Cream",
+        "description": "Kızarıklık* eğilimli hassas ciltler için kızarıklık* görünümünün azalmasına yardımcı, yatıştırıcı ve nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-sos-spray": {
+        "name": "Sensibio AR+ SOS Spray",
+        "description": "Kızarıklık* eğilimli hassas ciltler için yatıştırıcı, soğutucu etkili ferahlatıcı sprey"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/lip-stick": {
+        "name": "Atoderm Lip Stick",
+        "description": "Kuru ve hassas dudaklar için stick formunda koruyucu ve nemlendirici bakım"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/mat-control": {
+        "name": "Sébium Mat Control",
+        "description": "Karma ve yağlı ciltler için parlamayı kontrol altına almaya yardımcı bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-bb-cream": {
+        "name": "Sensibio AR BB Cream",
+        "description": "Kızarıklığa eğilimli hassas ciltlerin kızarık görünümünü azaltmaya ve cilt tonunu eşitlemeye yardımcı BB krem"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-bi-serum": {
+        "name": "Sensibio AR+ BI-Serum",
+        "description": "Kızarıklık* eğilimli hassas ciltler için yaşlanma belirtilerini hedefleyen; kızarıklık* görünümünün giderilmesine yardımcı, yatıştırıcı çift etkili serum"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/hand-nail-cream": {
+        "name": "Atoderm Hand & Nail Cream",
+        "description": "Kuru ve yıpranmış el ve tırnaklar için nemlendirici ve besleyici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/serum": {
+        "name": "Sébium Serum",
+        "description": "Akne eğilimli ciltler için sivilce, siyah nokta ve akne lekesi oluşumunu engellemeye yardımcı, erken yaşlanma belirtilerine karşı etkili bakım serumu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/nutrition-cream": {
+        "name": "Atoderm Nutrition Cream",
+        "description": "Çok kuru ve olgun ciltlerin yüz bölgesi için yoğun besleyici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/eye": {
+        "name": "Sensibio Eye+",
+        "description": "Hassas göz çevresi için yorgunluk karşıtı etki sağlayan, koyu halka, ince çizgi ve şişlik görünümünü azaltmaya yardımcı nemlendirici göz kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/night-peel": {
+        "name": "Sébium Night Peel",
+        "description": "Arındırıcı ve güçlü peeling etkili yoğun gece serumu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ds-cream": {
+        "name": "Sensibio DS+ Cream",
+        "description": "Yağlı cilt nedeniyle rahatsızlık hissi, kızarık görünüm, pullanma ve aşırı yağlanma problemi yaşayan hassas ciltler için bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/arnica": {
+        "name": "Cicabio Arnica+",
+        "description": "Hasar görmüş ciltler için onarıcı bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/cream-spf-50": {
+        "name": "Cicabio Cream+ SPF 50+",
+        "description": "Cildin bariyerini onarıcı, yatıştırıcı ve ultra nemlendirici, leke karşıtı etkili UV koruması içeren hassas cilt bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/eye-contour-gel": {
+        "name": "Sensibio Eye Contour Gel",
+        "description": "Hassas ve tolerans seviyesi düşük göz çevresi için yatıştırıcı ve nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/light-cream": {
+        "name": "Hydrabio Light Cream",
+        "description": "Normal ve karma ciltler için 72 saat nemlendirme sağlayan hafif dokulu nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/lip-repair": {
+        "name": "Cicabio Lip Repair",
+        "description": "Kuruluktan çatlamış dudakları onarmaya, korumaya ve beslemeye yardımcı yoğun nemlendirici etkili dudak balmı"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/lotion": {
+        "name": "Sébium Lotion",
+        "description": "Karma, yağlı, akne eğilimli ciltler için gözenekleri sıkılaştırmaya yardımcı tonik"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/lotion-spray": {
+        "name": "Cicabio Lotion Spray",
+        "description": "Hasar görmüş cilt için yatıştırıcı sprey losyon"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/night-renewer": {
+        "name": "Pigmentbio Night Renewer",
+        "description": "Leke sorunu yaşayan hassas ciltler için leke görünümünün azaltılmasına yardımcı, aydınlatıcı ve sıkılaştırıcı gece bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/perfecteur-spf-30-0": {
+        "name": "Hydrabio Perfecteur SPF30",
+        "description": "Nemsiz ciltler için 72 saat boyunca cildi nemlendiren SPF30 koruması sağlayan aydınlatıcı etkili bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/abcderm/relaxing-oil": {
+        "name": "ABCDerm Relaxing Oil",
+        "description": "Bebek ve çocukların hassas cildi için besleyici ve rahatlatıcı masaj yağı"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/riche-cream": {
+        "name": "Hydrabio Rich Cream",
+        "description": "Kuru ve çok kuru ciltler için 72 saat nemlendirme sağlayan yoğun dokulu nemlendirici bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/hydrabio-serum": {
+        "name": "Hydrabio Serum",
+        "description": "Nemsiz kalmış ciltler için 72 saat nemlendirme sağlayan yoğun nemlendirici serum"
+      }
+    }
+  },
+  "/temizleme": {
+    "reported": 25,
+    "products": {
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/foaming-gel-refill": {
+        "name": "Sébium Foaming Gel Refill",
+        "description": "Karma, Yağlı ve Akne Eğilimli Ciltler için Temizleme Jeli Yeniden Dolum Paketi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/abcderm/foaming-cleanser": {
+        "name": "ABCDerm Foaming Cleanser",
+        "description": "Bebek ve çocukların yüz, vücut ve saçları için göz yakmayan hassas temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/foaming-gel": {
+        "name": "Sébium Foaming Gel",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için günlük arındırıcı temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/h2o": {
+        "name": "Sensibio H2O",
+        "description": "Hassas ciltler için durulama gerektirmeyen misel temizleme suyu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/cicabio/cleansing-balm": {
+        "name": "Cicabio Cleansing Balm",
+        "description": "Hasarlı ciltler için cildin doğal yenilenme sürecine yardımcı yüz, vücut, saçlı deri ve özel bölge kullanımına uygun onarıcı temizleme balmı"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/foaming-cream": {
+        "name": "Pigmentbio Foaming Cream",
+        "description": "Leke sorunu yaşayan hassas ciltlerin, cilt tonunu eşitlemeye ve aydınlatmaya yardımcı peeling etkili temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/foaming-gel": {
+        "name": "Sensibio Foaming Gel",
+        "description": "Hassas ve nem kaybı yaşayan ciltlere özel durulanan misel temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/abcderm/gentle-shampoo": {
+        "name": "ABCDerm Gentle Shampoo",
+        "description": "Saç ve saçlı deriyi nazikçe temizleyen göz yakmayan şampuan"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/h2o": {
+        "name": "Hydrabio H2O",
+        "description": "Nemsiz ciltler için nemlendirici etkili ve durulama gerektirmeyen temizleyici misel su"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/micellar-cleansing-oil": {
+        "name": "Sensibio Micellar Cleansing Oil",
+        "description": "Hassas ciltler dahil tüm ciltler için çift aşamalı temizliğin ilk aşamasında, yüz ve göz makyajını çıkarmaya, cildi yatıştırmaya yardımcı misel temizleme yağı"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/shower-oil": {
+        "name": "Atoderm Shower Oil",
+        "description": "Kuru, hassas ve atopi eğilimli ciltler için durulanan duş yağı"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/h2o": {
+        "name": "Pigmentbio H2O",
+        "description": "Leke sorunu yaşayan hassas ciltler için aydınlatıcı etkili durulama gerektirmeyen temizleyici misel su"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/shower-gel": {
+        "name": "Atoderm Shower Gel",
+        "description": "Kuru ve hassas ciltler için temizleyici duş jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/intensive-foaming-gel": {
+        "name": "Atoderm Intensive Foaming Gel",
+        "description": "Çok kuru ve atopi eğilimli ciltler için zengin içerikli temizleyici jel."
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/h2o": {
+        "name": "Sébium H2O",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için durulama gerektirmeyen misel temizleme suyu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-micellar-gel": {
+        "name": "Sensibio AR+ Micellar Gel",
+        "description": "Kızarıklık* eğilimli hassas ciltler için durulama gerektirmeyen temizleyici, makyaj çıkarıcı ve cildi yatıştırmaya yardımcı ferahlatıcı etkili misel jel"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/h2o-eye": {
+        "name": "Sensibio H2O Eye",
+        "description": "Hassas göz çevresi ve dudaklar için suya dayanıklı makyajı çıkaran ve kirpikleri güçlendiren çift fazlı misel temizleyici"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sensibio/ds-foaming-gel": {
+        "name": "Sensibio DS+ Foaming Gel",
+        "description": "Yağlı ciltten doğan rahatsızlık hissi artan ve yağlı pullanma problemi yaşayan hassas ciltler için arındırıcı temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/node/ds-shampoo": {
+        "name": "Nodé DS+ Shampoo",
+        "description": "Tekrarlayan yağlı pullanma sorununa karşı deterjan içermeyen şampuan"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/exfoliating-gel-0": {
+        "name": "Sébium EXFOLIATING GEL",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için peeling etkili temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/node/fluid-shampoo": {
+        "name": "Nodé Fluid Shampoo",
+        "description": "Tüm saç tipleri için sık kullanıma uygun ve akışkan formüllü şampuan"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/hydrabio/foaming-gel": {
+        "name": "Hydrabio Foaming Gel",
+        "description": "Tüm cilt tipleri için 24 saat nemlendirme sağlayan durulanan misel temizleme jeli"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/abcderm/h2o": {
+        "name": "ABCDerm H2O",
+        "description": "Bebeklerin bez bölgesi, yüz ve göz çevresi için durulama gerektirmeyen temizleyici misel su"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/hydra-cleanser": {
+        "name": "Sébium Hydra Cleanser",
+        "description": "Akneli ve hassas ciltler için yatıştırıcı etkili balm dokulu temizleyici"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/atoderm/intensive-bar-kalip-temizleyici": {
+        "name": "Atoderm Intensive Bar Kalıp Temizleyici",
+        "description": "Çok kuru ve atopi eğilimli ciltler için nemlendirici kalıp temizleyici."
+      }
+    }
+  },
+  "/gunes-koruyucu": {
+    "reported": 30,
+    "products": {
+      "https://www.bioderma.com.tr/urunlerimiz/sebium/kerato-spf30": {
+        "name": "Sébium Kerato+ SPF30",
+        "description": "Sivilce, Akne Lekesi Karşıtı AHA, BHA, Salisilik Asit İçeren SPF30 Güneş Korumalı Nemlendirici Krem"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/photoderm-ar-ultra-fluid-spf50-40-ml": {
+        "name": "Photoderm Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
+        "description": "Kızarık ve reaksiyon gösterme eğilimli ciltler için kızarıklık karşıtı etkili çok yüksek koruma sağlayan ultra akışkan güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/spot-spf-50": {
+        "name": "Photoderm Photoderm Spot SPF50+",
+        "description": "Leke sorunu yaşayan ya da leke oluşma riski taşıyan ciltler için çok yüksek koruma sağlayan güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/xdefense-ultra-fluid-spf50": {
+        "name": "Photoderm XDefense Ultra-Fluid SPF50+",
+        "description": "Hassas ciltler dahil tüm cilt tiplerine uygun, su bazlı ve akışkan dokulu, çevresel kirliliğe ve UVA/UVB ışınlarına karşı çok yüksek koruma sağlayan güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/ar-spf50": {
+        "name": "Photoderm AR SPF50+",
+        "description": "Kızarıklık sorunu yaşayan ciltler için renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/akn-mat-spf30": {
+        "name": "Photoderm Photoderm AKN Mat SPF30",
+        "description": "Karma, yağlı ve akne eğilimli cilter için uzun süreli matlaştırıcı etkiye sahip akne karşıtı güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/cream-spf50": {
+        "name": "Photoderm Cream SPF50+",
+        "description": "Kuru ve çok kuru ciltler için çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/lait-ultra-spf50": {
+        "name": "Photoderm Lait Ultra SPF50+",
+        "description": "En hassas ve toleransı en düşük ciltler dahil tüm ciltler için çok yüksek koruma sağlayan güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/xdefense-ultra-fluid-spf50-very-light": {
+        "name": "Photoderm XDefense Ultra-Fluid SPF50+ Very Light",
+        "description": "Hassas ciltler dahil tüm cilt tiplerine uygun, su bazlı ve akışkan dokulu, çevresel kirliliğe ve UVA/UVB ışınlarına karşı çok yüksek koruma sağlayan renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/spot-age-spf50": {
+        "name": "Photoderm Spot-Age SPF50+",
+        "description": "Leke eğilimli normal ve kuru ciltler için yaşlanma karşıtı çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/cream-spf50-light": {
+        "name": "Photoderm Cream SPF50+ Light",
+        "description": "Kuru ve çok kuru ciltler için çok yüksek koruma sağlayan renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/mineral-fluid-spf50": {
+        "name": "Photoderm MINERAL Fluid SPF50+",
+        "description": "Kimyasal filtre alerjisi olan hassas ciltler ve atopi eğilimli ciltler için %100 mineral filtreli çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/stick-spf50-8-gr": {
+        "name": "Photoderm Stick SPF50+ 8 GR",
+        "description": "Tüm cilt tipleri için göz çevresi, dudak, kulak, burun gibi hassas bölgeler için stick formunda güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/m-spf50-light": {
+        "name": "Photoderm M SPF50+ Light",
+        "description": "Mavi ışığa karşı güçlendirilmiş koyu leke karşıtı ve çok yüksek koruma sağlayan açık renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/nude-touch-spf50-very-light": {
+        "name": "Photoderm NUDE Touch SPF50+ Very Light",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için %100 mineral filtreli ve doğal kapatıcı etkili çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/nude-touch-spf50-light": {
+        "name": "Photoderm NUDE Touch SPF50+ Light",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için %100 mineral filtreli ve doğal kapatıcı etkili çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/pediatrics-spray-spf50": {
+        "name": "Photoderm Pediatrics Spray SPF50+",
+        "description": "Çocukların ve bebeklerin hassas cildi için çok yüksek koruma sağlayan, suya ve kuma dayanıklı sprey güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/after-sun-gel-cream": {
+        "name": "Photoderm After Sun Gel-Cream",
+        "description": "Güneş sonrası yatıştırıcı ve onarıcı bakım kremi"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/pediatrics-lait-spf50": {
+        "name": "Photoderm Pediatrics Lait SPF50+",
+        "description": "Çocukların ve bebeklerin hassas cildi için çok yüksek koruma sağlayan, suya ve kuma dayanıklı süt formda güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/cover-touch-spf50-very-light": {
+        "name": "Photoderm Cover Touch SPF50+ Very Light",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için %100 mineral filtreli ve doğal kapatıcı etkili çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/xdefense-ultra-fluid-spf50-light": {
+        "name": "Photoderm XDefense Ultra-Fluid SPF50+ Light",
+        "description": "Hassas ciltler dahil tüm cilt tiplerine uygun, su bazlı ve akışkan dokulu, çevresel kirliliğe ve UVA/UVB ışınlarına karşı çok yüksek koruma sağlayan renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/mineral-compact-light-spf50": {
+        "name": "Photoderm MINERAL Compact Light SPF50+",
+        "description": "%100 mineral filtreli, kapatıcı etkili ve çok yüksek güneş korumasına sahip renkli kompakt pudra"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/pediatrics-mineral-spf50": {
+        "name": "Photoderm Pediatrics Mineral SPF50+",
+        "description": "Yenidoğan bebeklerin ve çocukların hassas cildi için çok yüksek koruma sağlayan, suya ve kuma dayanıklı %100 mineral filtreli  güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/xdefense-ultra-fluid-spf50-golden": {
+        "name": "Photoderm XDefense Ultra-Fluid SPF50+ Golden",
+        "description": "Hassas ciltler dahil tüm cilt tiplerine uygun, su bazlı ve akışkan dokulu, çevresel kirliliğe ve UVA/UVB ışınlarına karşı çok yüksek koruma sağlayan renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/anti-ox-sun-protective-water-spf50-200-ml": {
+        "name": "Photoderm Anti OX Sun Protective Water SPF50",
+        "description": "Antioksidan ve yaşlanma karşıtı etkili yüz, vücut ve saç kullanımına uygun çift fazlı güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/bronz-sun-protective-water-spf30-200-ml": {
+        "name": "Photoderm Bronz Sun Protective Water SPF30 200 ML",
+        "description": "Doğal bronzlaşmayı hızlandırmaya yardımcı ve bronzluğun kalıcılığını artıran yüz, vücut ve saç kullanımına uygun çift fazlı güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/cover-touch-spf50-light": {
+        "name": "Photoderm Cover Touch SPF50+ Light",
+        "description": "Karma, yağlı ve akne eğilimli ciltler için %100 mineral filtreli ve doğal kapatıcı etkili çok yüksek güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/m-spf50-golden": {
+        "name": "Photoderm M SPF50+ Golden",
+        "description": "Mavi ışığa karşı güçlendirilmiş koyu leke karşıtı ve çok yüksek koruma sağlayan koyu renkli güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/photoderm-spray-invisible-spf50-200-ml": {
+        "name": "Photoderm Photoderm Spray Invisible SPF50+ 200 ML",
+        "description": "Tüm cilt tipleri, yüz ve vücut için, aile boyu kullanıma uygun, nemlendirici etkili, çok yüksek koruma sağlayan sprey formda güneş koruyucu"
+      },
+      "https://www.bioderma.com.tr/urunlerimiz/photoderm/sun-mist-spf50": {
+        "name": "Photoderm Sun Mist SPF50+",
+        "description": "Uygulama sonrası yayma gerektirmeyen ve tüm cilt tiplerinin kullanımına uygun çok yüksek güneş koruyucu"
+      }
+    }
+  }
+}

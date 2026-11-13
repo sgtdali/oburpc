@@ -1,0 +1,7428 @@
+[
+  {
+    "slug": "bioderma-cicabio-hand-cream",
+    "brandSlug": "bioderma",
+    "name": "Cicabio Hand Cream",
+    "nameTr": "Cicabio El Kremi",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "butylene-glycol",
+      "glycerin",
+      "caprylic-capric-triglyceride",
+      "butyrospermum-parkii-butter",
+      "glyceryl-stearate",
+      "glycol-palmitate",
+      "sodium-polyacrylate",
+      "pentylene-glycol",
+      "1-2-hexanediol",
+      "caprylyl-glycol",
+      "dipalmitoyl-hydroxyproline",
+      "mannitol",
+      "sodium-hyaluronate",
+      "xylitol",
+      "citric-acid",
+      "rhamnose",
+      "sodium-citrate",
+      "acetyl-dipeptide-1-cetyl-ester",
+      "polyquaternium-51"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "hyaluronic-acid",
+      "peptide"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 1
+      }
+    ],
+    "description": "Kuruluk ve çatlama eğilimi olan eller için nemlendirici bakım kremi. Türkiye içerik listesinde sodyum hyalüronat, bütilen glikol, gliserin bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Ürünün uygulanacağı bölgeyi önceden temizleyin.",
+      "Cildin ihtiyaç duyduğu kadar ürünü ilgili bölgenin üzerine uygulayın.",
+      "Gün içerisinde tekrar kullanılabilir."
+    ],
+    "imageFile": "bioderma-cicabio-hand-cream.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/cicabio/hand-cream"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sebium-kerato-plus",
+    "brandSlug": "bioderma",
+    "name": "Sébium Kerato+",
+    "nameTr": "Sébium Kerato+ Bakım Jel Kremi",
+    "categorySlug": "akne-bakimi",
+    "ingredientSlugs": [
+      "aqua",
+      "di-c12-13-alkyl-malate",
+      "propanediol",
+      "propylheptyl-caprylate",
+      "glycerin",
+      "salicylic-acid",
+      "sodium-polyacryloyldimethyl-taurate",
+      "arachidyl-alcohol",
+      "dimethicone",
+      "cetearyl-alcohol",
+      "behenyl-alcohol",
+      "coco-glucoside",
+      "arachidyl-glucoside",
+      "sodium-hydroxide",
+      "sodium-citrate",
+      "chondrus-crispus-extract",
+      "mannitol",
+      "propyl-gallate",
+      "xylitol",
+      "rhamnose",
+      "sodium-metabisulfite",
+      "tocopherol",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": false
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "bha",
+      "vitamin-e",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 4
+      },
+      {
+        "key": "acne-fighting",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      },
+      {
+        "key": "skin-texture",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Yağlı ve akneye eğilimli ciltlerde pürüz ve leke görünümünün bakımına yönelik jel krem. Türkiye içerik listesinde salisilik asit (bha), di-c12-13 alkil malat, propilheptil kaprilat bulunuyor. Parfüm içeriyor. Asit içeren bakımın kullanım sıklığı cildin toleransına göre değerlendirilmelidir.",
+    "brandClaims": [],
+    "howTo": [
+      "Sébium Foaming Gel ve/veya Sébium Foaming Gel Active ile cildinizi iyice temizleyin.",
+      "Ürünü tüm yüzünüze veya endikasyon bölgelerinize uygulayın."
+    ],
+    "imageFile": "bioderma-sebium-kerato-plus.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sebium/kerato"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sebium-kerato-plus-body",
+    "brandSlug": "bioderma",
+    "name": "Sébium Kerato+ BODY",
+    "nameTr": "Sébium Kerato+ Vücut Spreyi",
+    "categorySlug": "akne-bakimi",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "butylene-glycol",
+      "niacinamide",
+      "dipropylene-glycol",
+      "1-2-hexanediol",
+      "maltodextrin",
+      "salicylic-acid",
+      "citric-acid",
+      "sodium-citrate",
+      "polysorbate-20",
+      "sodium-hydroxide",
+      "mannitol",
+      "xylitol",
+      "propyl-gallate",
+      "trisodium-ethylenediamine-disuccinate",
+      "sodium-metabisulfite",
+      "rhamnose",
+      "syringa-vulgaris-extract",
+      "parfum",
+      "aminoethanesulfinic-acid"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "niacinamide",
+      "bha",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 2
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 2
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "acne-fighting",
+        "count": 1
+      },
+      {
+        "key": "skin-texture",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Vücutta sivilce ve iz görünümüne yönelik, yağlı ve akneye eğilimli ciltler için bakım spreyi. Türkiye içerik listesinde salisilik asit (bha), niasinamid (b3 vitamini), gliserin bulunuyor. Parfüm içeriyor. Asit içeren bakımın kullanım sıklığı cildin toleransına göre değerlendirilmelidir.",
+    "brandClaims": [],
+    "howTo": [
+      "Gündüz ve/veya gece temiz, kuru cilde uygulayın.",
+      "Sırt, göğüs ve omuz bölgelerinde 20 cm mesafeden uygulayın.",
+      "Kullanım sonrası, ürünün cildinizde kurumasını bekleyin.",
+      "Yüze sıkmayınız.",
+      "Basınçlı kap ısıtıldığında patlayabilir.",
+      "Güneş ışığından koruyun. 50 °C’nin üzerindeki sıcaklıklara maruz bırakmayın. Ürünün ambalajını delmeyin veya yakmayın. Ateşten ve kıvılcım kaynaklarından uzak tutun.",
+      "Çocukların erişemeyeceği yerde saklayın.",
+      "Gerektiği durumlarda dermatoloğunuza danışmanız gerektiğini unutmayınız."
+    ],
+    "imageFile": "bioderma-sebium-kerato-plus-body.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sebium/kerato-body"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sebium-kerato-plus-cover",
+    "brandSlug": "bioderma",
+    "name": "Sébium Kerato+ COVER",
+    "nameTr": "Sébium Kerato+ Renkli Bakım Kremi",
+    "categorySlug": "akne-bakimi",
+    "ingredientSlugs": [
+      "aqua",
+      "di-c12-13-alkyl-malate",
+      "dicaprylyl-carbonate",
+      "titanium-dioxide",
+      "glycerin",
+      "polyglyceryl-3-ricinoleate",
+      "sorbitan-isostearate",
+      "magnesium-sulfate",
+      "propanediol",
+      "salicylic-acid",
+      "stearalkonium-hectorite",
+      "ci-77492",
+      "silica",
+      "sodium-chloride",
+      "sodium-hydroxide",
+      "xanthan-gum",
+      "ci-77491",
+      "propylene-carbonate",
+      "citric-acid",
+      "ci-77499",
+      "mannitol",
+      "xylitol",
+      "propyl-gallate",
+      "sodium-lauroyl-glutamate",
+      "parfum",
+      "rhamnose",
+      "sodium-metabisulfite",
+      "lysine",
+      "magnesium-chloride",
+      "aminoethanesulfinic-acid",
+      "tocopherol"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "bha",
+      "vitamin-e",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 4
+      },
+      {
+        "key": "acne-fighting",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      },
+      {
+        "key": "skin-texture",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Akneye eğilimli ciltlerde pürüz görünümüne bakım yaparken renkli yapısıyla cilt tonunu eşitlemeyi amaçlayan krem. Türkiye içerik listesinde salisilik asit (bha), di-c12-13 alkil malat, dikaprilil karbonat bulunuyor. Parfüm içeriyor. Asit içeren bakımın kullanım sıklığı cildin toleransına göre değerlendirilmelidir.",
+    "brandClaims": [
+      "non-comedogenic"
+    ],
+    "howTo": [
+      "Sébium Foaming Gel veya Sébium Foaming Gel Active ile temizlenmiş cilde gündüz uygulanır.",
+      "Güneşe maruz kalınması durumunda Photoderm AKN Mat ile cildinizi güneş ışınlarından koruyun.",
+      "Gerektiği durumlarda dermatoloğunuza danışmanız gerektiğini unutmayınız."
+    ],
+    "imageFile": "bioderma-sebium-kerato-plus-cover.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sebium/kerato-cover"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-matricium",
+    "brandSlug": "bioderma",
+    "name": "Matricium",
+    "nameTr": "Matricium Cilt Bakım Kapsülü",
+    "categorySlug": "serum",
+    "ingredientSlugs": [
+      "aqua",
+      "sodium-chloride",
+      "glucose",
+      "sodium-hyaluronate",
+      "alanyl-glutamine",
+      "disodium-phosphate",
+      "mannitol",
+      "xylitol",
+      "rhamnose",
+      "arginine-hcl",
+      "sodium-acetate",
+      "lactose",
+      "serine",
+      "leucine",
+      "magnesium-chloride",
+      "potassium-chloride",
+      "fructooligosaccharides",
+      "valine",
+      "sodium-pyruvate",
+      "lysine-hcl",
+      "histidine-hcl",
+      "proline",
+      "cysteine-hcl",
+      "whey-protein",
+      "hydroxyproline",
+      "glutamic-acid",
+      "asparagine",
+      "threonine",
+      "inositol",
+      "adenine",
+      "alanine",
+      "aspartic-acid",
+      "glycine",
+      "lactic-acid",
+      "methionine",
+      "tyrosine",
+      "phenylalanine",
+      "tryptophan",
+      "isoleucine",
+      "sodium-sulfate",
+      "folic-acid",
+      "ferrous-sulfate",
+      "calcium-pantothenate",
+      "thiamine-hcl",
+      "pyridoxine-hcl",
+      "niacinamide",
+      "ascorbic-acid",
+      "cyanocobalamin",
+      "ribose",
+      "thioctic-acid",
+      "riboflavin",
+      "sodium-metasilicate",
+      "zinc-sulfate",
+      "adenosine",
+      "guanine",
+      "biotin",
+      "copper-sulfate",
+      "manganese-chloride"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "hyaluronic-acid",
+      "aha",
+      "niacinamide",
+      "vitamin-c",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 12
+      },
+      {
+        "key": "brightening",
+        "count": 2
+      },
+      {
+        "key": "dark-spots",
+        "count": 2
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      },
+      {
+        "key": "skin-texture",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-irritation",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      }
+    ],
+    "description": "Tek kullanımlık kapsüllerde sunulan, cilt bakımına yönelik su bazlı bir ürün. Amino asitler, şekerler, vitaminler ve mineral tuzlarını bir araya getiriyor. Türkiye içerik listesinde niasinamid (b3 vitamini), sodyum hyalüronat, glukoz bulunuyor. Listede parfüm (PARFUM) bulunmuyor. İçeriklerin miktarı listeden belirlenemiyor; bu bileşim tıbbi işlem veya tedavi yerine geçmez.",
+    "brandClaims": [],
+    "howTo": [
+      "1 kapsülü sabah ve akşam, temiz ve kuru cilde yüz, göz çevresi ve boyun bölgesine uygulayıp, günlük cilt bakım ürününüzden önce kullanınız. Ürünü, kapağının açılmasından 12 saat sonrasına kadar kullanabilirsiniz. Tüm cilt tiplerinin ve 25 yaş ve üzeri kullanıma uygundur. Yüksek toleranslıdır. Hassaslaşmış, tahriş olmuş cilde, dermatoloğunuzun önerisine göre kullanınız.  Hamile ve emziren kişilerin kullanımına uygundur.",
+      "Göz ile temasından kaçınınız.",
+      "Küçük parçalar içermektedir: çocuklardan uzak tutunuz."
+    ],
+    "imageFile": "bioderma-matricium.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/matricium/matricium-cilt-yenileyici-bakim-kapsulu"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-atoderm-cream-ultra",
+    "brandSlug": "bioderma",
+    "name": "Atoderm Cream Ultra",
+    "nameTr": "Atoderm Ultra Nemlendirici Krem",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "paraffinum-liquidum",
+      "glycerin",
+      "brassica-campestris-seed-oil",
+      "sodium-polyacrylate",
+      "pentylene-glycol",
+      "cetearyl-alcohol",
+      "1-2-hexanediol",
+      "caprylyl-glycol",
+      "acrylates-c10-30-alkyl-acrylate-crosspolymer",
+      "sodium-citrate",
+      "xylitol",
+      "cetearyl-glucoside",
+      "mannitol",
+      "tocopherol",
+      "rhamnose",
+      "xylitylglucoside",
+      "helianthus-annuus-seed-oil",
+      "anhydroxylitol",
+      "niacinamide",
+      "glucose",
+      "fructooligosaccharides",
+      "caprylic-capric-triglyceride",
+      "laminaria-ochroleuca-extract"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "vitamin-e",
+      "niacinamide"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 8
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 3
+      }
+    ],
+    "description": "Normal ve kuru yüz ile vücut cildi için günlük nemlendirici krem. Türkiye içerik listesinde niasinamid (b3 vitamini), mineral yağ (sıvı parafin), gliserin bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "non-comedogenic"
+    ],
+    "howTo": [
+      "Atoderm Shower Gel veya Atoderm Shower Oil ile cildinizi temizleyin.",
+      "Atoderm Cream Ultra ürününü yüz ve vücut bölgelerine uygulayın.",
+      "Cildinizde krem emilene kadar hafifçe ovalayın."
+    ],
+    "imageFile": "bioderma-atoderm-cream-ultra.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/atoderm/cream-ultra"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-abcderm-foaming-cleanser",
+    "brandSlug": "bioderma",
+    "name": "ABCDerm Foaming Cleanser",
+    "nameTr": "ABCDerm Bebek ve Çocuk Temizleme Jeli",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "aqua",
+      "sodium-laureth-sulfate",
+      "coco-betaine",
+      "methylpropanediol",
+      "sodium-chloride",
+      "pentylene-glycol",
+      "peg-90-glyceryl-isostearate",
+      "laureth-2",
+      "citric-acid",
+      "disodium-edta",
+      "sodium-citrate",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": false
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [],
+    "benefits": [],
+    "concerns": [
+      {
+        "key": "may-worsen-eczema",
+        "count": 2
+      },
+      {
+        "key": "may-worsen-dryness",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      }
+    ],
+    "description": "Bebek ve çocuklarda yüz ve vücut temizliği için köpüren jel. Marka saçta kullanımını da belirtiyor; katalogda cilt temizleme işleviyle yer alıyor. Türkiye içerik listesinde sodyum laureth sülfat, koko betain, pentilen glikol bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Islak ciltte ve saçta uygulayın.",
+      "Köpürtün.",
+      "İyice durulayın.",
+      "Nazikçe kurulayın."
+    ],
+    "imageFile": "bioderma-abcderm-foaming-cleanser.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/abcderm/foaming-cleanser"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-pigmentbio-sensitive-areas",
+    "brandSlug": "bioderma",
+    "name": "Pigmentbio Sensitive Areas",
+    "nameTr": "Pigmentbio Hassas Bölge Bakım Kremi",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "cetyl-alcohol",
+      "dimethicone",
+      "polymethylsilsesquioxane",
+      "dipropylene-glycol",
+      "propylheptyl-caprylate",
+      "caprylic-capric-triglyceride",
+      "hdi-trimethylol-hexyllactone-crosspolymer",
+      "c14-22-alcohols",
+      "pentylene-glycol",
+      "carbomer",
+      "polysilicone-11",
+      "caprylyl-glycol",
+      "1-2-hexanediol",
+      "ammonium-acryloyldimethyltaurate-vp-copolymer",
+      "butylene-glycol",
+      "disodium-edta",
+      "lysine",
+      "c12-20-alkyl-glucoside",
+      "azelaic-acid",
+      "laminaria-ochroleuca-extract",
+      "mannitol",
+      "salicylic-acid",
+      "xylitol",
+      "andrographis-paniculata-leaf-extract",
+      "rhamnose",
+      "sodium-hydroxide",
+      "glycyrrhiza-glabra-root-extract",
+      "decyl-glucoside",
+      "fructooligosaccharides",
+      "tocopherol"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": false
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "azelaic-acid",
+      "bha",
+      "brightener",
+      "vitamin-e"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      },
+      {
+        "key": "brightening",
+        "count": 2
+      },
+      {
+        "key": "dark-spots",
+        "count": 2
+      },
+      {
+        "key": "acne-fighting",
+        "count": 2
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "reduces-irritation",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      },
+      {
+        "key": "skin-texture",
+        "count": 1
+      }
+    ],
+    "concerns": [],
+    "description": "Koltuk altı, diz ve dirsek gibi bölgelerde ton eşitsizliği görünümüne yönelik nemlendirici bakım kremi. Türkiye içerik listesinde salisilik asit (bha), gliserin, setil alkol bulunuyor. Listede parfüm (PARFUM) bulunmuyor. Asit içeren bakımın kullanım sıklığı cildin toleransına göre değerlendirilmelidir.",
+    "brandClaims": [],
+    "howTo": [
+      "Etkilenen hassas bölgeyi Pigmentbio Foaming Cream ile temizledikten sonra günde 1 ya da 2 kez uygulayın. Hassasiyet kaynaklı kızarıklık görünümünü ve cilt tonundaki eşitsizliği önleyebilmek için ağda, tıraş, lazer vb. uygulamalardan hemen sonra kullanılabilir. Sadece vücut kullanımına uygundur.",
+      "Sadece yetişkinlerin kullanımına uygundur."
+    ],
+    "imageFile": "bioderma-pigmentbio-sensitive-areas.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/sensitive-areas"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-cicabio-cleansing-balm",
+    "brandSlug": "bioderma",
+    "name": "Cicabio Cleansing Balm",
+    "nameTr": "Cicabio Temizleme Balmı",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "aqua",
+      "caprylyl-capryl-glucoside",
+      "butyrospermum-parkii-oil",
+      "glycerin",
+      "methylpropanediol",
+      "disodium-cocoyl-glutamate",
+      "pentylene-glycol",
+      "squalane",
+      "acrylates-c10-30-alkyl-acrylate-crosspolymer",
+      "zinc-gluconate",
+      "caprylic-capric-triglyceride",
+      "xanthan-gum",
+      "citric-acid",
+      "butylene-glycol",
+      "propanediol",
+      "sodium-citrate",
+      "caprylyl-glycol",
+      "saccharide-isomerate",
+      "sodium-hydroxide",
+      "benzotriazolyl-dodecyl-p-cresol",
+      "mannitol",
+      "rhamnose",
+      "xylitol",
+      "tocopherol",
+      "helianthus-annuus-seed-oil",
+      "acetyl-dipeptide-1-cetyl-ester",
+      "fructooligosaccharides"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "squalane",
+      "vitamin-e",
+      "peptide"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 7
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 2
+      }
+    ],
+    "description": "Hassaslaşmış ve kurumuş ciltte nazik temizlik için durulanan balm. Türkiye içerik listesinde kaprilil/kapril glukozit, disodyum kokoil glutamat, skualan bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "fragrance-free"
+    ],
+    "howTo": [
+      "Islak cilde nazikçe uygulayın ve ovalamadan kurulayın. Devamında cildinize uygun Cicabio bakım kremlerini tercih edebilirsiniz. Yüz , vücut , saçlı deri ve özel bölge kullanımına uygundur. Bebek, çocuk ve yetişkinler (prematüre bebekler hariç) kullanabilir."
+    ],
+    "imageFile": "bioderma-cicabio-cleansing-balm.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/cicabio/cleansing-balm"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-hydrabio-cream",
+    "brandSlug": "bioderma",
+    "name": "Hydrabio Cream",
+    "nameTr": "Hydrabio Yoğun Nemlendirici Krem",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "isododecane",
+      "cyclopentasiloxane",
+      "propylene-glycol-dicaprylate-dicaprate",
+      "dimethicone",
+      "propanediol",
+      "xylitol",
+      "cetyl-palmitate",
+      "hydrogenated-polydecene",
+      "niacinamide",
+      "tridecyl-trimellitate",
+      "arachidyl-alcohol",
+      "polymethylsilsesquioxane",
+      "glyceryl-dibehenate",
+      "behenyl-alcohol",
+      "hdi-trimethylol-hexyllactone-crosspolymer",
+      "tribehenin",
+      "dimethicone-vinyl-dimethicone-crosspolymer",
+      "pentylene-glycol",
+      "tocopheryl-acetate",
+      "arachidyl-glucoside",
+      "acrylates-c10-30-alkyl-acrylate-crosspolymer",
+      "hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer",
+      "glyceryl-behenate",
+      "disodium-edta",
+      "squalane",
+      "salicylic-acid",
+      "sodium-hydroxide",
+      "mannitol",
+      "sodium-hyaluronate",
+      "hexyldecanol",
+      "tocopherol",
+      "polysorbate-60",
+      "rhamnose",
+      "helianthus-annuus-seed-oil",
+      "pyrus-malus-seed-extract",
+      "brassica-campestris-sterols",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": false
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "niacinamide",
+      "vitamin-e",
+      "squalane",
+      "bha",
+      "hyaluronic-acid",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 2
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 2
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "acne-fighting",
+        "count": 1
+      },
+      {
+        "key": "skin-texture",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 2
+      },
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Kurudan çok kuruya dönük, nemsiz yüz cildi için zengin dokulu nemlendirici krem. Türkiye içerik listesinde salisilik asit (bha), niasinamid (b3 vitamini), sodyum hyalüronat bulunuyor. Parfüm içeriyor. Asit içeren bakımın kullanım sıklığı cildin toleransına göre değerlendirilmelidir.",
+    "brandClaims": [],
+    "howTo": [
+      "Hydrabio H2O ya da Hydrabio Milky Cleanser ile önceden temizlenmiş ve Hydrabio Tonique\nuygulanmış yüz ve boyun bölgesine günde 1 veya 2 kez sabah ve/veya akşam uygulanabilir."
+    ],
+    "imageFile": "bioderma-hydrabio-cream.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/hydrabio/cream"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-pigmentbio-foaming-cream",
+    "brandSlug": "bioderma",
+    "name": "Pigmentbio Foaming Cream",
+    "nameTr": "Pigmentbio Peeling Etkili Temizleme Kremi",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "aqua",
+      "citric-acid",
+      "butyrospermum-parkii-oil",
+      "magnesium-laureth-sulfate",
+      "sodium-hydroxide",
+      "cellulose-acetate",
+      "sodium-cocoamphoacetate",
+      "methylpropanediol",
+      "acrylates-c10-30-alkyl-acrylate-crosspolymer",
+      "coco-glucoside",
+      "glyceryl-oleate",
+      "sodium-cocoyl-glutamate",
+      "xanthan-gum",
+      "sodium-citrate",
+      "benzoic-acid",
+      "propanediol",
+      "acrylates-vinyl-isodecanoate-crosspolymer",
+      "mannitol",
+      "xylitol",
+      "rhamnose",
+      "tocopherol",
+      "helianthus-annuus-seed-oil",
+      "lysine",
+      "azelaic-acid",
+      "andrographis-paniculata-leaf-extract",
+      "fructooligosaccharides",
+      "caprylic-capric-triglyceride",
+      "hydrogenated-palm-glycerides-citrate",
+      "laminaria-ochroleuca-extract",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": false
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "vitamin-e",
+      "azelaic-acid"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 4
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "acne-fighting",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 2
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 2
+      },
+      {
+        "key": "may-worsen-dryness",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      }
+    ],
+    "description": "Ton eşitsizliği görünümüne yönelik, tanecikli ve durulanan yüz temizleme kremi. Türkiye içerik listesinde magnezyum lauret sülfat, sodyum kokoamfoasetat, shea yağı bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Sabah ve akşam nemli cilde uygulayın, köpürtün ve iyice durulayın.",
+      "Haftada bir veya iki kez maske olarak da kullanılabilir: Maske olarak kullanmak için kalın bir tabaka halinde cilde sürerek 5 dakika bekletin, ıslatın, köpürtün ve iyice durulayın. Göz çevresi ile temasından kaçının.",
+      "Yüz ve vücut kullanımına uygundur.",
+      "Göz çevresi temasından kaçının.",
+      "Sadece yetişkinlerin kullanımına uygundur."
+    ],
+    "imageFile": "bioderma-pigmentbio-foaming-cream.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/foaming-cream"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-foaming-gel",
+    "brandSlug": "bioderma",
+    "name": "Sensibio Foaming Gel",
+    "nameTr": "Sensibio Yüz Temizleme Jeli",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "aqua",
+      "sodium-cocoamphoacetate",
+      "propanediol",
+      "sodium-lauroyl-sarcosinate",
+      "citric-acid",
+      "coco-glucoside",
+      "glyceryl-oleate",
+      "sodium-citrate",
+      "peg-90-glyceryl-isostearate",
+      "mannitol",
+      "xylitol",
+      "laureth-2",
+      "rhamnose",
+      "fructooligosaccharides",
+      "tocopherol",
+      "hydrogenated-palm-glycerides-citrate",
+      "lecithin",
+      "ascorbyl-palmitate"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "vitamin-e",
+      "vitamin-c",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 4
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      }
+    ],
+    "concerns": [],
+    "description": "Hassas yüz cildinin günlük temizliği için durulanan, köpüren jel. Türkiye içerik listesinde sodyum kokoamfoasetat, sodyum lauroil sarkozinat, gliseril oleat bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Önceden su ile hafifçe ıslatılmış nemli cilde uygulanır.",
+      "Yüze uygularken köpürtülür ve ardından bol su ile durulanır ve ardından cilt hafifçe kurulanır.",
+      "Sabah ve/veya akşam olmak üzere 7 gün boyunca kullanıma uygundur.",
+      "Rahatsızlık devam ederse doktorunuza danışınız."
+    ],
+    "imageFile": "bioderma-sensibio-foaming-gel.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/foaming-gel"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-hydrabio-h2o",
+    "brandSlug": "bioderma",
+    "name": "Hydrabio H2O",
+    "nameTr": "Hydrabio H2O Misel Su",
+    "categorySlug": "misel-su",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "peg-6-caprylic-capric-glycerides",
+      "disodium-edta",
+      "mannitol",
+      "xylitol",
+      "cetrimonium-bromide",
+      "rhamnose",
+      "niacinamide",
+      "hexyldecanol",
+      "sodium-hydroxide",
+      "pyrus-malus-seed-extract",
+      "brassica-campestris-sterols",
+      "tocopherol",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "niacinamide",
+      "vitamin-e"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 4
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Nemsiz ciltlerde makyaj ve yüzeydeki kiri temizlemeye yönelik misel su. Türkiye içerik listesinde peg-6 kaprilik/kaprik gliseritler, setrimonyum bromür, niasinamid (b3 vitamini) bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Bir pamuk parçası yardımıyla cilt temizlenir ve/veya makyaj çıkarılır. Durulama gerektirmez."
+    ],
+    "imageFile": "bioderma-hydrabio-h2o.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/hydrabio/h2o"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-abcderm-hydratant",
+    "brandSlug": "bioderma",
+    "name": "ABCDerm Hydratant",
+    "nameTr": "ABCDerm Bebek ve Çocuk Bakım Sütü",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "paraffinum-liquidum",
+      "helianthus-annuus-seed-oil",
+      "behenyl-alcohol",
+      "sucrose-stearate",
+      "canola-oil",
+      "pentylene-glycol",
+      "hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer",
+      "acrylates-c10-30-alkyl-acrylate-crosspolymer",
+      "1-2-hexanediol",
+      "caprylyl-glycol",
+      "sodium-citrate",
+      "sodium-lauroyl-lactylate",
+      "tocopherol",
+      "sodium-hydroxide",
+      "polysorbate-60",
+      "sorbitan-isostearate",
+      "ceramide-np",
+      "ethylhexylglycerin",
+      "ceramide-ap",
+      "phytosphingosine",
+      "cholesterol",
+      "carbomer",
+      "xanthan-gum",
+      "citric-acid",
+      "ceramide-eop",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "vitamin-e",
+      "ceramide"
+    ],
+    "benefits": [
+      {
+        "key": "barrier-repair",
+        "count": 5
+      },
+      {
+        "key": "hydrating",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 3
+      },
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Bebek ve çocukların kuruyan cildi için nemlendirici bakım sütü. Türkiye içerik listesinde seramid np, gliserin, mineral yağ (sıvı parafin) bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "ABCDerm hijyen ürünleriyle cildi temizleyin.",
+      "Kurulanmış cilde nazikçe uygulayın.",
+      "Günde bir veya iki kez kullanılabilir."
+    ],
+    "imageFile": "bioderma-abcderm-hydratant.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/abcderm/hydratant"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-micellar-cleansing-oil",
+    "brandSlug": "bioderma",
+    "name": "Sensibio Micellar Cleansing Oil",
+    "nameTr": "Sensibio Misel Temizleme Yağı",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "ethylhexyl-palmitate",
+      "brassica-campestris-seed-oil",
+      "polyglyceryl-4-oleate",
+      "aqua",
+      "sodium-pca",
+      "propanediol",
+      "caprylic-capric-triglyceride",
+      "benzotriazolyl-dodecyl-p-cresol",
+      "tocopherol",
+      "helianthus-annuus-seed-oil",
+      "laminaria-ochroleuca-extract",
+      "stearyl-glycyrrhetinate"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": false
+      }
+    ],
+    "keyIngredientGroups": [
+      "vitamin-e"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 1
+      },
+      {
+        "key": "reduces-irritation",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 3
+      },
+      {
+        "key": "may-trigger-acne",
+        "count": 1
+      }
+    ],
+    "description": "Hassas ciltlerde makyajı ve güneş kremi kalıntılarını çözmek için yağ bazlı yüz temizleyici. Su ile durulanan ilk temizlik adımı olarak kullanılabiliyor. Türkiye içerik listesinde poligliseril-4 oleat, etilheksil palmitat, kolza tohumu yağı bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "non-comedogenic",
+      "fragrance-free"
+    ],
+    "howTo": [
+      "Ürünü kuru cildinize uygulayın.",
+      "Parmaklarınızla dairesel hareketlerle cildinize nazikçe masaj yapın.",
+      "Cildinizdeki ürünü su ile karıştırarak süt formuna gelmesini sağlayın.",
+      "Dairesel hareketler ile masaj yapmaya devam ettikten sonra su ile iyice durulayın."
+    ],
+    "imageFile": "bioderma-sensibio-micellar-cleansing-oil.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/micellar-cleansing-oil"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-atoderm-shower-oil",
+    "brandSlug": "bioderma",
+    "name": "Atoderm Shower Oil",
+    "nameTr": "Atoderm Duş Yağı",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "sodium-cocoamphoacetate",
+      "peg-7-glyceryl-cocoate",
+      "lauryl-glucoside",
+      "citric-acid",
+      "coco-glucoside",
+      "glyceryl-oleate",
+      "parfum",
+      "laureth-2",
+      "mannitol",
+      "polysorbate-20",
+      "xylitol",
+      "rhamnose",
+      "niacinamide",
+      "fructooligosaccharides",
+      "tocopherol",
+      "hydrogenated-palm-glycerides-citrate"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "niacinamide",
+      "vitamin-e"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Kuru ve çok kuru ciltlerin günlük temizliği için durulanan duş ürünü. Adında yağ geçse de formülü su ve yüzey aktif maddelerle başlıyor. Türkiye içerik listesinde sodyum kokoamfoasetat, peg-7 gliseril kokoat, niasinamid (b3 vitamini) bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Duş ve banyoda, ıslak cilde uygulayın ve nazikçe durulayın.",
+      "Daha etkili sonuç almak için sonrasında cildinize uygun Atoderm bakım ürünlerini tercih edebilirsiniz.",
+      "Bebek, çocuk ve yetişkinler için yüz ve vücut kullanımına uygundur."
+    ],
+    "imageFile": "bioderma-atoderm-shower-oil.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/atoderm/shower-oil"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-abcderm-change-intensive",
+    "brandSlug": "bioderma",
+    "name": "ABCDerm Change Intensive",
+    "nameTr": "ABCDerm Bebek Bezi Bölgesi Bakım Kremi",
+    "categorySlug": "onarici-krem",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "zinc-oxide",
+      "kaolin",
+      "butylene-glycol",
+      "panthenol",
+      "hydroxyethylcellulose",
+      "citric-acid"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "panthenol"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 2
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "reduces-irritation",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "scar-healing",
+        "count": 1
+      }
+    ],
+    "concerns": [],
+    "description": "Bebek bezi bölgesinde kuruluk ve sürtünmeye bağlı hassasiyetin bakımına yönelik koruyucu krem. Türkiye içerik listesinde pantenol (b5 provitamini), gliserin, bütilen glikol bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Her bez değiştirdiğinizde ABCDerm temizleme ürünlerinden biriyle temizlenmiş ve iyice kurutulmuş deriye kalın bir tabaka olarak uygulayın."
+    ],
+    "imageFile": "bioderma-abcderm-change-intensive.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/abcderm/change-intensif"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-pigmentbio-h2o",
+    "brandSlug": "bioderma",
+    "name": "Pigmentbio H2O",
+    "nameTr": "Pigmentbio H2O Misel Su",
+    "categorySlug": "misel-su",
+    "ingredientSlugs": [
+      "aqua",
+      "peg-6-caprylic-capric-glycerides",
+      "polysorbate-20",
+      "dipropylene-glycol",
+      "peg-40-hydrogenated-castor-oil",
+      "fructooligosaccharides",
+      "disodium-edta",
+      "mannitol",
+      "xylitol",
+      "cetrimonium-bromide",
+      "butylene-glycol",
+      "lysine",
+      "azelaic-acid",
+      "andrographis-paniculata-leaf-extract",
+      "rhamnose",
+      "hexapeptide-2"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "azelaic-acid",
+      "peptide"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "acne-fighting",
+        "count": 1
+      }
+    ],
+    "concerns": [],
+    "description": "Ton eşitsizliği görünümü olan ciltlerde makyaj ve yüzeydeki kiri temizlemeye yönelik misel su. Türkiye içerik listesinde peg-6 kaprilik/kaprik gliseritler, polisorbat 20, fruktooligosakkaritler bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Bir pamuk parçası yardımıyla yüz ve göz temizlenir ve/veya makyaj çıkarılır.",
+      "Sadece yetişkinlerin kullanımına uygundur."
+    ],
+    "imageFile": "bioderma-pigmentbio-h2o.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/h2o"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-atoderm-shower-gel",
+    "brandSlug": "bioderma",
+    "name": "Atoderm Shower Gel",
+    "nameTr": "Atoderm Duş Jeli",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "aqua",
+      "sodium-laureth-sulfate",
+      "coco-betaine",
+      "sodium-lauroyl-sarcosinate",
+      "glycerin",
+      "methylpropanediol",
+      "sodium-chloride",
+      "coco-glucoside",
+      "glyceryl-oleate",
+      "disodium-edta",
+      "citric-acid",
+      "parfum",
+      "capryloyl-glycine",
+      "copper-sulfate",
+      "xylitylglucoside",
+      "anhydroxylitol",
+      "xylitol",
+      "niacinamide",
+      "fructooligosaccharides",
+      "mannitol",
+      "tocopherol",
+      "hydrogenated-palm-glycerides-citrate",
+      "rhamnose"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": false
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "niacinamide",
+      "vitamin-e"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 7
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-eczema",
+        "count": 2
+      },
+      {
+        "key": "may-worsen-dryness",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      }
+    ],
+    "description": "Normal ve kuru ciltte yüz ve vücut temizliği için köpüren, durulanan jel. Türkiye içerik listesinde sodyum laureth sülfat, koko betain, niasinamid (b3 vitamini) bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Nemli cilde uygulanır. Köpürtüldükten sonra iyice durulanır. Nazikçe kurulanır. Daha etkili sonuç almak için sonrasında cildinize uygun Atoderm bakım ürünlerini tercih edebilirsiniz. Yetişkin ve çocuklar için yüz ve vücut kullanımına uygundur."
+    ],
+    "imageFile": "bioderma-atoderm-shower-gel.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/atoderm/shower-gel"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-defensive-cream",
+    "brandSlug": "bioderma",
+    "name": "Sensibio Defensive Cream",
+    "nameTr": "Sensibio Defensive Nemlendirici Krem",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "dicaprylyl-ether",
+      "propylheptyl-caprylate",
+      "butylene-glycol",
+      "glyceryl-stearate-citrate",
+      "glycol-palmitate",
+      "squalane",
+      "sucrose-stearate",
+      "mangifera-indica-seed-butter",
+      "pentylene-glycol",
+      "acrylates-c10-30-alkyl-acrylate-crosspolymer",
+      "caprylyl-glycol",
+      "carnosine",
+      "hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer",
+      "mannitol",
+      "xylitol",
+      "tocopherol",
+      "salvia-miltiorrhiza-flower-leaf-root-extract",
+      "rhamnose",
+      "glycine-soja-oil",
+      "polysorbate-60",
+      "sorbitan-isostearate",
+      "palmitoyl-tetrapeptide-10"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "squalane",
+      "vitamin-e",
+      "peptide"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 2
+      }
+    ],
+    "description": "Hassas yüz cildinde günlük nem ve konfor sağlamak için bakım kremi. Türkiye içerik listesinde skualan, gliserin, dikaprilil eter bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Sensibio H2O ya da Sensibio Foaming Gel ile cildinizi temizleyiniz.",
+      "Yüz ve boyun bölgesine uygulanabilir.",
+      "Makyaj bazı olarak kullanılabilir."
+    ],
+    "imageFile": "bioderma-sensibio-defensive-cream.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/defensive-cream"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-atoderm-intensive-foaming-gel",
+    "brandSlug": "bioderma",
+    "name": "Atoderm Intensive Foaming Gel",
+    "nameTr": "Atoderm Intensive Temizleme Jeli",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "aqua",
+      "sodium-laureth-sulfate",
+      "lauryl-glucoside",
+      "peg-200-hydrogenated-glyceryl-palmate",
+      "disodium-edta",
+      "peg-7-glyceryl-cocoate",
+      "sodium-chloride",
+      "caprylyl-glycol",
+      "zinc-sulfate",
+      "copper-sulfate",
+      "sodium-hydroxide",
+      "citric-acid",
+      "polysorbate-20",
+      "niacinamide",
+      "fructooligosaccharides",
+      "mannitol",
+      "xylitol",
+      "rhamnose"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": false
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "niacinamide"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 4
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-dryness",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Çok kuru ve atopi eğilimli yüz ile vücut cildinin günlük temizliğine yönelik durulanan jel. Türkiye içerik listesinde sodyum laureth sülfat, lauril glukozit, niasinamid (b3 vitamini) bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Nemli cilt üzerine uygulayın",
+      "köpürtün ve daha sonra durulayın",
+      "Nazikçe kurulayın",
+      "Etkin sonuçlar için Atoderm Intensive Balm ile birlikte kullanın",
+      "Bebek, çocuk ve yetişkinler için yüz ve vücut kullanımına uygundur (Prematüre bebekler hariç)."
+    ],
+    "imageFile": "bioderma-atoderm-intensive-foaming-gel.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/atoderm/intensive-foaming-gel"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-atoderm-2-in-1-body-oil",
+    "brandSlug": "bioderma",
+    "name": "Atoderm 2-in-1 Body Oil",
+    "nameTr": "Atoderm İkisi Bir Arada Vücut Yağı",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "c15-19-alkane",
+      "squalane",
+      "tridecyl-trimellitate",
+      "di-c12-13-alkyl-malate",
+      "simmondsia-chinensis-seed-oil",
+      "limnanthes-alba-seed-oil",
+      "pongamia-glabra-seed-oil",
+      "parfum",
+      "pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate",
+      "caprylic-capric-triglyceride",
+      "ceramide-np",
+      "tocopherol",
+      "bixa-orellana-seed-extract"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "squalane",
+      "ceramide",
+      "vitamin-e",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "barrier-repair",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 3
+      },
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Kuru vücut cildinde yumuşaklık ve daha pürüzsüz bir yüzey hissi hedefleyen bakım yağı. Türkiye içerik listesinde seramid np, skualan, tridesil trimellitat bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "•Günde 1 kez çatlak oluşumuna meyilli bölgelere (göğüs, karın, kalça ve basen) masaj yaparak uygulayınız. •Nemlendirici etkisini artırabilmek için nemlendirici bakım sunan Atoderm Cream Ultra ile bir arada kullanılabilir. (Bebek, çocuk ve yetişkinler için yüz vücut kullanımına uygundur."
+    ],
+    "imageFile": "bioderma-atoderm-2-in-1-body-oil.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/atoderm/2-1-body-oil"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-pigmentbio-c-concentrate",
+    "brandSlug": "bioderma",
+    "name": "Pigmentbio C-Concentrate",
+    "nameTr": "Pigmentbio C-Concentrate Bakım Serumu",
+    "categorySlug": "serum",
+    "ingredientSlugs": [
+      "aqua",
+      "propanediol",
+      "glycolic-acid",
+      "glycerin",
+      "dipropylene-glycol",
+      "propylheptyl-caprylate",
+      "sodium-hydroxide",
+      "ascorbyl-glucoside",
+      "niacinamide",
+      "salicylic-acid",
+      "ammonium-acryloyldimethyltaurate-vp-copolymer",
+      "sorbitan-sesquioleate",
+      "pentylene-glycol",
+      "tocopheryl-acetate",
+      "xanthan-gum",
+      "sodium-citrate",
+      "lysine",
+      "azelaic-acid",
+      "mannitol",
+      "xylitol",
+      "sodium-metabisulfite",
+      "andrographis-paniculata-leaf-extract",
+      "rhamnose",
+      "saccharide-isomerate",
+      "glycyrrhiza-glabra-root-extract",
+      "tocopherol",
+      "fructooligosaccharides",
+      "caprylic-capric-triglyceride",
+      "laminaria-ochroleuca-extract",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "aha",
+      "vitamin-c",
+      "niacinamide",
+      "bha",
+      "vitamin-e",
+      "azelaic-acid",
+      "brightener",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      },
+      {
+        "key": "brightening",
+        "count": 4
+      },
+      {
+        "key": "dark-spots",
+        "count": 4
+      },
+      {
+        "key": "redness-reducing",
+        "count": 2
+      },
+      {
+        "key": "acne-fighting",
+        "count": 2
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 2
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 2
+      },
+      {
+        "key": "skin-texture",
+        "count": 2
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      },
+      {
+        "key": "reduces-irritation",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 2
+      },
+      {
+        "key": "may-worsen-irritation",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Ton eşitsizliği ve koyu leke görünümünün bakımına yönelik, C vitamini ve asitleri birleştiren serum. Türkiye içerik listesinde salisilik asit (bha), glikolik asit (aha), niasinamid (b3 vitamini) bulunuyor. Parfüm içeriyor. Asit içeren bakımın kullanım sıklığı cildin toleransına göre değerlendirilmelidir.",
+    "brandClaims": [],
+    "howTo": [
+      "Ürünü açmadan ÖNCE taze C vitaminini serbest bırakabilmek için başparmağınızı sıkıca kapağa bastırınız.",
+      "Geçici kapağı çevirerek açınız ve çıkarınız. Tüm taze C vitamininin kullanıldığından emin olunuz.",
+      "Serum damlalığını çevirerek yerleştirin ve sıkıca kapatın.",
+      "Taze C vitamininin eşit bir şekilde karışabilmesi için 10 saniye boyunca iyice çalkalayınız.",
+      "Ürünü açmadan ÖNCE taze C vitaminini serbest bırakabilmek için başparmağınızı sıkıca kapağa bastırınız. Geçici kapağı çevirerek açınız ve çıkarınız. Tüm taze C vitamininin kullanıldığından emin olunuz.",
+      "Serum damlalığını çevirerek yerleştirin ve sıkıca kapatın."
+    ],
+    "imageFile": "bioderma-pigmentbio-c-concentrate.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/c-concentrate"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-defensive-rich-cream",
+    "brandSlug": "bioderma",
+    "name": "Sensibio Defensive Rich Cream",
+    "nameTr": "Sensibio Defensive Yoğun Nemlendirici Krem",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "dicaprylyl-ether",
+      "glycol-palmitate",
+      "butylene-glycol",
+      "cetyl-palmitate",
+      "glyceryl-stearate-citrate",
+      "squalane",
+      "sucrose-stearate",
+      "tridecyl-trimellitate",
+      "glyceryl-dibehenate",
+      "polysorbate-60",
+      "pentylene-glycol",
+      "tribehenin",
+      "glyceryl-behenate",
+      "acrylates-c10-30-alkyl-acrylate-crosspolymer",
+      "caprylyl-glycol",
+      "carnosine",
+      "hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer",
+      "mannitol",
+      "xylitol",
+      "tocopherol",
+      "salvia-miltiorrhiza-flower-leaf-root-extract",
+      "rhamnose",
+      "glycine-soja-oil",
+      "sorbitan-isostearate",
+      "sodium-hydroxide",
+      "palmitoyl-tetrapeptide-10"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "squalane",
+      "vitamin-e",
+      "peptide"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 1
+      }
+    ],
+    "description": "Kuru ve hassas yüz cildinde nem ve konfor için zengin dokulu bakım kremi. Türkiye içerik listesinde skualan, gliserin, dikaprilil eter bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Sensibio H2O ya da Sensibio Foaming Gel ile cildinizi temizleyiniz.",
+      "Yüz ve boyun bölgesine uygulanabilir.",
+      "Makyaj bazı olarak kullanılabilir."
+    ],
+    "imageFile": "bioderma-sensibio-defensive-rich-cream.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/defensive-rich-cream"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sebium-pore-refiner",
+    "brandSlug": "bioderma",
+    "name": "Sébium Pore Refiner",
+    "nameTr": "Sébium Gözenek Görünümü Bakım Kremi",
+    "categorySlug": "akne-bakimi",
+    "ingredientSlugs": [
+      "aqua",
+      "methyl-methacrylate-crosspolymer",
+      "dipropylene-glycol",
+      "cyclopentasiloxane",
+      "cyclohexasiloxane",
+      "dimethicone",
+      "glycerin",
+      "butylene-glycol",
+      "fomes-officinalis-extract",
+      "sodium-polyacrylate",
+      "paraffinum-liquidum",
+      "silica",
+      "pentylene-glycol",
+      "trideceth-6",
+      "1-2-hexanediol",
+      "c30-45-alkyl-cetearyl-dimethicone-crosspolymer",
+      "caprylyl-glycol",
+      "lauryl-peg-ppg-18-18-methicone",
+      "disodium-edta",
+      "salicylic-acid",
+      "xylitol",
+      "propylene-glycol",
+      "sodium-hydroxide",
+      "peg-ppg-18-18-dimethicone",
+      "fructooligosaccharides",
+      "mannitol",
+      "caprylic-capric-triglyceride",
+      "ginkgo-biloba-leaf-extract",
+      "dodecyl-gallate",
+      "rhamnose",
+      "laminaria-ochroleuca-extract",
+      "citric-acid",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": false
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "bha"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 7
+      },
+      {
+        "key": "acne-fighting",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      },
+      {
+        "key": "skin-texture",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Karma ve yağlı ciltlerde parlama ile gözenek görünümünün bakımına yönelik krem. Türkiye içerik listesinde salisilik asit (bha), siklopentasiloksan, sikloheksasiloksan bulunuyor. Parfüm içeriyor. Asit içeren bakımın kullanım sıklığı cildin toleransına göre değerlendirilmelidir.",
+    "brandClaims": [],
+    "howTo": [
+      "Yüzünüze temas etmeden önce elinizin temiz ve hijyenik olduğundan emin olun.",
+      "Sébium Foaming Gel ya da Sébium H2O ile cildinizi temizleyin.",
+      "Ürünü parmağınıza dökün.",
+      "Kremi yüzünüze yavaşça masaj yapar gibi sürün."
+    ],
+    "imageFile": "bioderma-sebium-pore-refiner.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sebium/pore-refiner"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-defensive-serum",
+    "brandSlug": "bioderma",
+    "name": "Sensibio Defensive Serum",
+    "nameTr": "Sensibio Defensive Bakım Serumu",
+    "categorySlug": "serum",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "butylene-glycol",
+      "c15-19-alkane",
+      "squalane",
+      "cellulose",
+      "c20-22-alkyl-phosphate",
+      "c20-22-alcohols",
+      "pentylene-glycol",
+      "1-2-hexanediol",
+      "caprylyl-glycol",
+      "carnosine",
+      "polyacrylate-crosspolymer-6",
+      "maltodextrin",
+      "xanthan-gum",
+      "mannitol",
+      "xylitol",
+      "tocopherol",
+      "salvia-miltiorrhiza-root-extract",
+      "rhamnose",
+      "biosaccharide-gum-1",
+      "citric-acid",
+      "glycine-soja-oil",
+      "hydrolyzed-hyaluronic-acid",
+      "sodium-hydroxide",
+      "palmitoyl-tetrapeptide-10"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "squalane",
+      "vitamin-e",
+      "hyaluronic-acid",
+      "peptide"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 1
+      }
+    ],
+    "description": "Hassas ciltte nem, konfor ve ince çizgi görünümüne yönelik bakım serumu. Türkiye içerik listesinde hidrolize hyalüronik asit, skualan, gliserin bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Öncesinde cildinizi Sensibio H2O ve/veya Sensibio Foaming Gel ile  temizleyin.",
+      "Yüz, boyun, dekolte bölgesine günde 1 veya 2 kez uygulayın.",
+      "Makyaj bazı olarak da kullanılabilir.",
+      "Hassas ciltler dahil tüm cilt tiplerinin kullanımına uygundur."
+    ],
+    "imageFile": "bioderma-sensibio-defensive-serum.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/defensive-serum"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-atoderm-intensive-eye",
+    "brandSlug": "bioderma",
+    "name": "Atoderm Intensive Eye",
+    "nameTr": "Atoderm Intensive Göz Çevresi Kremi",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "paraffinum-liquidum",
+      "helianthus-annuus-seed-oil",
+      "dipropylene-glycol",
+      "brassica-campestris-seed-oil",
+      "hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer",
+      "sucrose-stearate",
+      "1-2-hexanediol",
+      "glycyrrhetinic-acid",
+      "sodium-citrate",
+      "polysorbate-60",
+      "sorbitan-isostearate",
+      "mannitol",
+      "sodium-lauroyl-lactylate",
+      "xylitol",
+      "citric-acid",
+      "pentylene-glycol",
+      "rhamnose",
+      "tocopherol",
+      "phytosphingosine",
+      "ceramide-np",
+      "sodium-hyaluronate",
+      "ethylhexylglycerin",
+      "ceramide-ap",
+      "cholesterol",
+      "carbomer",
+      "xanthan-gum",
+      "fructooligosaccharides",
+      "caprylic-capric-triglyceride",
+      "laminaria-ochroleuca-extract",
+      "ceramide-eop"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "vitamin-e",
+      "ceramide",
+      "hyaluronic-acid"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      },
+      {
+        "key": "barrier-repair",
+        "count": 5
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 3
+      }
+    ],
+    "description": "Çok kuru ve hassas göz çevresinde nemlendirme ve konfor sağlamak için bakım kremi. Türkiye içerik listesinde sodyum hyalüronat, glisiretinik asit, seramid np bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Günde bir ya da iki kez uygulanır.",
+      "Gündüzleri bakım kremi olarak, akşamları ise bir pamuk yardımıyla bakım ürünü ve/veya makyaj temizleyici olarak kullanılabilir.",
+      "Durulama gerektirmez.",
+      "Günlük kullanıma uygun olarak göz çevresi ve yüz bölgesinde kullanılabilir.",
+      "Lens kullanan ya da hassas gözleri olan kişilerin kullanımına uygundur."
+    ],
+    "imageFile": "bioderma-atoderm-intensive-eye.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/atoderm/intensive-eye"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sebium-sensitive",
+    "brandSlug": "bioderma",
+    "name": "Sébium Sensitive",
+    "nameTr": "Sébium Sensitive Bakım Kremi",
+    "categorySlug": "akne-bakimi",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "methyl-methacrylate-crosspolymer",
+      "dipropylene-glycol",
+      "zinc-gluconate",
+      "coco-caprylate-caprate",
+      "vinyl-dimethicone-methicone-silsesquioxane-crosspolymer",
+      "caprylic-capric-triglyceride",
+      "arachidyl-alcohol",
+      "behenyl-alcohol",
+      "polyacrylate-crosspolymer-6",
+      "sodium-polyacrylate",
+      "glycyrrhetinic-acid",
+      "propylene-glycol",
+      "arachidyl-glucoside",
+      "bakuchiol",
+      "laminaria-ochroleuca-extract",
+      "mannitol",
+      "xylitol",
+      "sodium-metabisulfite",
+      "rhamnose",
+      "ginkgo-biloba-leaf-extract",
+      "tocopherol",
+      "fructooligosaccharides",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": false
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "bakuchiol",
+      "vitamin-e",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Akneye eğilimli ve hassaslaşmış yüz cildinde nem ile konfor sağlamaya yönelik krem. Türkiye içerik listesinde glisiretinik asit, bakuchiol, gliserin bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Sébium H2O, Sébium Foaming Gel Active ya da Sébium Foaming Gel ile cildinizi temizleyin.",
+      "Sébium Sensitive'i iki parmağınıza dökün.",
+      "Yüzünüze dairesel masaj hareketleriyle uygulayın."
+    ],
+    "imageFile": "bioderma-sebium-sensitive.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sebium/sensitive"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-ar",
+    "brandSlug": "bioderma",
+    "name": "Sensibio AR",
+    "nameTr": "Sensibio AR Kızarıklık Görünümü Bakım Kremi",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "paraffinum-liquidum",
+      "glycerin",
+      "tridecyl-trimellitate",
+      "glycol-palmitate",
+      "caprylic-capric-triglyceride",
+      "canola-oil",
+      "triceteareth-4-phosphate",
+      "fructooligosaccharides",
+      "mannitol",
+      "xylitol",
+      "rhamnose",
+      "laminaria-ochroleuca-extract",
+      "glycyrrhetinic-acid",
+      "glycine-soja-germ-extract",
+      "allantoin",
+      "ginkgo-biloba-leaf-extract",
+      "camellia-sinensis-leaf-extract",
+      "propylene-glycol",
+      "pentylene-glycol",
+      "caprylyl-glycol",
+      "glycol-stearate",
+      "peg-2-stearate",
+      "acrylates-c10-30-alkyl-acrylate-crosspolymer",
+      "1-2-hexanediol",
+      "citric-acid",
+      "xanthan-gum",
+      "disodium-edta",
+      "sodium-hydroxide"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "allantoin"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 7
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "reduces-irritation",
+        "count": 1
+      },
+      {
+        "key": "scar-healing",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 2
+      }
+    ],
+    "description": "Kızarıklık eğilimli hassas ciltte günlük nemlendirme ve konfor için bakım kremi. Türkiye içerik listesinde glisiretinik asit, mineral yağ (sıvı parafin), gliserin bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "non-comedogenic"
+    ],
+    "howTo": [
+      "Cildinizi Sensibio H2O ya da Sensibio Foaming Gel ile temizleyin. Sensibio AR BB Cream'i sabahları, geceleri ise Sensibio AR Cream’i temiz cildinize uygulayın.",
+      "Güneşli dönemlerde, hassas ve kızarıklık sorunu yaşayan ciltler için özel olarak geliştirilen güneş koruyucu Photoderm AR ürününün kullanılması önerilir.",
+      "Sabah ve/veya akşam olmak üzere haftada 7 gün kullanıma uygundur.",
+      "Sağlıklı cilde uygulayın. Bu ürün bir ilaç değildir. Dermatoloğunuza veya eczacınıza danışın."
+    ],
+    "imageFile": "bioderma-sensibio-ar.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sebium-h2o",
+    "brandSlug": "bioderma",
+    "name": "Sébium H2O",
+    "nameTr": "Sébium H2O Misel Su",
+    "categorySlug": "misel-su",
+    "ingredientSlugs": [
+      "aqua",
+      "peg-6-caprylic-capric-glycerides",
+      "sodium-citrate",
+      "citric-acid",
+      "disodium-edta",
+      "zinc-gluconate",
+      "cetrimonium-bromide",
+      "copper-sulfate",
+      "parfum",
+      "fructooligosaccharides",
+      "mannitol",
+      "rhamnose",
+      "xylitol",
+      "propylene-glycol",
+      "ginkgo-biloba-leaf-extract"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Karma ve yağlı ciltlerde makyaj ile fazla sebumun temizlenmesine yönelik misel su. Türkiye içerik listesinde peg-6 kaprilik/kaprik gliseritler, setrimonyum bromür, çinko glukonat bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Bir pamuk parçası üzerine ürünü dökün.",
+      "Cildinizi nazikçe temizleyin/makyajınızı çıkarın.",
+      "Durulama gerektirmez."
+    ],
+    "imageFile": "bioderma-sebium-h2o.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sebium/h2o"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-atoderm-intensive-gel-cream",
+    "brandSlug": "bioderma",
+    "name": "Atoderm Intensive Gel-Cream",
+    "nameTr": "Atoderm Intensive Nemlendirici Jel Krem",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "niacinamide",
+      "sodium-polyacrylate",
+      "dipotassium-glycyrrhizate",
+      "hydrogenated-polydecene",
+      "pentylene-glycol",
+      "1-2-hexanediol",
+      "caprylyl-glycol",
+      "mannitol",
+      "polysorbate-20",
+      "xylitol",
+      "rhamnose",
+      "sodium-citrate",
+      "polyquaternium-51",
+      "fructooligosaccharides",
+      "caprylic-capric-triglyceride",
+      "laminaria-ochroleuca-extract"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "niacinamide"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      }
+    ],
+    "concerns": [],
+    "description": "Çok kuru ve atopi eğilimli yüz ile vücut cildinde nemlendirmeye yönelik jel krem. Türkiye içerik listesinde niasinamid (b3 vitamini), gliserin, sodyum poliakrilat bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Atoderm Intensive Foaming Gel, Atoderm Shower Oil ya da Atoderm Intensive Bar ile temizlenmiş cildinize günde 1 veya 2 kez uygulanabilir. Atopiye eğilimli ciltlerin kullanımına uygundur.",
+      "Her mevsim günlük olarak kullanılabilir. Hafif jel dokusu sayesinde özellikle nemli ve sıcak hava koşullarında bile cilt tarafından kolayca emilir.",
+      "Bebek, çocuk ve yetişkinler için yüz ve vücut kullanımına uygundur.Yeni doğan bebeklerde kullanılabilir (Prematüre bebekler hariç).",
+      "Atoderm Intensive Foaming Gel, Atoderm Shower Oil ya da Atoderm Intensive Bar ile temizlenmiş cildinize günde 1 veya 2 kez uygulanabilir. Atopiye eğilimli ciltlerin kullanımına uygundur.",
+      "Her mevsim günlük olarak kullanılabilir. Hafif jel dokusu sayesinde özellikle nemli ve sıcak hava koşullarında bile cilt tarafından kolayca emilir.",
+      "Bebek, çocuk ve yetişkinler için yüz ve vücut kullanımına uygundur.Yeni doğan bebeklerde kullanılabilir (Prematüre bebekler hariç)."
+    ],
+    "imageFile": "bioderma-atoderm-intensive-gel-cream.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/atoderm/intensive-gel-cream"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-ar-plus-micellar-gel",
+    "brandSlug": "bioderma",
+    "name": "Sensibio AR+ Micellar Gel",
+    "nameTr": "Sensibio AR+ Misel Temizleme Jeli",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "aqua",
+      "butylene-glycol",
+      "glycerin",
+      "triethyl-citrate",
+      "polyglyceryl-4-caprate",
+      "polyglyceryl-6-caprylate",
+      "sodium-cocoamphoacetate",
+      "pentylene-glycol",
+      "sodium-citrate",
+      "xanthan-gum",
+      "citric-acid",
+      "maltooligosyl-glucoside",
+      "mannitol",
+      "xylitol",
+      "hydrogenated-starch-hydrolysate",
+      "1-methylhydantoin-2-imide",
+      "rhamnose"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      }
+    ],
+    "concerns": [],
+    "description": "Kızarıklık eğilimli hassas yüz cildini temizlemeye yönelik misel jel. Türkiye içerik listesinde poligliseril-4 kaprat, poligliseril-6 kaprilat, bütilen glikol bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "fragrance-free",
+      "dermatologist-developed"
+    ],
+    "howTo": [
+      "Bir makyaj pamuğu yardımıyla yüz ve göz çevrenizden kir ve makyajı temizleyiniz.",
+      "Sabah ve/veya akşam – haftada 7 gün kullanıma uygundur.",
+      "Durulama gerektirmez."
+    ],
+    "imageFile": "bioderma-sensibio-ar-plus-micellar-gel.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-micellar-gel"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-atoderm-lip-balm",
+    "brandSlug": "bioderma",
+    "name": "Atoderm Lip Balm",
+    "nameTr": "Atoderm Dudak Balmı",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "paraffinum-liquidum",
+      "cera-microcristallina",
+      "cyclopentasiloxane",
+      "hydrogenated-polyisobutene",
+      "caprylic-capric-triglyceride",
+      "butyrospermum-parkii-butter",
+      "paraffin",
+      "cyclohexasiloxane",
+      "glycine-soja-oil",
+      "glycine-soja-sterols",
+      "hexyl-laurate",
+      "ethylene-propylene-styrene-copolymer",
+      "stearalkonium-hectorite",
+      "persea-gratissima-oil",
+      "propylene-carbonate",
+      "cetearyl-alcohol",
+      "ascorbyl-palmitate",
+      "butylene-ethylene-styrene-copolymer",
+      "hydrogenated-palm-glycerides-citrate",
+      "tocopherol",
+      "bht",
+      "laminaria-ochroleuca-extract",
+      "citric-acid"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": false
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "vitamin-c",
+      "vitamin-e",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "anti-aging",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 6
+      }
+    ],
+    "description": "Kuruyan ve çatlama eğilimi olan dudaklarda yumuşaklık ve konfor için bakım balmı. Türkiye içerik listesinde mineral yağ (sıvı parafin), siklopentasiloksan, hidrojene poliizobuten bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Kuru dudaklara direkt olarak, istenen sıklıkta uygulanabilir."
+    ],
+    "imageFile": "bioderma-atoderm-lip-balm.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/atoderm/lip-balm"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-ar-plus-cream",
+    "brandSlug": "bioderma",
+    "name": "Sensibio AR+ Cream",
+    "nameTr": "Sensibio AR+ Bakım Kremi",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "c15-19-alkane",
+      "c10-18-triglycerides",
+      "dipropylene-glycol",
+      "glyceryl-stearate-citrate",
+      "helianthus-annuus-seed-wax",
+      "pentylene-glycol",
+      "squalane",
+      "sucrose-stearate",
+      "corn-starch-modified",
+      "cocos-nucifera-oil",
+      "maltooligosyl-glucoside",
+      "glyceryl-caprylate-caprate",
+      "sclerotium-gum",
+      "glycyrrhetinic-acid",
+      "hydrogenated-starch-hydrolysate",
+      "xanthan-gum",
+      "1-methylhydantoin-2-imide",
+      "phytosphingosine",
+      "sodium-citrate",
+      "citric-acid",
+      "mannitol",
+      "xylitol",
+      "o-cymen-5-ol",
+      "benzotriazolyl-dodecyl-p-cresol",
+      "rhamnose",
+      "tocopherol",
+      "helianthus-annuus-seed-oil"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "squalane",
+      "vitamin-e"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 2
+      }
+    ],
+    "description": "Kızarıklık eğilimli hassas yüz cildinde günlük nem ve konfor hedefleyen krem. Türkiye içerik listesinde glisiretinik asit, skualan, gliserin bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "fragrance-free",
+      "dermatologist-developed"
+    ],
+    "howTo": [
+      "Sensibio AR+ Misel Jel ve/veya Sensibio Foaming Gel ile önceden temizlenmiş cilde sabah ve/veya akşam uygulayınız.",
+      "Makyaj bazı olarak kullanıma uygundur.",
+      "Göz çevresine uygulanabilir",
+      "Gerektiği durumlarda dermatoloğunuza danışmanız gerektiğini unutmayınız."
+    ],
+    "imageFile": "bioderma-sensibio-ar-plus-cream.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-cream"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-ar-plus-sos-spray",
+    "brandSlug": "bioderma",
+    "name": "Sensibio AR+ SOS Spray",
+    "nameTr": "Sensibio AR+ SOS Bakım Spreyi",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "butylene-glycol",
+      "triethyl-citrate",
+      "pentylene-glycol",
+      "maltooligosyl-glucoside",
+      "1-methylhydantoin-2-imide",
+      "sodium-citrate",
+      "citric-acid",
+      "hydrogenated-starch-hydrolysate",
+      "mannitol",
+      "xylitol",
+      "rhamnose"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      }
+    ],
+    "concerns": [],
+    "description": "Kızarıklık eğilimli hassas ciltte konfor ve nem desteği için sprey formunda bakım. Türkiye içerik listesinde gliserin, bütilen glikol, pentilen glikol bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "fragrance-free",
+      "dermatologist-developed"
+    ],
+    "howTo": [
+      "Gözlerinizi kapatın ve temiz cildinize veya makyajın üzerine spreyi sıkın.",
+      "Gerekli olduğu kadar sık kullanabilirsiniz.",
+      "Her yere taşınabilir bir formattadır."
+    ],
+    "imageFile": "bioderma-sensibio-ar-plus-sos-spray.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-sos-spray"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-atoderm-lip-stick",
+    "brandSlug": "bioderma",
+    "name": "Atoderm Lip Stick",
+    "nameTr": "Atoderm Dudak Bakım Sticki",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "paraffinum-liquidum",
+      "synthetic-wax",
+      "cera-microcristallina",
+      "paraffin",
+      "butyrospermum-parkii-butter",
+      "cera-alba",
+      "bht",
+      "citric-acid",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [],
+    "benefits": [],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 4
+      },
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Kuruyan dudaklara kolay uygulama sağlayan stick formunda nemlendirici bakım. Türkiye içerik listesinde mineral yağ (sıvı parafin), parafin, shea yağı bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Kuru dudaklara direkt olarak, istenen sıklıkta uygulanabilir."
+    ],
+    "imageFile": "bioderma-atoderm-lip-stick.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/atoderm/lip-stick"
+      },
+      {
+        "label": "Ask.NAOS (Türkiye)",
+        "url": "https://ask-naos.com.tr/product/atoderm-lip-stick"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sebium-mat-control",
+    "brandSlug": "bioderma",
+    "name": "Sébium Mat Control",
+    "nameTr": "Sébium Mat Control Bakım Kremi",
+    "categorySlug": "akne-bakimi",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "cyclopentasiloxane",
+      "methyl-methacrylate-crosspolymer",
+      "cyclohexasiloxane",
+      "dipropylene-glycol",
+      "polymethylsilsesquioxane",
+      "peg-10-dimethicone",
+      "hdi-trimethylol-hexyllactone-crosspolymer",
+      "butylene-glycol",
+      "sodium-chloride",
+      "vinyl-dimethicone-methicone-silsesquioxane-crosspolymer",
+      "c30-45-alkyl-cetearyl-dimethicone-crosspolymer",
+      "zinc-gluconate",
+      "disodium-edta",
+      "salicylic-acid",
+      "mannitol",
+      "xylitol",
+      "rhamnose",
+      "xanthan-gum",
+      "sodium-hydroxide",
+      "dodecyl-gallate",
+      "pyridoxine-hcl",
+      "fomes-officinalis-extract",
+      "peg-40-hydrogenated-castor-oil",
+      "phenoxyethanol",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": false
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "bha"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      },
+      {
+        "key": "acne-fighting",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      },
+      {
+        "key": "skin-texture",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Karma ve yağlı ciltlerde parlama görünümünü azaltmayı ve nemlendirmeyi hedefleyen bakım kremi. Türkiye içerik listesinde salisilik asit (bha), gliserin, siklopentasiloksan bulunuyor. Parfüm içeriyor. Asit içeren bakımın kullanım sıklığı cildin toleransına göre değerlendirilmelidir.",
+    "brandClaims": [],
+    "howTo": [
+      "Sébium Foaming Gel ya da Sébium H2O ile temizlenmiş cilde sabah ve akşam uygulanır.",
+      "Kullanmadan önce iyice çalkalanmalıdır."
+    ],
+    "imageFile": "bioderma-sebium-mat-control.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sebium/mat-control"
+      },
+      {
+        "label": "Ask.NAOS (Türkiye)",
+        "url": "https://ask-naos.com.tr/product/sebium-mat-control"
+      },
+      {
+        "label": "NAOS Stars (Türkiye)",
+        "url": "https://www.naosstars.com/bioderma-sebium-mat-control-matlastirici-krem-30ml"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-ar-plus-bi-serum",
+    "brandSlug": "bioderma",
+    "name": "Sensibio AR+ BI-Serum",
+    "nameTr": "Sensibio AR+ Çift Fazlı Bakım Serumu",
+    "categorySlug": "serum",
+    "ingredientSlugs": [
+      "aqua",
+      "triheptanoin",
+      "c15-19-alkane",
+      "sodium-chloride",
+      "glycerin",
+      "squalane",
+      "triethyl-citrate",
+      "maltooligosyl-glucoside",
+      "sodium-citrate",
+      "hydrogenated-starch-hydrolysate",
+      "c13-15-alkane",
+      "1-2-hexanediol",
+      "1-methylhydantoin-2-imide",
+      "pentylene-glycol",
+      "bakuchiol",
+      "dipotassium-glycyrrhizate",
+      "tocopherol",
+      "helianthus-annuus-seed-oil",
+      "mannitol",
+      "xylitol",
+      "rhamnose",
+      "citric-acid",
+      "trisodium-ethylenediamine-disuccinate",
+      "xanthan-gum",
+      "o-cymen-5-ol",
+      "natto-gum",
+      "propanediol",
+      "polyglyceryl-10-laurate",
+      "glutamylamidoethyl-indole"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "squalane",
+      "bakuchiol",
+      "vitamin-e",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 1
+      }
+    ],
+    "description": "Kızarıklık eğilimli hassas ciltte nem, konfor ve ince çizgi görünümünün bakımına yönelik çift fazlı serum. Türkiye içerik listesinde skualan, bakuchiol, gliserin bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "fragrance-free",
+      "dermatologist-developed"
+    ],
+    "howTo": [
+      "Sensibio AR+ Misel Jel ve/veya Sensibio Foaming Gel ile önceden temizlenmiş cildinize ve boynunuza sabah ve/veya akşam birkaç damla uygulayın.",
+      "Sensibio AR+ Cream ile cilt bakım rutininizi tamamlayın.",
+      "Kullanmadan önce iyice çalkalayın.",
+      "Gerektiği durumlarda dermatoloğunuza danışmanız gerektiğini unutmayınız."
+    ],
+    "imageFile": "bioderma-sensibio-ar-plus-bi-serum.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/ar-bi-serum"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-atoderm-hand-nail-cream",
+    "brandSlug": "bioderma",
+    "name": "Atoderm Hand & Nail Cream",
+    "nameTr": "Atoderm El ve Tırnak Kremi",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "aluminum-starch-octenylsuccinate",
+      "isononyl-isononanoate",
+      "butyrospermum-parkii-oil",
+      "palmitic-acid",
+      "stearic-acid",
+      "sorbitan-stearate",
+      "ammonium-acryloyldimethyltaurate-vp-copolymer",
+      "pentylene-glycol",
+      "1-2-hexanediol",
+      "caprylyl-glycol",
+      "disodium-edta",
+      "mannitol",
+      "xylitol",
+      "rhamnose",
+      "sodium-hydroxide",
+      "niacinamide",
+      "polyquaternium-51",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "niacinamide"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 4
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Kuruyan ellerin ve tırnak çevresinin günlük bakımına yönelik nemlendirici krem. Türkiye içerik listesinde niasinamid (b3 vitamini), gliserin, i̇zononil izononanoat bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Ellerinize nazikçe masaj yaparak uygulayın.",
+      "İhtiyaç duyulan sıklıkta tekrarlayın."
+    ],
+    "imageFile": "bioderma-atoderm-hand-nail-cream.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/atoderm/hand-nail-cream"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sebium-serum",
+    "brandSlug": "bioderma",
+    "name": "Sébium Serum",
+    "nameTr": "Sébium Bakım Serumu",
+    "categorySlug": "serum",
+    "ingredientSlugs": [
+      "aqua",
+      "butylene-glycol",
+      "glycerin",
+      "propanediol",
+      "acetyl-glucosamine",
+      "pentylene-glycol",
+      "salicylic-acid",
+      "xanthan-gum",
+      "polysorbate-20",
+      "sodium-citrate",
+      "hydrolyzed-hyaluronic-acid",
+      "mannitol",
+      "sodium-hydroxide",
+      "propyl-gallate",
+      "sodium-metabisulfite",
+      "parfum",
+      "aminoethanesulfinic-acid"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "bha",
+      "hyaluronic-acid",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 4
+      },
+      {
+        "key": "acne-fighting",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      },
+      {
+        "key": "skin-texture",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Yağlı ve akneye eğilimli ciltlerde pürüz, iz ve ince çizgi görünümüne yönelik bakım serumu. Türkiye içerik listesinde salisilik asit (bha), hidrolize hyalüronik asit, bütilen glikol bulunuyor. Parfüm içeriyor. Asit içeren bakımın kullanım sıklığı cildin toleransına göre değerlendirilmelidir.",
+    "brandClaims": [],
+    "howTo": [
+      "Sabah ve/veya akşam cildi Sébium H2O ve/veya Sébium Foaming Gel ile temizleyin.",
+      "Yüz, boyun ve dekolte bölgesine birkaç damla günde 1 veya 2 kez uygulayın.",
+      "Sébium Kerato+ veya Sébium Sensitive ile cildinizi nemlendirin.",
+      "Makyaj bazı olarak da kullanıma uygundur."
+    ],
+    "imageFile": "bioderma-sebium-serum.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sebium/serum"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-atoderm-nutrition-cream",
+    "brandSlug": "bioderma",
+    "name": "Atoderm Nutritive",
+    "nameTr": "Atoderm Nutrition Besleyici Krem",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "paraffinum-liquidum",
+      "butyrospermum-parkii-butter",
+      "cetearyl-alcohol",
+      "hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer",
+      "caprylic-capric-triglyceride",
+      "cetyl-palmitate",
+      "pentylene-glycol",
+      "squalane",
+      "glyceryl-stearate",
+      "peg-100-stearate",
+      "cera-microcristallina",
+      "1-2-hexanediol",
+      "caprylyl-glycol",
+      "cetearyl-glucoside",
+      "acrylates-c10-30-alkyl-acrylate-crosspolymer",
+      "disodium-edta",
+      "paraffin",
+      "glycine-soja-oil",
+      "glycine-soja-sterols",
+      "polysorbate-60",
+      "mannitol",
+      "xylitol",
+      "hexyl-laurate",
+      "rhamnose",
+      "sorbitan-isostearate",
+      "persea-gratissima-oil",
+      "glyceryl-polyacrylate",
+      "sodium-hydroxide",
+      "ascorbyl-palmitate",
+      "hydrogenated-palm-glycerides-citrate",
+      "tocopherol",
+      "fructooligosaccharides",
+      "bht",
+      "laminaria-ochroleuca-extract",
+      "citric-acid"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "squalane",
+      "vitamin-c",
+      "vitamin-e",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 6
+      }
+    ],
+    "description": "Kuru ve çok kuru ciltte nem ile yumuşaklık sağlamak için besleyici krem. Türkiye içerik listesinde skualan, gliserin, mineral yağ (sıvı parafin) bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Atoderm Intensive Foaming Gel ya da Atoderm Intensive Bar ile yüz ya da boyun bölgesini temizleyin.",
+      "Sonrasında Atoderm Nutrition Cream ürününü sürün."
+    ],
+    "imageFile": "bioderma-atoderm-nutrition-cream.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/atoderm/nutrition-cream"
+      },
+      {
+        "label": "NAOS Stars (Türkiye)",
+        "url": "https://www.naosstars.com/bioderma-atoderm-nutritive-yuz-bakim-kremi-40ml"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-eye-plus",
+    "brandSlug": "bioderma",
+    "name": "Sensibio Eye+",
+    "nameTr": "Sensibio Eye+ Göz Çevresi Kremi",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "c15-19-alkane",
+      "butylene-glycol",
+      "propanediol",
+      "squalane",
+      "isostearyl-alcohol",
+      "butylene-glycol-cocoate",
+      "cellulose",
+      "hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer",
+      "1-2-hexanediol",
+      "polyacrylate-crosspolymer-6",
+      "carnosine",
+      "caffeine",
+      "citric-acid",
+      "mannitol",
+      "xylitol",
+      "ethylcellulose",
+      "o-cymen-5-ol",
+      "tocopherol",
+      "salvia-miltiorrhiza-root-extract",
+      "polysorbate-60",
+      "sorbitan-isostearate",
+      "rhamnose",
+      "glycine-soja-oil",
+      "glabridin",
+      "acetyl-tetrapeptide-5",
+      "pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate",
+      "pongamia-glabra-seed-oil",
+      "palmitoyl-tetrapeptide-10"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "squalane",
+      "vitamin-e",
+      "peptide",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      },
+      {
+        "key": "anti-aging",
+        "count": 2
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 2
+      }
+    ],
+    "description": "Hassas göz çevresinde nem, ince çizgi ve yorgun görünümün bakımına yönelik krem. Türkiye içerik listesinde skualan, kafein, gliserin bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "fragrance-free"
+    ],
+    "howTo": [
+      "GÖZ ALTI ŞİŞLİĞİ KARŞITI ETKİ İÇİN",
+      "İNCE ÇİZGİ VE KIRIŞIKLIK KARŞITI ETKİ İÇİN",
+      "KOYU HALKA KARŞITI ETKİ İÇİN"
+    ],
+    "imageFile": "bioderma-sensibio-eye-plus.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/eye"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sebium-night-peel",
+    "brandSlug": "bioderma",
+    "name": "Sébium Night Peel",
+    "nameTr": "Sébium Night Peel Gece Bakımı",
+    "categorySlug": "gece-kremi",
+    "ingredientSlugs": [
+      "aqua",
+      "glycolic-acid",
+      "sodium-hydroxide",
+      "panthenol",
+      "ammonium-acryloyldimethyltaurate-vp-copolymer",
+      "dipropylene-glycol",
+      "hydroxyethylcellulose",
+      "mannitol",
+      "propyl-gallate",
+      "xylitol",
+      "sodium-metabisulfite",
+      "rhamnose",
+      "fructooligosaccharides",
+      "caprylic-capric-triglyceride",
+      "laminaria-ochroleuca-extract",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "aha",
+      "panthenol",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 4
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "reduces-irritation",
+        "count": 1
+      },
+      {
+        "key": "skin-texture",
+        "count": 1
+      },
+      {
+        "key": "scar-healing",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 2
+      },
+      {
+        "key": "may-worsen-irritation",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Karma ve yağlı ciltlerde pürüzlü doku ile iz görünümüne yönelik, gece kullanılan peeling bakımı. Türkiye içerik listesinde glikolik asit (aha), pantenol (b5 provitamini), mannitol bulunuyor. Parfüm içeriyor. Asit içeren bakımın kullanım sıklığı cildin toleransına göre değerlendirilmelidir.",
+    "brandClaims": [],
+    "howTo": [
+      "Cildinizi önce Sébium Foaming Gel veya Sébium H2O ile temizleyin.",
+      "Ardıdan Sébium Night Peel ürününü ince tabaka halinde cildinize uygulayın.",
+      "Durulama gerektirmez.",
+      "Ürün tüm gece cildinizde kaldıktan sonra sabahları cildinizi temizleyerek üründen arındırın.",
+      "4 haftalık kürü tamamladıktan sonra bir sonraki uygulama için 1 ay beklenmesi gerekir."
+    ],
+    "imageFile": "bioderma-sebium-night-peel.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sebium/night-peel"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-ds-plus-cream",
+    "brandSlug": "bioderma",
+    "name": "Sensibio DS+ Cream",
+    "nameTr": "Sensibio DS+ Bakım Kremi",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "cocos-nucifera-oil",
+      "propylene-glycol",
+      "caprylic-capric-triglyceride",
+      "dimethicone",
+      "glycyrrhetinic-acid",
+      "sorbitan-sesquioleate",
+      "cetyl-alcohol",
+      "phenoxyethanol",
+      "carbomer",
+      "sclerotium-gum",
+      "piroctone-olamine",
+      "undecylenic-glycerides",
+      "climbazole",
+      "sodium-hydroxide",
+      "fructooligosaccharides",
+      "mannitol",
+      "xylitol",
+      "rhamnose",
+      "laminaria-ochroleuca-extract"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": false
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": false
+      }
+    ],
+    "keyIngredientGroups": [],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-trigger-acne",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 1
+      }
+    ],
+    "description": "Kızarıklık ve pullanma eğilimi olan hassas yüz cildinde konfor ve nem için bakım kremi. Türkiye içerik listesinde glisiretinik asit, hindistan cevizi yağı, propilen glikol bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "non-comedogenic"
+    ],
+    "howTo": [
+      "Sensibio DS+ Foaming Gel ya da Sensibio H2O ile önceden temizlenmiş cilde günde 1 veya 2 kez uygulanabilir.",
+      "Sabah ve/veya akşam olmak üzere haftada 7 gün kullanıma uygundur.",
+      "Yetişkinlerde saçlı derideki yağlı pullanma problemi için krem şampuan Nodé DS+ Shampoo tavsiye edilir.",
+      "Tahriş olmuş veya sızıntılı ciltlere uygulamayın. doktorunuza danışınız."
+    ],
+    "imageFile": "bioderma-sensibio-ds-plus-cream.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/ds-cream"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-h2o-eye",
+    "brandSlug": "bioderma",
+    "name": "Sensibio H2O Eye",
+    "nameTr": "Sensibio H2O Göz Makyajı Temizleyicisi",
+    "categorySlug": "misel-su",
+    "ingredientSlugs": [
+      "aqua",
+      "isohexadecane",
+      "isododecane",
+      "propanediol",
+      "sodium-chloride",
+      "caprylic-capric-triglyceride",
+      "fructooligosaccharides",
+      "panthenol",
+      "sodium-citrate",
+      "mannitol",
+      "xylitol",
+      "copper-gluconate",
+      "citric-acid",
+      "cetrimonium-bromide",
+      "rhamnose",
+      "polyglyceryl-10-laurate",
+      "laminaria-ochroleuca-extract"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "panthenol"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 4
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "reduces-irritation",
+        "count": 1
+      },
+      {
+        "key": "scar-healing",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 2
+      }
+    ],
+    "description": "Hassas göz çevresi ve dudaklarda makyaj temizliği için çift fazlı misel ürün. Türkiye içerik listesinde setrimonyum bromür, poligliseril-10 laurat, pantenol (b5 provitamini) bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Çift fazın homojen bir şekilde dağılabilmesi için kullanmadan önce iyice çalkalayın.",
+      "Bir pamuk parçası yardımıyla göz ve dudak makyajı çıkarılır.",
+      "Durulama gerektirmez.",
+      "Kontakt lens kullanıcıları için uygundur."
+    ],
+    "imageFile": "bioderma-sensibio-h2o-eye.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/h2o-eye"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-cicabio-arnica-plus",
+    "brandSlug": "bioderma",
+    "name": "Cicabio Arnica+",
+    "nameTr": "Cicabio Arnica+ Bakım Kremi",
+    "categorySlug": "onarici-krem",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "c15-19-alkane",
+      "caprylic-capric-triglyceride",
+      "propylene-glycol",
+      "cera-alba",
+      "cetyl-palmitate",
+      "butylene-glycol",
+      "arachidyl-alcohol",
+      "1-2-hexanediol",
+      "titanium-dioxide",
+      "sclerotium-gum",
+      "xanthan-gum",
+      "behenyl-alcohol",
+      "glucosyl-hesperidin",
+      "sodium-citrate",
+      "sodium-stearoyl-glutamate",
+      "arachidyl-glucoside",
+      "citric-acid",
+      "arnica-montana-flower-extract",
+      "o-cymen-5-ol",
+      "mannitol",
+      "rhamnose",
+      "xylitol",
+      "tocopherol",
+      "hydrogenated-lecithin",
+      "helianthus-annuus-seed-oil",
+      "xylose",
+      "acetyl-dipeptide-1-cetyl-ester",
+      "sodium-polyglutamate",
+      "fructooligosaccharides"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "vitamin-e",
+      "peptide"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 10
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 1
+      }
+    ],
+    "description": "Dış etkenler sonrası hassaslaşan ciltte konfor ve morluk görünümünün bakımına yönelik krem. Türkiye içerik listesinde gliserin, propilen glikol, balmumu bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Cilde günde 1-2 kez masaj yapılarak uygulanır. Yüz ve vücut kullanımına uygundur. Yetişkin, genç ve bebekler (prematüre bebekler hariç) kullanabilir.",
+      "Arnica bitkisine karşı hassasiyeti bulunan kişiler tarafından kullanılmamalıdır. Gözlere, mukoza zarına ve açık yaralara temasından kaçınılmalıdır. Hamile kadınlarda doktor tavsiyesi üzerine kullanılabilir."
+    ],
+    "imageFile": "bioderma-cicabio-arnica-plus.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/cicabio/arnica"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-ds-plus-foaming-gel",
+    "brandSlug": "bioderma",
+    "name": "Sensibio DS+ Foaming Gel",
+    "nameTr": "Sensibio DS+ Yüz Temizleme Jeli",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "aqua",
+      "sodium-laureth-sulfate",
+      "coco-betaine",
+      "sodium-lauroyl-sarcosinate",
+      "mannitol",
+      "xylitol",
+      "rhamnose",
+      "fructooligosaccharides",
+      "laminaria-ochroleuca-extract",
+      "zinc-gluconate",
+      "peg-90-glyceryl-isostearate",
+      "sodium-chloride",
+      "coco-glucoside",
+      "glyceryl-oleate",
+      "capryloyl-glycine",
+      "decylene-glycol",
+      "caprylic-capric-triglyceride",
+      "laureth-2",
+      "ammonium-glycyrrhizate",
+      "lysine-azelate",
+      "pyridoxine-hcl",
+      "undecyl-alcohol",
+      "citric-acid",
+      "disodium-edta",
+      "sodium-hydroxide"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": false
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 4
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-dryness",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Kızarıklık ve pullanma eğilimli hassas yüz cildinin temizliğine yönelik durulanan jel. Türkiye içerik listesinde sodyum laureth sülfat, koko betain, sodyum lauroil sarkozinat bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "non-comedogenic"
+    ],
+    "howTo": [
+      "Nemli cilde uygulanır ve sonrasında iyice durulanır. Günde 1 veya 2 kez uygulanabilir. Göz bölgesine gelmeyecek şekilde uygulanır. Sensibio DS+ Foaming Gel kullanımından sonra yüz bakım kremi Sensibio DS+ Cream uygulanması önerilir. Yetişkinlerde saçlı derideki yağlı pullanma problemi için krem şampuan Nodé DS+ Shampoo tavsiye edilir.",
+      "Gözlerle temasından kaçının."
+    ],
+    "imageFile": "bioderma-sensibio-ds-plus-foaming-gel.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/ds-foaming-gel"
+      },
+      {
+        "label": "Ask.NAOS (Türkiye)",
+        "url": "https://ask-naos.com.tr/product/sensibio-ds-foaming-gel"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sebium-exfoliating-gel",
+    "brandSlug": "bioderma",
+    "name": "Sébium EXFOLIATING GEL",
+    "nameTr": "Sébium Peeling Etkili Temizleme Jeli",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "aqua",
+      "cellulose-acetate",
+      "coco-glucoside",
+      "xanthan-gum",
+      "glycolic-acid",
+      "polysorbate-20",
+      "citric-acid",
+      "sodium-citrate",
+      "salicylic-acid",
+      "parfum",
+      "sodium-hydroxide",
+      "propanediol",
+      "mannitol",
+      "xylitol",
+      "rhamnose",
+      "sodium-metabisulfite",
+      "propyl-gallate",
+      "aminoethanesulfinic-acid"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "aha",
+      "bha",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 3
+      },
+      {
+        "key": "skin-texture",
+        "count": 2
+      },
+      {
+        "key": "acne-fighting",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 2
+      },
+      {
+        "key": "may-worsen-irritation",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Karma ve yağlı ciltte pürüzlü yüzey ile gözenek görünümünün bakımına yönelik durulanan peeling jeli. Türkiye içerik listesinde koko glukozit, ksantan gam, salisilik asit (bha) bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Haftada 1 veya 2 kez kullanılabilir."
+    ],
+    "imageFile": "bioderma-sebium-exfoliating-gel.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sebium/exfoliating-gel-0"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sensibio-eye-contour-gel",
+    "brandSlug": "bioderma",
+    "name": "Sensibio Eye Contour Gel",
+    "nameTr": "Sensibio Göz Çevresi Jeli",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "dimethicone",
+      "polyethylene",
+      "tridecyl-trimellitate",
+      "caprylic-capric-triglyceride",
+      "isostearyl-alcohol",
+      "butylene-glycol-cocoate",
+      "fructooligosaccharides",
+      "mannitol",
+      "xylitol",
+      "caffeine",
+      "sodium-hyaluronate",
+      "glycyrrhetinic-acid",
+      "rhamnose",
+      "laminaria-ochroleuca-extract",
+      "acrylates-c10-30-alkyl-acrylate-crosspolymer",
+      "pentylene-glycol",
+      "caprylyl-glycol",
+      "1-2-hexanediol",
+      "disodium-edta",
+      "sodium-hydroxide",
+      "ethylcellulose"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": false
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "hyaluronic-acid"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      }
+    ],
+    "concerns": [],
+    "description": "Hassas göz çevresinde nem ve konfor sağlamaya yönelik jel. Eye+ kreminden ayrı bir formül. Türkiye içerik listesinde sodyum hyalüronat, glisiretinik asit, kafein bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "non-comedogenic"
+    ],
+    "howTo": [
+      "Sensibio H2O ya da Sensibio Foaming Gel ile önceden temizlenmiş göz çevresine günde 1 veya 2 kez uygulanabilir.",
+      "Cilt tarafından emilene kadar parmak uçlarıyla hafifçe masaj yaparak uygulanır.",
+      "Sabah ve/veya akşam olmak üzere haftada 7 gün uygulayabilirsiniz.",
+      "Sonrasında makyaj yapılabilir.",
+      "Kontakt lens kullanıcıları için de uygundur."
+    ],
+    "imageFile": "bioderma-sensibio-eye-contour-gel.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sensibio/eye-contour-gel"
+      },
+      {
+        "label": "INCI yazım doğrulaması (Ask.NAOS Türkiye)",
+        "url": "https://ask-naos.com.tr/product/sensibio-eye-contour-gel-bioderma"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-hydrabio-foaming-gel",
+    "brandSlug": "bioderma",
+    "name": "Hydrabio Foaming Gel",
+    "nameTr": "Hydrabio Yüz Temizleme Jeli",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "caprylyl-capryl-glucoside",
+      "triethyl-citrate",
+      "coco-glucoside",
+      "glyceryl-oleate",
+      "pentylene-glycol",
+      "xanthan-gum",
+      "parfum",
+      "sodium-citrate",
+      "polyglyceryl-4-caprate",
+      "polyglyceryl-6-caprylate",
+      "citric-acid",
+      "mannitol",
+      "saccharide-isomerate",
+      "xylitol",
+      "rhamnose",
+      "tocopherol",
+      "hydrogenated-palm-glycerides-citrate"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "vitamin-e"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Nemsiz ve hassas yüz cildinin günlük temizliği için köpüren, durulanan jel. Türkiye içerik listesinde kaprilil/kapril glukozit, koko glukozit, gliserin bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Sabah ve/veya akşam nemli cilde uygulayın. Köpürtün ve ardından bol su ile durulayın."
+    ],
+    "imageFile": "bioderma-hydrabio-foaming-gel.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/hydrabio/foaming-gel"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-abcderm-h2o",
+    "brandSlug": "bioderma",
+    "name": "ABCDerm H2O",
+    "nameTr": "ABCDerm H2O Misel Su",
+    "categorySlug": "misel-su",
+    "ingredientSlugs": [
+      "aqua",
+      "pentylene-glycol",
+      "polysorbate-20",
+      "sodium-citrate",
+      "citric-acid",
+      "disodium-phosphate",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [],
+    "benefits": [],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Bebek ve çocuklarda yüz ve vücut cildinin temizliğine yönelik misel su. Türkiye içerik listesinde polisorbat 20, pentilen glikol bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Pamuğu ıslatın.",
+      "Nazikçe temizleyin.",
+      "Pamuk temiz kalıncaya kadar tekrar edin.",
+      "Nazikçe kurulayın."
+    ],
+    "imageFile": "bioderma-abcderm-h2o.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/abcderm/h2o"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sebium-hydra-cleanser",
+    "brandSlug": "bioderma",
+    "name": "Sébium Hydra Cleanser",
+    "nameTr": "Sébium Hydra Temizleyici",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "aqua",
+      "caprylyl-capryl-glucoside",
+      "butyrospermum-parkii-oil",
+      "glycerin",
+      "methylpropanediol",
+      "disodium-cocoyl-glutamate",
+      "citric-acid",
+      "pentylene-glycol",
+      "sclerotium-gum",
+      "xanthan-gum",
+      "caprylyl-glycol",
+      "propanediol",
+      "sodium-citrate",
+      "parfum",
+      "mannitol",
+      "saccharide-isomerate",
+      "xylitol",
+      "benzotriazolyl-dodecyl-p-cresol",
+      "rhamnose",
+      "tocopherol",
+      "helianthus-annuus-seed-oil",
+      "aminoethanesulfinic-acid",
+      "sodium-metabisulfite"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "vitamin-e",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 2
+      },
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Kuruluk yaşayan, akneye eğilimli yüz cildinde nazik temizliğe yönelik durulanan ürün. Türkiye içerik listesinde kaprilil/kapril glukozit, disodyum kokoil glutamat, shea yağı bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Sabah ve/veya akşam ıslak cilde uygulayın.",
+      "Nazikçe masaj yapın ve iyice durulayın. Ovalamadan kurulayın.",
+      "Devamında Sébium Hydra ile cildinizi nemlendirin.",
+      "Makyaj temizleyici olarak da kullanılabilir.",
+      "Yüz ve vücut kullanımına uygundur. Kurutucu medikal tedavi sonrası cilt hassasiyeti devam ettiği sürece kullanıma uygundur."
+    ],
+    "imageFile": "bioderma-sebium-hydra-cleanser.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sebium/hydra-cleanser"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-atoderm-intensive-bar",
+    "brandSlug": "bioderma",
+    "name": "Atoderm Intensive Bar Kalıp Temizleyici",
+    "nameTr": "Atoderm Intensive Kalıp Temizleyici",
+    "categorySlug": "yuz-temizleyici",
+    "ingredientSlugs": [
+      "sodium-palmate",
+      "sodium-palm-kernelate",
+      "aqua",
+      "butyrospermum-parkii-oil",
+      "glycerin",
+      "sodium-chloride",
+      "zinc-sulfate",
+      "mannitol",
+      "polysorbate-20",
+      "xylitol",
+      "rhamnose",
+      "tetrasodium-edta",
+      "tetrasodium-etidronate",
+      "niacinamide",
+      "fructooligosaccharides"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "niacinamide"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 5
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 1
+      }
+    ],
+    "description": "Çok kuru yüz ve vücut cildinin temizliği için katı formda durulanan temizleyici. Türkiye içerik listesinde sodyum palmat, sodyum palm kernelat, niasinamid (b3 vitamini) bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Atoderm Intensive Bar'ı köpürtün.",
+      "Nemli cilde uygulayın.",
+      "İyice durulayın ve nazikçe kurulayın.",
+      "Yüz, vücut ve eller için kullanılabilir.",
+      "Bebek, çocuk ve yetişkinlerin kullanımına uygundur."
+    ],
+    "imageFile": "bioderma-atoderm-intensive-bar.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/atoderm/intensive-bar-kalip-temizleyici"
+      },
+      {
+        "label": "NAOS Stars (Türkiye)",
+        "url": "https://www.naosstars.com/bioderma-atoderm-intensive-bar-temizleyici-sabun"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-hydrabio-light-cream",
+    "brandSlug": "bioderma",
+    "name": "Hydrabio Light Cream",
+    "nameTr": "Hydrabio Hafif Nemlendirici Krem",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "lauroyl-lysine",
+      "niacinamide",
+      "pentylene-glycol",
+      "squalane",
+      "dicaprylyl-carbonate",
+      "glyceryl-caprylate-caprate",
+      "polyglyceryl-3-methylglucose-distearate",
+      "propylene-glycol",
+      "arachidyl-alcohol",
+      "carbomer",
+      "behenyl-alcohol",
+      "caprylyl-glycol",
+      "parfum",
+      "fructooligosaccharides",
+      "sodium-citrate",
+      "arachidyl-glucoside",
+      "xanthan-gum",
+      "mannitol",
+      "xylitol",
+      "hexyldecanol",
+      "rhamnose",
+      "sodium-pca",
+      "citric-acid",
+      "sodium-hyaluronate",
+      "saccharide-isomerate",
+      "pyrus-malus-seed-extract",
+      "brassica-campestris-sterols",
+      "tocopherol"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "niacinamide",
+      "squalane",
+      "hyaluronic-acid",
+      "vitamin-e"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 9
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Nemsiz yüz cildinin günlük bakımında daha hafif bir doku arayanlar için nemlendirici krem. Türkiye içerik listesinde niasinamid (b3 vitamini), sodyum hyalüronat, skualan bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Hydrabio temizleme ürünü ile temizlenmiş yüz, boyun ve dekolte bölgesine sabah ve/veya akşam uygulayın. Makyaj bazı olarak kullanıma uygundur."
+    ],
+    "imageFile": "bioderma-hydrabio-light-cream.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/hydrabio/light-cream"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-cicabio-lip-repair",
+    "brandSlug": "bioderma",
+    "name": "Cicabio Lip Repair",
+    "nameTr": "Cicabio Dudak Bakım Balmı",
+    "categorySlug": "onarici-krem",
+    "ingredientSlugs": [
+      "ricinus-communis-seed-oil",
+      "caprylic-capric-triglyceride",
+      "butyrospermum-parkii-oil",
+      "glycerin",
+      "trihydroxystearin",
+      "aqua",
+      "cetyl-palmitate",
+      "butylene-glycol",
+      "jojoba-esters",
+      "xylose",
+      "simmondsia-chinensis-seed-oil",
+      "helianthus-annuus-seed-wax",
+      "pentylene-glycol",
+      "squalane",
+      "sodium-polyglutamate",
+      "pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate",
+      "pongamia-glabra-seed-oil",
+      "sodium-hyaluronate",
+      "polyglycerin-3",
+      "acacia-decurrens-flower-wax",
+      "mannitol",
+      "rhamnose",
+      "xylitol",
+      "acetyl-dipeptide-1-cetyl-ester",
+      "fructooligosaccharides",
+      "tocopherol"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "squalane",
+      "hyaluronic-acid",
+      "peptide",
+      "vitamin-e",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 11
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      },
+      {
+        "key": "reduces-irritation",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 4
+      }
+    ],
+    "description": "Kuruyup hassaslaşan dudaklarda nem kaybını azaltmaya ve konfor sağlamaya yönelik bakım balmı. Türkiye içerik listesinde sodyum hyalüronat, skualan, hint yağı bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [
+      "fragrance-free"
+    ],
+    "howTo": [
+      "Dudaklara direkt olarak, istenen sıklıkta uygulanabilir.",
+      "Balm dokusu sayesinde dudakları anında rahatlatır ve nemlendirir.",
+      "3 yaşından itibaren kullanıma uygundur."
+    ],
+    "imageFile": "bioderma-cicabio-lip-repair.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/cicabio/lip-repair"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-sebium-lotion",
+    "brandSlug": "bioderma",
+    "name": "Sébium Lotion",
+    "nameTr": "Sébium Bakım Toniği",
+    "categorySlug": "tonik",
+    "ingredientSlugs": [
+      "aqua",
+      "peg-11-methyl-ether-dimethicone",
+      "butylene-glycol",
+      "glycerin",
+      "fomes-officinalis-extract",
+      "capryloyl-glycine",
+      "polysorbate-20",
+      "sodium-citrate",
+      "zinc-gluconate",
+      "salicylic-acid",
+      "sodium-hydroxide",
+      "mannitol",
+      "sodium-metabisulfite",
+      "xylitol",
+      "rhamnose",
+      "pyridoxine-hcl",
+      "propyl-gallate",
+      "peg-40-hydrogenated-castor-oil",
+      "fructooligosaccharides",
+      "phenoxyethanol",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": false
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "bha",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      },
+      {
+        "key": "acne-fighting",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      },
+      {
+        "key": "skin-texture",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Karma ve yağlı ciltte temizlik sonrası nem ve denge sağlamaya yönelik bakım losyonu. Türkiye içerik listesinde salisilik asit (bha), peg-11 metil eter dimetikon, bütilen glikol bulunuyor. Parfüm içeriyor. Asit içeren bakımın kullanım sıklığı cildin toleransına göre değerlendirilmelidir.",
+    "brandClaims": [],
+    "howTo": [
+      "Sébium H2O, Sébium Foaming Gel ya da Sébium Foaming Gel Active ile temizlenmiş cilde sabah ve/veya akşam uygulanabilir.",
+      "Günlük cilt bakımı ürünlerinizi uygulamadan önce parmak uçlarınızla masaj yaparak ya da bir pamuk yardımı ile Sébium Lotion’ı uygulayın."
+    ],
+    "imageFile": "bioderma-sebium-lotion.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/sebium/lotion"
+      },
+      {
+        "label": "NAOS Stars (Türkiye)",
+        "url": "https://www.naosstars.com/bioderma-sebium-lotion-gozenek-sikilastirici-tonik"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-cicabio-lotion-spray",
+    "brandSlug": "bioderma",
+    "name": "Cicabio Lotion Spray",
+    "nameTr": "Cicabio Bakım Losyonu Spreyi",
+    "categorySlug": "onarici-krem",
+    "ingredientSlugs": [
+      "aqua",
+      "butylene-glycol",
+      "fructooligosaccharides",
+      "zinc-oxide",
+      "silica",
+      "copper-sulfate",
+      "mannitol",
+      "xylitol",
+      "zinc-sulfate",
+      "vitis-vinifera-vine-extract",
+      "rhamnose",
+      "asiaticoside",
+      "madecassic-acid",
+      "acetyl-dipeptide-1-cetyl-ester",
+      "asiatic-acid",
+      "sodium-hyaluronate"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": true
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "centella",
+      "peptide",
+      "hyaluronic-acid"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 6
+      },
+      {
+        "key": "redness-reducing",
+        "count": 3
+      },
+      {
+        "key": "reduces-irritation",
+        "count": 3
+      },
+      {
+        "key": "scar-healing",
+        "count": 3
+      },
+      {
+        "key": "anti-aging",
+        "count": 1
+      }
+    ],
+    "concerns": [],
+    "description": "Hassaslaşan ve nemli kalmaya eğilimli cilt bölgelerinde konfor için sprey formunda bakım losyonu. Türkiye içerik listesinde sodyum hyalüronat, bütilen glikol, fruktooligosakkaritler bulunuyor. Listede parfüm (PARFUM) bulunmuyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Cilt tamamen kuruyana kadar günde iki defa kullanın.",
+      "Gözlerle temasından kaçının. Gözle görünür şekilde hasarlı olan veya sızıntısı olan cilde uygulamayın. Sadece etkilenmiş bölgeye uygulayın. 36 aydan küçük çocuklarda veya cilt tahrişinin devam ettiği durumlarda kullanımla ilgili sorularınız varsa bir sağlık uzmanına danışın."
+    ],
+    "imageFile": "bioderma-cicabio-lotion-spray.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/cicabio/lotion-spray"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-pigmentbio-night-renewer",
+    "brandSlug": "bioderma",
+    "name": "Pigmentbio Night Renewer",
+    "nameTr": "Pigmentbio Gece Bakım Kremi",
+    "categorySlug": "gece-kremi",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "propanediol",
+      "squalane",
+      "ascorbyl-glucoside",
+      "dipropylene-glycol",
+      "niacinamide",
+      "butylene-glycol",
+      "polymethylsilsesquioxane",
+      "hdi-trimethylol-hexyllactone-crosspolymer",
+      "carbomer",
+      "sodium-hydroxide",
+      "pentylene-glycol",
+      "tocopheryl-acetate",
+      "c14-22-alcohols",
+      "1-2-hexanediol",
+      "caprylyl-glycol",
+      "ammonium-acryloyldimethyltaurate-vp-copolymer",
+      "salicylic-acid",
+      "sodium-citrate",
+      "lysine",
+      "azelaic-acid",
+      "c12-20-alkyl-glucoside",
+      "disodium-phosphate",
+      "mannitol",
+      "xylitol",
+      "andrographis-paniculata-leaf-extract",
+      "rhamnose",
+      "sodium-metabisulfite",
+      "potassium-phosphate",
+      "saccharide-isomerate",
+      "biosaccharide-gum-1",
+      "glycyrrhiza-glabra-root-extract",
+      "glyceryl-caprylate",
+      "sodium-anisate",
+      "sodium-levulinate",
+      "fructooligosaccharides",
+      "caprylic-capric-triglyceride",
+      "hexapeptide-2",
+      "laminaria-ochroleuca-extract",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": false
+      },
+      {
+        "key": "fungal",
+        "ok": true
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "squalane",
+      "vitamin-c",
+      "niacinamide",
+      "vitamin-e",
+      "bha",
+      "azelaic-acid",
+      "brightener",
+      "peptide",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 7
+      },
+      {
+        "key": "brightening",
+        "count": 4
+      },
+      {
+        "key": "dark-spots",
+        "count": 4
+      },
+      {
+        "key": "anti-aging",
+        "count": 2
+      },
+      {
+        "key": "redness-reducing",
+        "count": 2
+      },
+      {
+        "key": "acne-fighting",
+        "count": 2
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 2
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 2
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "reduces-irritation",
+        "count": 1
+      },
+      {
+        "key": "skin-texture",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Ton eşitsizliği ve leke görünümünün bakımına yönelik gece kremi. Türkiye içerik listesinde salisilik asit (bha), niasinamid (b3 vitamini), askorbil glukozit bulunuyor. Parfüm içeriyor. Asit içeren bakımın kullanım sıklığı cildin toleransına göre değerlendirilmelidir.",
+    "brandClaims": [],
+    "howTo": [
+      "Pigmentbio H2O veya Pigmentbio Foaming Cream ile temizlenmiş yüz ve boyun bölgesine akşamları uygulanır. Tek başına ya da geceleri Pigmentbio C-Concentrate ile kombine kullanıma uygundur. Etkin sonuç için güneş koruyucu olarak Pigmentbio Daily Care SPF 50+ kullanımı tavsiye edilir.",
+      "Sadece yetişkinlerin kullanımına uygundur.",
+      "Sadece geceleri kullanılmalıdır ve sabah cilt mutlaka uygun bir temizleme ürünüyle derinlemesine temizlenmelidir."
+    ],
+    "imageFile": "bioderma-pigmentbio-night-renewer.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/pigmentbio/night-renewer"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-abcderm-relaxing-oil",
+    "brandSlug": "bioderma",
+    "name": "ABCDerm Relaxing Oil",
+    "nameTr": "ABCDerm Bebek ve Çocuk Masaj Yağı",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "caprylic-capric-triglyceride",
+      "helianthus-annuus-seed-oil",
+      "prunus-armeniaca-kernel-oil",
+      "peg-40-sorbitan-peroleate",
+      "tocopherol",
+      "parfum"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": false
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "vitamin-e"
+    ],
+    "benefits": [],
+    "concerns": [
+      {
+        "key": "may-worsen-oily-skin",
+        "count": 2
+      },
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Bebek ve çocukların kuru cildinde masaj ve yumuşatıcı bakım için yağ. Türkiye içerik listesinde ayçiçeği yağı, kayısı çekirdeği yağı bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Duştan sonra yağı ellerinizin arasında ısıtın ve hafifçe ovuşturarak bebeğinizin cildine uygulayın.",
+      "Kireçli suyun kurutucu etkilerini önlemek için direkt olarak banyo suyunuza dökebilirsiniz (1-2 doz yeterlidir)."
+    ],
+    "imageFile": "bioderma-abcderm-relaxing-oil.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/abcderm/relaxing-oil"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-hydrabio-rich-cream",
+    "brandSlug": "bioderma",
+    "name": "Hydrabio Rich Cream",
+    "nameTr": "Hydrabio Riche Yoğun Bakım Kremi",
+    "categorySlug": "nemlendirici",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "triethylhexanoin",
+      "tridecyl-trimellitate",
+      "c10-18-triglycerides",
+      "glyceryl-behenate",
+      "lauroyl-lysine",
+      "niacinamide",
+      "pentylene-glycol",
+      "squalane",
+      "cetyl-palmitate",
+      "helianthus-annuus-seed-wax",
+      "polyglyceryl-3-methylglucose-distearate",
+      "propylene-glycol",
+      "arachidyl-alcohol",
+      "carbomer",
+      "parfum",
+      "glyceryl-caprylate-caprate",
+      "behenyl-alcohol",
+      "caprylyl-glycol",
+      "fructooligosaccharides",
+      "sodium-citrate",
+      "arachidyl-glucoside",
+      "mannitol",
+      "xylitol",
+      "hexyldecanol",
+      "pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate",
+      "rhamnose",
+      "sodium-pca",
+      "sodium-hydroxide",
+      "citric-acid",
+      "sodium-hyaluronate",
+      "saccharide-isomerate",
+      "pyrus-malus-seed-extract",
+      "brassica-campestris-sterols",
+      "tocopherol"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "niacinamide",
+      "squalane",
+      "hyaluronic-acid",
+      "vitamin-e",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 9
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Kuru ve nemsiz yüz cildi için zengin dokulu nemlendirici bakım kremi. Türkiye içerik listesinde niasinamid (b3 vitamini), sodyum hyalüronat, skualan bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Hydrabio temizleme ürünü ile temizlenmiş yüz, boyun ve dekolte bölgesine sabah ve/veya akşam uygulayın. Makyaj bazı olarak kullanıma uygundur."
+    ],
+    "imageFile": "bioderma-hydrabio-rich-cream.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/hydrabio/riche-cream"
+      }
+    ]
+  },
+  {
+    "slug": "bioderma-hydrabio-serum",
+    "brandSlug": "bioderma",
+    "name": "Hydrabio Serum",
+    "nameTr": "Hydrabio Nem Serumu",
+    "categorySlug": "serum",
+    "ingredientSlugs": [
+      "aqua",
+      "glycerin",
+      "squalane",
+      "butylene-glycol",
+      "niacinamide",
+      "pentylene-glycol",
+      "propylene-glycol",
+      "hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer",
+      "caprylic-capric-triglyceride",
+      "dicaprylyl-carbonate",
+      "carbomer",
+      "silica",
+      "dextrin-palmitate",
+      "fructooligosaccharides",
+      "hydroxyacetophenone",
+      "polysorbate-60",
+      "diisostearyl-malate",
+      "parfum",
+      "mannitol",
+      "sodium-citrate",
+      "xylitol",
+      "hexyldecanol",
+      "rhamnose",
+      "sodium-pca",
+      "sorbitan-isostearate",
+      "sodium-hydroxide",
+      "lactobacillus-ferment",
+      "sodium-hyaluronate",
+      "citric-acid",
+      "saccharide-isomerate",
+      "pyrus-malus-seed-extract",
+      "brassica-campestris-sterols",
+      "tocopherol"
+    ],
+    "attributes": [
+      {
+        "key": "alcohol",
+        "ok": true
+      },
+      {
+        "key": "allergen",
+        "ok": true
+      },
+      {
+        "key": "fragrance",
+        "ok": false
+      },
+      {
+        "key": "paraben",
+        "ok": true
+      },
+      {
+        "key": "sulfate",
+        "ok": true
+      },
+      {
+        "key": "reef",
+        "ok": true
+      },
+      {
+        "key": "oil",
+        "ok": true
+      },
+      {
+        "key": "silicone",
+        "ok": true
+      },
+      {
+        "key": "fungal",
+        "ok": false
+      },
+      {
+        "key": "acne_trigger",
+        "ok": true
+      }
+    ],
+    "keyIngredientGroups": [
+      "squalane",
+      "niacinamide",
+      "hyaluronic-acid",
+      "vitamin-e",
+      "antioxidants"
+    ],
+    "benefits": [
+      {
+        "key": "hydrating",
+        "count": 10
+      },
+      {
+        "key": "barrier-repair",
+        "count": 1
+      },
+      {
+        "key": "redness-reducing",
+        "count": 1
+      },
+      {
+        "key": "brightening",
+        "count": 1
+      },
+      {
+        "key": "dark-spots",
+        "count": 1
+      },
+      {
+        "key": "good-for-oily-skin",
+        "count": 1
+      },
+      {
+        "key": "reduces-large-pores",
+        "count": 1
+      }
+    ],
+    "concerns": [
+      {
+        "key": "may-worsen-rosacea",
+        "count": 1
+      },
+      {
+        "key": "may-worsen-eczema",
+        "count": 1
+      }
+    ],
+    "description": "Nemsiz yüz cildinde günlük nem desteği için serum. Hyalu+ serumundan ayrı bir formül. Türkiye içerik listesinde niasinamid (b3 vitamini), sodyum hyalüronat, skualan bulunuyor. Parfüm içeriyor.",
+    "brandClaims": [],
+    "howTo": [
+      "Hydrabio temizleme ürünü ile temizlenmiş yüz ve boyun bölgesine sabah ve/veya akşam uygulayın. Günlük cilt bakım rutininizin bir parçası olarak kullanın."
+    ],
+    "imageFile": "bioderma-hydrabio-serum.webp",
+    "formulaRegion": "Türkiye",
+    "sources": [
+      {
+        "label": "Marka sitesi (Türkiye)",
+        "url": "https://www.bioderma.com.tr/urunlerimiz/hydrabio/hydrabio-serum"
+      }
+    ]
+  }
+]

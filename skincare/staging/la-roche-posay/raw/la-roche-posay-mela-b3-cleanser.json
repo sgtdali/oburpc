@@ -1,0 +1,31 @@
+{
+ "slug": "la-roche-posay-mela-b3-cleanser",
+ "brandSite": {
+  "url": "https://www.laroche-posay.com.tr/mela-b3/mela-b3-cleanser",
+  "nameTr": "MELA B3 TEMİZLEME JELİ",
+  "inci": [
+   "AQUA/WATER",
+   "GLYCERIN",
+   "MYRISTIC ACID",
+   "POTASSIUM HYDROXIDE",
+   "GLYCERYL STEARATE SE",
+   "STEARIC ACID",
+   "LAURIC ACID",
+   "PALMITIC ACID",
+   "COCO-GLUCOSIDE",
+   "CAPRYLOYL SALICYLIC ACID",
+   "TETRASODIUM EDTA",
+   "PARFUM/FRAGRANCE"
+  ],
+  "inciSource": "ld+json",
+  "claims": "Mela B3 Koyu Leke Karşıtı Temizleyici | La Roche-Posay | İçeriğe Git | Close | Loading...",
+  "howTo": [
+   "Az miktarda ürün",
+   "Sabah ve akşam",
+   "Yüz, boyun, dekolte ve ihtiyaç halinde ellerde bile kullanılabilir.",
+   "Nemli cilde dairesel hareketlerle nazikçe masaj yaparak uygulayın."
+  ],
+  "image": "https://www.laroche-posay.com.tr/-/media/project/loreal/brand-sites/lrp/emea/tr/products/mela-b3/b3-cleanser/mela-b3-cleanser-tr/0.png?sc_lang=tr-tr",
+  "title": "Mela B3 Koyu Leke Karşıtı Temizleyici | La Roche-Posay"
+ }
+}

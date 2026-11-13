@@ -1,0 +1,2001 @@
+{
+ "antimikrobiyal": [
+  {
+   "inci": "BACILLUS FERMENT",
+   "ad": "Bacillus fermentasyon ürünü",
+   "metin": "Bakteri fermentasyonuyla elde edilen bir üründür; formülde cilt koşullandırıcı olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 2
+  },
+  {
+   "inci": "LACTOBACILLUS FERMENT LYSATE",
+   "ad": "Lactobacillus fermentasyon lizatı",
+   "metin": "Laktik asit bakterilerinin fermentasyonu ve hücre parçalanmasıyla elde edilen bir üründür. Formülde cilt koşullandırıcı olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 14
+  },
+  {
+   "inci": "LACTOCOCCUS FERMENT LYSATE",
+   "ad": "Lactococcus fermentasyon lizatı",
+   "metin": "Laktik asit bakterisinin fermentasyonu ve hücre parçalanmasıyla elde edilen bir üründür; cilt koşullandırıcı olarak formüllerde yer alır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 1
+  },
+  {
+   "inci": "LACTOBACILLUS/RICE FERMENT FILTRATE",
+   "ad": "Lactobacillus/pirinç fermentasyon süzüntüsü",
+   "metin": "Laktik asit bakterisi ve pirinç fermentasyonuyla elde edilen bir süzüntüdür; formülde film oluşturucu ve cilt-saç koşullandırıcı olarak kullanılır.",
+   "islev": [
+    "film-forming",
+    "hair-conditioning",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 2
+  },
+  {
+   "inci": "LACTOBACILLUS/SOYBEAN FERMENT EXTRACT",
+   "ad": "Lactobacillus/soya fermentasyon özü",
+   "metin": "Soyanın laktik asit bakterisiyle fermente edilmesinden elde edilen bir özdür; cilt koşullandırıcı olarak formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 3
+  },
+  {
+   "inci": "LACTOBACILLUS/PUMPKIN FERMENT EXTRACT",
+   "ad": "Lactobacillus/balkabağı fermentasyon özü",
+   "metin": "Balkabağının laktik asit bakterisiyle fermente edilmesinden elde edilen bir özdür; cilt koşullandırıcı olarak formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 2
+  },
+  {
+   "inci": "LACTOBACILLUS/HIBISCUS SABDARIFFA FLOWER FERMENT FILTRATE",
+   "ad": "Lactobacillus/hibiskus çiçeği fermentasyon süzüntüsü",
+   "metin": "Laktik asit bakterisi ve hibiskus çiçeğinin fermentasyonuyla elde edilen bir süzüntüdür; formülde cildi koşullandırıcı olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 1
+  },
+  {
+   "inci": "SODIUM SURFACTIN",
+   "ad": "Sodyum sürfaktin",
+   "metin": "Bakteriyel kökenli bir lipopeptittir; yüzey aktif olarak temizleyicilerde ve jel formüllerde kullanılır.",
+   "islev": [
+    "cleansing",
+    "surfactant-emulsifying",
+    "gel-forming",
+    "surfactant-cleansing"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 1
+  },
+  {
+   "inci": "BIFIDA FERMENT FILTRATE",
+   "ad": "Bifida fermentasyon filtratı",
+   "metin": "Bifidobakteri fermentasyonundan elde edilen bir filtrattır; formülde cilt koşullandırıcı olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 1
+  },
+  {
+   "inci": "ERGOTHIONEINE",
+   "ad": "Ergotiyonin",
+   "metin": "Mantarlar ve bazı bakteriler tarafından üretilen bir amino asit türevidir; formülde antioksidan ve cilt koşullandırıcı olarak listelenir.",
+   "islev": [
+    "antioxidant",
+    "skin-conditioning-miscellaneous"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "antioxidant"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "LACTOBACILLUS/SOYMILK FERMENT FILTRATE",
+   "ad": "Lactobacillus/soya sütü fermentasyon süzüntüsü",
+   "metin": "Laktik asit bakterisi ile soya sütünün fermentasyonundan elde edilen bir süzüntüdür; formülde cildi koşullandırıcı olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 1
+  },
+  {
+   "inci": "LEVAN",
+   "ad": "Levan",
+   "metin": "Bakteriyel fermentasyonla elde edilen doğal bir polisakkarittir; formülde film oluşturucu ve cilt koruyucu olarak kullanılır.",
+   "islev": [
+    "film-forming",
+    "skin-protecting"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 2
+  },
+  {
+   "inci": "BACILLUS/SOYBEAN FERMENT EXTRACT",
+   "ad": "Bacillus/soya fermentasyon özü",
+   "metin": "Soyanın bakteri fermentasyonundan elde edilen bir özdür; formülde cilt koşullandırıcı olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 1
+  },
+  {
+   "inci": "LACTOBACILLUS/RICE FERMENT",
+   "ad": "Lactobacillus/pirinç fermentasyon ürünü",
+   "metin": "Pirincin laktik asit bakterisiyle fermente edilmesinden elde edilen bir üründür; saç ve cilt koşullandırıcı olarak formüllerde yer alır.",
+   "islev": [
+    "hair-conditioning",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 1
+  },
+  {
+   "inci": "SACCHAROMYCES/XYLINUM/BLACK TEA FERMENT",
+   "ad": "Saccharomyces/Xylinum/siyah çay fermentasyon ürünü",
+   "metin": "Siyah çayın maya ve bakteri fermentasyonuyla elde edilen bir üründür; formülde cildi koşullandırıcı olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 1
+  },
+  {
+   "inci": "LACTOBACILLUS/ALOE BARBADENSIS FERMENT FILTRATE",
+   "ad": "Lactobacillus/aloe vera fermentasyon süzüntüsü",
+   "metin": "Aloe veranın laktik asit bakterisiyle fermente edilmesinden elde edilen bir süzüntüdür; formülde cilt koşullandırıcı olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 1
+  },
+  {
+   "inci": "LACTOBACILLUS",
+   "ad": "Laktobasil",
+   "metin": "Laktik asit bakterilerinin bir cinsidir; formülde cilt koşullandırıcı olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 1
+  }
+ ],
+ "yatıştırıcı": [
+  {
+   "inci": "CENTELLA ASIATICA LEAF EXTRACT",
+   "ad": "Centella asiatica yaprak özü (Asya su göbeği)",
+   "metin": "Yatıştırıcı ve cilt koşullandırıcı etkisiyle kızarıklığa ve tahrişe eğilimli ciltlere yönelik formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-reduce-skin-redness",
+    "helps-reduce-irritation",
+    "good-for-scar-healing"
+   ],
+   "uses": 43
+  },
+  {
+   "inci": "CENTELLA ASIATICA ROOT EXTRACT",
+   "ad": "Centella asiatica kök özütü",
+   "metin": "Centella asiatica bitkisinin kökünden elde edilen bir özüttür; formülde cildi koşullandırıcı olarak kullanılır ve yatıştırıcı etkisiyle bilinir.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-reduce-skin-redness",
+    "helps-reduce-irritation",
+    "good-for-scar-healing"
+   ],
+   "uses": 3
+  },
+  {
+   "inci": "CENTELLA ASIATICA LEAF WATER",
+   "ad": "Centella asiatica yaprak suyu",
+   "metin": "Centella asiatica bitkisinden distilasyonla elde edilen sulu bir üründür; yatıştırıcı destek bileşeni olarak hassas ya da tahrişe eğilimli ciltlere yönelik formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-reduce-skin-redness",
+    "helps-reduce-irritation",
+    "good-for-scar-healing"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "CENTELLA ASIATICA FLOWER/LEAF/STEM EXTRACT",
+   "ad": "Centella asiatica çiçek, yaprak ve gövde özütü",
+   "metin": "Centella asiatica bitkisinin çiçek, yaprak ve gövdesinden elde edilen bir özüttür; formülde yatıştırıcı ve cildi koşullandırıcı olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-reduce-skin-redness",
+    "helps-reduce-irritation",
+    "good-for-scar-healing"
+   ],
+   "uses": 13
+  },
+  {
+   "inci": "CENTELLA ASIATICA JUICE",
+   "ad": "Centella asiatica özsuyu",
+   "metin": "Centella asiatica bitkisinin özsuyudur; yatıştırıcı destek bileşeni olarak hassas ya da tahrişe eğilimli ciltlere yönelik formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning-miscellaneous"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-reduce-skin-redness",
+    "helps-reduce-irritation",
+    "good-for-scar-healing"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "CENTELLA ASIATICA CALLUS EXTRACELLULAR VESICLES",
+   "ad": "Centella asiatica kallus hücre dışı veziküller",
+   "metin": "Centella asiatica kallus kültüründen elde edilen veziküllerden oluşan bir bileşendir; antimikrobiyal ve antioksidan işleviyle yatıştırıcı destek olarak formüllerde yer alır.",
+   "islev": [
+    "antimicrobial",
+    "antioxidant"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "antioxidant",
+    "helps-reduce-skin-redness",
+    "helps-reduce-irritation",
+    "good-for-scar-healing"
+   ],
+   "uses": 1
+  }
+ ],
+ "tahriş": [
+  {
+   "inci": "CENTELLA ASIATICA LEAF EXTRACT",
+   "ad": "Centella asiatica yaprak özü (Asya su göbeği)",
+   "metin": "Yatıştırıcı ve cilt koşullandırıcı etkisiyle kızarıklığa ve tahrişe eğilimli ciltlere yönelik formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-reduce-skin-redness",
+    "helps-reduce-irritation",
+    "good-for-scar-healing"
+   ],
+   "uses": 43
+  },
+  {
+   "inci": "AVENA SATIVA MEAL EXTRACT",
+   "ad": "Yulaf (Avena sativa) un özütü",
+   "metin": "Yulaf ununun özütüdür; formülde cilt yatıştırıcı olarak kullanılır ve hassas ciltlerde tahrişi azaltmaya yardımcı olabilir.",
+   "islev": [
+    "soothing"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-reduce-irritation"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "CENTELLA ASIATICA LEAF WATER",
+   "ad": "Centella asiatica yaprak suyu",
+   "metin": "Centella asiatica bitkisinden distilasyonla elde edilen sulu bir üründür; yatıştırıcı destek bileşeni olarak hassas ya da tahrişe eğilimli ciltlere yönelik formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-reduce-skin-redness",
+    "helps-reduce-irritation",
+    "good-for-scar-healing"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "HEDERA HELIX LEAF/STEM EXTRACT",
+   "ad": "Sarmaşık (Hedera helix) yaprak ve gövde özütü",
+   "metin": "Sarmaşığın yaprak ve gövdesinden elde edilen bir özüttür; cilt yatıştırıcı ve koşullandırıcı olarak kullanılır, tahriş görünümünü azaltmaya yardımcı olabilir.",
+   "islev": [
+    "anticaking",
+    "antimicrobial",
+    "astringent",
+    "skin-conditioning",
+    "soothing",
+    "tonic"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-reduce-irritation"
+   ],
+   "uses": 7
+  },
+  {
+   "inci": "CENTELLA ASIATICA JUICE",
+   "ad": "Centella asiatica özsuyu",
+   "metin": "Centella asiatica bitkisinin özsuyudur; yatıştırıcı destek bileşeni olarak hassas ya da tahrişe eğilimli ciltlere yönelik formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning-miscellaneous"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-reduce-skin-redness",
+    "helps-reduce-irritation",
+    "good-for-scar-healing"
+   ],
+   "uses": 1
+  }
+ ],
+ "renk": [
+  {
+   "inci": "RIBES NIGRUM SEED OIL",
+   "ad": "Siyah frenk üzümü çekirdek yağı",
+   "metin": "Siyah frenk üzümü tohumundan elde edilen bir bitkisel yağdır; emolyent olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning-emollient"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 3
+  },
+  {
+   "inci": "BETA-CAROTENE",
+   "ad": "Beta karoten",
+   "metin": "Provitamin A kaynağı bir karotenoiddir ve formülde cilt koşullandırıcı olarak kullanılır. Ürüne sarı-turuncu renk de verebilir.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 12
+  },
+  {
+   "inci": "SODIUM GUAIAZULENE SULFONATE",
+   "ad": "Sodyum guaiazulen sülfonat",
+   "metin": "Papatyadan türetilen mavi renkli bir bileşiğin sodyum tuzudur; formülde temizleme ajanı olarak kullanılır.",
+   "islev": [
+    "surfactant-cleansing"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 2
+  },
+  {
+   "inci": "GUAIAZULENE",
+   "ad": "Guaiazulen",
+   "metin": "Kamomil yağında bulunan mavi renkli bir bileşiktir. Formülde antimikrobiyal ve koku verici olarak listelenir; ürüne mavi renk de verebilir.",
+   "islev": [
+    "antimicrobial",
+    "perfuming"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 5
+  },
+  {
+   "inci": "RIBES NIGRUM FRUIT EXTRACT",
+   "ad": "Siyah frenk üzümü (Ribes nigrum) meyve özü",
+   "metin": "Siyah frenk üzümü meyvesinden elde edilen bir özdür; formülde gözenek sıkılaştırıcı (astrenjan), yumuşatıcı ve koku verici olarak kullanılır.",
+   "islev": [
+    "astringent",
+    "skin-conditioning-emollient",
+    "skin-conditioning",
+    "perfuming"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 1
+  }
+ ],
+ "sebum": [
+  {
+   "inci": "RIBES NIGRUM SEED OIL",
+   "ad": "Siyah frenk üzümü çekirdek yağı",
+   "metin": "Siyah frenk üzümü tohumundan elde edilen bir bitkisel yağdır; emolyent olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning-emollient"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 3
+  },
+  {
+   "inci": "ELETTARIA CARDAMOMUM SEED OIL",
+   "ad": "Kakule tohum yağı (Elettaria cardamomum)",
+   "metin": "Kakule tohumundan elde edilen uçucu bir yağdır; koku verici ve tonik olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "fragrance",
+    "tonic",
+    "perfuming"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "CALENDULA OFFICINALIS SEED OIL",
+   "ad": "Aynısefa tohum yağı",
+   "metin": "Aynısefa tohumundan elde edilen bir bitkisel yağdır ve cilt koşullandırıcı olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "PUNICA GRANATUM SEED OIL",
+   "ad": "Nar çekirdeği yağı",
+   "metin": "Nar tohumundan elde edilen, cildi yumuşatan bir bitkisel yağdır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning-emollient"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 4
+  },
+  {
+   "inci": "CALOPHYLLUM INOPHYLLUM SEED OIL",
+   "ad": "Tamanu (Calophyllum inophyllum) tohum yağı",
+   "metin": "Tamanu ağacının tohumundan elde edilen bir yağdır; antioksidan ve UV soğurucu olarak listelenir. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "antimicrobial",
+    "antioxidant",
+    "hair-conditioning",
+    "oral-care",
+    "skin-conditioning",
+    "uv-absorber"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "antioxidant",
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "HYDROGENATED COCONUT OIL",
+   "ad": "Hidrojene hindistan cevizi yağı",
+   "metin": "Hindistan cevizi yağının hidrojenlenmiş halidir; formülde yumuşatıcı olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning-emollient",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "JUGLANS REGIA SEED OIL",
+   "ad": "Ceviz çekirdek yağı",
+   "metin": "Ceviz tohumundan elde edilen bir bitkisel yağdır ve cilt koşullandırıcı olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "HYDROGENATED SOYBEAN OIL",
+   "ad": "Hidrojene soya yağı",
+   "metin": "Soya yağının hidrojenlenmiş halidir; formülde yumuşatıcı, nem tutucu ve kıvam ayarlayıcı olarak kullanılır. Mantar aknesi (Malassezia) tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için bu ciltlerde dikkat edilmelidir.",
+   "islev": [
+    "skin-conditioning-emollient",
+    "humectant",
+    "skin-conditioning",
+    "viscosity-controlling"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "helps-hydrate-dry-skin",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 10
+  },
+  {
+   "inci": "HYPERICUM PERFORATUM OIL",
+   "ad": "Sarı kantaron (Hypericum perforatum) yağı",
+   "metin": "Kantaron bitkisinin yağa çekilmesiyle elde edilen bir bitkisel yağdır; emolyent olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning-emollient"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "ASTROCARYUM VULGARE KERNEL OIL",
+   "ad": "Tukuma (Astrocaryum vulgare) çekirdek yağı",
+   "metin": "Palmiye çekirdeğinden elde edilen bir bitkisel yağdır ve cilt koşullandırıcı olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 1
+  }
+ ],
+ "İDDİA": [
+  {
+   "inci": "RIBES NIGRUM SEED OIL",
+   "ad": "Siyah frenk üzümü çekirdek yağı",
+   "metin": "Siyah frenk üzümü tohumundan elde edilen bir bitkisel yağdır; emolyent olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning-emollient"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 3
+  },
+  {
+   "inci": "SODIUM POTASSIUM ALUMINUM SILICATE",
+   "ad": "Sodyum potasyum alüminyum silikat",
+   "metin": "Mineral kökenli sentetik bir silikattır; formülde dolgu maddesi olarak kullanılır ve ürünün dokusunu iyileştirir.",
+   "islev": [
+    "bulking"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 4
+  },
+  {
+   "inci": "SODIUM GLUCONATE",
+   "ad": "Sodyum glukonat",
+   "metin": "Glukozdan elde edilen bir tuzdur; metal iyonlarını bağlayarak formülün stabilitesini korur. Cilt koşullandırıcı olarak da listelenir.",
+   "islev": [
+    "chelating",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 5
+  },
+  {
+   "inci": "PALMITOYL TRIPEPTIDE-5",
+   "ad": "Palmitoil tripeptit-5",
+   "metin": "Yağ asidi ile bağlanmış kısa bir peptittir; formülde cildi koşullandırıcı ve yaşlanma karşıtı destekleyici olarak kullanılır.",
+   "islev": [
+    "skin-conditioning-miscellaneous"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 17
+  },
+  {
+   "inci": "GLUCOMANNAN",
+   "ad": "Glukomannan",
+   "metin": "Konjac bitkisinin kökünden elde edilen, suyu tutabilen bir polisakkarittir. Formülde jel benzeri doku sağlayarak cilt üzerinde koruyucu bir film oluşturur.",
+   "islev": [
+    "skin-conditioning",
+    "skin-protecting"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 6
+  },
+  {
+   "inci": "HYDROGENATED POLY(C6-14 OLEFIN)",
+   "ad": "Hidrojene poli(C6-14 olefin)",
+   "metin": "Sentetik, hafif bir yağdır; yumuşatıcı ve kıvam ayarlayıcı olarak kullanılır. Cilt üzerinde kaygan bir film bırakarak doku kalitesini iyileştirir.",
+   "islev": [
+    "skin-conditioning-emollient",
+    "skin-conditioning",
+    "viscosity-controlling"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 11
+  },
+  {
+   "inci": "CERAMIDE NS",
+   "ad": "Seramid NS",
+   "metin": "Cildin doğal lipit bariyerinde bulunan seramid türüdür. Bariyer onarımına destek olması ve cildi nemli tutması amacıyla formüle eklenir.",
+   "islev": [
+    "hair-conditioning",
+    "skin-conditioning-miscellaneous"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "ceramide",
+    "good-for-barrier-repair"
+   ],
+   "uses": 11
+  },
+  {
+   "inci": "CERAMIDE AS",
+   "ad": "Seramid AS",
+   "metin": "Cildin lipit bariyerinde doğal olarak bulunan seramidlerden biridir. Bariyer onarımına destek olması ve cildi nemli tutması için formüle eklenir.",
+   "islev": [
+    "hair-conditioning",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "ceramide",
+    "good-for-barrier-repair"
+   ],
+   "uses": 7
+  },
+  {
+   "inci": "ELETTARIA CARDAMOMUM SEED OIL",
+   "ad": "Kakule tohum yağı (Elettaria cardamomum)",
+   "metin": "Kakule tohumundan elde edilen uçucu bir yağdır; koku verici ve tonik olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "fragrance",
+    "tonic",
+    "perfuming"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "CYMBOPOGON NARDUS OIL",
+   "ad": "Sitronella yağı (Cymbopogon nardus)",
+   "metin": "Sitronella bitkisinden damıtılan uçucu bir yağdır; koku verici ve tonik olarak kullanılır. Koku bileşeni içerdiği için hassas, rozasea veya egzamaya yatkın ciltlerde tahriş riski taşır.",
+   "islev": [
+    "fragrance",
+    "tonic"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "fragrance-ingredient",
+    "may-cause-irritation",
+    "may-worsen-rosacea",
+    "may-worsen-eczema"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "ACETYL TETRAPEPTIDE-2",
+   "ad": "Asetil tetrapeptid-2",
+   "metin": "Dört amino asitten oluşan sentetik bir peptittir; cilt koşullandırıcı olarak yaşlanma karşıtı temalı formüllerde yer alır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "HEXAMETHYLINDANOPYRAN",
+   "ad": "Hekzametilindanopiran",
+   "metin": "Sentetik misk kokusu veren bir koku bileşenidir. AB'de alerjen olarak listelenen koku maddelerinden biridir; hassas ya da egzamaya yatkın ciltlerde tahriş riski taşır.",
+   "islev": [
+    "fragrance",
+    "perfuming"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "fragrance-ingredient",
+    "eu-allergen",
+    "may-cause-irritation",
+    "may-worsen-rosacea",
+    "may-worsen-eczema"
+   ],
+   "uses": 37
+  },
+  {
+   "inci": "ROSA CENTIFOLIA FLOWER OIL",
+   "ad": "Yüzyapraklı gül (Rosa centifolia) çiçek yağı",
+   "metin": "Gül çiçeğinden damıtılan uçucu bir yağdır ve koku verici olarak kullanılır. AB'de alerjen olarak listelenen koku maddeleri arasında yer alır; hassas, rozasea veya egzamaya yatkın ciltlerde tahriş riski taşır.",
+   "islev": [
+    "fragrance",
+    "tonic"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "fragrance-ingredient",
+    "eu-allergen",
+    "may-cause-irritation",
+    "may-worsen-rosacea",
+    "may-worsen-eczema"
+   ],
+   "uses": 5
+  },
+  {
+   "inci": "DIPEPTIDE-2",
+   "ad": "Dipeptid-2",
+   "metin": "İki amino asitten oluşan küçük bir peptittir ve cilt koşullandırıcı olarak formüllerde kullanılır. Yaşlanma karşıtı temalı ürünlerde destekleyici bileşen olarak yer alır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 4
+  },
+  {
+   "inci": "HYDROLYZED ELASTIN",
+   "ad": "Hidrolize elastin",
+   "metin": "Elastinin parçalanmış halidir; formülde yumuşatıcı ve cilt koşullandırıcı olarak kullanılır. Saç bakım ürünlerinde de koşullandırıcı işlev görür.",
+   "islev": [
+    "skin-conditioning-emollient",
+    "hair-conditioning",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 6
+  },
+  {
+   "inci": "COPPER TRIPEPTIDE-1",
+   "ad": "Bakır tripeptit-1",
+   "metin": "Bakır iyonu bağlı küçük bir peptittir; formülde cildi koşullandırıcı ve yaşlanma karşıtı destekleyici olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 23
+  },
+  {
+   "inci": "ARGININE/LYSINE POLYPEPTIDE",
+   "ad": "Arjinin/lizin polipeptidi",
+   "metin": "İki amino asitten oluşan bir polipeptittir; cilt koşullandırıcı olarak yaşlanma karşıtı temalı formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "SH-OLIGOPEPTIDE-2",
+   "ad": "SH-oligopeptid-2",
+   "metin": "Kısa zincirli bir peptittir; formülde cildi koşullandırıcı ve koruyucu olarak kullanılır, yaşlanma karşıtı destekleyici olarak da listelenmiştir.",
+   "islev": [
+    "skin-conditioning",
+    "skin-protecting"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "SH-OLIGOPEPTIDE-1",
+   "ad": "SH-oligopeptid-1",
+   "metin": "Kısa zincirli bir peptittir; formülde cildi koşullandırıcı olarak kullanılır ve yaşlanma karşıtı destekleyici olarak listelenmiştir.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "SH-POLYPEPTIDE-1",
+   "ad": "SH-polipeptid-1",
+   "metin": "Küçük bir polipeptittir; cilt koşullandırıcı olarak yaşlanma karşıtı temalı formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "ASCORBYL PROPYL HYALURONATE",
+   "ad": "Askorbil propil hyalüronat",
+   "metin": "C vitamini ve hyalüronik asit bileşiminden oluşan bir türevdir. Nem sağlama ve cildin parlaklığını destekleme amacıyla leke görünümünü ve yaşlanma karşıtı etkiyi hedefleyen ürünlerde yer alır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "hyaluronic-acid",
+    "helps-hydrate-dry-skin",
+    "helps-with-anti-aging",
+    "helps-brighten-skin",
+    "good-for-dark-spots"
+   ],
+   "uses": 4
+  },
+  {
+   "inci": "CAMELLIA SINENSIS LEAF POWDER",
+   "ad": "Çay (Camellia sinensis) yaprak tozu",
+   "metin": "Çay yaprağının öğütülmüş tozudur; formülde hafif aşındırıcı olarak kullanılır ve cilt yüzeyinin dokusunu iyileştirmeye yardımcı olur.",
+   "islev": [
+    "exfoliating"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "good-for-skin-texture"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "HYDROLYZED GLYCOSAMINOGLYCANS",
+   "ad": "Hidrolize glikozaminoglikan",
+   "metin": "Nem tutma özelliğiyle formülde suyu bağlayarak cildin nemli kalmasına yardımcı olur. Saç bakım ürünlerinde koşullandırıcı olarak da kullanılır.",
+   "islev": [
+    "hair-conditioning",
+    "humectant",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-hydrate-dry-skin"
+   ],
+   "uses": 31
+  },
+  {
+   "inci": "NONAPEPTIDE-1",
+   "ad": "Nonapeptid-1",
+   "metin": "Cilt ve saç formüllerinde kullanılan sentetik bir peptittir. Yaşlanma karşıtı temalı ürünlerde cildin görünümünü desteklemek için eklenir.",
+   "islev": [
+    "hair-conditioning",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 7
+  },
+  {
+   "inci": "PALMITOYL PENTAPEPTIDE-4",
+   "ad": "Palmitoil pentapeptit-4",
+   "metin": "Yağ asidiyle bağlanmış beş amino asitli bir peptittir; formülde cildi koşullandırıcı ve yaşlanma karşıtı destekleyici olarak kullanılır.",
+   "islev": [
+    "skin-conditioning-miscellaneous"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 16
+  },
+  {
+   "inci": "ACETYL OCTAPEPTIDE-3",
+   "ad": "Asetil oktapeptid-3",
+   "metin": "Sekiz amino asitli bir peptittir; nem tutucu özelliğiyle birlikte yaşlanma karşıtı formüllerde kullanılır.",
+   "islev": [
+    "humectant",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-hydrate-dry-skin",
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "TRIPEPTIDE-3",
+   "ad": "Tripeptid-3",
+   "metin": "Üç amino asitli sentetik bir peptittir; cilt koşullandırıcı olarak yaşlanma karşıtı temalı formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "TRIPEPTIDE-2",
+   "ad": "Tripeptid-2",
+   "metin": "Üç amino asitli kısa bir peptittir; formülde cildi koşullandırıcı ve yaşlanma karşıtı destekleyici olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "POTASSIUM AZELOYL DIGLYCINATE",
+   "ad": "Potasyum azeloil diglisinat",
+   "metin": "Azelaik asit türevidir; cilt tonunu eşitlemeye ve gözenek ile sivilce görünümüne yönelik formüllerde aktif bileşen olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-reduce-skin-redness",
+    "helps-brighten-skin",
+    "good-for-dark-spots",
+    "helps-fight-acne"
+   ],
+   "uses": 3
+  },
+  {
+   "inci": "CALENDULA OFFICINALIS SEED OIL",
+   "ad": "Aynısefa tohum yağı",
+   "metin": "Aynısefa tohumundan elde edilen bir bitkisel yağdır ve cilt koşullandırıcı olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "HEPTAPEPTIDE-6",
+   "ad": "Heptapeptid-6",
+   "metin": "Yedi amino asitli bir peptittir; formülde cildi koşullandırıcı ve yaşlanma karşıtı destekleyici olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 3
+  },
+  {
+   "inci": "OLIGOPEPTIDE-1",
+   "ad": "Oligopeptid-1",
+   "metin": "Küçük bir peptittir; cilt koşullandırıcı olarak yaşlanma karşıtı temalı formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "CALENDULA OFFICINALIS FLOWER OIL",
+   "ad": "Aynısefa (Calendula officinalis) çiçek yağı",
+   "metin": "Aynısefa çiçeğinden elde edilen uçucu bir yağdır; cilt koşullandırıcı ve koku verici olarak kullanılır. Koku içerdiği için hassas, rozasea veya egzamaya yatkın ciltlerde tahriş riski taşır.",
+   "islev": [
+    "fragrance",
+    "skin-conditioning",
+    "perfuming"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "fragrance-ingredient",
+    "may-cause-irritation",
+    "may-worsen-rosacea",
+    "may-worsen-eczema"
+   ],
+   "uses": 5
+  },
+  {
+   "inci": "GLUCONIC ACID",
+   "ad": "Glukonik asit",
+   "metin": "Glukozdan elde edilen zayıf bir organik asittir; metal iyonlarını bağlayarak formülü stabil tutar ve parfüm dengesinde yardımcı olur.",
+   "islev": [
+    "chelating",
+    "perfuming"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 5
+  },
+  {
+   "inci": "TRIFLUOROACETYL TRIPEPTIDE-2",
+   "ad": "Trifloroasetil tripeptid-2",
+   "metin": "Üç amino asitten oluşan sentetik bir peptittir; cilt koşullandırıcı ve koruyucu olarak yaşlanma karşıtı temalı formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning",
+    "skin-protecting"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "N-PROLYL PALMITOYL TRIPEPTIDE-56 ACETATE",
+   "ad": "N-prolil palmitoil tripeptid-56 asetat",
+   "metin": "Yağ asidi bağlı bir peptittir; cilt koşullandırıcı olarak yaşlanma karşıtı temalı formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "PALMITOYL TRIPEPTIDE-1 ACETATE",
+   "ad": "Palmitoil tripeptit-1 asetat",
+   "metin": "Yağ asidiyle bağlanmış küçük bir peptit asetatıdır; formülde cildi koşullandırıcı ve yaşlanma karşıtı destekleyici olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "PUNICA GRANATUM SEED OIL",
+   "ad": "Nar çekirdeği yağı",
+   "metin": "Nar tohumundan elde edilen, cildi yumuşatan bir bitkisel yağdır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning-emollient"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 4
+  },
+  {
+   "inci": "ARTEMISIA ARGYI LEAF OIL",
+   "ad": "Çin pelini (Artemisia argyi) yaprak yağı",
+   "metin": "Pelin yapraklarından elde edilen uçucu bir yağdır ve koku verici olarak kullanılır. Koku bileşeni içerdiği için hassas, rozasea veya egzamaya yatkın ciltlerde tahriş riski taşır.",
+   "islev": [
+    "fragrance"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "fragrance-ingredient",
+    "may-cause-irritation",
+    "may-worsen-rosacea",
+    "may-worsen-eczema"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "ROSA DAMASCENA EXTRACT",
+   "ad": "Damask gülü (Rosa damascena) özü",
+   "metin": "Damask gülünden elde edilen, koku verici ve tonik işlevli bir özdür. AB'de alerjen olarak listelenen koku maddeleri arasında yer alır; hassas, rozasea veya egzamaya yatkın ciltlerde tahriş riski taşır.",
+   "islev": [
+    "fragrance",
+    "tonic"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "fragrance-ingredient",
+    "eu-allergen",
+    "may-cause-irritation",
+    "may-worsen-rosacea",
+    "may-worsen-eczema"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "OLIGOPEPTIDE-29",
+   "ad": "Oligopeptid-29",
+   "metin": "Küçük bir peptittir; antioksidan ve şelat yapıcı işleviyle listelenir ve yaşlanma karşıtı temalı formüllerde kullanılır.",
+   "islev": [
+    "antioxidant",
+    "binding",
+    "chelating",
+    "skin-protecting"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "antioxidant",
+    "helps-with-anti-aging"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "GLYCINE SOJA PEPTIDE",
+   "ad": "Soya (Glycine soja) peptidi",
+   "metin": "Soyadan elde edilen kısa zincirli bir peptittir; formülde film oluşturucu, saç ve cilt koşullandırıcı olarak kullanılır, yaşlanma karşıtı destekleyici olarak da listelenmiştir.",
+   "islev": [
+    "film-forming",
+    "hair-conditioning",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "CALOPHYLLUM INOPHYLLUM SEED OIL",
+   "ad": "Tamanu (Calophyllum inophyllum) tohum yağı",
+   "metin": "Tamanu ağacının tohumundan elde edilen bir yağdır; antioksidan ve UV soğurucu olarak listelenir. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "antimicrobial",
+    "antioxidant",
+    "hair-conditioning",
+    "oral-care",
+    "skin-conditioning",
+    "uv-absorber"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "antioxidant",
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "RICE SH-OLIGOPEPTIDE-1",
+   "ad": "Pirinç SH-oligopeptid-1",
+   "metin": "Pirinç kaynaklı küçük bir peptittir; cilt koşullandırıcı olarak yaşlanma karşıtı temalı formüllerde yer alır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "HYDROGENATED COCONUT OIL",
+   "ad": "Hidrojene hindistan cevizi yağı",
+   "metin": "Hindistan cevizi yağının hidrojenlenmiş halidir; formülde yumuşatıcı olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning-emollient",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "TETRAHEXYLDECYL ASCORBATE",
+   "ad": "Tetrahekzildesil askorbat",
+   "metin": "Yağda çözünen bir C vitamini türevidir; formülde antioksidan olarak kullanılır ve cildin parlaklığını desteklemeye yönelik ürünlerde yer alır.",
+   "islev": [
+    "antioxidant",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "antioxidant",
+    "helps-with-anti-aging",
+    "helps-brighten-skin",
+    "good-for-dark-spots"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "PALMITOYL HEXAPEPTIDE-12",
+   "ad": "Palmitoil heksapeptid-12",
+   "metin": "Yağ asidiyle bağlanmış altı amino asitli bir peptittir; formülde cildi koşullandırıcı ve yaşlanma karşıtı destekleyici olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "SODIUM LAURYL SULFATE",
+   "ad": "Sodyum lauril sülfat (SLS)",
+   "metin": "Güçlü köpük sağlayan anyonik bir temizleyicidir; şampuan ve yüz temizleyicilerinde kullanılır. Cildi kurutabilir ve egzamaya yatkın ciltlerde tahrişe yol açabilir.",
+   "islev": [
+    "cleansing",
+    "denaturant",
+    "foaming",
+    "surfactant-cleansing"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "can-worsen-dry-skin",
+    "may-worsen-eczema"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "SALVIA OFFICINALIS OIL",
+   "ad": "Adaçayı yağı (Salvia officinalis)",
+   "metin": "Adaçayı bitkisinden elde edilen uçucu bir yağdır; koku verici ve tonik olarak kullanılır. Koku bileşeni içerdiği için hassas, rozasea veya egzamaya yatkın ciltlerde tahriş riski taşır.",
+   "islev": [
+    "fragrance",
+    "tonic"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "fragrance-ingredient",
+    "may-cause-irritation",
+    "may-worsen-rosacea",
+    "may-worsen-eczema"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "JUGLANS REGIA SEED OIL",
+   "ad": "Ceviz çekirdek yağı",
+   "metin": "Ceviz tohumundan elde edilen bir bitkisel yağdır ve cilt koşullandırıcı olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "CURCUMA LONGA RHIZOME OIL",
+   "ad": "Zerdeçal rizom yağı (Curcuma longa)",
+   "metin": "Zerdeçal rizomundan elde edilen uçucu bir yağdır; cilt koşullandırıcı olarak kullanılır. Koku bileşeni içerdiği için hassas, rozasea veya egzamaya yatkın ciltlerde tahriş riski taşır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "fragrance-ingredient",
+    "may-cause-irritation",
+    "may-worsen-rosacea",
+    "may-worsen-eczema"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "HYDROGENATED SOYBEAN OIL",
+   "ad": "Hidrojene soya yağı",
+   "metin": "Soya yağının hidrojenlenmiş halidir; formülde yumuşatıcı, nem tutucu ve kıvam ayarlayıcı olarak kullanılır. Mantar aknesi (Malassezia) tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için bu ciltlerde dikkat edilmelidir.",
+   "islev": [
+    "skin-conditioning-emollient",
+    "humectant",
+    "skin-conditioning",
+    "viscosity-controlling"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "helps-hydrate-dry-skin",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 10
+  },
+  {
+   "inci": "PISUM SATIVUM PEPTIDE",
+   "ad": "Bezelye (Pisum sativum) peptidi",
+   "metin": "Bezelyeden elde edilen bir peptittir; cilt koşullandırıcı olarak formüllerde kullanılır ve yaşlanma karşıtı temalı ürünlerde yer alır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 4
+  },
+  {
+   "inci": "HYPERICUM PERFORATUM OIL",
+   "ad": "Sarı kantaron (Hypericum perforatum) yağı",
+   "metin": "Kantaron bitkisinin yağa çekilmesiyle elde edilen bir bitkisel yağdır; emolyent olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning-emollient"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "ASCORBYLPROPYL HYDROLYZED HYALURONATE",
+   "ad": "Askorbilpropil hidrolize hyalüronat",
+   "metin": "C vitamini türevi ile parçalanmış hyalüronik asidin birleşiminden oluşur. Nem tutucu olarak cildi nemlendirir ve parlaklığı destekleyen formüllerde yer alır.",
+   "islev": [
+    "humectant",
+    "skin-protecting",
+    "light-stabilizer",
+    "skin-conditioning-humectant"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "hyaluronic-acid",
+    "helps-hydrate-dry-skin",
+    "helps-with-anti-aging",
+    "helps-brighten-skin",
+    "good-for-dark-spots"
+   ],
+   "uses": 3
+  },
+  {
+   "inci": "BIOTINOYL TRIPEPTIDE-1",
+   "ad": "Biotinoil tripeptid-1",
+   "metin": "Biyotin bağlı üç amino asitli bir peptittir; saç bakım ürünlerinde koşullandırıcı olarak kullanılır ve yaşlanma karşıtı temalı formüllerde yer alır.",
+   "islev": [
+    "hair-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 2
+  },
+  {
+   "inci": "ROSE FLOWER OIL",
+   "ad": "Gül çiçeği yağı",
+   "metin": "Gül çiçeğinden damıtılan uçucu bir yağdır ve koku verici olarak kullanılır. Koku bileşeni içerdiği için hassas, rozasea veya egzamaya yatkın ciltlerde tahriş riski taşır.",
+   "islev": [
+    "fragrance"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "fragrance-ingredient",
+    "may-cause-irritation",
+    "may-worsen-rosacea",
+    "may-worsen-eczema"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "HYDROXYPINACOLONE RETINOATE",
+   "ad": "Hidroksipinakolon retinoat",
+   "metin": "Retinoid ailesinden, cilt içinde retinoik aside dönüşen bir türevdir. Yaşlanma karşıtı ve gözenek görünümünü hedefleyen formüllerde kullanılır; tahriş ve rozasea ile ilgili olumsuz etkileri listelendiği için dikkatli kullanılmalıdır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "retinoid",
+    "helps-with-anti-aging",
+    "helps-fight-acne",
+    "good-for-minimizing-pores",
+    "good-for-skin-texture",
+    "good-for-scar-healing",
+    "may-cause-irritation",
+    "may-worsen-rosacea"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "DECAPEPTIDE-40",
+   "ad": "Dekapeptid-40",
+   "metin": "On amino asitli bir peptittir; formülde cildi koşullandırıcı ve yaşlanma karşıtı destekleyici olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 3
+  },
+  {
+   "inci": "ALANINE/HISTIDINE/LYSINE POLYPEPTIDE COPPER HCL",
+   "ad": "Alanin/histidin/lizin polipeptid bakır HCl",
+   "metin": "Bakır iyonu bağlı bir peptit karışımıdır; cilt koşullandırıcı olarak yaşlanma karşıtı temalı formüllerde kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 3
+  },
+  {
+   "inci": "HEXAPEPTIDE-11",
+   "ad": "Heksapeptid-11",
+   "metin": "Altı amino asitli bir peptittir; formülde cildi koşullandırıcı ve yaşlanma karşıtı destekleyici olarak kullanılır.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "helps-with-anti-aging"
+   ],
+   "uses": 3
+  },
+  {
+   "inci": "ROSA CENTIFOLIA FLOWER EXTRACT",
+   "ad": "Yüzyapraklı gül (Rosa centifolia) çiçek özü",
+   "metin": "Gül çiçeğinden elde edilen, koku verici ve astrenjan işlevli bir bitki özüdür. AB'de alerjen olarak listelenen koku maddeleri arasında yer alır; hassas, rozasea veya egzamaya yatkın ciltlerde tahriş riski taşır.",
+   "islev": [
+    "astringent",
+    "fragrance",
+    "skin-conditioning",
+    "tonic"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "fragrance-ingredient",
+    "eu-allergen",
+    "may-cause-irritation",
+    "may-worsen-rosacea",
+    "may-worsen-eczema"
+   ],
+   "uses": 4
+  },
+  {
+   "inci": "ROSE FLOWER OIL/EXTRACT",
+   "ad": "Gül çiçeği yağı özütü",
+   "metin": "Gül çiçeğinden elde edilen koku veren bir özdür. AB'de alerjen olarak listelenen koku maddeleri arasında yer alır; hassas, rozasea veya egzamaya yatkın ciltlerde tahriş riski taşır.",
+   "islev": [
+    "fragrance"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "fragrance-ingredient",
+    "eu-allergen",
+    "may-cause-irritation",
+    "may-worsen-rosacea",
+    "may-worsen-eczema"
+   ],
+   "uses": 3
+  },
+  {
+   "inci": "ASTROCARYUM VULGARE KERNEL OIL",
+   "ad": "Tukuma (Astrocaryum vulgare) çekirdek yağı",
+   "metin": "Palmiye çekirdeğinden elde edilen bir bitkisel yağdır ve cilt koşullandırıcı olarak kullanılır. Mantar aknesi tetikleyicisi olarak listelendiği ve yağlı ciltlerde yağlanma hissi yaratabildiği için dikkat gerektirir.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "oil",
+    "not-safe-for-fungal-acne",
+    "may-worsen-oily-skin"
+   ],
+   "uses": 1
+  },
+  {
+   "inci": "MAGNESIUM LAURETH-8 SULFATE",
+   "ad": "Magnezyum laureth-8 sülfat",
+   "metin": "Sülfat yapılı bir yüzey aktif maddedir; formülde temizleyici olarak kullanılır. Kuru ve egzamaya yatkın ciltleri kurutabilir.",
+   "islev": [
+    "cleansing",
+    "surfactant-cleansing"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "can-worsen-dry-skin",
+    "may-worsen-eczema"
+   ],
+   "uses": 1
+  }
+ ],
+ "film": [
+  {
+   "inci": "GLUCOMANNAN",
+   "ad": "Glukomannan",
+   "metin": "Konjac bitkisinin kökünden elde edilen, suyu tutabilen bir polisakkarittir. Formülde jel benzeri doku sağlayarak cilt üzerinde koruyucu bir film oluşturur.",
+   "islev": [
+    "skin-conditioning",
+    "skin-protecting"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 6
+  },
+  {
+   "inci": "HYDROGENATED POLY(C6-14 OLEFIN)",
+   "ad": "Hidrojene poli(C6-14 olefin)",
+   "metin": "Sentetik, hafif bir yağdır; yumuşatıcı ve kıvam ayarlayıcı olarak kullanılır. Cilt üzerinde kaygan bir film bırakarak doku kalitesini iyileştirir.",
+   "islev": [
+    "skin-conditioning-emollient",
+    "skin-conditioning",
+    "viscosity-controlling"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 11
+  },
+  {
+   "inci": "TRIMETHYLSILOXYSILICATE",
+   "ad": "Trimetilsiloksisilikat",
+   "metin": "Silikon bazlı bir reçinedir; formülde köpük önleyici ve yumuşatıcı olarak kullanılır, cilt üzerinde ince ve kaygan bir film bırakır.",
+   "islev": [
+    "antifoaming",
+    "skin-conditioning-emollient",
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 4
+  },
+  {
+   "inci": "HEPTYL UNDECYLENATE",
+   "ad": "Heptil undesilenat",
+   "metin": "Hafif ve yağsı hissettirmeyen bir emolyent estertir. Cilt üzerinde ince ve kaygan bir film bırakarak yumuşatıcı etki sağlar.",
+   "islev": [
+    "skin-conditioning-emollient"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 4
+  },
+  {
+   "inci": "LANOLIN",
+   "ad": "Lanolin",
+   "metin": "Koyun yününden elde edilen doğal bir yağdır; cilt üzerinde koruyucu ve yumuşatıcı bir film oluşturur. Kuru ciltlerde emolyent olarak kullanılır.",
+   "islev": [
+    "antistatic",
+    "skin-conditioning-emollient",
+    "surfactant-emulsifying",
+    "hair-conditioning",
+    "skin-conditioning",
+    "surfactant-cleansing"
+   ],
+   "kom": "0-1",
+   "tah": "0",
+   "fungal": null,
+   "tags": [],
+   "uses": 2
+  }
+ ],
+ "cilt koruyucu": [
+  {
+   "inci": "CERAMIDE NS",
+   "ad": "Seramid NS",
+   "metin": "Cildin doğal lipit bariyerinde bulunan seramid türüdür. Bariyer onarımına destek olması ve cildi nemli tutması amacıyla formüle eklenir.",
+   "islev": [
+    "hair-conditioning",
+    "skin-conditioning-miscellaneous"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "ceramide",
+    "good-for-barrier-repair"
+   ],
+   "uses": 11
+  },
+  {
+   "inci": "CERAMIDE NG",
+   "ad": "Seramid NG",
+   "metin": "Cilt bariyerinin doğal bileşenlerinden biri olan seramid türevidir; formülde cildi koşullandırıcı olarak kullanılır ve bariyer desteği için yer alır.",
+   "islev": [
+    "skin-conditioning-miscellaneous"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "ceramide",
+    "good-for-barrier-repair"
+   ],
+   "uses": 3
+  }
+ ],
+ "nem tutucu": [
+  {
+   "inci": "HYDROXYPROPYLTRIMONIUM HYALURONATE",
+   "ad": "Hidroksipropiltrimonyum hiyalüronat",
+   "metin": "Hiyalüronik asit türevi bir polimerdir; cilt yüzeyinde ince ve esnek bir film oluşturarak nem kaybını azaltmaya yardımcı olur.",
+   "islev": [
+    "film-forming"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "hyaluronic-acid",
+    "helps-hydrate-dry-skin"
+   ],
+   "uses": 43
+  },
+  {
+   "inci": "POTASSIUM HYALURONATE",
+   "ad": "Potasyum hiyalüronat",
+   "metin": "Hiyalüronik asidin potasyum tuzudur; yüksek su tutma kapasitesiyle cildi nemlendirmeye ve yumuşatmaya yardımcı olur.",
+   "islev": [
+    "skin-conditioning"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "hyaluronic-acid",
+    "helps-hydrate-dry-skin"
+   ],
+   "uses": 32
+  },
+  {
+   "inci": "C12-13 ALKYL GLYCERYL HYDROLYZED HYALURONATE",
+   "ad": "C12-13 alkil gliseril hidrolize hiyalüronat",
+   "metin": "Yağ alkil zinciri taşıyan, parçalanmış bir hiyalüronik asit türevidir; nem tutucu olarak cildi nemlendirmeye yardımcı olur.",
+   "islev": [],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [
+    "hyaluronic-acid",
+    "helps-hydrate-dry-skin"
+   ],
+   "uses": 2
+  }
+ ],
+ "antistatik/saç": [
+  {
+   "inci": "POLYESTER-5",
+   "ad": "Poliester-5",
+   "metin": "Film oluşturucu ve kıvam ayarlayıcı bir polimerdir; saç ve cilt ürünlerinde dokuyu ve dayanıklılığı ayarlamak için kullanılır.",
+   "islev": [
+    "film-forming",
+    "viscosity-controlling"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 2
+  }
+ ],
+ "koku": [
+  {
+   "inci": "C11-13 ISOALKANE",
+   "ad": "C11-13 izoalkan",
+   "metin": "Hafif, düşük kokulu bir hidrokarbon çözücüdür; formülde bileşenleri çözmek için kullanılır.",
+   "islev": [
+    "solvent"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": null,
+   "tags": [],
+   "uses": 2
+  },
+  {
+   "inci": "LINOLEIC ACID",
+   "ad": "Linoleik asit",
+   "metin": "Esansiyel bir yağ asididir; formülde yumuşatıcı olarak cilde yumuşak bir his verir. Mantar kaynaklı akneye yatkın ciltlerde dikkat gerektirebilir.",
+   "islev": [
+    "antistatic",
+    "cleansing",
+    "skin-conditioning-emollient",
+    "hair-conditioning",
+    "skin-conditioning",
+    "surfactant-cleansing"
+   ],
+   "kom": null,
+   "tah": null,
+   "fungal": "trigger",
+   "tags": [
+    "not-safe-for-fungal-acne"
+   ],
+   "uses": 5
+  }
+ ]
+}

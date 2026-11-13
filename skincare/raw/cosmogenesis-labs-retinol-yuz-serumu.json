@@ -1,0 +1,37 @@
+{
+ "slug": "cosmogenesis-labs-retinol-yuz-serumu",
+ "brandSite": {
+  "url": "https://www.cosmogenesislabs.com/products/cosmogenesis-labs-rejuvenating-retinol-serum-30-ml",
+  "nameTr": "Retinol Yüz Serumu",
+  "inci": [
+   "C12-15 ALKYL BENZOATE",
+   "SQUALANE",
+   "VITIS VINIFERA SEED OIL",
+   "ARGANIA SPINOSA KERNEL OIL",
+   "TOCOPHERYL ACETATE",
+   "SIMMONDSIA CHINENSIS SEED OIL",
+   "RETINYL PALMITATE",
+   "RETINOL",
+   "HELIANTHUS ANNUUS SEED OIL",
+   "CYCLOPENTASILOXANE",
+   "CAPRYLIC/CAPRIC TRIGLYCERIDE",
+   "DIMETHICONOL",
+   "GLYCINE SOJA OIL",
+   "LECITHIN",
+   "PHENOXYETHANOL",
+   "BHT"
+  ],
+  "inciSource": "cosmogenesis",
+  "claims": null,
+  "howTo": [
+   "Başlangıçta haftada 2-3 kez uygulayın, cildiniz alıştıkça kullanım sıklığını artırabilirsiniz.",
+   "Sabah veya akşam temiz cilde, 2-3 damla damlatarak nazikçe masaj yaparak uygulayın.",
+   "Gündüz kullanıyorsanız mutlaka güneş koruyucu uygulayın.",
+   "Cilt tarafından emildikten sonra nemlendirici veya tamamlayıcı cilt bakım ürünü ile destekleyebilirsiniz."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10215209-01J4kkMB9x-01_1024x1024.jpg",
+  "title": "Retinol Serum 30ml - %0.3 Retinol İçeren İnce Kırışıklık Karşıtı Sıkılaştırıcı Vegan (%10 Skualen)",
+  "barcodes": [],
+  "note": "2026-11-12 Shopify products.json > body_html"
+ }
+}

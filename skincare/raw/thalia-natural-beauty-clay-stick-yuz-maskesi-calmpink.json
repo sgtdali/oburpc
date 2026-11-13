@@ -1,0 +1,36 @@
+{
+ "slug": "thalia-natural-beauty-clay-stick-yuz-maskesi-calmpink",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/clay-stick-mask-calmpink",
+  "nameTr": "Thalia Clay Stick Yüz Maskesi Calmpink",
+  "inci": [
+   "AQUA(WATER)",
+   "KAOLIN",
+   "GLYCERIN",
+   "BUTYLENE GLYCOL",
+   "SODIUM STEARATE",
+   "TITANIUM DIOXIDE",
+   "STEAROYL GLUTAMIC ACID",
+   "POLYHYDROXYSTEARIC ACID",
+   "CALAMINE",
+   "PARFUM(FRAGRANCE)",
+   "XANTHAN GUM",
+   "PHENOXYETHANOL",
+   "ETHYLHEXYLGLYCERIN",
+   "CI 14720(RED 3)"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Ürünü temiz cildinize, göz ve dudak bölgesi hariç ince bir tabaka halinde uygulayın.",
+   "Yuvarlak hareketlerle yayın.",
+   "Yaklaşık 5-10 dakika kurumasını bekleyin.",
+   "Kuruduktan sonra suyla nazikçe yıkayarak durulayın.",
+   "Haftada 1 veya 2 kez uygulamanızı tavsiye ederiz."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220263-v3sAkaSETR-01_1024x1024.jpg",
+  "title": "clay-stick-mask-calmpink",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "cream-co-moisturizer-leke-karsiti-yuz-nemlendirici",
+ "brandSite": {
+  "url": "https://creamco.com.tr/products/moisturizer",
+  "nameTr": "Moisturizer Leke Karşıtı Yüz Nemlendirici",
+  "inci": [
+   "AQUA",
+   "ISONONYL ISONONANOATE",
+   "CAPRYLIC/CAPRIC TRIGLYCERIDE",
+   "GLYCERIN",
+   "PROPYLENE GLYCOL DIBENZOATE",
+   "SODIUM ACRYLATES COPOLYMER",
+   "LECITHIN",
+   "SODIUM PCA",
+   "ERYTHRITOL",
+   "CHONDRUS CRISPUS",
+   "PANTHENOL",
+   "BUTYLENE GLYCOL",
+   "PROPANEDIOL",
+   "HYDROLYZED GLYCOSAMINOGLYCANS",
+   "SODIUM HYALURONATE",
+   "HYDROLYZED HYALURONIC ACID",
+   "HYALURONIC ACID",
+   "SODIUM HYALURONATE CROSSPOLYMER",
+   "PHENOXYETHANOL",
+   "ETHYLHEXYLGLYCERIN",
+   "SACCHARIDE ISOMERATE",
+   "SODIUM CITRATE",
+   "BELLIS PERENNIS (DAISY) FLOWER EXTRACT",
+   "ASCORBYL TETRAISOPALMITATE",
+   "NIACINAMIDE",
+   "PISUM SATIVUM EXTRACT",
+   "CHAMOMILLA RECUTITA EXTRACT",
+   "XANTHAN GUM"
+  ],
+  "inciSource": "cream-co",
+  "claims": null,
+  "howTo": [
+   "Günde iki kez cildi temizledikten sonra hafif masaj yaparak yüz ve boyun bölgesine uygulayın."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/8683767633012-P7gAD03g52-01_1024x1024.jpg",
+  "title": "moisturizer",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıda okundu (Python'a 429); liste Gratis'tekiyle aynı, kullanım talimatı marka sayfasından (tanıtım notları çıkarıldı)"
+ }
+}

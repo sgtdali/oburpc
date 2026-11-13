@@ -1,0 +1,5672 @@
+[
+  {
+    "slug": "aqua",
+    "inci": "AQUA",
+    "nameTr": "Su",
+    "functionKeys": [
+      "solvent"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Formülün taşıyıcısıdır; diğer maddeleri çözer ve ürüne kıvam verir. Tek başına cilde nem kazandırmaz, nem tutucu maddelerle birlikte anlam kazanır."
+  },
+  {
+    "slug": "glycerin",
+    "inci": "GLYCERIN",
+    "nameTr": "Gliserin",
+    "functionKeys": [
+      "denaturant",
+      "hair-conditioning",
+      "humectant",
+      "oral-care",
+      "skin-protecting",
+      "solvent",
+      "viscosity-controlling",
+      "perfuming",
+      "fragrance",
+      "skin-conditioning-humectant"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "En yaygın ve en güvenilir nem tutuculardan biri. Havadaki ve cildin derin katmanlarındaki suyu üst katmana çekerek cildi yumuşak tutar; hemen her cilt tipine uygundur."
+  },
+  {
+    "slug": "cetearyl-alcohol",
+    "inci": "CETEARYL ALCOHOL",
+    "nameTr": "Setearil alkol",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying",
+      "emulsion-stabilising",
+      "surfactant-foam-boosting",
+      "opacifying",
+      "surfactant-cleansing",
+      "viscosity-controlling"
+    ],
+    "comedogenic": "2",
+    "irritancy": "1",
+    "fungalAcne": null,
+    "tags": [
+      "fatty-alcohol"
+    ],
+    "restrictions": [],
+    "description": "Adında alkol geçse de kurutucu değildir; cetil ve stearil alkolün karışımı olan bir yağ alkolüdür. Ürüne kremsi kıvam verir ve cildi yumuşatır. Çok akneye yatkın ciltlerde nadiren gözenek tıkayabilir."
+  },
+  {
+    "slug": "caprylic-capric-triglyceride",
+    "inci": "CAPRYLIC/CAPRIC TRIGLYCERIDE",
+    "nameTr": "Kaprilik/kaprik trigliserit",
+    "functionKeys": [
+      "fragrance",
+      "solvent",
+      "perfuming",
+      "skin-conditioning-occlusive"
+    ],
+    "comedogenic": "1",
+    "irritancy": "1",
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Hindistan cevizi yağından elde edilen hafif bir yağ türevidir. Cildi yağlı his bırakmadan yumuşatır ve bariyerin su kaybını azaltmasına yardım eder."
+  },
+  {
+    "slug": "cetyl-alcohol",
+    "inci": "CETYL ALCOHOL",
+    "nameTr": "Setil alkol",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying",
+      "emulsion-stabilising",
+      "surfactant-foam-boosting",
+      "fragrance",
+      "opacifying",
+      "surfactant-cleansing",
+      "viscosity-controlling"
+    ],
+    "comedogenic": "2",
+    "irritancy": "2",
+    "fungalAcne": null,
+    "tags": [
+      "fatty-alcohol"
+    ],
+    "restrictions": [],
+    "description": "Kremlerin dokusunu kalınlaştıran ve cildi yumuşatan bir yağ alkolüdür; kurutucu etanol ile karıştırılmamalı. Fungal akneye yatkın ciltlerde sorun çıkarabilir."
+  },
+  {
+    "slug": "potassium-phosphate",
+    "inci": "POTASSIUM PHOSPHATE",
+    "nameTr": "Potasyum fosfat",
+    "functionKeys": [
+      "buffering"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Ürünün pH değerini istenen aralıkta tutan bir tampon maddedir."
+  },
+  {
+    "slug": "ceramide-np",
+    "inci": "CERAMIDE NP",
+    "nameTr": "Seramid NP",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning-miscellaneous"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "ceramide",
+      "good-for-barrier-repair"
+    ],
+    "restrictions": [],
+    "description": "Cildin doğal bariyerinde bulunan lipitlerden biridir. Hücreler arasındaki boşlukları doldurarak nem kaybını azaltır, özellikle kuru ve hassas ciltlerde bariyeri destekler."
+  },
+  {
+    "slug": "ceramide-ap",
+    "inci": "CERAMIDE AP",
+    "nameTr": "Seramid AP",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "ceramide",
+      "good-for-barrier-repair"
+    ],
+    "restrictions": [],
+    "description": "Bariyer lipitlerinden bir diğer seramid türüdür. Diğer seramidler ve kolesterolle birlikte kullanıldığında cildin koruyucu katmanını güçlendirir."
+  },
+  {
+    "slug": "ceramide-eop",
+    "inci": "CERAMIDE EOP",
+    "nameTr": "Seramid EOP",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "ceramide",
+      "good-for-barrier-repair"
+    ],
+    "restrictions": [],
+    "description": "Bariyerin katmanlı yapısını bir arada tutmada rol oynayan uzun zincirli bir seramiddir; kuru ve atopik eğilimli ciltlerde sık tercih edilir."
+  },
+  {
+    "slug": "carbomer",
+    "inci": "CARBOMER",
+    "nameTr": "Karbomer",
+    "functionKeys": [
+      "emulsion-stabilising",
+      "gel-forming",
+      "viscosity-controlling"
+    ],
+    "comedogenic": "1",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Jel ve losyonlara kıvam veren, formülü stabil tutan bir polimerdir. Cilt üzerinde aktif bir etkisi yoktur."
+  },
+  {
+    "slug": "dimethicone",
+    "inci": "DIMETHICONE",
+    "nameTr": "Dimetikon",
+    "functionKeys": [
+      "antifoaming",
+      "skin-conditioning-emollient",
+      "skin-conditioning",
+      "skin-protecting"
+    ],
+    "comedogenic": "1",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [
+      "silicon"
+    ],
+    "restrictions": [],
+    "description": "En yaygın silikon türüdür. Cildi pürüzsüz hissettirir ve üstte nefes alabilen bir koruyucu katman oluşturur. Gözenek tıkama riski düşüktür."
+  },
+  {
+    "slug": "sodium-lauroyl-lactylate",
+    "inci": "SODIUM LAUROYL LACTYLATE",
+    "nameTr": "Sodyum lauroil laktilat",
+    "functionKeys": [
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yağ ve suyu bir arada tutan, aynı zamanda cildi yumuşatan nazik bir emülgatördür."
+  },
+  {
+    "slug": "sodium-hyaluronate",
+    "inci": "SODIUM HYALURONATE",
+    "nameTr": "Sodyum hyalüronat",
+    "functionKeys": [
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [
+      "hyaluronic-acid",
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Hyalüronik asidin tuz formudur; daha küçük yapısı sayesinde cilde daha kolay işler. Kendi ağırlığının kat kat fazlası suyu tutarak dolgun ve nemli bir görünüm sağlar."
+  },
+  {
+    "slug": "cholesterol",
+    "inci": "CHOLESTEROL",
+    "nameTr": "Kolesterol",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying",
+      "skin-conditioning",
+      "light-stabilizer",
+      "viscosity-controlling"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [
+      "good-for-barrier-repair"
+    ],
+    "restrictions": [],
+    "description": "Cildin bariyerinde doğal olarak bulunan bir lipittir. Seramidler ve yağ asitleriyle birlikte bariyeri onarmada önemli rol oynar."
+  },
+  {
+    "slug": "phenoxyethanol",
+    "inci": "PHENOXYETHANOL",
+    "nameTr": "Fenoksietanol",
+    "functionKeys": [
+      "antimicrobial",
+      "preservative"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "preservative"
+    ],
+    "restrictions": [
+      {
+        "annex": [
+          "V"
+        ],
+        "maxConcentration": "1.0%",
+        "conditional": false
+      }
+    ],
+    "description": "Ürünü bakteri ve küf üremesine karşı koruyan, paraben alternatifi olarak sık kullanılan bir koruyucudur. Kozmetikte izin verilen %1'in altındaki oranlarda güvenli kabul edilir."
+  },
+  {
+    "slug": "disodium-edta",
+    "inci": "DISODIUM EDTA",
+    "nameTr": "Disodyum EDTA",
+    "functionKeys": [
+      "chelating",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Sudaki metal iyonlarını bağlayarak ürünün bozulmasını ve renginin değişmesini önleyen bir şelatlayıcıdır."
+  },
+  {
+    "slug": "tocopherol",
+    "inci": "TOCOPHEROL",
+    "nameTr": "Tokoferol (E vitamini)",
+    "functionKeys": [
+      "antioxidant",
+      "fragrance",
+      "skin-conditioning-miscellaneous",
+      "skin-conditioning-occlusive"
+    ],
+    "comedogenic": "0-3",
+    "irritancy": "0-3",
+    "fungalAcne": null,
+    "tags": [
+      "vitamin-e",
+      "antioxidant"
+    ],
+    "restrictions": [],
+    "description": "Yağda çözünen bir antioksidandır. Formüldeki yağların bozulmasını yavaşlatır, cildi serbest radikallere karşı destekler."
+  },
+  {
+    "slug": "phytosphingosine",
+    "inci": "PHYTOSPHINGOSINE",
+    "nameTr": "Fitosfingozin",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "good-for-barrier-repair"
+    ],
+    "restrictions": [],
+    "description": "Bariyerde doğal olarak bulunan bir lipit yapı taşıdır. Seramidlerin oluşumunu destekler ve yatıştırıcı özelliği vardır."
+  },
+  {
+    "slug": "xanthan-gum",
+    "inci": "XANTHAN GUM",
+    "nameTr": "Ksantan gam",
+    "functionKeys": [
+      "binding",
+      "surfactant-emulsifying",
+      "emulsion-stabilising",
+      "gel-forming",
+      "skin-conditioning",
+      "surfactant-cleansing",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Şekerin fermantasyonuyla elde edilen doğal bir kıvam artırıcıdır."
+  },
+  {
+    "slug": "ethylhexylglycerin",
+    "inci": "ETHYLHEXYLGLYCERIN",
+    "nameTr": "Etilheksilgliserin",
+    "functionKeys": [
+      "deodorant",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Koruyucuların etkisini artıran, aynı zamanda hafif cilt yumuşatıcı olan bir maddedir. Genellikle fenoksietanol ile birlikte kullanılır."
+  },
+  {
+    "slug": "glyceryl-stearate",
+    "inci": "GLYCERYL STEARATE",
+    "nameTr": "Gliseril stearat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": "1",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Gliserin ve stearik asitten oluşan bir emülgatör ve yumuşatıcıdır; kremlere pürüzsüz doku verir."
+  },
+  {
+    "slug": "polysorbate-20",
+    "inci": "POLYSORBATE 20",
+    "nameTr": "Polisorbat 20",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Yağları suda dağıtmaya yarayan nazik bir emülgatördür."
+  },
+  {
+    "slug": "sodium-lauroyl-sarcosinate",
+    "inci": "SODIUM LAUROYL SARCOSINATE",
+    "nameTr": "Sodyum lauroil sarkozinat",
+    "functionKeys": [
+      "antistatic",
+      "cleansing",
+      "surfactant-emulsifying",
+      "foaming",
+      "hair-conditioning",
+      "skin-conditioning",
+      "surfactant-cleansing",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Amino asit kaynaklı, nazik bir temizleyicidir; zengin köpük verir ama sülfat grubunda değildir."
+  },
+  {
+    "slug": "propanediol",
+    "inci": "PROPANEDIOL",
+    "nameTr": "Propandiol",
+    "functionKeys": [
+      "solvent",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Mısırdan elde edilebilen bir çözücü ve nem tutucudur; propilen glikole daha nazik bir alternatif olarak kullanılır."
+  },
+  {
+    "slug": "niacinamide",
+    "inci": "NIACINAMIDE",
+    "nameTr": "Niasinamid (B3 vitamini)",
+    "functionKeys": [
+      "smoothing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "niacinamide",
+      "good-for-barrier-repair",
+      "helps-reduce-skin-redness",
+      "helps-brighten-skin",
+      "good-for-dark-spots",
+      "good-for-oily-skin",
+      "good-for-minimizing-pores"
+    ],
+    "restrictions": [],
+    "description": "Çok yönlü bir aktiftir: bariyeri güçlendirir, kızarıklığı yatıştırır, gözenek görünümünü ve ton eşitsizliğini azaltır, sebum dengesine yardım eder. Çoğu cilt tipi tarafından iyi tolere edilir."
+  },
+  {
+    "slug": "peg-6-caprylic-capric-glycerides",
+    "inci": "PEG-6 CAPRYLIC/CAPRIC GLYCERIDES",
+    "nameTr": "PEG-6 kaprilik/kaprik gliseritler",
+    "functionKeys": [
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yağları ve kiri çözmeye yardım eden, suyla durulanabilen hafif bir emülgatördür."
+  },
+  {
+    "slug": "sodium-chloride",
+    "inci": "SODIUM CHLORIDE",
+    "nameTr": "Sodyum klorür (tuz)",
+    "functionKeys": [
+      "bulking",
+      "fragrance",
+      "oral-care",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Temizleyicilerde kıvam ayarlamak için kullanılır."
+  },
+  {
+    "slug": "citric-acid",
+    "inci": "CITRIC ACID",
+    "nameTr": "Sitrik asit",
+    "functionKeys": [
+      "buffering",
+      "chelating",
+      "fragrance"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Formülün pH değerini ayarlamak için az miktarda kullanılır; bu oranlarda peeling etkisi yoktur."
+  },
+  {
+    "slug": "tetrasodium-edta",
+    "inci": "TETRASODIUM EDTA",
+    "nameTr": "Tetrasodyum EDTA",
+    "functionKeys": [
+      "chelating"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Metal iyonlarını bağlayarak ürünün stabilitesini koruyan bir şelatlayıcıdır."
+  },
+  {
+    "slug": "caprylyl-glycol",
+    "inci": "CAPRYLYL GLYCOL",
+    "nameTr": "Kaprilil glikol",
+    "functionKeys": [
+      "deodorant",
+      "skin-conditioning-emollient",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Nem tutucu ve yumuşatıcıdır, aynı zamanda koruyucu sisteme destek olur."
+  },
+  {
+    "slug": "dipotassium-glycyrrhizate",
+    "inci": "DIPOTASSIUM GLYCYRRHIZATE",
+    "nameTr": "Dipotasyum glisirizat",
+    "functionKeys": [
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Meyan kökünden elde edilen yatıştırıcı bir maddedir; kızarıklık ve tahrişi azaltmaya yardım eder."
+  },
+  {
+    "slug": "hydrogenated-lecithin",
+    "inci": "HYDROGENATED LECITHIN",
+    "nameTr": "Hidrojene lesitin",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Bitkisel kaynaklı bir emülgatördür; bazı formüllerde aktif maddeleri kapsüllemek için kullanılır."
+  },
+  {
+    "slug": "lecithin",
+    "inci": "LECITHIN",
+    "nameTr": "Lesitin",
+    "functionKeys": [
+      "antistatic",
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Soya ya da ayçiçeğinden elde edilen, cildi yumuşatan doğal bir emülgatördür."
+  },
+  {
+    "slug": "sodium-citrate",
+    "inci": "SODIUM CITRATE",
+    "nameTr": "Sodyum sitrat",
+    "functionKeys": [
+      "buffering",
+      "chelating",
+      "fragrance"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Sitrik asidin tuzudur; pH değerini dengelemek için kullanılır."
+  },
+  {
+    "slug": "trisodium-ethylenediamine-disuccinate",
+    "inci": "TRISODIUM ETHYLENEDIAMINE DISUCCINATE",
+    "nameTr": "Trisodyum etilendiamin disüksinat",
+    "functionKeys": [
+      "chelating"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "EDTA'ya göre daha kolay biyolojik olarak parçalanan bir şelatlayıcıdır; ürünün stabilitesini korur."
+  },
+  {
+    "slug": "pentylene-glycol",
+    "inci": "PENTYLENE GLYCOL",
+    "nameTr": "Pentilen glikol",
+    "functionKeys": [
+      "skin-conditioning",
+      "solvent"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Nem tutucu ve yumuşatıcıdır; aynı zamanda koruyucu sistemi destekler."
+  },
+  {
+    "slug": "sodium-laureth-sulfate",
+    "inci": "SODIUM LAURETH SULFATE",
+    "nameTr": "Sodyum laureth sülfat",
+    "functionKeys": [
+      "cleansing",
+      "surfactant-emulsifying",
+      "foaming",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "can-worsen-dry-skin",
+      "may-worsen-eczema"
+    ],
+    "restrictions": [],
+    "description": "Bol köpük veren güçlü bir temizleyici (sülfat). Sodyum lauril sülfata göre daha yumuşaktır ama kuru ya da hassas ciltte yine de gerginlik hissi bırakabilir; durulanan ürünlerde kısa temas süresi bu etkiyi azaltır."
+  },
+  {
+    "slug": "coco-betaine",
+    "inci": "COCO-BETAINE",
+    "nameTr": "Koko betain",
+    "functionKeys": [
+      "antistatic",
+      "cleansing",
+      "surfactant-foam-boosting",
+      "hair-conditioning",
+      "skin-conditioning",
+      "surfactant-cleansing",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Hindistan cevizi yağından elde edilen, nazik ve köpük veren bir temizleyicidir; sert sülfatlara göre cildi daha az kurutur."
+  },
+  {
+    "slug": "sodium-hydroxide",
+    "inci": "SODIUM HYDROXIDE",
+    "nameTr": "Sodyum hidroksit",
+    "functionKeys": [
+      "buffering",
+      "denaturant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [
+      {
+        "annex": [
+          "III"
+        ],
+        "maxConcentration": "(a) 5%\n(b) 2% (General use) and 4.5% (Professional use)\nEntry 15d: 1,5%",
+        "conditional": false
+      }
+    ],
+    "description": "Formülün pH değerini ayarlamak için çok küçük miktarda kullanılır; bitmiş üründe cildi tahriş edecek düzeyde bulunmaz."
+  },
+  {
+    "slug": "parfum",
+    "inci": "PARFUM",
+    "nameTr": "Parfüm (koku)",
+    "functionKeys": [
+      "fragrance",
+      "perfuming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "fragrance-ingredient",
+      "may-worsen-rosacea",
+      "may-worsen-eczema"
+    ],
+    "restrictions": [],
+    "description": "Ürüne koku veren karışımın genel adı; içindeki maddeler etikette tek tek yazılmak zorunda değildir. Hassas ya da alerjiye yatkın ciltlerde tahriş ve alerjinin en sık nedenlerinden biridir."
+  },
+  {
+    "slug": "silica",
+    "inci": "SILICA",
+    "nameTr": "Silika",
+    "functionKeys": [
+      "abrasive",
+      "absorbent",
+      "anticaking",
+      "bulking",
+      "opacifying",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yağı ve parlamayı emen ince bir mineral toz. Kremlerde matlaştırıcı etki ve kadifemsi bir bitiş sağlar; yağlı ciltlere yönelik ürünlerde sık görülür."
+  },
+  {
+    "slug": "isohexadecane",
+    "inci": "ISOHEXADECANE",
+    "nameTr": "İzoheksadekan",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "solvent"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "oil",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Hızlı yayılan, hafif ve uçucuya yakın bir hidrokarbon yumuşatıcı. Cilde yağlı his bırakmadan pürüzsüzlük verir."
+  },
+  {
+    "slug": "maltodextrin",
+    "inci": "MALTODEXTRIN",
+    "nameTr": "Maltodekstrin",
+    "functionKeys": [
+      "absorbent",
+      "binding",
+      "emulsion-stabilising",
+      "film-forming",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Nişastadan elde edilen bir şeker zinciri. Formülde taşıyıcı, bağlayıcı ve hafif film oluşturucu olarak görev yapar."
+  },
+  {
+    "slug": "salicylic-acid",
+    "inci": "SALICYLIC ACID",
+    "nameTr": "Salisilik asit (BHA)",
+    "functionKeys": [
+      "anti-seborrheic",
+      "hair-conditioning",
+      "keratolytic",
+      "fragrance",
+      "preservative",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "bha",
+      "preservative",
+      "helps-fight-acne",
+      "good-for-oily-skin",
+      "good-for-minimizing-pores",
+      "good-for-skin-texture"
+    ],
+    "restrictions": [
+      {
+        "annex": [
+          "V"
+        ],
+        "maxConcentration": "Salicylic acid: 0,5 % (acid)\r\n\r\nSalicylic acid salts: 0,5 % (acid)",
+        "conditional": false
+      },
+      {
+        "annex": [
+          "III"
+        ],
+        "maxConcentration": "(a) 3.0%\r\n\r\n(b) 2.0%\r\n\r\n(c) 0.5%",
+        "conditional": false
+      }
+    ],
+    "description": "Yağda çözünen bir beta hidroksi asit. Gözeneklerin içine girerek sebum ve ölü hücreleri çözer; siyah nokta ve sivilceye yatkın ciltlerde en çok kullanılan aktiflerden biridir. Kuruluk yapabilir."
+  },
+  {
+    "slug": "piroctone-olamine",
+    "inci": "PIROCTONE OLAMINE",
+    "nameTr": "Piroktan olamin",
+    "functionKeys": [
+      "anti-seborrheic",
+      "preservative"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "preservative"
+    ],
+    "restrictions": [
+      {
+        "annex": [
+          "III"
+        ],
+        "maxConcentration": "Maximum secondary amine content: 0.5%",
+        "conditional": false
+      },
+      {
+        "annex": [
+          "V"
+        ],
+        "maxConcentration": "a) 1.0% \r\nb) 0.5%",
+        "conditional": false
+      }
+    ],
+    "description": "Mantar ve mayaya karşı etkili bir koruyucu. Kepek şampuanlarında da kullanılır; akne bakımında cilt yüzeyindeki mikroorganizma dengesine destek olur."
+  },
+  {
+    "slug": "hydrogenated-polyisobutene",
+    "inci": "HYDROGENATED POLYISOBUTENE",
+    "nameTr": "Hidrojene poliizobuten",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning",
+      "viscosity-controlling"
+    ],
+    "comedogenic": "1",
+    "irritancy": "2",
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Mineral yağa benzer, kokusuz ve kararlı bir sentetik yumuşatıcı. Cilt üzerinde ince bir koruyucu katman bırakarak nem kaybını azaltır."
+  },
+  {
+    "slug": "butyrospermum-parkii-butter",
+    "inci": "BUTYROSPERMUM PARKII BUTTER",
+    "nameTr": "Shea yağı",
+    "functionKeys": [
+      "skin-conditioning",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Shea ağacının çekirdeğinden elde edilen zengin bir bitkisel yağ. Kuru cildi besler ve yumuşatır; yoğun dokusu nedeniyle yağlı ciltlerde ağır gelebilir."
+  },
+  {
+    "slug": "panthenol",
+    "inci": "PANTHENOL",
+    "nameTr": "Pantenol (B5 provitamini)",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [
+      "good-for-barrier-repair",
+      "helps-reduce-irritation",
+      "good-for-scar-healing"
+    ],
+    "restrictions": [],
+    "description": "Ciltte B5 vitaminine dönüşen nem tutucu ve yatıştırıcı bir içerik. Tahriş olmuş ya da hassaslaşmış cildin rahatlamasına ve bariyerin onarımına yardım eder."
+  },
+  {
+    "slug": "butylene-glycol",
+    "inci": "BUTYLENE GLYCOL",
+    "nameTr": "Bütilen glikol",
+    "functionKeys": [
+      "humectant",
+      "fragrance",
+      "skin-conditioning",
+      "solvent",
+      "viscosity-controlling"
+    ],
+    "comedogenic": "1",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Nem tutan ve diğer maddeleri çözen hafif bir glikol. Serum ve tonik gibi sulu ürünlerde dokuyu akışkan ve emilimi kolay tutar."
+  },
+  {
+    "slug": "aluminum-starch-octenylsuccinate",
+    "inci": "ALUMINUM STARCH OCTENYLSUCCINATE",
+    "nameTr": "Alüminyum nişasta oktenilsüksinat",
+    "functionKeys": [
+      "absorbent",
+      "anticaking",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Modifiye edilmiş bir nişasta tozu. Yağı emer, dokuya pudramsı ve mat bir his verir."
+  },
+  {
+    "slug": "trihydroxystearin",
+    "inci": "TRIHYDROXYSTEARIN",
+    "nameTr": "Trihidroksistearin",
+    "functionKeys": [
+      "skin-conditioning",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yağ fazını kıvamlandıran, hint yağından türetilen bir madde. Kremin kararlı kalmasına ve dokunun yumuşak olmasına yardım eder."
+  },
+  {
+    "slug": "zinc-gluconate",
+    "inci": "ZINC GLUCONATE",
+    "nameTr": "Çinko glukonat",
+    "functionKeys": [
+      "antimicrobial",
+      "deodorant",
+      "oral-care",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [
+      {
+        "annex": [
+          "III"
+        ],
+        "maxConcentration": "(a) 1 % (as zinc)\n(b) 0,72 % (as zinc)\n(c) 0,1 % (as zinc)\n(d) 1 % (as zinc)",
+        "conditional": false
+      }
+    ],
+    "description": "Çinkonun suda çözünen bir tuzu. Yatıştırıcı ve hafif antimikrobiyal etkisiyle onarıcı ve akne bakım ürünlerinde kullanılır."
+  },
+  {
+    "slug": "magnesium-sulfate",
+    "inci": "MAGNESIUM SULFATE",
+    "nameTr": "Magnezyum sülfat",
+    "functionKeys": [
+      "bulking"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Su-içinde-yağ kremlerde emülsiyonun kararlı kalmasına yardım eden bir mineral tuzu."
+  },
+  {
+    "slug": "copper-gluconate",
+    "inci": "COPPER GLUCONATE",
+    "nameTr": "Bakır glukonat",
+    "functionKeys": [
+      "skin-conditioning",
+      "skin-protecting"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Bakırın glukonat tuzu. Onarıcı ürünlerde cildin yenilenmesini ve yatışmasını desteklemek amacıyla iz element olarak eklenir."
+  },
+  {
+    "slug": "capryloyl-glycine",
+    "inci": "CAPRYLOYL GLYCINE",
+    "nameTr": "Kapriloil glisin",
+    "functionKeys": [
+      "anti-seborrheic",
+      "antimicrobial",
+      "anti-sebum",
+      "deodorant",
+      "hair-conditioning",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Glisin amino asidinden türetilen, hafif temizleyici ve sebum dengeleyici bir maddedir; yağlı ciltlere yönelik ürünlerde kullanılır."
+  },
+  {
+    "slug": "pentaerythrityl-tetra-di-t-butyl-hydroxyhydrocinnamate",
+    "inci": "PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE",
+    "nameTr": "Pentaeritritil tetra-di-t-butil hidroksihidrosinamat",
+    "functionKeys": [
+      "antioxidant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant"
+    ],
+    "restrictions": [],
+    "description": "Formüldeki yağların bozulmasını (acımasını) önleyen sentetik bir antioksidan. Ürünün raf ömrünü korur."
+  },
+  {
+    "slug": "propylene-glycol",
+    "inci": "PROPYLENE GLYCOL",
+    "nameTr": "Propilen glikol",
+    "functionKeys": [
+      "humectant",
+      "fragrance",
+      "solvent",
+      "viscosity-controlling",
+      "skin-conditioning-humectant",
+      "skin-conditioning-miscellaneous"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Nem tutucu ve çözücü olarak kullanılır; diğer maddelerin cilde işlemesini kolaylaştırır. Çok hassas ciltlerde nadiren tahriş yapabilir."
+  },
+  {
+    "slug": "adenosine",
+    "inci": "ADENOSINE",
+    "nameTr": "Adenozin",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Hücrelerde doğal olarak bulunan bir molekül. Kırışıklık görünümünü azaltmaya ve cildi yatıştırmaya yönelik ürünlerde kullanılır."
+  },
+  {
+    "slug": "hydrolyzed-hyaluronic-acid",
+    "inci": "HYDROLYZED HYALURONIC ACID",
+    "nameTr": "Hidrolize hyalüronik asit",
+    "functionKeys": [
+      "hair-conditioning",
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "hyaluronic-acid",
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Küçük parçalara ayrılmış hyalüronik asittir; cildin daha üst katmanlarına nüfuz ederek nem desteği verir."
+  },
+  {
+    "slug": "hydroxyacetophenone",
+    "inci": "HYDROXYACETOPHENONE",
+    "nameTr": "Hidroksiasetofenon",
+    "functionKeys": [
+      "antioxidant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant"
+    ],
+    "restrictions": [],
+    "description": "Antioksidan özellikli bir madde; ayrıca koruyucu sistemi güçlendirerek daha az klasik koruyucu kullanılmasına imkân verir."
+  },
+  {
+    "slug": "acetyl-glucosamine",
+    "inci": "ACETYL GLUCOSAMINE",
+    "nameTr": "Asetil glukozamin",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Hyalüronik asidin yapı taşlarından biri olan bir amino şeker. Nem desteği verir ve ton eşitsizliği görünümünü azaltmaya yönelik ürünlerde yer alır."
+  },
+  {
+    "slug": "1-2-hexanediol",
+    "inci": "1,2-HEXANEDIOL",
+    "nameTr": "1,2-Heksandiol",
+    "functionKeys": [
+      "skin-conditioning",
+      "solvent"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Nem tutucu ve çözücü bir madde. Koruyucu sistemi destekleyerek ürünün mikroplara karşı dayanıklılığını artırır."
+  },
+  {
+    "slug": "stearic-acid",
+    "inci": "STEARIC ACID",
+    "nameTr": "Stearik asit",
+    "functionKeys": [
+      "cleansing",
+      "surfactant-emulsifying",
+      "emulsion-stabilising",
+      "fragrance",
+      "refatting",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": "2-3",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Kremlere kıvam ve opaklık veren doymuş bir yağ asidi. Cildi yumuşatır; fungal akneye yatkın ciltlerde tetikleyici olabilir."
+  },
+  {
+    "slug": "palmitic-acid",
+    "inci": "PALMITIC ACID",
+    "nameTr": "Palmitik asit",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": "2",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Cildin kendi lipitlerinde de bulunan bir yağ asidi. Yumuşatıcı ve emülsiyon destekleyici olarak kullanılır; fungal akneye yatkın ciltlerde tetikleyici olabilir."
+  },
+  {
+    "slug": "coco-glucoside",
+    "inci": "COCO-GLUCOSIDE",
+    "nameTr": "Koko glukozit",
+    "functionKeys": [
+      "cleansing",
+      "foaming",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Hindistan cevizi yağı ve şekerden elde edilen, çok yumuşak bir temizleyici. Hassas ciltlere yönelik ürünlerde sülfatlara alternatif olarak tercih edilir."
+  },
+  {
+    "slug": "fructooligosaccharides",
+    "inci": "FRUCTOOLIGOSACCHARIDES",
+    "nameTr": "Fruktooligosakkaritler",
+    "functionKeys": [
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Bitkisel kaynaklı kısa şeker zincirleri. Nem tutar ve prebiyotik olarak cildin faydalı mikroorganizmalarını desteklediği düşünülür."
+  },
+  {
+    "slug": "mannitol",
+    "inci": "MANNITOL",
+    "nameTr": "Mannitol",
+    "functionKeys": [
+      "binding",
+      "humectant",
+      "fragrance",
+      "moisturising",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Doğal bir şeker alkolü. Nem tutar ve cildi koşullandırır."
+  },
+  {
+    "slug": "xylitol",
+    "inci": "XYLITOL",
+    "nameTr": "Ksilitol",
+    "functionKeys": [
+      "anti-seborrheic",
+      "deodorant",
+      "humectant",
+      "flavouring",
+      "skin-conditioning-humectant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Bitkisel kaynaklı bir şeker alkolü. Cildin nem tutma kapasitesini destekler."
+  },
+  {
+    "slug": "rhamnose",
+    "inci": "RHAMNOSE",
+    "nameTr": "Ramnoz",
+    "functionKeys": [
+      "humectant",
+      "fragrance"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Bitkisel kaynaklı doğal bir şeker. Nem tutucu ve yatıştırıcı olarak kullanılır."
+  },
+  {
+    "slug": "cetrimonium-bromide",
+    "inci": "CETRIMONIUM BROMIDE",
+    "nameTr": "Setrimonyum bromür",
+    "functionKeys": [
+      "antimicrobial",
+      "antistatic",
+      "surfactant-emulsifying",
+      "preservative"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "preservative"
+    ],
+    "restrictions": [
+      {
+        "annex": [
+          "V"
+        ],
+        "maxConcentration": "0.1%",
+        "conditional": false
+      }
+    ],
+    "description": "Pozitif yüklü bir yüzey aktif madde. Misel sularda temizleme etkisine katkı verir ve koruyucu olarak da görev yapar."
+  },
+  {
+    "slug": "sodium-cocoamphoacetate",
+    "inci": "SODIUM COCOAMPHOACETATE",
+    "nameTr": "Sodyum kokoamfoasetat",
+    "functionKeys": [
+      "cleansing",
+      "foaming",
+      "hair-conditioning",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Hindistan cevizi yağından türetilen yumuşak bir amfoterik temizleyici. Sülfatların sertliğini dengelemek için onlarla birlikte kullanılır."
+  },
+  {
+    "slug": "methylpropanediol",
+    "inci": "METHYLPROPANEDIOL",
+    "nameTr": "Metilpropandiol",
+    "functionKeys": [
+      "solvent"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Hafif bir glikol çözücü. Formüldeki maddelerin karışmasına yardım eder ve koruyucu sistemi destekler."
+  },
+  {
+    "slug": "lactic-acid",
+    "inci": "LACTIC ACID",
+    "nameTr": "Laktik asit (AHA)",
+    "functionKeys": [
+      "buffering",
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "aha",
+      "helps-hydrate-dry-skin",
+      "good-for-skin-texture",
+      "may-cause-irritation",
+      "may-worsen-rosacea"
+    ],
+    "restrictions": [],
+    "description": "Sütten ya da fermantasyondan elde edilen yumuşak bir alfa hidroksi asit. Yüksek oranda peeling etkisi gösterir; temizleyicilerde ise çoğunlukla pH ayarı için düşük oranda bulunur."
+  },
+  {
+    "slug": "zinc-sulfate",
+    "inci": "ZINC SULFATE",
+    "nameTr": "Çinko sülfat",
+    "functionKeys": [
+      "antimicrobial",
+      "antiplaque",
+      "astringent",
+      "oral-care"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [
+      {
+        "annex": [
+          "III"
+        ],
+        "maxConcentration": "(a) 1 % (as zinc)\n(b) 0,72 % (as zinc)\n(c) 0,1 % (as zinc)\n(d) 1 % (as zinc)",
+        "conditional": false
+      }
+    ],
+    "description": "Çinkonun bir tuzu. Arındırıcı ve hafif antimikrobiyal etkisiyle yağlı ve akneye yatkın ciltlere yönelik ürünlerde kullanılır."
+  },
+  {
+    "slug": "copper-sulfate",
+    "inci": "COPPER SULFATE",
+    "nameTr": "Bakır sülfat",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Bakırın bir tuzu. Çinko ile birlikte, cilt yüzeyindeki mikroorganizmaları dengelemek ve arındırmak amacıyla kullanılır."
+  },
+  {
+    "slug": "ginkgo-biloba-leaf-extract",
+    "inci": "GINKGO BILOBA LEAF EXTRACT",
+    "nameTr": "Ginkgo yaprağı özütü",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Ginkgo ağacının yapraklarından elde edilen bir bitki özütü. Antioksidan etkili flavonoidler içerir."
+  },
+  {
+    "slug": "paraffinum-liquidum",
+    "inci": "PARAFFINUM LIQUIDUM",
+    "nameTr": "Mineral yağ (sıvı parafin)",
+    "functionKeys": [
+      "antistatic",
+      "skin-conditioning-emollient",
+      "skin-protecting",
+      "solvent"
+    ],
+    "comedogenic": "0-2",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [
+      "oil",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Kozmetik saflıkta rafine edilmiş bir hidrokarbon yağı. Cilt üzerinde koruyucu bir katman bırakarak nem kaybını azaltır; rafine kozmetik sınıfında gözenek tıkama riski düşüktür."
+  },
+  {
+    "slug": "ethylhexyl-palmitate",
+    "inci": "ETHYLHEXYL PALMITATE",
+    "nameTr": "Etilheksil palmitat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "perfuming"
+    ],
+    "comedogenic": "4",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "high-comedogenic-rating",
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Hafif ve kaygan bir yağ esteri; kremlerin yayılmasını kolaylaştırır. Saf haldeki testlerde yüksek komedojenlik puanı almıştır."
+  },
+  {
+    "slug": "dipropylene-glycol",
+    "inci": "DIPROPYLENE GLYCOL",
+    "nameTr": "Dipropilen glikol",
+    "functionKeys": [
+      "fragrance",
+      "solvent",
+      "viscosity-controlling",
+      "perfuming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Kokuları ve diğer maddeleri çözen bir glikol. Formülün dokusunu da inceltir."
+  },
+  {
+    "slug": "glycyrrhetinic-acid",
+    "inci": "GLYCYRRHETINIC ACID",
+    "nameTr": "Glisiretinik asit",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Meyan kökünden elde edilen bir bileşen. Kızarıklık ve tahriş görünümünü yatıştırıcı etkisiyle bilinir."
+  },
+  {
+    "slug": "tocopheryl-acetate",
+    "inci": "TOCOPHERYL ACETATE",
+    "nameTr": "Tokoferil asetat (E vitamini asetatı)",
+    "functionKeys": [
+      "antioxidant",
+      "skin-conditioning"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [
+      "vitamin-e",
+      "antioxidant"
+    ],
+    "restrictions": [],
+    "description": "E vitamininin daha kararlı bir türevi. Ciltte antioksidan olarak serbest radikallere karşı destek verir ve cildi yumuşatır."
+  },
+  {
+    "slug": "allantoin",
+    "inci": "ALLANTOIN",
+    "nameTr": "Allantoin",
+    "functionKeys": [
+      "skin-conditioning",
+      "skin-protecting",
+      "soothing"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [
+      "helps-reduce-skin-redness",
+      "helps-reduce-irritation",
+      "good-for-scar-healing"
+    ],
+    "restrictions": [],
+    "description": "Yatıştırıcı ve cilt koruyucu bir içerik. Tahriş olmuş cildin rahatlamasına ve yüzeyin pürüzsüzleşmesine yardım eder."
+  },
+  {
+    "slug": "propyl-gallate",
+    "inci": "PROPYL GALLATE",
+    "nameTr": "Propil gallat",
+    "functionKeys": [
+      "antioxidant",
+      "perfuming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant"
+    ],
+    "restrictions": [],
+    "description": "Formüldeki yağların oksitlenmesini önleyen sentetik bir antioksidan."
+  },
+  {
+    "slug": "laminaria-ochroleuca-extract",
+    "inci": "LAMINARIA OCHROLEUCA EXTRACT",
+    "nameTr": "Laminaria ochroleuca (deniz yosunu) özütü",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Bir kahverengi deniz yosunu türünden elde edilen özüt. Cildi çevresel etkenlere karşı desteklemek amacıyla eklenir."
+  },
+  {
+    "slug": "brassica-campestris-seed-oil",
+    "inci": "BRASSICA CAMPESTRIS SEED OIL",
+    "nameTr": "Kolza tohumu yağı",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Kolza bitkisinin tohumundan elde edilen bitkisel yağ. Cildi besler ve yumuşatır; bitkisel yağlar fungal akneye yatkın ciltlerde tetikleyici olabilir."
+  },
+  {
+    "slug": "xylose",
+    "inci": "XYLOSE",
+    "nameTr": "Ksiloz",
+    "functionKeys": [
+      "humectant",
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Bitkisel kaynaklı doğal bir şeker. Nem tutucu olarak kullanılır."
+  },
+  {
+    "slug": "simmondsia-chinensis-seed-oil",
+    "inci": "SIMMONDSIA CHINENSIS SEED OIL",
+    "nameTr": "Jojoba yağı",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": "0-2",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Jojoba tohumundan elde edilen, aslında sıvı bir mum olan yağ. Yapısı cildin kendi sebumuna benzer; hafif dokusuyla cildi yumuşatır."
+  },
+  {
+    "slug": "squalane",
+    "inci": "SQUALANE",
+    "nameTr": "Skualan",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "hair-conditioning",
+      "refatting",
+      "skin-conditioning"
+    ],
+    "comedogenic": "1",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cildin kendi yağında da bulunan skualenin kararlı hali. Çok hafif, yağlı his bırakmayan bir yumuşatıcıdır ve çoğu cilt tipi tarafından iyi tolere edilir."
+  },
+  {
+    "slug": "sodium-polyglutamate",
+    "inci": "SODIUM POLYGLUTAMATE",
+    "nameTr": "Sodyum poliglutamat",
+    "functionKeys": [
+      "hair-conditioning",
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Fermantasyonla elde edilen güçlü bir nem tutucu. Kendi ağırlığının çok üstünde su tutabilir ve cilt yüzeyinde nem filmi oluşturur."
+  },
+  {
+    "slug": "acetyl-dipeptide-1-cetyl-ester",
+    "inci": "ACETYL DIPEPTIDE-1 CETYL ESTER",
+    "nameTr": "Asetil dipeptid-1 setil ester",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-with-anti-aging"
+    ],
+    "restrictions": [],
+    "description": "Yağda çözünen bir peptid. Hassas ciltlerde rahatsızlık hissini yatıştırmaya yönelik ürünlerde kullanılır."
+  },
+  {
+    "slug": "helianthus-annuus-seed-oil",
+    "inci": "HELIANTHUS ANNUUS SEED OIL",
+    "nameTr": "Ayçiçeği yağı",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "solvent",
+      "skin-conditioning-miscellaneous",
+      "skin-conditioning-occlusive"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Linoleik asitçe zengin bir bitkisel yağ. Cildi besler ve bariyerin lipit yapısını destekler; fungal akneye yatkın ciltlerde tetikleyici olabilir."
+  },
+  {
+    "slug": "carnosine",
+    "inci": "CARNOSINE",
+    "nameTr": "Karnozin",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Doğal olarak vücutta bulunan bir dipeptid. Antioksidan etkisiyle cildi oksidatif strese karşı desteklemek için kullanılır."
+  },
+  {
+    "slug": "saccharide-isomerate",
+    "inci": "SACCHARIDE ISOMERATE",
+    "nameTr": "Sakkarit izomerat",
+    "functionKeys": [
+      "humectant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Bitkisel şekerlerden elde edilen bir nem tutucu. Cildin üst katmanına tutunarak nemi uzun süre korumaya yardım eder."
+  },
+  {
+    "slug": "hexyldecanol",
+    "inci": "HEXYLDECANOL",
+    "nameTr": "Heksildekanol",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Hafif, yağlı his bırakmayan bir yağ alkolü yumuşatıcı. Kurutucu alkol değildir."
+  },
+  {
+    "slug": "pyrus-malus-seed-extract",
+    "inci": "PYRUS MALUS SEED EXTRACT",
+    "nameTr": "Elma çekirdeği özütü",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Elma çekirdeğinden elde edilen bir bitki özütü; cilt koşullandırıcı olarak eklenir."
+  },
+  {
+    "slug": "brassica-campestris-sterols",
+    "inci": "BRASSICA CAMPESTRIS STEROLS",
+    "nameTr": "Kolza sterolleri",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Kolza bitkisinden elde edilen bitkisel steroller. Cildin lipit bariyerini destekler ve yumuşatır."
+  },
+  {
+    "slug": "zinc-oxide",
+    "inci": "ZINC OXIDE",
+    "nameTr": "Çinko oksit",
+    "functionKeys": [
+      "antimicrobial",
+      "bulking",
+      "colorant",
+      "oral-care",
+      "skin-protecting",
+      "light-stabilizer",
+      "uv-absorber",
+      "uv-filter"
+    ],
+    "comedogenic": "1",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [
+      {
+        "annex": [
+          "VI"
+        ],
+        "maxConcentration": "- 25%\r\n\r\n- In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit of 25%",
+        "conditional": false
+      },
+      {
+        "annex": [
+          "IV"
+        ],
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ],
+    "description": "Beyaz mineral bir toz. Onarıcı kremlerde cildi koruyan ve yatıştıran bir katman oluşturur; güneş kremlerinde ise UVA ve UVB'ye karşı fiziksel filtre olarak kullanılır."
+  },
+  {
+    "slug": "cera-alba",
+    "inci": "CERA ALBA",
+    "nameTr": "Balmumu",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying",
+      "film-forming",
+      "perfuming"
+    ],
+    "comedogenic": "0-2",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Arı peteğinden elde edilen doğal mum. Kremlere kıvam verir ve cilt üzerinde nem kaybını azaltan koruyucu bir film bırakır."
+  },
+  {
+    "slug": "decyl-glucoside",
+    "inci": "DECYL GLUCOSIDE",
+    "nameTr": "Desil glukozit",
+    "functionKeys": [
+      "cleansing",
+      "emulsion-stabilising",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Şeker ve bitkisel yağ alkolünden elde edilen çok yumuşak bir temizleyici. Hassas ciltlere yönelik ürünlerde sık tercih edilir."
+  },
+  {
+    "slug": "peg-7-glyceryl-cocoate",
+    "inci": "PEG-7 GLYCERYL COCOATE",
+    "nameTr": "PEG-7 gliseril kokoat",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Hindistan cevizi yağından türetilen bir yumuşatıcı ve emülgatör. Temizleyicilerin cildi kurutma etkisini azaltmaya yardım eder."
+  },
+  {
+    "slug": "peg-40-hydrogenated-castor-oil",
+    "inci": "PEG-40 HYDROGENATED CASTOR OIL",
+    "nameTr": "PEG-40 hidrojene hint yağı",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Parfüm ve yağları suda çözündürmeye yarayan bir emülgatör."
+  },
+  {
+    "slug": "polyglyceryl-4-caprate",
+    "inci": "POLYGLYCERYL-4 CAPRATE",
+    "nameTr": "Poligliseril-4 kaprat",
+    "functionKeys": [
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Bitkisel kaynaklı yumuşak bir emülgatör ve çözündürücü; kısa zincirli olduğu için fungal akne açısından sorunlu sayılmaz."
+  },
+  {
+    "slug": "sclerotium-gum",
+    "inci": "SCLEROTIUM GUM",
+    "nameTr": "Sklerosyum zamkı",
+    "functionKeys": [
+      "emulsion-stabilising",
+      "skin-conditioning",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Fermantasyonla elde edilen doğal bir polisakkarit. Ürüne jel kıvamı verir ve cilde hafif nem desteği sağlar."
+  },
+  {
+    "slug": "cetearyl-glucoside",
+    "inci": "CETEARYL GLUCOSIDE",
+    "nameTr": "Setearil glukozit",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Bitkisel yağ alkolü ve şekerden elde edilen bir emülgatör. Hassas ciltlere yönelik kremlerde sık kullanılır."
+  },
+  {
+    "slug": "polyglyceryl-6-caprylate",
+    "inci": "POLYGLYCERYL-6 CAPRYLATE",
+    "nameTr": "Poligliseril-6 kaprilat",
+    "functionKeys": [
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Bitkisel kaynaklı yumuşak bir emülgatör; misel sularda kiri ve makyajı çözmeye yardım eder."
+  },
+  {
+    "slug": "hydroxyethylcellulose",
+    "inci": "HYDROXYETHYLCELLULOSE",
+    "nameTr": "Hidroksietilselüloz",
+    "functionKeys": [
+      "binding",
+      "emulsion-stabilising",
+      "film-forming",
+      "light-stabilizer",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Selülozdan türetilen bir kıvam verici. Serum ve jellere akışkan, hafif bir doku kazandırır."
+  },
+  {
+    "slug": "sodium-acetate",
+    "inci": "SODIUM ACETATE",
+    "nameTr": "Sodyum asetat",
+    "functionKeys": [
+      "buffering",
+      "fragrance"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Formülün pH'ını dengeleyen bir tuz."
+  },
+  {
+    "slug": "sodium-pca",
+    "inci": "SODIUM PCA",
+    "nameTr": "Sodyum PCA",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Cildin doğal nem faktörünün bir parçası olan güçlü bir nem tutucu."
+  },
+  {
+    "slug": "cellulose",
+    "inci": "CELLULOSE",
+    "nameTr": "Selüloz",
+    "functionKeys": [
+      "absorbent",
+      "bulking",
+      "opacifying",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Bitki hücre duvarlarından elde edilen doğal bir lif. Ürüne kıvam verir ve yağı emer."
+  },
+  {
+    "slug": "glycolic-acid",
+    "inci": "GLYCOLIC ACID",
+    "nameTr": "Glikolik asit (AHA)",
+    "functionKeys": [
+      "buffering"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "aha",
+      "good-for-skin-texture",
+      "may-cause-irritation",
+      "may-worsen-rosacea"
+    ],
+    "restrictions": [],
+    "description": "En küçük molekül yapılı alfa hidroksi asit. Cildin yüzeyindeki ölü hücrelerin atılmasına yardım eder; yüksek oranlarda güneşe hassasiyeti artırabilir."
+  },
+  {
+    "slug": "lauryl-glucoside",
+    "inci": "LAURYL GLUCOSIDE",
+    "nameTr": "Lauril glukozit",
+    "functionKeys": [
+      "cleansing",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Şeker ve bitkisel yağ alkolünden elde edilen yumuşak bir temizleyici."
+  },
+  {
+    "slug": "laureth-2",
+    "inci": "LAURETH-2",
+    "nameTr": "Laureth-2",
+    "functionKeys": [
+      "cleansing",
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Temizleyicilerde emülgatör ve yardımcı temizleyici olarak kullanılan bir yağ alkolü türevi."
+  },
+  {
+    "slug": "aspartic-acid",
+    "inci": "ASPARTIC ACID",
+    "nameTr": "Aspartik asit",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cildin doğal nem faktöründe bulunan amino asitlerden biri; cildi koşullandırır."
+  },
+  {
+    "slug": "glycine",
+    "inci": "GLYCINE",
+    "nameTr": "Glisin",
+    "functionKeys": [
+      "antistatic",
+      "buffering",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Kolajenin yapısında bol bulunan bir amino asit; cildi koşullandırır ve nem desteği verir."
+  },
+  {
+    "slug": "alanine",
+    "inci": "ALANINE",
+    "nameTr": "Alanin",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cildin doğal nem faktöründe bulunan bir amino asit."
+  },
+  {
+    "slug": "serine",
+    "inci": "SERINE",
+    "nameTr": "Serin",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cildin doğal nem faktöründe en çok bulunan amino asitlerden biri; nem tutmaya yardım eder."
+  },
+  {
+    "slug": "valine",
+    "inci": "VALINE",
+    "nameTr": "Valin",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cildi koşullandıran bir amino asit."
+  },
+  {
+    "slug": "proline",
+    "inci": "PROLINE",
+    "nameTr": "Prolin",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Kolajenin yapı taşlarından olan bir amino asit; cildi koşullandırır."
+  },
+  {
+    "slug": "threonine",
+    "inci": "THREONINE",
+    "nameTr": "Treonin",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "hair-waving-or-straightening"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cildi koşullandıran bir amino asit."
+  },
+  {
+    "slug": "isoleucine",
+    "inci": "ISOLEUCINE",
+    "nameTr": "İzolösin",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cildi koşullandıran bir amino asit."
+  },
+  {
+    "slug": "phenylalanine",
+    "inci": "PHENYLALANINE",
+    "nameTr": "Fenilalanin",
+    "functionKeys": [
+      "hair-conditioning",
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cildi koşullandıran bir amino asit."
+  },
+  {
+    "slug": "cyclopentasiloxane",
+    "inci": "CYCLOPENTASILOXANE",
+    "nameTr": "Siklopentasiloksan",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "hair-conditioning",
+      "skin-conditioning",
+      "solvent"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "silicon"
+    ],
+    "restrictions": [],
+    "description": "Uçucu bir silikon. Ürünün cilde kolay yayılmasını sağlar, sonra buharlaşarak ipeksi bir his bırakır."
+  },
+  {
+    "slug": "behenyl-alcohol",
+    "inci": "BEHENYL ALCOHOL",
+    "nameTr": "Behenil alkol",
+    "functionKeys": [
+      "binding",
+      "skin-conditioning-emollient",
+      "emulsion-stabilising",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "fatty-alcohol"
+    ],
+    "restrictions": [],
+    "description": "Kremlere kıvam veren bir yağ alkolü. Kurutucu alkol değildir; cildi yumuşatır."
+  },
+  {
+    "slug": "peg-100-stearate",
+    "inci": "PEG-100 STEARATE",
+    "nameTr": "PEG-100 stearat",
+    "functionKeys": [
+      "surfactant-cleansing"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Kremlerde yağ ve su fazını bir arada tutan yaygın bir emülgatör."
+  },
+  {
+    "slug": "ribose",
+    "inci": "RIBOSE",
+    "nameTr": "Riboz",
+    "functionKeys": [
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Doğal bir şeker. Nem tutucu olarak kullanılır."
+  },
+  {
+    "slug": "hydrogenated-starch-hydrolysate",
+    "inci": "HYDROGENATED STARCH HYDROLYSATE",
+    "nameTr": "Hidrojene nişasta hidrolizatı",
+    "functionKeys": [
+      "humectant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Nişastadan elde edilen bir nem tutucu."
+  },
+  {
+    "slug": "glycine-soja-sterols",
+    "inci": "GLYCINE SOJA STEROLS",
+    "nameTr": "Soya sterolleri",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Soya fasulyesinden elde edilen bitkisel steroller. Cildin lipit bariyerini destekler ve yumuşatır."
+  },
+  {
+    "slug": "dimethicone-vinyl-dimethicone-crosspolymer",
+    "inci": "DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER",
+    "nameTr": "Dimetikon/vinil dimetikon çapraz polimeri",
+    "functionKeys": [
+      "skin-conditioning",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "silicon"
+    ],
+    "restrictions": [],
+    "description": "Silikon bazlı bir toz polimer. Ürüne kadifemsi, pürüzsüz bir doku ve hafif matlık verir."
+  },
+  {
+    "slug": "camellia-sinensis-leaf-extract",
+    "inci": "CAMELLIA SINENSIS LEAF EXTRACT",
+    "nameTr": "Yeşil çay özütü",
+    "functionKeys": [
+      "antimicrobial",
+      "antioxidant",
+      "astringent",
+      "skin-conditioning-emollient",
+      "humectant",
+      "fragrance",
+      "oral-care",
+      "skin-conditioning",
+      "skin-protecting",
+      "tonic",
+      "uv-absorber"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant",
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Polifenoller bakımından zengin bir özüt. Antioksidan ve yatıştırıcı etkisiyle bilinir."
+  },
+  {
+    "slug": "triethyl-citrate",
+    "inci": "TRIETHYL CITRATE",
+    "nameTr": "Trietil sitrat",
+    "functionKeys": [
+      "fragrance",
+      "plasticiser",
+      "solvent",
+      "viscosity-controlling",
+      "perfuming",
+      "deodorant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Sitrik asidin esteridir. Çözücü, doku düzenleyici ve deodorant işlevleriyle kullanılabilir; yalnızca varlığı ürünün parfümlü olduğunu göstermez."
+  },
+  {
+    "slug": "benzoic-acid",
+    "inci": "BENZOIC ACID",
+    "nameTr": "Benzoik asit",
+    "functionKeys": [
+      "fragrance",
+      "preservative",
+      "ph-adjusters"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "preservative"
+    ],
+    "restrictions": [
+      {
+        "annex": [
+          "V"
+        ],
+        "maxConcentration": "a) 2.5% (acid)\r\nb) 1.7% (acid)\r\nc) 0.5% (acid)",
+        "conditional": false
+      }
+    ],
+    "description": "Formülde mikroorganizmaların çoğalmasını sınırlandıran koruyucu ve pH düzenleyici olarak kullanılabilir. Kullanım koşulları ürün tipine ve formülün pH değerine bağlıdır."
+  },
+  {
+    "slug": "polyacrylate-crosspolymer-6",
+    "inci": "POLYACRYLATE CROSSPOLYMER-6",
+    "nameTr": "Poliakrilat çapraz polimer-6",
+    "functionKeys": [
+      "emulsion-stabilising",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Jel ve kremlere kıvam veren sentetik polimerdir. Yağ-su karışımının kararlı kalmasına ve ürünün homojen yayılmasına yardımcı olur."
+  },
+  {
+    "slug": "caffeine",
+    "inci": "CAFFEINE",
+    "nameTr": "Kafein",
+    "functionKeys": [
+      "skin-conditioning",
+      "perfuming",
+      "fragrance"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt kondisyonlama amacıyla kullanılan bir bileşendir. Göz çevresi ürünlerinde sık görülür; tek başına içeriğinde bulunması ürünün koyu halka veya şişkinlik üzerindeki etkisini kanıtlamaz."
+  },
+  {
+    "slug": "cera-microcristallina",
+    "inci": "CERA MICROCRISTALLINA",
+    "nameTr": "Mikrokristalin mum",
+    "functionKeys": [
+      "binding",
+      "emulsion-stabilising",
+      "opacifying",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "oil",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Mineral kaynaklı bir mumdur. Formüle kıvam verir ve bileşenlerin bir arada kalmasına yardımcı olur; balm ve merhemlerde yapısal bileşen olarak kullanılır."
+  },
+  {
+    "slug": "paraffin",
+    "inci": "PARAFFIN",
+    "nameTr": "Parafin",
+    "functionKeys": [
+      "skin-conditioning",
+      "viscosity-controlling",
+      "perfuming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "oil",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Mineral kaynaklı katı hidrokarbon karışımıdır. Kozmetiklerde kıvam düzenleyici ve cilt kondisyonlama bileşeni olarak, özellikle yoğun bakım ürünlerinde kullanılır."
+  },
+  {
+    "slug": "synthetic-wax",
+    "inci": "SYNTHETIC WAX",
+    "nameTr": "Sentetik mum",
+    "functionKeys": [
+      "abrasive",
+      "binding",
+      "emulsion-stabilising",
+      "fragrance",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Formüle katı yapı ve kıvam veren sentetik mum karışımıdır. Bağlayıcı ve emülsiyon kararlılığını destekleyen bileşen olarak kullanılabilir."
+  },
+  {
+    "slug": "c15-19-alkane",
+    "inci": "C15-19 ALKANE",
+    "nameTr": "C15-19 alkan",
+    "functionKeys": [
+      "solvent"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "15–19 karbonlu hidrokarbonlardan oluşan karışımdır. Kozmetiklerde çözücü işleviyle dokunun ve yayılımın düzenlenmesine katkı sağlar."
+  },
+  {
+    "slug": "acrylates-c10-30-alkyl-acrylate-crosspolymer",
+    "inci": "ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER",
+    "nameTr": "Akrilat/C10-30 alkil akrilat çapraz polimeri",
+    "functionKeys": [
+      "emulsion-stabilising",
+      "film-forming",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Krem ve jellere kıvam veren bir polimerdir. Emülsiyonu kararlı tutma ve film oluşturma işlevleri de bulunur."
+  },
+  {
+    "slug": "disodium-cocoyl-glutamate",
+    "inci": "DISODIUM COCOYL GLUTAMATE",
+    "nameTr": "Disodyum kokoil glutamat",
+    "functionKeys": [
+      "cleansing",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Glutamik asit ve yağ asidi kaynaklı temizleyici yüzey aktif maddedir. Durulanan ürünlerde kirin suyla uzaklaştırılmasına yardımcı olur."
+  },
+  {
+    "slug": "sodium-cocoyl-glutamate",
+    "inci": "SODIUM COCOYL GLUTAMATE",
+    "nameTr": "Sodyum kokoil glutamat",
+    "functionKeys": [
+      "cleansing",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Glutamat bazlı temizleyici yüzey aktif maddedir. Diğer temizleyicilerle birlikte yüz ve vücut temizleme formüllerinde kullanılır."
+  },
+  {
+    "slug": "ascorbic-acid",
+    "inci": "ASCORBIC ACID",
+    "nameTr": "Askorbik asit (C vitamini)",
+    "functionKeys": [
+      "antioxidant",
+      "buffering",
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant",
+      "helps-with-anti-aging",
+      "helps-brighten-skin",
+      "good-for-dark-spots"
+    ],
+    "restrictions": [],
+    "description": "C vitamininin saf formudur. Antioksidan ve cilt kondisyonlama işlevleriyle kullanılır; kararlılığı ve ciltteki etkisi formülün pH değerine, ambalaja ve miktarına bağlıdır."
+  },
+  {
+    "slug": "sodium-polyacrylate",
+    "inci": "SODIUM POLYACRYLATE",
+    "nameTr": "Sodyum poliakrilat",
+    "functionKeys": [
+      "absorbent",
+      "binding",
+      "skin-conditioning-emollient",
+      "emulsion-stabilising",
+      "film-forming",
+      "hair-fixing",
+      "skin-conditioning",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Su bağlayabilen sentetik polimerdir. Emülsiyon kararlılığı, kıvam ve film oluşumu gibi formül işlevlerine katkı sağlar."
+  },
+  {
+    "slug": "isononyl-isononanoate",
+    "inci": "ISONONYL ISONONANOATE",
+    "nameTr": "İzononil izononanoat",
+    "functionKeys": [
+      "antistatic",
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cildi yumuşatan bir esterdir. Kremlerin kolay yayılmasına ve daha kaygan bir his vermesine yardımcı olur."
+  },
+  {
+    "slug": "jojoba-esters",
+    "inci": "JOJOBA ESTERS",
+    "nameTr": "Jojoba esterleri",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "moisturising",
+      "skin-conditioning",
+      "soothing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin",
+      "helps-reduce-irritation"
+    ],
+    "restrictions": [],
+    "description": "Jojoba kaynaklı ester karışımıdır. Cildi yumuşatma ve nemlendirme işlevleriyle bakım ürünlerinde kullanılır; saf jojoba yağıyla aynı INCI girdisi değildir."
+  },
+  {
+    "slug": "c14-22-alcohols",
+    "inci": "C14-22 ALCOHOLS",
+    "nameTr": "C14-22 yağ alkolleri",
+    "functionKeys": [
+      "emulsion-stabilising"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "fatty-alcohol"
+    ],
+    "restrictions": [],
+    "description": "14–22 karbonlu yağ alkollerinden oluşan karışımdır. Emülsiyonun kararlı kalmasına yardımcı olur; kurutucu etanol veya denatüre alkol ile aynı sınıfta değildir."
+  },
+  {
+    "slug": "c12-20-alkyl-glucoside",
+    "inci": "C12-20 ALKYL GLUCOSIDE",
+    "nameTr": "C12-20 alkil glukozit",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Şeker türevi yüzey aktif madde karışımıdır. Temizleyici ve emülgatör işlevleriyle yağ-su karışımlarının yapısına katkı sağlar."
+  },
+  {
+    "slug": "sorbitan-isostearate",
+    "inci": "SORBITAN ISOSTEARATE",
+    "nameTr": "Sorbitan izostearat",
+    "functionKeys": [
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": "1-2",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "triethylhexanoin",
+    "inci": "TRIETHYLHEXANOIN",
+    "nameTr": "Trietilheksanoin",
+    "functionKeys": [
+      "hair-conditioning",
+      "fragrance",
+      "skin-conditioning",
+      "perfuming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "glyceryl-oleate",
+    "inci": "GLYCERYL OLEATE",
+    "nameTr": "Gliseril oleat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying",
+      "perfuming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "ascorbyl-palmitate",
+    "inci": "ASCORBYL PALMITATE",
+    "nameTr": "Askorbil palmitat",
+    "functionKeys": [
+      "antioxidant",
+      "fragrance"
+    ],
+    "comedogenic": "2",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "antioxidant",
+      "helps-with-anti-aging",
+      "helps-brighten-skin",
+      "good-for-dark-spots",
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "C vitamininin yağda çözünen ester türevidir. Antioksidan işleviyle formülü oksidasyona karşı destekler; saf askorbik asitle aynı bileşen değildir."
+  },
+  {
+    "slug": "butyrospermum-parkii-oil",
+    "inci": "BUTYROSPERMUM PARKII OIL",
+    "nameTr": "Shea yağı",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "hydrogenated-palm-glycerides-citrate",
+    "inci": "HYDROGENATED PALM GLYCERIDES CITRATE",
+    "nameTr": "Hidrojene palm gliseritleri sitratı",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "c20-22-alcohols",
+    "inci": "C20-22 ALCOHOLS",
+    "nameTr": "C20-22 yağ alkolleri",
+    "functionKeys": [
+      "binding",
+      "emulsion-stabilising",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "fatty-alcohol"
+    ],
+    "restrictions": [],
+    "description": "Ürünün kıvamını ve akışkanlığını düzenler. Emülsiyonun ayrışmasını sınırlayarak homojen kalmasına yardımcı olur."
+  },
+  {
+    "slug": "c20-22-alkyl-phosphate",
+    "inci": "C20-22 ALKYL PHOSPHATE",
+    "nameTr": "C20-22 alkil fosfat",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur. Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar."
+  },
+  {
+    "slug": "hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer",
+    "inci": "HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
+    "nameTr": "Hidroksietil akrilat/sodyum akriloildimetil taurat kopolimeri",
+    "functionKeys": [
+      "emulsion-stabilising",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Ürünün kıvamını ve akışkanlığını düzenler. Emülsiyonun ayrışmasını sınırlayarak homojen kalmasına yardımcı olur."
+  },
+  {
+    "slug": "polysorbate-60",
+    "inci": "POLYSORBATE 60",
+    "nameTr": "Polisorbat 60",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur. Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar."
+  },
+  {
+    "slug": "cellulose-acetate",
+    "inci": "CELLULOSE ACETATE",
+    "nameTr": "Selüloz asetat",
+    "functionKeys": [
+      "film-forming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yüzeyde ince bir film oluşturarak ürünün doku ve tutunmasına katkı sağlar."
+  },
+  {
+    "slug": "trideceth-6",
+    "inci": "TRIDECETH-6",
+    "nameTr": "Trideset-6",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur. Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar."
+  },
+  {
+    "slug": "propylene-glycol-dicaprylate-dicaprate",
+    "inci": "PROPYLENE GLYCOL DICAPRYLATE/DICAPRATE",
+    "nameTr": "Propilen glikol dikaprilat/dikaprat",
+    "functionKeys": [
+      "skin-conditioning-emollient"
+    ],
+    "comedogenic": "1",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır."
+  },
+  {
+    "slug": "disodium-phosphate",
+    "inci": "DISODIUM PHOSPHATE",
+    "nameTr": "Disodyum fosfat",
+    "functionKeys": [
+      "anticorrosive",
+      "buffering",
+      "fragrance"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Formülün pH dengesinin korunmasına katkı sağlar. Formülün koku yapısına katkı sağlayabilir."
+  },
+  {
+    "slug": "bht",
+    "inci": "BHT",
+    "nameTr": "Bütil hidroksitoluen",
+    "functionKeys": [
+      "antioxidant",
+      "fragrance"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant"
+    ],
+    "restrictions": [
+      {
+        "annex": [
+          "III"
+        ],
+        "maxConcentration": "a) 0,001 %\r\n\r\nb) 0,1 %\r\n\r\nc) 0,8 %",
+        "conditional": false
+      }
+    ],
+    "description": "Oksidasyonu sınırlayarak formülün korunmasına katkı sağlar. Formülün koku yapısına katkı sağlayabilir."
+  },
+  {
+    "slug": "isododecane",
+    "inci": "ISODODECANE",
+    "nameTr": "İzododekan",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "solvent",
+      "perfuming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "oil",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Formül bileşenlerinin çözünmesine yardımcı olur."
+  },
+  {
+    "slug": "sucrose-stearate",
+    "inci": "SUCROSE STEARATE",
+    "nameTr": "Sükroz stearat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying",
+      "skin-conditioning",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "glycine-soja-oil",
+    "inci": "GLYCINE SOJA OIL",
+    "nameTr": "Soya yağı",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning",
+      "perfuming"
+    ],
+    "comedogenic": "3",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "high-comedogenic-rating",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "polyglycerin-3",
+    "inci": "POLYGLYCERIN-3",
+    "nameTr": "Poligliserin-3",
+    "functionKeys": [
+      "humectant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Suyu tutarak nem desteği sağlar."
+  },
+  {
+    "slug": "dicaprylyl-ether",
+    "inci": "DICAPRYLYL ETHER",
+    "nameTr": "Dikaprilil eter",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning",
+      "solvent"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "glyceryl-behenate",
+    "inci": "GLYCERYL BEHENATE",
+    "nameTr": "Gliseril behenat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "glyceryl-dibehenate",
+    "inci": "GLYCERYL DIBEHENATE",
+    "nameTr": "Gliseril dibehenat",
+    "functionKeys": [
+      "skin-conditioning-emollient"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır."
+  },
+  {
+    "slug": "tribehenin",
+    "inci": "TRIBEHENIN",
+    "nameTr": "Tribehenin",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "glycol-palmitate",
+    "inci": "GLYCOL PALMITATE",
+    "nameTr": "Glikol palmitat",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "opacifying",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "arachidyl-alcohol",
+    "inci": "ARACHIDYL ALCOHOL",
+    "nameTr": "Araşidil alkol",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "emulsion-stabilising",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "fatty-alcohol"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "arachidyl-glucoside",
+    "inci": "ARACHIDYL GLUCOSIDE",
+    "nameTr": "Araşidil glukozit",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur. Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar."
+  },
+  {
+    "slug": "dicaprylyl-carbonate",
+    "inci": "DICAPRYLYL CARBONATE",
+    "nameTr": "Dikaprilil karbonat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "sodium-stearoyl-glutamate",
+    "inci": "SODIUM STEAROYL GLUTAMATE",
+    "nameTr": "Sodyum stearoil glutamat",
+    "functionKeys": [
+      "cleansing",
+      "surfactant-emulsifying",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "glyceryl-caprylate",
+    "inci": "GLYCERYL CAPRYLATE",
+    "nameTr": "Gliseril kaprilat",
+    "functionKeys": [
+      "deodorant",
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "ricinus-communis-seed-oil",
+    "inci": "RICINUS COMMUNIS SEED OIL",
+    "nameTr": "Hint yağı",
+    "functionKeys": [
+      "fragrance",
+      "skin-conditioning",
+      "perfuming"
+    ],
+    "comedogenic": "1",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Formülün koku yapısına katkı sağlayabilir."
+  },
+  {
+    "slug": "glutamic-acid",
+    "inci": "GLUTAMIC ACID",
+    "nameTr": "Glutamik asit",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "humectant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Suyu tutarak nem desteği sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "kaolin",
+    "inci": "KAOLIN",
+    "nameTr": "Kaolin kili",
+    "functionKeys": [
+      "abrasive",
+      "absorbent",
+      "anticaking",
+      "bulking",
+      "colorant",
+      "opacifying"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [
+      "good-for-oily-skin"
+    ],
+    "restrictions": [
+      {
+        "annex": [
+          "IV"
+        ],
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ],
+    "description": "Ürüne renk veren bir bileşendir. Formülün daha opak görünmesine yardımcı olur."
+  },
+  {
+    "slug": "ascorbyl-glucoside",
+    "inci": "ASCORBYL GLUCOSIDE",
+    "nameTr": "Askorbil glukozit",
+    "functionKeys": [
+      "antioxidant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant",
+      "helps-with-anti-aging",
+      "helps-brighten-skin",
+      "good-for-dark-spots"
+    ],
+    "restrictions": [],
+    "description": "C vitamininin glukoza bağlı bir türevidir. Antioksidan bakım ve daha eşit ton görünümüne yönelik formüllerde kullanılır; saf askorbik asitle aynı bileşen değildir."
+  },
+  {
+    "slug": "bakuchiol",
+    "inci": "BAKUCHIOL",
+    "nameTr": "Bakuchiol",
+    "functionKeys": [
+      "antimicrobial",
+      "antioxidant",
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant",
+      "helps-with-anti-aging"
+    ],
+    "restrictions": [],
+    "description": "Bitki kaynaklı bir bakım bileşenidir; antioksidan ve cildi yumuşatıcı işlevleri bulunur. Retinol ile aynı madde değildir; bitmiş ürünün etkisi formüle ve miktara bağlıdır."
+  },
+  {
+    "slug": "coco-caprylate-caprate",
+    "inci": "COCO-CAPRYLATE/CAPRATE",
+    "nameTr": "Koko kaprilat/kaprat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "titanium-dioxide",
+    "inci": "TITANIUM DIOXIDE",
+    "nameTr": "Titanyum dioksit",
+    "functionKeys": [
+      "colorant",
+      "opacifying",
+      "uv-absorber",
+      "uv-filter"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [
+      {
+        "annex": [
+          "VI"
+        ],
+        "maxConcentration": "25%*\r\n*: In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g (Maximum concen­tration in ready for use preparation)",
+        "conditional": false
+      },
+      {
+        "annex": [
+          "III"
+        ],
+        "maxConcentration": "(a) 25 %;\r\n\r\n(b) 1,4 % for general consu­mers, and 1.1 % for  pro­fessional use.",
+        "conditional": false
+      }
+    ],
+    "description": "Beyaz renk ve opaklık sağlayabilen mineral bileşendir; uygun güneş koruyucu formüllerinde UV filtresi olarak da kullanılabilir. Renkli kremde bulunması tek başına ürünün SPF sağladığını göstermez."
+  },
+  {
+    "slug": "dipalmitoyl-hydroxyproline",
+    "inci": "DIPALMITOYL HYDROXYPROLINE",
+    "nameTr": "Dipalmitoil hidroksiprolin",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "polyquaternium-51",
+    "inci": "POLYQUATERNIUM-51",
+    "nameTr": "Polikuaterniyum-51",
+    "functionKeys": [
+      "film-forming",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Yüzeyde ince bir film oluşturarak ürünün doku ve tutunmasına katkı sağlar."
+  },
+  {
+    "slug": "di-c12-13-alkyl-malate",
+    "inci": "DI-C12-13 ALKYL MALATE",
+    "nameTr": "Di-C12-13 alkil malat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "propylheptyl-caprylate",
+    "inci": "PROPYLHEPTYL CAPRYLATE",
+    "nameTr": "Propilheptil kaprilat",
+    "functionKeys": [
+      "skin-conditioning-emollient"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır."
+  },
+  {
+    "slug": "sodium-polyacryloyldimethyl-taurate",
+    "inci": "SODIUM POLYACRYLOYLDIMETHYL TAURATE",
+    "nameTr": "Sodyum poliakriloildimetil taurat",
+    "functionKeys": [
+      "emulsion-stabilising",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Ürünün kıvamını ve akışkanlığını düzenler. Emülsiyonun ayrışmasını sınırlayarak homojen kalmasına yardımcı olur."
+  },
+  {
+    "slug": "chondrus-crispus-extract",
+    "inci": "CHONDRUS CRISPUS EXTRACT",
+    "nameTr": "İrlanda yosunu özütü",
+    "functionKeys": [
+      "skin-conditioning",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "sodium-metabisulfite",
+    "inci": "SODIUM METABISULFITE",
+    "nameTr": "Sodyum metabisülfit",
+    "functionKeys": [
+      "antioxidant",
+      "preservative",
+      "reducing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant",
+      "preservative"
+    ],
+    "restrictions": [
+      {
+        "annex": [
+          "V"
+        ],
+        "maxConcentration": "0.2% (as free SO2)",
+        "conditional": false
+      },
+      {
+        "annex": [
+          "III"
+        ],
+        "maxConcentration": "(a) 0.67% (as free SO2)\r\n(b) 6.7% (as free SO2)\r\n(c) 0.45% (as free SO2)\r\n(d) 0.40% (as free SO2)",
+        "conditional": false
+      }
+    ],
+    "description": "Oksidasyonu sınırlayarak formülün korunmasına katkı sağlar. Formülün mikrobiyal bozulmaya karşı korunmasına yardımcı olur."
+  },
+  {
+    "slug": "syringa-vulgaris-extract",
+    "inci": "SYRINGA VULGARIS EXTRACT",
+    "nameTr": "Leylak özütü",
+    "functionKeys": [
+      "skin-conditioning",
+      "tonic"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "aminoethanesulfinic-acid",
+    "inci": "AMINOETHANESULFINIC ACID",
+    "nameTr": "Aminoetansülfinik asit",
+    "functionKeys": [
+      "antioxidant",
+      "reducing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant"
+    ],
+    "restrictions": [],
+    "description": "Oksidasyonu sınırlayarak formülün korunmasına katkı sağlar. İndirgen özellikleriyle formülün kimyasal dengesine katkı sağlar."
+  },
+  {
+    "slug": "polyglyceryl-3-ricinoleate",
+    "inci": "POLYGLYCERYL-3 RICINOLEATE",
+    "nameTr": "Poligliseril-3 risinoleat",
+    "functionKeys": [
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "stearalkonium-hectorite",
+    "inci": "STEARALKONIUM HECTORITE",
+    "nameTr": "Stearalkonyum hektorit",
+    "functionKeys": [
+      "gel-forming",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Ürünün kıvamını ve akışkanlığını düzenler. Jel yapısının oluşmasına katkı sağlar."
+  },
+  {
+    "slug": "ci-77492",
+    "inci": "CI 77492",
+    "nameTr": "Sarı demir oksit",
+    "functionKeys": [
+      "colorant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [
+      {
+        "annex": [
+          "IV"
+        ],
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ],
+    "description": "Ürüne renk veren bir bileşendir."
+  },
+  {
+    "slug": "ci-77491",
+    "inci": "CI 77491",
+    "nameTr": "Kırmızı demir oksit",
+    "functionKeys": [
+      "colorant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [
+      {
+        "annex": [
+          "IV"
+        ],
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ],
+    "description": "Ürüne renk veren bir bileşendir."
+  },
+  {
+    "slug": "propylene-carbonate",
+    "inci": "PROPYLENE CARBONATE",
+    "nameTr": "Propilen karbonat",
+    "functionKeys": [
+      "solvent",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Ürünün kıvamını ve akışkanlığını düzenler. Formül bileşenlerinin çözünmesine yardımcı olur."
+  },
+  {
+    "slug": "ci-77499",
+    "inci": "CI 77499",
+    "nameTr": "Siyah demir oksit",
+    "functionKeys": [
+      "colorant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [
+      {
+        "annex": [
+          "IV"
+        ],
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ],
+    "description": "Ürüne renk veren bir bileşendir."
+  },
+  {
+    "slug": "sodium-lauroyl-glutamate",
+    "inci": "SODIUM LAUROYL GLUTAMATE",
+    "nameTr": "Sodyum lauroil glutamat",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "lysine",
+    "inci": "LYSINE",
+    "nameTr": "Lizin",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "magnesium-chloride",
+    "inci": "MAGNESIUM CHLORIDE",
+    "nameTr": "Magnezyum klorür",
+    "functionKeys": [
+      "viscosity-controlling",
+      "flavouring"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "glucose",
+    "inci": "GLUCOSE",
+    "nameTr": "Glukoz",
+    "functionKeys": [
+      "humectant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Suyu tutarak nem desteği sağlar."
+  },
+  {
+    "slug": "alanyl-glutamine",
+    "inci": "ALANYL GLUTAMINE",
+    "nameTr": "Alanil glutamin",
+    "functionKeys": [
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Suyu tutarak nem desteği sağlar. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "arginine-hcl",
+    "inci": "ARGININE HCL",
+    "nameTr": "Arjinin hidroklorür",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "lactose",
+    "inci": "LACTOSE",
+    "nameTr": "Laktoz",
+    "functionKeys": [
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Suyu tutarak nem desteği sağlar. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "leucine",
+    "inci": "LEUCINE",
+    "nameTr": "Lösin",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "potassium-chloride",
+    "inci": "POTASSIUM CHLORIDE",
+    "nameTr": "Potasyum klorür",
+    "functionKeys": [
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "sodium-pyruvate",
+    "inci": "SODIUM PYRUVATE",
+    "nameTr": "Sodyum pirüvat",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "lysine-hcl",
+    "inci": "LYSINE HCL",
+    "nameTr": "Lizin hidroklorür",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "histidine-hcl",
+    "inci": "HISTIDINE HCL",
+    "nameTr": "Histidin hidroklorür",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "cysteine-hcl",
+    "inci": "CYSTEINE HCL",
+    "nameTr": "Sistein hidroklorür",
+    "functionKeys": [
+      "antioxidant",
+      "hair-conditioning",
+      "hair-waving-or-straightening",
+      "reducing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant"
+    ],
+    "restrictions": [],
+    "description": "Sistein amino asidinin hidroklorür tuzudur. Antioksidan ve indirgen işlevlerle kozmetik formüllerde kullanılabilir."
+  },
+  {
+    "slug": "whey-protein",
+    "inci": "WHEY PROTEIN",
+    "nameTr": "Peynir altı suyu proteini",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "hydroxyproline",
+    "inci": "HYDROXYPROLINE",
+    "nameTr": "Hidroksiprolin",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "skin-conditioning",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar."
+  },
+  {
+    "slug": "asparagine",
+    "inci": "ASPARAGINE",
+    "nameTr": "Asparajin",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "inositol",
+    "inci": "INOSITOL",
+    "nameTr": "İnositol",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "humectant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Suyu tutarak nem desteği sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "adenine",
+    "inci": "ADENINE",
+    "nameTr": "Adenin",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "methionine",
+    "inci": "METHIONINE",
+    "nameTr": "Metiyonin",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "tyrosine",
+    "inci": "TYROSINE",
+    "nameTr": "Tirozin",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "tryptophan",
+    "inci": "TRYPTOPHAN",
+    "nameTr": "Triptofan",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "fragrance"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir. Formülün koku yapısına katkı sağlayabilir."
+  },
+  {
+    "slug": "sodium-sulfate",
+    "inci": "SODIUM SULFATE",
+    "nameTr": "Sodyum sülfat",
+    "functionKeys": [
+      "bulking",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "İnorganik bir tuzdur; formülün hacmini ve kıvamını düzenleyebilir. Sodyum lauril sülfat veya sodyum lauret sülfat gibi bir temizleyici yüzey aktif madde değildir."
+  },
+  {
+    "slug": "folic-acid",
+    "inci": "FOLIC ACID",
+    "nameTr": "Folik asit",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "ferrous-sulfate",
+    "inci": "FERROUS SULFATE",
+    "nameTr": "Demir sülfat",
+    "functionKeys": [
+      "astringent"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinde geçici sıkılaşma hissi sağlayabilir."
+  },
+  {
+    "slug": "calcium-pantothenate",
+    "inci": "CALCIUM PANTOTHENATE",
+    "nameTr": "Kalsiyum pantotenat",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning-miscellaneous"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Kozmetik formüllerde cilt bakım bileşeni olarak kullanılır. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "thiamine-hcl",
+    "inci": "THIAMINE HCL",
+    "nameTr": "Tiamin hidroklorür",
+    "functionKeys": [
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Formülün koku yapısına katkı sağlayabilir."
+  },
+  {
+    "slug": "pyridoxine-hcl",
+    "inci": "PYRIDOXINE HCL",
+    "nameTr": "Piridoksin hidroklorür",
+    "functionKeys": [
+      "antistatic",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "cyanocobalamin",
+    "inci": "CYANOCOBALAMIN",
+    "nameTr": "Siyanokobalamin",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "thioctic-acid",
+    "inci": "THIOCTIC ACID",
+    "nameTr": "Tiyoktik asit",
+    "functionKeys": [
+      "antioxidant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant"
+    ],
+    "restrictions": [],
+    "description": "Oksidasyonu sınırlayarak formülün korunmasına katkı sağlar."
+  },
+  {
+    "slug": "riboflavin",
+    "inci": "RIBOFLAVIN",
+    "nameTr": "Riboflavin",
+    "functionKeys": [
+      "colorant",
+      "skin-conditioning-miscellaneous"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [
+      {
+        "annex": [
+          "IV"
+        ],
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ],
+    "description": "Kozmetik formüllerde cilt bakım bileşeni olarak kullanılır. Ürüne renk veren bir bileşendir."
+  },
+  {
+    "slug": "sodium-metasilicate",
+    "inci": "SODIUM METASILICATE",
+    "nameTr": "Sodyum metasilikat",
+    "functionKeys": [
+      "anticorrosive",
+      "buffering",
+      "chelating"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Formülün pH dengesinin korunmasına katkı sağlar. Metal iyonlarını bağlayarak formülün kararlılığına yardımcı olur."
+  },
+  {
+    "slug": "guanine",
+    "inci": "GUANINE",
+    "nameTr": "Guanin",
+    "functionKeys": [
+      "colorant",
+      "opacifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [
+      {
+        "annex": [
+          "IV"
+        ],
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ],
+    "description": "Ürüne renk veren bir bileşendir. Formülün daha opak görünmesine yardımcı olur."
+  },
+  {
+    "slug": "biotin",
+    "inci": "BIOTIN",
+    "nameTr": "Biyotin",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning-miscellaneous"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Kozmetik formüllerde cilt bakım bileşeni olarak kullanılır. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "manganese-chloride",
+    "inci": "MANGANESE CHLORIDE",
+    "nameTr": "Manganez klorür",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "xylitylglucoside",
+    "inci": "XYLITYLGLUCOSIDE",
+    "nameTr": "Ksilitilglukozit",
+    "functionKeys": [
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Suyu tutarak nem desteği sağlar. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "anhydroxylitol",
+    "inci": "ANHYDROXYLITOL",
+    "nameTr": "Anhidroksilitol",
+    "functionKeys": [
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Suyu tutarak nem desteği sağlar. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "peg-90-glyceryl-isostearate",
+    "inci": "PEG-90 GLYCERYL ISOSTEARATE",
+    "nameTr": "PEG-90 gliseril izostearat",
+    "functionKeys": [
+      "cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Temizleyici formüllerde arındırmaya yardımcı olur."
+  },
+  {
+    "slug": "polymethylsilsesquioxane",
+    "inci": "POLYMETHYLSILSESQUIOXANE",
+    "nameTr": "Polimetilsilseskioksan",
+    "functionKeys": [
+      "opacifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "silicon"
+    ],
+    "restrictions": [],
+    "description": "Formülün daha opak görünmesine yardımcı olur."
+  },
+  {
+    "slug": "hdi-trimethylol-hexyllactone-crosspolymer",
+    "inci": "HDI/TRIMETHYLOL HEXYLLACTONE CROSSPOLYMER",
+    "nameTr": "HDI/trimetilol heksillakton çapraz polimeri",
+    "functionKeys": [
+      "anticaking"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Toz bileşenlerin topaklanmasını azaltır."
+  },
+  {
+    "slug": "polysilicone-11",
+    "inci": "POLYSILICONE-11",
+    "nameTr": "Polisilikon-11",
+    "functionKeys": [
+      "film-forming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "silicon"
+    ],
+    "restrictions": [],
+    "description": "Yüzeyde ince bir film oluşturarak ürünün doku ve tutunmasına katkı sağlar."
+  },
+  {
+    "slug": "ammonium-acryloyldimethyltaurate-vp-copolymer",
+    "inci": "AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER",
+    "nameTr": "Amonyum akriloildimetiltaurat/VP kopolimeri",
+    "functionKeys": [
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "azelaic-acid",
+    "inci": "AZELAIC ACID",
+    "nameTr": "Azelaik asit",
+    "functionKeys": [
+      "buffering",
+      "fragrance"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-reduce-skin-redness",
+      "helps-brighten-skin",
+      "good-for-dark-spots",
+      "helps-fight-acne"
+    ],
+    "restrictions": [],
+    "description": "Dikarboksilik bir asittir; ton eşitsizliği ve pürüz görünümüne yönelik bakım formüllerinde kullanılır. İçerik listesi miktarını göstermediği için ürünün etkisi tek başına bu maddeden çıkarılamaz."
+  },
+  {
+    "slug": "andrographis-paniculata-leaf-extract",
+    "inci": "ANDROGRAPHIS PANICULATA LEAF EXTRACT",
+    "nameTr": "Andrographis paniculata yaprak özütü",
+    "functionKeys": [
+      "astringent",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Cilt yüzeyinde geçici sıkılaşma hissi sağlayabilir."
+  },
+  {
+    "slug": "glycyrrhiza-glabra-root-extract",
+    "inci": "GLYCYRRHIZA GLABRA ROOT EXTRACT",
+    "nameTr": "Meyan kökü özütü",
+    "functionKeys": [
+      "bleaching",
+      "skin-conditioning-emollient",
+      "skin-conditioning",
+      "smoothing",
+      "soothing",
+      "perfuming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-reduce-irritation",
+      "helps-brighten-skin",
+      "good-for-dark-spots"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "caprylyl-capryl-glucoside",
+    "inci": "CAPRYLYL/CAPRYL GLUCOSIDE",
+    "nameTr": "Kaprilil/kapril glukozit",
+    "functionKeys": [
+      "cleansing",
+      "foaming",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar. Temizleyici formüllerde arındırmaya yardımcı olur."
+  },
+  {
+    "slug": "benzotriazolyl-dodecyl-p-cresol",
+    "inci": "BENZOTRIAZOLYL DODECYL P-CRESOL",
+    "nameTr": "Benzotriazolil dodesil p-krezol",
+    "functionKeys": [
+      "uv-absorber"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "UV ışığını emerek formülün ışığa karşı kararlılığına katkı sağlayabilir; tek başına güneş korumasını göstermez."
+  },
+  {
+    "slug": "cetyl-palmitate",
+    "inci": "CETYL PALMITATE",
+    "nameTr": "Setil palmitat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "hydrogenated-polydecene",
+    "inci": "HYDROGENATED POLYDECENE",
+    "nameTr": "Hidrojene polidesen",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "hair-conditioning",
+      "fragrance",
+      "skin-conditioning",
+      "solvent",
+      "perfuming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "tridecyl-trimellitate",
+    "inci": "TRIDECYL TRIMELLITATE",
+    "nameTr": "Tridesil trimellitat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "magnesium-laureth-sulfate",
+    "inci": "MAGNESIUM LAURETH SULFATE",
+    "nameTr": "Magnezyum lauret sülfat",
+    "functionKeys": [
+      "cleansing",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "can-worsen-dry-skin",
+      "may-worsen-eczema"
+    ],
+    "restrictions": [],
+    "description": "Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar. Temizleyici formüllerde arındırmaya yardımcı olur."
+  },
+  {
+    "slug": "acrylates-vinyl-isodecanoate-crosspolymer",
+    "inci": "ACRYLATES/VINYL ISODECANOATE CROSSPOLYMER",
+    "nameTr": "Akrilat/vinil izodekanoat çapraz polimeri",
+    "functionKeys": [
+      "emulsion-stabilising",
+      "film-forming",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yüzeyde ince bir film oluşturarak ürünün doku ve tutunmasına katkı sağlar. Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "canola-oil",
+    "inci": "CANOLA OIL",
+    "nameTr": "Kanola yağı",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "polyglyceryl-4-oleate",
+    "inci": "POLYGLYCERYL-4 OLEATE",
+    "nameTr": "Poligliseril-4 oleat",
+    "functionKeys": [
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "stearyl-glycyrrhetinate",
+    "inci": "STEARYL GLYCYRRHETINATE",
+    "nameTr": "Stearil glisiretinat",
+    "functionKeys": [
+      "skin-conditioning",
+      "soothing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-reduce-irritation"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Ciltte konfor ve yatışmışlık hissini destekler."
+  },
+  {
+    "slug": "hexapeptide-2",
+    "inci": "HEXAPEPTIDE-2",
+    "nameTr": "Heksapeptid-2",
+    "functionKeys": [
+      "bleaching",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-with-anti-aging"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Ton eşitsizliği görünümüne yönelik kozmetik formüllerde kullanılır."
+  },
+  {
+    "slug": "glyceryl-stearate-citrate",
+    "inci": "GLYCERYL STEARATE CITRATE",
+    "nameTr": "Gliseril stearat sitrat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "mangifera-indica-seed-butter",
+    "inci": "MANGIFERA INDICA SEED BUTTER",
+    "nameTr": "Mango çekirdeği yağı",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "salvia-miltiorrhiza-flower-leaf-root-extract",
+    "inci": "SALVIA MILTIORRHIZA FLOWER/LEAF/ROOT EXTRACT",
+    "nameTr": "Çin adaçayı çiçek, yaprak ve kök özütü",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "palmitoyl-tetrapeptide-10",
+    "inci": "PALMITOYL TETRAPEPTIDE-10",
+    "nameTr": "Palmitoil tetrapeptid-10",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-with-anti-aging"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "peg-200-hydrogenated-glyceryl-palmate",
+    "inci": "PEG-200 HYDROGENATED GLYCERYL PALMATE",
+    "nameTr": "PEG-200 hidrojene gliseril palmat",
+    "functionKeys": [
+      "cleansing",
+      "surfactant-emulsifying",
+      "solvent",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur. Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar."
+  },
+  {
+    "slug": "limnanthes-alba-seed-oil",
+    "inci": "LIMNANTHES ALBA SEED OIL",
+    "nameTr": "Çayır köpüğü tohumu yağı",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "pongamia-glabra-seed-oil",
+    "inci": "PONGAMIA GLABRA SEED OIL",
+    "nameTr": "Karanja tohumu yağı",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "bixa-orellana-seed-extract",
+    "inci": "BIXA ORELLANA SEED EXTRACT",
+    "nameTr": "Annatto tohumu özütü",
+    "functionKeys": [
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Formülün koku yapısına katkı sağlayabilir."
+  },
+  {
+    "slug": "sorbitan-sesquioleate",
+    "inci": "SORBITAN SESQUIOLEATE",
+    "nameTr": "Sorbitan seskioleat",
+    "functionKeys": [
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": "0-1",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "methyl-methacrylate-crosspolymer",
+    "inci": "METHYL METHACRYLATE CROSSPOLYMER",
+    "nameTr": "Metil metakrilat çapraz polimeri",
+    "functionKeys": [
+      "film-forming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yüzeyde ince bir film oluşturarak ürünün doku ve tutunmasına katkı sağlar."
+  },
+  {
+    "slug": "cyclohexasiloxane",
+    "inci": "CYCLOHEXASILOXANE",
+    "nameTr": "Sikloheksasiloksan",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "hair-conditioning",
+      "solvent"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "silicon"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Formül bileşenlerinin çözünmesine yardımcı olur."
+  },
+  {
+    "slug": "fomes-officinalis-extract",
+    "inci": "FOMES OFFICINALIS EXTRACT",
+    "nameTr": "Fomes officinalis mantarı özütü",
+    "functionKeys": [
+      "skin-protecting"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin dış etkenlere karşı korunmasına katkı sağlar."
+  },
+  {
+    "slug": "c30-45-alkyl-cetearyl-dimethicone-crosspolymer",
+    "inci": "C30-45 ALKYL CETEARYL DIMETHICONE CROSSPOLYMER",
+    "nameTr": "C30-45 alkil setearil dimetikon çapraz polimeri",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "film-forming",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "silicon"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "lauryl-peg-ppg-18-18-methicone",
+    "inci": "LAURYL PEG/PPG-18/18 METHICONE",
+    "nameTr": "Lauril PEG/PPG-18/18 metikon",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "silicon"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "peg-ppg-18-18-dimethicone",
+    "inci": "PEG/PPG-18/18 DIMETHICONE",
+    "nameTr": "PEG/PPG-18/18 dimetikon",
+    "functionKeys": [
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "silicon"
+    ],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "dodecyl-gallate",
+    "inci": "DODECYL GALLATE",
+    "nameTr": "Dodesil gallat",
+    "functionKeys": [
+      "antioxidant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant"
+    ],
+    "restrictions": [],
+    "description": "Oksidasyonu sınırlayarak formülün korunmasına katkı sağlar."
+  },
+  {
+    "slug": "salvia-miltiorrhiza-root-extract",
+    "inci": "SALVIA MILTIORRHIZA ROOT EXTRACT",
+    "nameTr": "Çin adaçayı kök özütü",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "biosaccharide-gum-1",
+    "inci": "BIOSACCHARIDE GUM-1",
+    "nameTr": "Biyosakkarit sakızı-1",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "vinyl-dimethicone-methicone-silsesquioxane-crosspolymer",
+    "inci": "VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER",
+    "nameTr": "Vinil dimetikon/metikon silseskioksan çapraz polimeri",
+    "functionKeys": [
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "silicon"
+    ],
+    "restrictions": [],
+    "description": "Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "triceteareth-4-phosphate",
+    "inci": "TRICETEARETH-4 PHOSPHATE",
+    "nameTr": "Trisetearet-4 fosfat",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur. Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar."
+  },
+  {
+    "slug": "glycine-soja-germ-extract",
+    "inci": "GLYCINE SOJA GERM EXTRACT",
+    "nameTr": "Soya filizi özütü",
+    "functionKeys": [
+      "skin-conditioning-miscellaneous"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Kozmetik formüllerde cilt bakım bileşeni olarak kullanılır."
+  },
+  {
+    "slug": "glycol-stearate",
+    "inci": "GLYCOL STEARATE",
+    "nameTr": "Glikol stearat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying",
+      "opacifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": "0",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "peg-2-stearate",
+    "inci": "PEG-2 STEARATE",
+    "nameTr": "PEG-2 stearat",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "opacifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur. Formülün daha opak görünmesine yardımcı olur."
+  },
+  {
+    "slug": "maltooligosyl-glucoside",
+    "inci": "MALTOOLIGOSYL GLUCOSIDE",
+    "nameTr": "Maltooligosil glukozit",
+    "functionKeys": [
+      "binding",
+      "film-forming",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Yüzeyde ince bir film oluşturarak ürünün doku ve tutunmasına katkı sağlar."
+  },
+  {
+    "slug": "1-methylhydantoin-2-imide",
+    "inci": "1-METHYLHYDANTOIN-2-IMIDE",
+    "nameTr": "1-metilhidantoin-2-imid",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "hexyl-laurate",
+    "inci": "HEXYL LAURATE",
+    "nameTr": "Heksil laurat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "ethylene-propylene-styrene-copolymer",
+    "inci": "ETHYLENE/PROPYLENE/STYRENE COPOLYMER",
+    "nameTr": "Etilen/propilen/stiren kopolimeri",
+    "functionKeys": [
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "persea-gratissima-oil",
+    "inci": "PERSEA GRATISSIMA OIL",
+    "nameTr": "Avokado yağı",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": "3(2)",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "high-comedogenic-rating",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "butylene-ethylene-styrene-copolymer",
+    "inci": "BUTYLENE/ETHYLENE/STYRENE COPOLYMER",
+    "nameTr": "Bütilen/etilen/stiren kopolimeri",
+    "functionKeys": [
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "c10-18-triglycerides",
+    "inci": "C10-18 TRIGLYCERIDES",
+    "nameTr": "C10-18 trigliseritleri",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning",
+      "solvent"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "helianthus-annuus-seed-wax",
+    "inci": "HELIANTHUS ANNUUS SEED WAX",
+    "nameTr": "Ayçiçeği tohumu mumu",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "corn-starch-modified",
+    "inci": "CORN STARCH MODIFIED",
+    "nameTr": "Modifiye mısır nişastası",
+    "functionKeys": [
+      "absorbent",
+      "film-forming",
+      "skin-conditioning",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Yüzeyde ince bir film oluşturarak ürünün doku ve tutunmasına katkı sağlar."
+  },
+  {
+    "slug": "cocos-nucifera-oil",
+    "inci": "COCOS NUCIFERA OIL",
+    "nameTr": "Hindistan cevizi yağı",
+    "functionKeys": [
+      "hair-conditioning",
+      "fragrance",
+      "skin-conditioning",
+      "perfuming"
+    ],
+    "comedogenic": "4",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "high-comedogenic-rating",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "glyceryl-caprylate-caprate",
+    "inci": "GLYCERYL CAPRYLATE/CAPRATE",
+    "nameTr": "Gliseril kaprilat/kaprat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "o-cymen-5-ol",
+    "inci": "O-CYMEN-5-OL",
+    "nameTr": "O-simen-5-ol",
+    "functionKeys": [
+      "antimicrobial",
+      "deodorant",
+      "preservative"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "preservative"
+    ],
+    "restrictions": [
+      {
+        "annex": [
+          "V"
+        ],
+        "maxConcentration": "0.1%",
+        "conditional": false
+      }
+    ],
+    "description": "Formülün mikrobiyal bozulmaya karşı korunmasına yardımcı olur. Mikroorganizmaların çoğalmasını sınırlayan formül bileşenlerindendir."
+  },
+  {
+    "slug": "peg-10-dimethicone",
+    "inci": "PEG-10 DIMETHICONE",
+    "nameTr": "PEG-10 dimetikon",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "silicon"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Saç yüzeyinin bakımına katkı sağlayan kozmetik bileşenlerindendir."
+  },
+  {
+    "slug": "triheptanoin",
+    "inci": "TRIHEPTANOIN",
+    "nameTr": "Triheptanoin",
+    "functionKeys": [
+      "viscosity-controlling",
+      "skin-conditioning-occlusive"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt üzerinde nem kaybını azaltmaya yardımcı bir katman oluşturur. Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "c13-15-alkane",
+    "inci": "C13-15 ALKANE",
+    "nameTr": "C13-15 alkan",
+    "functionKeys": [
+      "solvent"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Formül bileşenlerinin çözünmesine yardımcı olur."
+  },
+  {
+    "slug": "natto-gum",
+    "inci": "NATTO GUM",
+    "nameTr": "Natto sakızı",
+    "functionKeys": [
+      "film-forming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yüzeyde ince bir film oluşturarak ürünün doku ve tutunmasına katkı sağlar."
+  },
+  {
+    "slug": "polyglyceryl-10-laurate",
+    "inci": "POLYGLYCERYL-10 LAURATE",
+    "nameTr": "Poligliseril-10 laurat",
+    "functionKeys": [
+      "skin-conditioning-miscellaneous",
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Kozmetik formüllerde cilt bakım bileşeni olarak kullanılır. Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "glutamylamidoethyl-indole",
+    "inci": "GLUTAMYLAMIDOETHYL INDOLE",
+    "nameTr": "Glutamilamidoetil indol",
+    "functionKeys": [
+      "skin-protecting"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin dış etkenlere karşı korunmasına katkı sağlar."
+  },
+  {
+    "slug": "sorbitan-stearate",
+    "inci": "SORBITAN STEARATE",
+    "nameTr": "Sorbitan stearat",
+    "functionKeys": [
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": "0",
+    "irritancy": "1",
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "glyceryl-polyacrylate",
+    "inci": "GLYCERYL POLYACRYLATE",
+    "nameTr": "Gliseril poliakrilat",
+    "functionKeys": [
+      "film-forming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yüzeyde ince bir film oluşturarak ürünün doku ve tutunmasına katkı sağlar."
+  },
+  {
+    "slug": "isostearyl-alcohol",
+    "inci": "ISOSTEARYL ALCOHOL",
+    "nameTr": "İzostearil alkol",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "fatty-alcohol"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "butylene-glycol-cocoate",
+    "inci": "BUTYLENE GLYCOL COCOATE",
+    "nameTr": "Bütilen glikol kokoat",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "emulsion-stabilising",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur. Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "ethylcellulose",
+    "inci": "ETHYLCELLULOSE",
+    "nameTr": "Etilselüloz",
+    "functionKeys": [
+      "binding",
+      "film-forming",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yüzeyde ince bir film oluşturarak ürünün doku ve tutunmasına katkı sağlar. Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "glabridin",
+    "inci": "GLABRIDIN",
+    "nameTr": "Glabridin",
+    "functionKeys": [
+      "bleaching"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Ton eşitsizliği görünümüne yönelik kozmetik formüllerde kullanılır."
+  },
+  {
+    "slug": "acetyl-tetrapeptide-5",
+    "inci": "ACETYL TETRAPEPTIDE-5",
+    "nameTr": "Asetil tetrapeptid-5",
+    "functionKeys": [
+      "humectant"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin",
+      "helps-with-anti-aging"
+    ],
+    "restrictions": [],
+    "description": "Suyu tutarak nem desteği sağlar."
+  },
+  {
+    "slug": "undecylenic-glycerides",
+    "inci": "UNDECYLENIC GLYCERIDES",
+    "nameTr": "Undesilenik gliseritler",
+    "functionKeys": [],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Undesilenik asitten türetilen gliserit karışımıdır. Kaynak kaydında işlev bilgisi bulunmadığından bu maddeden tek başına belirli bir cilt etkisi çıkarılmıyor."
+  },
+  {
+    "slug": "climbazole",
+    "inci": "CLIMBAZOLE",
+    "nameTr": "Klimbazol",
+    "functionKeys": [
+      "anti-seborrheic",
+      "antimicrobial",
+      "preservative"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "preservative"
+    ],
+    "restrictions": [
+      {
+        "annex": [
+          "V"
+        ],
+        "maxConcentration": "(a) 0,2 %\r\n(b) 0,2 %\r\n(c) 0,2 %\r\n(d) 0,5 %",
+        "conditional": false
+      },
+      {
+        "annex": [
+          "III"
+        ],
+        "maxConcentration": "2,0 %",
+        "conditional": false
+      }
+    ],
+    "description": "Formülün mikrobiyal bozulmaya karşı korunmasına yardımcı olur. Mikroorganizmaların çoğalmasını sınırlayan formül bileşenlerindendir."
+  },
+  {
+    "slug": "glucosyl-hesperidin",
+    "inci": "GLUCOSYL HESPERIDIN",
+    "nameTr": "Glukozil hesperidin",
+    "functionKeys": [
+      "humectant",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-hydrate-dry-skin"
+    ],
+    "restrictions": [],
+    "description": "Suyu tutarak nem desteği sağlar. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "arnica-montana-flower-extract",
+    "inci": "ARNICA MONTANA FLOWER EXTRACT",
+    "nameTr": "Arnika çiçeği özütü",
+    "functionKeys": [
+      "fragrance",
+      "skin-conditioning",
+      "perfuming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Formülün koku yapısına katkı sağlayabilir."
+  },
+  {
+    "slug": "decylene-glycol",
+    "inci": "DECYLENE GLYCOL",
+    "nameTr": "Desilen glikol",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "ammonium-glycyrrhizate",
+    "inci": "AMMONIUM GLYCYRRHIZATE",
+    "nameTr": "Amonyum glisirizat",
+    "functionKeys": [
+      "fragrance",
+      "flavouring",
+      "skin-conditioning-miscellaneous"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Kozmetik formüllerde cilt bakım bileşeni olarak kullanılır. Formülün koku yapısına katkı sağlayabilir."
+  },
+  {
+    "slug": "lysine-azelate",
+    "inci": "LYSINE AZELATE",
+    "nameTr": "Lizin azelat",
+    "functionKeys": [
+      "bleaching",
+      "chelating"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Metal iyonlarını bağlayarak formülün kararlılığına yardımcı olur. Ton eşitsizliği görünümüne yönelik kozmetik formüllerde kullanılır."
+  },
+  {
+    "slug": "undecyl-alcohol",
+    "inci": "UNDECYL ALCOHOL",
+    "nameTr": "Undesil alkol",
+    "functionKeys": [
+      "anti-sebum",
+      "skin-conditioning-emollient",
+      "fragrance",
+      "skin-conditioning",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "polyethylene",
+    "inci": "POLYETHYLENE",
+    "nameTr": "Polietilen",
+    "functionKeys": [
+      "abrasive",
+      "film-forming",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Kozmetik dokuyu, film oluşumunu ve ürünün yüzey hissini düzenleyebilen sentetik bir polimerdir."
+  },
+  {
+    "slug": "sodium-palmate",
+    "inci": "SODIUM PALMATE",
+    "nameTr": "Sodyum palmat",
+    "functionKeys": [
+      "cleansing",
+      "surfactant-emulsifying",
+      "surfactant-cleansing",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur. Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar."
+  },
+  {
+    "slug": "sodium-palm-kernelate",
+    "inci": "SODIUM PALM KERNELATE",
+    "nameTr": "Sodyum palm kernelat",
+    "functionKeys": [
+      "cleansing",
+      "surfactant-emulsifying",
+      "surfactant-cleansing",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur. Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar."
+  },
+  {
+    "slug": "tetrasodium-etidronate",
+    "inci": "TETRASODIUM ETIDRONATE",
+    "nameTr": "Tetrasodyum etidronat",
+    "functionKeys": [
+      "chelating",
+      "emulsion-stabilising",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [
+      {
+        "annex": [
+          "III"
+        ],
+        "maxConcentration": "(a) 1.5% (as etidronic acid)\r\n(b) 0.2% (as etidronic acid)",
+        "conditional": false
+      }
+    ],
+    "description": "Ürünün kıvamını ve akışkanlığını düzenler. Emülsiyonun ayrışmasını sınırlayarak homojen kalmasına yardımcı olur."
+  },
+  {
+    "slug": "lauroyl-lysine",
+    "inci": "LAUROYL LYSINE",
+    "nameTr": "Lauroil lizin",
+    "functionKeys": [
+      "hair-conditioning",
+      "skin-conditioning",
+      "viscosity-controlling"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Ürünün kıvamını ve akışkanlığını düzenler."
+  },
+  {
+    "slug": "polyglyceryl-3-methylglucose-distearate",
+    "inci": "POLYGLYCERYL-3 METHYLGLUCOSE DISTEARATE",
+    "nameTr": "Poligliseril-3 metilglukoz distearat",
+    "functionKeys": [
+      "surfactant-emulsifying"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "acacia-decurrens-flower-wax",
+    "inci": "ACACIA DECURRENS FLOWER WAX",
+    "nameTr": "Acacia decurrens çiçek mumu",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "peg-11-methyl-ether-dimethicone",
+    "inci": "PEG-11 METHYL ETHER DIMETHICONE",
+    "nameTr": "PEG-11 metil eter dimetikon",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "hair-conditioning",
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "silicon"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Yağ ve su fazlarının birlikte dağılmasına yardımcı olur."
+  },
+  {
+    "slug": "vitis-vinifera-vine-extract",
+    "inci": "VITIS VINIFERA VINE EXTRACT",
+    "nameTr": "Üzüm asması özütü",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "asiaticoside",
+    "inci": "ASIATICOSIDE",
+    "nameTr": "Asiatikozit",
+    "functionKeys": [
+      "antioxidant",
+      "skin-conditioning",
+      "perfuming"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "antioxidant",
+      "helps-reduce-skin-redness",
+      "helps-reduce-irritation",
+      "good-for-scar-healing"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Oksidasyonu sınırlayarak formülün korunmasına katkı sağlar."
+  },
+  {
+    "slug": "madecassic-acid",
+    "inci": "MADECASSIC ACID",
+    "nameTr": "Madekasik asit",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-reduce-skin-redness",
+      "helps-reduce-irritation",
+      "good-for-scar-healing"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "asiatic-acid",
+    "inci": "ASIATIC ACID",
+    "nameTr": "Asiatik asit",
+    "functionKeys": [
+      "skin-conditioning",
+      "light-stabilizer"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [
+      "helps-reduce-skin-redness",
+      "helps-reduce-irritation",
+      "good-for-scar-healing"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "sodium-anisate",
+    "inci": "SODIUM ANISATE",
+    "nameTr": "Sodyum anisat",
+    "functionKeys": [
+      "antimicrobial",
+      "fragrance",
+      "flavouring",
+      "ph-adjusters"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Mikroorganizmaların çoğalmasını sınırlayan formül bileşenlerindendir. Formülün koku yapısına katkı sağlayabilir."
+  },
+  {
+    "slug": "sodium-levulinate",
+    "inci": "SODIUM LEVULINATE",
+    "nameTr": "Sodyum levulinat",
+    "functionKeys": [
+      "skin-conditioning-miscellaneous"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Kozmetik formüllerde cilt bakım bileşeni olarak kullanılır."
+  },
+  {
+    "slug": "prunus-armeniaca-kernel-oil",
+    "inci": "PRUNUS ARMENIACA KERNEL OIL",
+    "nameTr": "Kayısı çekirdeği yağı",
+    "functionKeys": [
+      "fragrance",
+      "skin-conditioning"
+    ],
+    "comedogenic": "2(1)",
+    "irritancy": "0",
+    "fungalAcne": "trigger",
+    "tags": [
+      "oil",
+      "not-safe-for-fungal-acne",
+      "may-worsen-oily-skin"
+    ],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar. Formülün koku yapısına katkı sağlayabilir."
+  },
+  {
+    "slug": "peg-40-sorbitan-peroleate",
+    "inci": "PEG-40 SORBITAN PEROLEATE",
+    "nameTr": "PEG-40 sorbitan peroleat",
+    "functionKeys": [
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur. Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar."
+  },
+  {
+    "slug": "dextrin-palmitate",
+    "inci": "DEXTRIN PALMITATE",
+    "nameTr": "Dekstrin palmitat",
+    "functionKeys": [
+      "anticaking",
+      "surfactant-emulsifying",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": "trigger",
+    "tags": [
+      "not-safe-for-fungal-acne"
+    ],
+    "restrictions": [],
+    "description": "Yağ ve su fazlarının birlikte dağılmasına yardımcı olur. Yüzey aktif yapısıyla kir ve yağın temizlenmesine katkı sağlar."
+  },
+  {
+    "slug": "diisostearyl-malate",
+    "inci": "DIISOSTEARYL MALATE",
+    "nameTr": "Diizostearil malat",
+    "functionKeys": [
+      "skin-conditioning-emollient",
+      "skin-conditioning",
+      "surfactant-cleansing"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyini yumuşatır ve ürünün yayılmasını kolaylaştırır. Cilt yüzeyinin bakımına katkı sağlar."
+  },
+  {
+    "slug": "lactobacillus-ferment",
+    "inci": "LACTOBACILLUS FERMENT",
+    "nameTr": "Lactobacillus fermenti",
+    "functionKeys": [
+      "skin-conditioning"
+    ],
+    "comedogenic": null,
+    "irritancy": null,
+    "fungalAcne": null,
+    "tags": [],
+    "restrictions": [],
+    "description": "Cilt yüzeyinin bakımına katkı sağlar."
+  }
+]

@@ -1,0 +1,50 @@
+{
+ "slug": "thalia-natural-beauty-pepthydra-goz-kremi",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/pepthydra-eye-cream",
+  "nameTr": "Thalia Pepthydra Eye Cream Göz Kremi",
+  "inci": [
+   "AQUA(WATER)",
+   "BUTYROSPERMUM PARKII(SHEA) BUTTER",
+   "COCO-CAPRYLATE/CAPRATE",
+   "CAPRYLIC/CAPRIC TRIGLYCERIDE",
+   "PANTHENOL",
+   "CANDELILLA/JOJOBA/RICE BRAN POLYGLYCERYL-3 ESTERS",
+   "CETEARETH-25",
+   "GLYCERYL STEARATE",
+   "CETEARYL OLIVATE",
+   "SORBITAN OLIVATE",
+   "CETEARYL ALCOHOL",
+   "SODIUM STEAROYL LACTYLATE",
+   "PHENOXYETHANOL",
+   "GLYCERIN",
+   "SODIUM POLYACRYLATE",
+   "CAFFEINE",
+   "HELIANTHUS ANNUUS(SUNFLOWER) SEED OIL",
+   "XANTHAN GUM",
+   "ETHYLHEXYLGLYCERIN",
+   "ROSA CANINA FRUIT EXTRACT",
+   "HESPERIDIN METHYL CHALCONE",
+   "STEARETH-20",
+   "SODIUM CITRATE",
+   "TRIETHANOLAMINE",
+   "DIPEPTIDE-2",
+   "POTASSIUM SORBATE",
+   "CITRIC ACID",
+   "CHLORHEXIDINE DIGLUCONATE",
+   "PALMITOYL TETRAPEPTIDE-7",
+   "CI 77492(IRON OXIDE)",
+   "CI 77891(TITANIUM DIOXIDE)"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Göz kremini sabah ve akşam, temiz ve kuru cilde uygulayın.",
+   "Ürünü göz çevresine nazik dokunuşlarla uygulayarak emilmesini sağlayın."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220265-qupf4TAha4-01_1024x1024.jpg",
+  "title": "pepthydra-eye-cream",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "aciklama": "2026-11-12 öneri: çift marka adlı ve 90 karakterde kesilmiş slug'lar. Uygulanmadı: slug değişince eski adres hemen 404 olur, next.config.ts 301'leri ancak ortak deploy edince canlıya çıkar; ikisi birlikte yapılmalı.",
+ "slug": {
+  "thalia-natural-beauty-thalia-after-epilation-body-gel-vucut-losyonu": "thalia-natural-beauty-epilasyon-sonrasi-vucut-jeli",
+  "thalia-natural-beauty-thalia-kokteyl-vucut-losyonu-hindistan-cevizi": "thalia-natural-beauty-kokteyl-vucut-losyonu-hindistan-cevizi",
+  "thalia-natural-beauty-thalia-kokteyl-vucut-losyonu-papaya": "thalia-natural-beauty-kokteyl-vucut-losyonu-papaya",
+  "thalia-natural-beauty-thalia-salisilik-asit-yuz-temizleme-jeli": "thalia-natural-beauty-salisilik-asit-yuz-temizleme-jeli",
+  "thalia-natural-beauty-thalia-gul-yagi-e-vitamini-vucut-losyonu": "thalia-natural-beauty-gul-yagi-e-vitamini-vucut-losyonu",
+  "thalia-natural-beauty-thalia-clay-stick-yuz-maskesi-calmpink": "thalia-natural-beauty-clay-stick-yuz-maskesi-calmpink",
+  "thalia-natural-beauty-thalia-pepthydra-eye-cream-goz-kremi": "thalia-natural-beauty-pepthydra-goz-kremi",
+  "thalia-natural-beauty-thalia-pepthydra-yuz-serumu": "thalia-natural-beauty-pepthydra-yuz-serumu",
+  "thalia-natural-beauty-thalia-barrier-boosting-nemlendirici-yuz-kremi": "thalia-natural-beauty-barrier-boosting-nemlendirici-yuz-kremi",
+  "thalia-natural-beauty-thalia-barrier-boosting-tonik": "thalia-natural-beauty-barrier-boosting-tonik",
+  "thalia-natural-beauty-thalia-body-lotion-vucut-losyonu-nia-squa": "thalia-natural-beauty-nia-squa-vucut-losyonu",
+  "thalia-natural-beauty-thalia-body-lotion-vucut-losyonu-aqua-squa": "thalia-natural-beauty-aqua-squa-vucut-losyonu",
+  "thalia-natural-beauty-thalia-traditional-rose-water-gul-suyu": "thalia-natural-beauty-geleneksel-gul-suyu",
+  "thalia-natural-beauty-thalia-parfumlu-el-kremi-white-flowers": "thalia-natural-beauty-parfumlu-el-kremi-white-flowers",
+  "thalia-natural-beauty-thalia-parfumlu-el-kremi-tsubaki-blossom": "thalia-natural-beauty-parfumlu-el-kremi-tsubaki-blossom",
+  "thalia-natural-beauty-thalia-marjoram-yagi-cay-agaci-yuz-temizleme-jeli": "thalia-natural-beauty-marjoram-yagi-cay-agaci-yuz-temizleme-jeli",
+  "thalia-natural-beauty-thalia-marjoram-yagi-cay-agaci-matlastirici-yuz-kremi": "thalia-natural-beauty-marjoram-yagi-cay-agaci-matlastirici-yuz-kremi",
+  "thalia-natural-beauty-thalia-kokteyl-vucut-losyonu-elma": "thalia-natural-beauty-kokteyl-vucut-losyonu-elma",
+  "thalia-natural-beauty-thalia-kokteyl-vucut-losyonu-ahududu": "thalia-natural-beauty-kokteyl-vucut-losyonu-ahududu",
+  "thalia-natural-beauty-thalia-the-c-urea-el-bakim-kremi": "thalia-natural-beauty-the-c-urea-el-bakim-kremi",
+  "thalia-natural-beauty-thalia-bisabolol-yuz-temizleme-jeli": "thalia-natural-beauty-bisabolol-yuz-temizleme-jeli",
+  "thalia-natural-beauty-thalia-gul-yagi-panthenol-yuz-temizleme-kopugu": "thalia-natural-beauty-gul-yagi-panthenol-yuz-temizleme-kopugu",
+  "thalia-natural-beauty-thalia-pepthydra-night-cream-yuz-gece-kremi": "thalia-natural-beauty-pepthydra-yuz-gece-kremi",
+  "thalia-natural-beauty-thalia-barrier-boosting-gel-yuz-serumu": "thalia-natural-beauty-barrier-boosting-gel-yuz-serumu",
+  "thalia-natural-beauty-thalia-barrier-boosting-makyaj-temizleme-suyu": "thalia-natural-beauty-barrier-boosting-makyaj-temizleme-suyu",
+  "thalia-natural-beauty-thalia-barrier-boosting-yuz-temizleme-jeli": "thalia-natural-beauty-barrier-boosting-yuz-temizleme-jeli",
+  "thalia-natural-beauty-thalia-body-lotion-vucut-losyonu-cica-squa": "thalia-natural-beauty-cica-squa-vucut-losyonu",
+  "thalia-natural-beauty-thalia-body-lotion-vucut-losyonu-vita-squa": "thalia-natural-beauty-vita-squa-vucut-losyonu",
+  "thalia-natural-beauty-thalia-collagen-sleeping-yuz-maskesi": "thalia-natural-beauty-collagen-sleeping-yuz-maskesi",
+  "thalia-natural-beauty-thalia-parfumlu-el-kremi-iris-touch": "thalia-natural-beauty-parfumlu-el-kremi-iris-touch",
+  "thalia-natural-beauty-thalia-parfumlu-el-kremi-gardenia-soul": "thalia-natural-beauty-parfumlu-el-kremi-gardenia-soul",
+  "thalia-natural-beauty-thalia-marjoram-yagi-cay-agaci-matlastirici-yuz-tonigi": "thalia-natural-beauty-marjoram-yagi-cay-agaci-matlastirici-yuz-tonigi",
+  "yoskine-yoksine-zen-lift-zengin-icerikli-sikilastirici-yuz-kremi": "yoskine-zen-lift-zengin-icerikli-sikilastirici-yuz-kremi",
+  "janssen-cosmetics-face-guard-advanced-spf30-gunes-korumali-isilti-veren-serum-etkili-nemle": "janssen-cosmetics-face-guard-advanced-spf30-serum-etkili-nemlendirici",
+  "calliel-tint-repair-centella-ozlu-bariyer-onarici-yatistirici-kizariklik-karsiti-ton-esitl": "calliel-tint-repair-centella-bariyer-onarici-ton-esitleyici-yuz-kremi",
+  "calliel-leke-karsiti-glutatyon-etkili-tum-ciltler-icin-yuksek-korumali-spf50-yuz-gunes-kre": "calliel-glutatyon-leke-karsiti-spf50-yuz-gunes-kremi",
+  "calliel-72-saat-yogun-nemlendirme-etikili-4d-hyaluronic-acid-ve-cica-complex-bariyer-deste": "calliel-72-saat-4d-hyaluronik-asit-cica-nemlendirici-yuz-kremi",
+  "she-vec-matte-s-up-yagli-ve-karma-ciltler-icin-matlastirici-ve-cilt-tonu-esitleyici-50-spf": "she-vec-mattes-up-matlastirici-ton-esitleyici-spf50-gunes-kremi",
+  "she-vec-love-in-blue-this-time-kirisiklik-ve-yaslanma-karsiti-onarici-ve-aydinlatici-yuz-s": "she-vec-love-in-blue-this-time-onarici-aydinlatici-yuz-serumu",
+  "cosmogenesis-labs-karma-ve-yagli-ciltler-icin-arindirici-sebum-dengeleyici-yuz-temizleme-j": "cosmogenesis-labs-yagli-karma-cilt-sebum-dengeleyici-yuz-temizleme-jeli",
+  "bolbe-yogun-nemlendirici-dolgunlastirici-kirisiklik-karsiti-peptitli-hyaluronik-asit-yuz-s": "bolbe-peptitli-hyaluronik-asit-dolgunlastirici-yuz-serumu",
+  "bolbe-spf-50-sun-drop-yuksek-korumali-leke-karsiti-ve-gunluk-gunes-serumu-invisible-sun-fl": "bolbe-sun-drop-spf50-leke-karsiti-gunes-serumu-invisible-sun-fluid",
+  "clara-hygienics-clear-shield-50-spf-postbiyotik-destekli-leke-onleyici-ve-koruyucu-gunes-k": "clara-hygienics-clear-shield-spf50-postbiyotik-gunes-kremi",
+  "clara-hygienics-pink-tone-up-50-spf-postbiyotik-destekli-ton-esitleyici-ve-koruyucu-gunes": "clara-hygienics-pink-tone-up-spf50-postbiyotik-gunes-kremi",
+  "rimu-health-cilt-tonu-esitleyici-ve-yogun-nemlendirici-yuz-kremi-hyaluronic-acid-niacinami": "rimu-health-hyaluronik-asit-niasinamid-ton-esitleyici-yuz-kremi",
+  "the-ceel-pirinc-sutu-beyazlatici-aydinlatici-ve-nemlendirici-cilt-tonu-esitleyici-yuz-toni": "the-ceel-pirinc-sutu-aydinlatici-ton-esitleyici-yuz-tonigi",
+  "the-ceel-pirinc-sutu-nemlendirici-aydinlatici-ve-leke-karsiti-ton-esitleyici-50-spf-yuz-gu": "the-ceel-pirinc-sutu-leke-karsiti-spf50-yuz-gunes-kremi",
+  "the-ceel-pirinc-sutu-aydinlatici-ve-nemlendirici-leke-karsiti-cilt-tonu-esitleyici-yuz-ser": "the-ceel-pirinc-sutu-aydinlatici-leke-karsiti-yuz-serumu"
+ },
+ "marka_notlari": [
+  {
+   "konu": "roc marka kaydının görüntü adı",
+   "oneri": "Katalogdaki marka görüntü adını Roc yerine RoC olarak düzelt; marka slugı roc aynı kalabilir."
+  },
+  {
+   "konu": "arko-nem-arko-suncare-50-spf-cocuk-gunes-kremi",
+   "oneri": "Arko Suncare güneş ürünü Arko Nem altında; marka mimarisini doğrulayıp ayrı Arko Suncare kaydı ve uygun ürün bağlantısını değerlendir. Ürün slugı ve 301 kararını buna göre birlikte ele al."
+  }
+ ]
+}

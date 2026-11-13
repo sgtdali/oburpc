@@ -1,0 +1,33 @@
+DENETÇİ GERİ BİLDİRİMİ (tur 1) — İŞ REDDEDİLDİ, METİNLER YENİDEN YAZILACAK.
+
+A) ŞABLON METİN YASAK. texts.json'daki ürün açıklamalarının çoğu aynı kalıptan (kodla/şablonla) üretilmiş
+   ("…günlük kullanıma uygun bir … ürünüdür. Formülündeki öne çıkan … sayesinde cildi destekler",
+   "cildi canlandıran ve arındıran bir toniktir… Günlük bakımınızın önemli bir adımıdır"). Madde açıklamalarının hepsi
+   aynı tek cümle ("Kozmetik formüllerde kullanılan bir bileşendir." / "…yapıyı desteklemek, kıvam ayarlamak…").
+   Bunların HİÇBİRİ kabul edilmez. tools.py check artık bunları HATA olarak yakalıyor.
+   - Metinleri Python/şablon/döngü ile ÜRETME. Her ürün için `tools.py summary <marka> <slug>` çıktısını oku ve o ürüne
+     özgü 3–5 cümleyi kendin yaz: kime yönelik, ilk sıralardaki ve öne çıkan aktifler ve ne işe yaradıkları (oranı
+     sayfada yazıyorsa oranı), doku/kullanım biçimi, analizle tutarlı içerir/içermez (yalnızca ürün için anlamlı
+     olanları), dikkat noktası (alkol ilk sıralarda, uçucu yağ/alerjen, asit + güneş, Fulton puanı yüksek madde ilk 7'de).
+     Aynı cümleyi birden fazla üründe kullanma.
+   - Madde metinleri: her madde için gerçek Türkçe yaygın adı (ör. "Hindistan cevizi gliseritleri", "Kaolin kili",
+     "Bal (Mel)"; Türkçe karşılığı yoksa INCI okunuşu ama BAŞ HARFİ BÜYÜK Türkçe yazım, ör. "Heksildesil stearat") ve o
+     maddeye özgü 1–2 cümle: ne olduğu, formülde ne işe yaradığı, varsa dikkat noktası. Emin olmadığın bilgiyi yazma.
+     Örnek kalite (mevcut katalogdan): niacinamide → "Niasinamid (B3 vitamini)": "Çok yönlü bir aktiftir: bariyeri
+     güçlendirir, kızarıklığı yatıştırır, gözenek görünümünü ve ton eşitsizliğini azaltır…"
+   - İş büyük: 10'ar ürünlük partiler halinde ilerle; her partiden sonra texts.json'u kaydet ve check çalıştır.
+     Turun sonunda bitiremezsen kaldığın yeri report.md'ye yaz ve "DURUM: DEVAM" ile bitir; denetçi aynı oturumda
+     devam ettirecek. Hız değil kalite.
+
+B) HAM VERİ: Bazı raw dosyalarında içerik listesini elle düzeltmiştin (yazım hatası düzeltme, madde silme). Bu yasak;
+   raw dosyaları denetçi tarafından kaynaktan geri yüklendi. Analiz motoruna genel onarım eklendi (bozuk boşluklar,
+   yanlış bölünmüş/birleşmiş maddeler); kalan tanınmayanları YALNIZCA synonyms.json ile çöz.
+   - La Roche-Posay: "DANDELION RHIZOME/ROOT EXTRACT" → CosIng adı "TARAXACUM OFFICINALE RHIZOME/ROOT EXTRACT"
+     (synonyms.json'a ekle; check'te tanınmayan kalmamalı).
+   - Asla raw dosyasını elle düzenleme; gerekirse yalnızca `tools.py fetch` ile yeniden çek.
+
+C) Marka beyanı aktarma ve tıbbi ifade kuralları aynen geçerli (BRIEF.md). "İyileştirir" gibi kozmetik bağlamda bile
+   iddialı fiiller yerine "görünümünü düzeltmeye yardım eder" gibi ölçülü ifade kullan.
+
+D) Bitiş: `tools.py check <marka>` → 0 HATA (uyarıları da gözden geçir). report.md güncel. Son satır:
+   DURUM: BİTTİ / DURUM: DEVAM / DURUM: SORU.

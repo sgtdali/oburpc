@@ -1,0 +1,434 @@
+[
+  {
+    "slug": "cerave",
+    "name": "CeraVe",
+    "country": "ABD",
+    "site": "https://www.cerave.com.tr"
+  },
+  {
+    "slug": "la-roche-posay",
+    "name": "La Roche-Posay",
+    "country": "Fransa",
+    "site": "https://www.laroche-posay.com.tr"
+  },
+  {
+    "slug": "bioderma",
+    "name": "Bioderma",
+    "country": "Fransa",
+    "site": "https://www.bioderma.com.tr"
+  },
+  {
+    "slug": "avene",
+    "name": "Avène",
+    "country": "Fransa",
+    "site": "https://www.eau-thermale-avene.com.tr"
+  },
+  {
+    "slug": "the-purest-solutions",
+    "name": "The Purest Solutions",
+    "country": "Türkiye",
+    "site": "https://thepurestsolutions.com"
+  },
+  {
+    "slug": "ducray",
+    "name": "Ducray",
+    "country": "Fransa",
+    "site": "https://www.ducray.com/tr-tr"
+  },
+  {
+    "slug": "nivea",
+    "name": "Nivea",
+    "country": "Almanya",
+    "site": "https://www.nivea.com.tr"
+  },
+  {
+    "slug": "loreal-paris",
+    "name": "L'Oréal Paris",
+    "country": "Fransa",
+    "site": "https://www.lorealparis.com.tr"
+  },
+  {
+    "slug": "caudalie",
+    "name": "Caudalie",
+    "country": "Fransa",
+    "site": "https://tr.caudalie.com"
+  },
+  {
+    "slug": "sinoz",
+    "name": "Sinoz",
+    "country": "Türkiye",
+    "site": "https://www.sinoz.com.tr"
+  },
+  {
+    "slug": "maruderm",
+    "name": "Maruderm",
+    "country": "Türkiye",
+    "site": "https://www.maruderm.com"
+  },
+  {
+    "slug": "neutrogena",
+    "name": "Neutrogena",
+    "country": "ABD",
+    "site": "https://www.neutrogena.com.tr"
+  },
+  {
+    "slug": "benri",
+    "name": "Benri",
+    "country": "Türkiye",
+    "site": null
+  },
+  {
+    "slug": "janssen-cosmetics",
+    "name": "Janssen Cosmetics",
+    "country": "Almanya",
+    "site": "https://www.janssen-cosmetics.com"
+  },
+  {
+    "slug": "m-asam",
+    "name": "M.Asam",
+    "country": "Almanya",
+    "site": "https://www.asambeauty.com"
+  },
+  {
+    "slug": "lip-smacker",
+    "name": "Lip Smacker",
+    "country": "ABD",
+    "site": "https://www.lipsmacker.com"
+  },
+  {
+    "slug": "simple",
+    "name": "Simple",
+    "country": "Birleşik Krallık",
+    "site": "https://www.simple.co.uk"
+  },
+  {
+    "slug": "dr-pawpaw",
+    "name": "Dr. Pawpaw",
+    "country": null,
+    "site": null
+  },
+  {
+    "slug": "hada-labo-tokyo",
+    "name": "Hada Labo Tokyo",
+    "country": "Japonya",
+    "site": "https://hadalabotokyo.com"
+  },
+  {
+    "slug": "cashmere",
+    "name": "Cashmere",
+    "country": null,
+    "site": null
+  },
+  {
+    "slug": "yoskine",
+    "name": "Yoskine",
+    "country": "Polonya",
+    "site": "https://www.yoskine.com"
+  },
+  {
+    "slug": "ziaja",
+    "name": "Ziaja",
+    "country": "Polonya",
+    "site": "https://en.ziaja.com"
+  },
+  {
+    "slug": "himalaya",
+    "name": "Himalaya",
+    "country": "Hindistan",
+    "site": "https://himalayawellness.com.tr"
+  },
+  {
+    "slug": "blistex",
+    "name": "Blistex",
+    "country": "ABD",
+    "site": "https://www.blistex.com"
+  },
+  {
+    "slug": "foreo",
+    "name": "Foreo",
+    "country": "İsveç",
+    "site": "https://www.foreo.com"
+  },
+  {
+    "slug": "vaseline",
+    "name": "Vaseline",
+    "country": "ABD",
+    "site": "https://www.vaseline.com"
+  },
+  {
+    "slug": "cire-aseptine",
+    "name": "Cire Aseptine",
+    "country": "Türkiye",
+    "site": "https://anthemiscosmetics.com"
+  },
+  {
+    "slug": "centesol",
+    "name": "Centesol",
+    "country": "Türkiye",
+    "site": "https://gorkito.com"
+  },
+  {
+    "slug": "rimu-health",
+    "name": "Rimu Health",
+    "country": "Türkiye",
+    "site": "https://rimuhealthproducts.com"
+  },
+  {
+    "slug": "the-bath-factory",
+    "name": "The Bath Factory",
+    "country": "Türkiye",
+    "site": "https://www.thebathfactory.com"
+  },
+  {
+    "slug": "the-fair",
+    "name": "the fair.",
+    "country": "Türkiye",
+    "site": null
+  },
+  {
+    "slug": "korelya",
+    "name": "Korelya",
+    "country": "Türkiye",
+    "site": "https://www.korelya.com.tr"
+  },
+  {
+    "slug": "she-vec",
+    "name": "She Vec",
+    "country": "Türkiye",
+    "site": "https://shevec.com"
+  },
+  {
+    "slug": "pure-choice",
+    "name": "Pure Choice",
+    "country": null,
+    "site": null
+  },
+  {
+    "slug": "cream-co",
+    "name": "Cream Co.",
+    "country": "Türkiye",
+    "site": "https://creamco.com.tr"
+  },
+  {
+    "slug": "cosmogenesis-labs",
+    "name": "Cosmogenesis Labs",
+    "country": "Türkiye",
+    "site": "https://www.cosmogenesislabs.com"
+  },
+  {
+    "slug": "the-ceel",
+    "name": "The Ceel",
+    "country": "Türkiye",
+    "site": "https://theceel.com"
+  },
+  {
+    "slug": "olalab",
+    "name": "Olalab",
+    "country": "Türkiye",
+    "site": "https://olalab.com.tr"
+  },
+  {
+    "slug": "anyong",
+    "name": "Anyong",
+    "country": "Türkiye",
+    "site": "https://anyong.com.tr"
+  },
+  {
+    "slug": "thalia-natural-beauty",
+    "name": "Thalia Natural Beauty",
+    "country": "Türkiye",
+    "site": "https://www.thalia.com.tr"
+  },
+  {
+    "slug": "clara-hygienics",
+    "name": "Clara Hygienics",
+    "country": "Türkiye",
+    "site": "https://clarahygienics.com"
+  },
+  {
+    "slug": "bolbe",
+    "name": "Bolbe",
+    "country": "Türkiye",
+    "site": "https://www.bolbeskincare.com"
+  },
+  {
+    "slug": "bee-beauty",
+    "name": "Bee Beauty",
+    "country": "Türkiye",
+    "site": null
+  },
+  {
+    "slug": "authoriderm",
+    "name": "Authoriderm",
+    "country": "Türkiye",
+    "site": null
+  },
+  {
+    "slug": "calliel",
+    "name": "Calliel",
+    "country": "Türkiye",
+    "site": "https://calliel.com.tr"
+  },
+  {
+    "slug": "mia-klinika",
+    "name": "Mia Klinika",
+    "country": "Türkiye",
+    "site": "https://miaklinika.com"
+  },
+  {
+    "slug": "arko-nem",
+    "name": "Arko Nem",
+    "country": "Türkiye",
+    "site": "https://www.arkonem.com.tr"
+  },
+  {
+    "slug": "sun-of",
+    "name": "Sun Of+",
+    "country": "Türkiye",
+    "site": null
+  },
+  {
+    "slug": "dermokil",
+    "name": "Dermokil",
+    "country": "Türkiye",
+    "site": "https://dermokil.com"
+  },
+  {
+    "slug": "dermoten",
+    "name": "Dermoten",
+    "country": "Türkiye",
+    "site": "https://www.dermoten.com"
+  },
+  {
+    "slug": "mara",
+    "name": "Mara",
+    "country": null,
+    "site": null
+  },
+  {
+    "slug": "dermal",
+    "name": "Dermal",
+    "country": "Güney Kore",
+    "site": "http://www.dermalkorea.com"
+  },
+  {
+    "slug": "mamonde",
+    "name": "Mamonde",
+    "country": "Güney Kore",
+    "site": "https://www.mamonde.com"
+  },
+  {
+    "slug": "innisfree",
+    "name": "Innisfree",
+    "country": "Güney Kore",
+    "site": "https://www.innisfree.com"
+  },
+  {
+    "slug": "emo-i",
+    "name": "Emo'i",
+    "country": "Güney Kore",
+    "site": null
+  },
+  {
+    "slug": "vt-cosmetics",
+    "name": "VT Cosmetics",
+    "country": "Güney Kore",
+    "site": "https://www.vt-cosmetics.com"
+  },
+  {
+    "slug": "isntree",
+    "name": "Isntree",
+    "country": "Güney Kore",
+    "site": "https://isntree.com"
+  },
+  {
+    "slug": "pure-korean",
+    "name": "Pure Korean",
+    "country": "Güney Kore",
+    "site": "https://www.purekorean.com"
+  },
+  {
+    "slug": "skin1004",
+    "name": "Skin1004",
+    "country": "Güney Kore",
+    "site": "https://www.skin1004.com"
+  },
+  {
+    "slug": "cosnori",
+    "name": "Cosnori",
+    "country": "Güney Kore",
+    "site": "https://cosnori.com"
+  },
+  {
+    "slug": "some-by-mi",
+    "name": "Some By Mi",
+    "country": "Güney Kore",
+    "site": "https://somebymi.com"
+  },
+  {
+    "slug": "etude",
+    "name": "Etude",
+    "country": "Güney Kore",
+    "site": "https://int.etude.com"
+  },
+  {
+    "slug": "beauty-of-joseon",
+    "name": "Beauty of Joseon",
+    "country": "Güney Kore",
+    "site": "https://beautyofjoseon.com"
+  },
+  {
+    "slug": "burt-s-bees",
+    "name": "Burt's Bees",
+    "country": null,
+    "site": null
+  },
+  {
+    "slug": "roc",
+    "name": "RoC",
+    "country": "Fransa",
+    "site": "https://www.rocskincare.com"
+  },
+  {
+    "slug": "the-fine-organics",
+    "name": "The Fine Organics",
+    "country": "Türkiye",
+    "site": "https://thefineorganics.com"
+  },
+  {
+    "slug": "jumiso",
+    "name": "Jumiso",
+    "country": "Güney Kore",
+    "site": "https://www.jumiso.co.kr"
+  },
+  {
+    "slug": "mary-may",
+    "name": "Mary & May",
+    "country": "Güney Kore",
+    "site": "https://marynmay.com"
+  },
+  {
+    "slug": "5c-cure",
+    "name": "5C Cure",
+    "country": "Güney Kore",
+    "site": null
+  },
+  {
+    "slug": "garnier",
+    "name": "Garnier",
+    "country": "Fransa",
+    "site": "https://www.garnier.com.tr"
+  },
+  {
+    "slug": "otaci",
+    "name": "Otaci",
+    "country": "Türkiye",
+    "site": "https://otaci.com"
+  },
+  {
+    "slug": "celenes",
+    "name": "Celenes",
+    "country": "İsveç",
+    "site": "https://tr.celenesbysweden.com"
+  }
+]

@@ -1,0 +1,138 @@
+{
+ "A": {
+  "text": "Mad Parfüm A123 Selective, Byredo Lil Fleur'ün muadilidir (%78 nota benzerliği). İkisi de siyah frenk üzümü (cassis) ve safranla açılır; gül, deri ve vanilya da ortak. Fark: A123'te yasemin ve paçuli var, Lil Fleur'de ise mandalina ve odunsu notalar bulunur.",
+  "answers": {
+   "answers_query": {
+    "type": "score",
+    "score": 2.95,
+    "confidence": 0.96,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.98
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.07
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.97,
+    "confidence": 0.97,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.03,
+     "3": 0.97
+    }
+   },
+   "accuracy": {
+    "type": "score",
+    "score": 2.76,
+    "confidence": 0.76,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.02,
+     "2": 0.11,
+     "3": 0.84
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.23
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.29
+   }
+  }
+ },
+ "B": {
+  "text": "Mad Parfüm A123 Selective, Byredo Lil Fleur'ün muadilidir (%78 nota benzerliği). Siyah frenk üzümü (cassis), safran, gül, deri ve vanilya iki parfümde de var. A123 bunlara kalpte yasemin, dipte paçuli ekler; Lil Fleur'deki mandalina ve odunsu notalar A123'te yok.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.94,
+    "confidence": 0.93,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.01,
+     "2": 0.02,
+     "3": 0.96
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.13
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.21
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.91,
+    "confidence": 0.9,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.96
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.07
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.97,
+    "confidence": 0.97,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.03,
+     "3": 0.97
+    }
+   }
+  }
+ }
+}

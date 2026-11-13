@@ -1,0 +1,5 @@
+MARKA: ducray (Ducray). Hazırlık klasörün: scripts\skincare\staging\ducray\
+Türkiye sitesi: https://www.ducray.com/tr-tr  (ürün sayfaları /tr-tr/p/...; seri sayfaları /tr-tr/f/ueruenler/...)
+Katalogdaki mevcut 5 ürün (tekrar ekleme): keracnyl-foaming-gel, keracnyl-pp-plus, keracnyl-serum, keracnyl-lotion, melascreen-serum.
+İçerik listesi "#composition_inci-panel" panelinden (Avène ile aynı, çıkarıcı hazır). Ürün bağlantıları sayfada href olarak değil gömülü metin içinde geçebilir: "/tr-tr/p/" ile başlayan yolları regex ile çıkar.
+Kapsam notları: Ducray'in çoğu ürünü saç/saçlı deri (Kelual, Anaphase, Squanorm, Sabal, Nutricerat, Extra-Doux, Kertyol şampuanları vb.) → HARİÇ. Hidrosis (terleme) HARİÇ. SPF'li Melascreen/Keracnyl ürünleri HARİÇ. Cilt bakımı kapsamda: Keracnyl, Melascreen, Dexyane, Ictyane, Sensinol (vücut/cilt ürünleri), varsa diğerleri. Saçlı deri + cilt ortak ürünlerde karar veremezsen SORU sor.

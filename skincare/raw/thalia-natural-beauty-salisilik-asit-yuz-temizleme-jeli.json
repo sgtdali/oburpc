@@ -1,0 +1,46 @@
+{
+ "slug": "thalia-natural-beauty-salisilik-asit-yuz-temizleme-jeli",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/yuz-yikama-jeli-acne-skin-cleanser",
+  "nameTr": "Thalia Salisilik Asit Yüz Temizleme Jeli",
+  "inci": [
+   "AQUA (WATER)",
+   "COCO-GLUCOSIDE",
+   "COCAMIDOPROPYL BETAINE",
+   "TRIETHANOLAMINE",
+   "GLYCERIN",
+   "SALICYLIC ACID",
+   "DISODIUM COCOYL GLUTAMATE",
+   "GLYCERYL OLEATE",
+   "BENZYL ALCOHOL",
+   "TETRASODIUM EDTA",
+   "NIACINAMIDE",
+   "PEG-12 DIMETHICONE",
+   "ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER",
+   "SODIUM COCOYL GLUTAMATE",
+   "CENTELLA ASIATICA EXTRACT",
+   "CERAMIDE NP",
+   "PANTHENOL",
+   "INULIN",
+   "DEHYDROACETIC ACID",
+   "PEG-7 GLYCERYL COCOATE",
+   "SODIUM BENZOATE",
+   "CITRIC ACID",
+   "FRUCTOSE",
+   "TOCOPHERYL ACETATE",
+   "PHENOXYETHANOL"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Nemli cilde az miktarda jel uygulayın.",
+   "Dairesel hareketlerle masaj yapın.",
+   "Ilık suyla durulayın.",
+   "Sabah ve akşam olmak üzere günde iki kez kullanılabilir."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220912-6lTkDAReEd-01_1024x1024.jpg",
+  "title": "yuz-yikama-jeli-acne-skin-cleanser",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

@@ -1,0 +1,314 @@
+{
+ "serp": {
+  "eski": {
+   "text": "Bargello 122 Neyin Muadili? Tam İnceleme | Bargello 122, Hugo Boss Boss Intense muadilidir (%91 nota benzerliği). Notaları, kalıcılığı, hangi mevsimde ve kime uygun olduğu bu incelemede.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 1.55,
+     "confidence": 0.32,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.07,
+      "1": 0.43,
+      "2": 0.39,
+      "3": 0.11
+     }
+    },
+    "click_reason": {
+     "type": "score",
+     "score": 2.3,
+     "confidence": 0.3,
+     "legend": {
+      "0": "No reason",
+      "1": "Weak reason",
+      "2": "Some reason",
+      "3": "Strong, honest reason"
+     },
+     "probabilities": {
+      "0": 0.03,
+      "1": 0.13,
+      "2": 0.35,
+      "3": 0.49
+     }
+    },
+    "clickbait": {
+     "type": "noul",
+     "noul": 0.48
+    }
+   }
+  },
+  "S1": {
+   "text": "Bargello 122 Neyin Muadili? Boss Intense mi, La Vie Est Belle mi? | Bazı siteler La Vie Est Belle diyor. Bargello'nun 122 için verdiği notaları iki parfümle karşılaştırdık: 6 notanın 5'i Boss Intense'te, 3'ü La Vie Est Belle'de.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.9,
+     "confidence": 0.89,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.01,
+      "2": 0.06,
+      "3": 0.92
+     }
+    },
+    "click_reason": {
+     "type": "score",
+     "score": 2.61,
+     "confidence": 0.61,
+     "legend": {
+      "0": "No reason",
+      "1": "Weak reason",
+      "2": "Some reason",
+      "3": "Strong, honest reason"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.05,
+      "2": 0.26,
+      "3": 0.68
+     }
+    },
+    "clickbait": {
+     "type": "noul",
+     "noul": 0.2
+    }
+   }
+  },
+  "S2": {
+   "text": "Bargello 122 Neyin Muadili? Boss Intense mi, La Vie Est Belle mi? | Bargello 122'nin notalarını Boss Intense ve La Vie Est Belle ile tek tek karşılaştırdık: ortak notalar, eksikler ve hangisine daha yakın olduğu.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.69,
+     "confidence": 0.7,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.06,
+      "2": 0.15,
+      "3": 0.78
+     }
+    },
+    "click_reason": {
+     "type": "score",
+     "score": 2.54,
+     "confidence": 0.55,
+     "legend": {
+      "0": "No reason",
+      "1": "Weak reason",
+      "2": "Some reason",
+      "3": "Strong, honest reason"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.07,
+      "2": 0.28,
+      "3": 0.64
+     }
+    },
+    "clickbait": {
+     "type": "noul",
+     "noul": 0.3
+    }
+   }
+  },
+  "S3": {
+   "text": "Bargello 122 Neyin Muadili? Boss Intense ile Nota Nota Karşılaştırma | Bargello 122, Hugo Boss Boss Intense muadili. 6 notasından 5'i Boss Intense'te var; eksik ve fazla notalar ve La Vie Est Belle iddiası bu yazıda.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.73,
+     "confidence": 0.72,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.02,
+      "1": 0.04,
+      "2": 0.14,
+      "3": 0.8
+     }
+    },
+    "click_reason": {
+     "type": "score",
+     "score": 2.75,
+     "confidence": 0.77,
+     "legend": {
+      "0": "No reason",
+      "1": "Weak reason",
+      "2": "Some reason",
+      "3": "Strong, honest reason"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.03,
+      "2": 0.14,
+      "3": 0.81
+     }
+    },
+    "clickbait": {
+     "type": "noul",
+     "noul": 0.23
+    }
+   }
+  }
+ },
+ "body": {
+  "eski": {
+   "text": "Parfüm severlerin sıkça yönelttiği Bargello 122 neyin muadili? sorusunun cevabı, markanın ikonik tasarımı Hugo Boss Boss Intense modelidir. Orijinal parfümün piyasada bulunabilirliğinin azalması veya formülasyon değişiklikleri, kullanıcıları bu başarılı alternatife yönlendirmektedir. %91 gibi yüksek bir benzerlik oranı sunan ürün, orijinalindeki o karakteristik sıcaklığı ve 'karanlık' cazibeyi büyük ölçüde yansıtmayı başarır. Orijinal Hugo Boss Boss Intense ile kıyaslandığında, Bargello yorumu açılışta çok hafif bir ton daha keskin başlayabilir ancak koku oturdukça aradaki fark ayırt edilemeyecek düzeye iner. Benzer tarzda, sıcak ve vanilya tabanlı kokuları sevenler için Dior Addict veya Armani Code gibi parfümler de alternatif olarak düşünülebilir, ancak 122 kodlu ürünün kendine has baharatlı yapısı onu ayrı bir yerde konumlandırır.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 1.05,
+     "confidence": 0.85,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.05,
+      "1": 0.86,
+      "2": 0.08,
+      "3": 0.01
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.95
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.69
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.96,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.25
+    },
+    "useful": {
+     "type": "score",
+     "score": 1.85,
+     "confidence": 0.62,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.25,
+      "2": 0.63,
+      "3": 0.11
+     }
+    }
+   }
+  },
+  "B1": {
+   "text": "Bargello 122, Hugo Boss Boss Intense'in muadilidir. İncelediğimiz bağımsız kod listelerinin hepsi bu eşleşmeyi veriyor. Bazı satış sayfalarında La Vie Est Belle'e benzetiliyor, ancak notalar Boss Intense'i gösteriyor: Bargello'nun 122 için verdiği altı notanın beşi (vanilya, gül, sandal ağacı, amber, paçuli) Boss Intense'te de var, yalnızca üstteki portakal çiçeği yok. Boss Intense ayrıca baharatlar, kumkuat, yasemin, benzoin ve misk içeriyor; bunlar 122'nin tarifinde geçmiyor. La Vie Est Belle ile ortak nota ise üç: portakal çiçeği, vanilya ve paçuli. La Vie Est Belle'in armut, frenk üzümü, iris, pralin ve tonka notaları 122'de yok.",
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.9,
+     "confidence": 0.89,
+     "legend": {
+      "0": "Contradicts the facts",
+      "1": "Several claims not in the facts",
+      "2": "Mostly consistent, one minor stretch",
+      "3": "Fully consistent with the facts"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.01,
+      "2": 0.06,
+      "3": 0.92
+     }
+    },
+    "unsupported": {
+     "type": "noul",
+     "noul": 0.18
+    },
+    "overpromise": {
+     "type": "noul",
+     "noul": 0.2
+    },
+    "answers_query": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.96,
+     "legend": {
+      "0": "No",
+      "1": "Only later in the text",
+      "2": "Yes but vaguely",
+      "3": "Yes, clearly and immediately"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "generic": {
+     "type": "noul",
+     "noul": 0.05
+    },
+    "useful": {
+     "type": "score",
+     "score": 2.88,
+     "confidence": 0.89,
+     "legend": {
+      "0": "Not useful",
+      "1": "Slightly useful",
+      "2": "Useful",
+      "3": "Very useful, concrete differences explained"
+     },
+     "probabilities": {
+      "0": 0.0,
+      "1": 0.01,
+      "2": 0.09,
+      "3": 0.9
+     }
+    }
+   }
+  }
+ }
+}

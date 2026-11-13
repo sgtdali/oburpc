@@ -1,0 +1,44 @@
+{
+ "slug": "cream-co-yag-bazli-yuz-temizleyici",
+ "brandSite": {
+  "url": "https://creamco.com.tr/products/balm-cleanser",
+  "nameTr": "Yağ Bazlı Yüz Temizleyici",
+  "inci": [
+   "ETHYLHEXYL PALMITATE",
+   "SORBETH-30 TETRAOLEATE",
+   "CETYL ETHYLHEXANOATE",
+   "AQUA",
+   "OZOKERITE",
+   "HELIANTHUS ANNUUS SEED OIL",
+   "ISOPENTYLDIOL",
+   "C12-13 PARETH-9",
+   "ORYZA SATIVA BRAN OIL",
+   "PENTYLENE GLYCOL",
+   "CAPRYLYL GLYCOL",
+   "SIMMONDSIA CHINENSIS SEED OIL",
+   "VITIS VINIFERA SEED OIL",
+   "ROSA CANINA FRUIT OIL",
+   "ADANSONIA DIGITATA SEED OIL",
+   "RUBUS CHAMAEMORUS SEED OIL",
+   "ETHYLHEXYLGLYCERIN",
+   "PROPANEDIOL",
+   "HYDROLYZED GLYCOSAMINOGLYCANS",
+   "GLYCERIN",
+   "SODIUM HYALURONATE",
+   "HYDROLYZED HYALURONIC ACID",
+   "HYALURONIC ACID",
+   "SODIUM HYALURONATE CROSSPOLYMER"
+  ],
+  "inciSource": "cream-co",
+  "claims": null,
+  "howTo": [
+   "Özel kaşığıyla yeterli miktarda ürünü alın ve cilt ısısıyla eritin.",
+   "Kuru ya da nemli cilde masaj yaparak uygulayın, su ile durulayın.",
+   "Marka, ardından su bazlı bir temizleyiciyle devam edilmesini öneriyor."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/8683767633791-ii1M6SSkex-01_1024x1024.jpg",
+  "title": "balm-cleanser",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıda okundu (Python'a 429); liste Gratis'tekiyle aynı, kullanım talimatı marka sayfasından (tanıtım notları çıkarıldı)"
+ }
+}

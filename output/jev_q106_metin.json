@@ -1,0 +1,371 @@
+{
+ "eski": {
+  "text": "Tom Ford Vanille Fatale'in tutkulu ve bağımlılık yaratan vanilya cazibesine kapılanlar için, Q106 Selective, bu büyüleyici ve kalpleri fetheden imzanın ruhunu taşıyan eşsiz bir yansımadır. Q106 Selective, Tom Ford Vanille Fatale tarzında, sizi sarıp sarmalayan o baştan çıkarıcı duyusal yolculuğu daha erişilebilir kılar.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 1.86,
+    "confidence": 0.13,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.42,
+     "2": 0.28,
+     "3": 0.29
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.87
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.73
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 1.86,
+    "confidence": 0.0,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.27,
+     "1": 0.09,
+     "2": 0.16,
+     "3": 0.48
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.57
+   },
+   "useful": {
+    "type": "score",
+    "score": 0.91,
+    "confidence": 0.81,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.14,
+     "1": 0.8099999999999999,
+     "2": 0.05,
+     "3": 0.0
+    }
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.75,
+    "confidence": 0.75,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.03,
+     "2": 0.19,
+     "3": 0.78
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 1.84,
+    "confidence": 0.54,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.27,
+     "2": 0.5599999999999999,
+     "3": 0.15
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 2.3,
+    "confidence": 0.3,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.04,
+     "1": 0.12,
+     "2": 0.34,
+     "3": 0.5
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.76
+   }
+  }
+ },
+ "A": {
+  "text": "Mad Parfüm Q106 Selective, Tom Ford Vanille Fatale'in muadilidir (%77 nota benzerliği). Rom, safran ve kişniş, erik, gül, nergis, frangipani ve mür, vanilya, tütün, maun ve paçuli iki parfümde de ortak. Fark: Vanille Fatale'deki kahve, arpa ve süet Q106'da yok; Q106'da bunların yerine mandalina, tütsü ve sandal ağacı bulunur.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.94,
+    "confidence": 0.93,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.01,
+     "2": 0.02,
+     "3": 0.96
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.11
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.2
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.94,
+    "confidence": 0.96,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.98
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.05
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.98,
+    "confidence": 0.98,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.02,
+     "3": 0.98
+    }
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.57,
+    "confidence": 0.57,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.05,
+     "2": 0.33,
+     "3": 0.62
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 2.76,
+    "confidence": 0.77,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.21,
+     "3": 0.78
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 2.95,
+    "confidence": 0.95,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.02,
+     "3": 0.97
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.71
+   }
+  }
+ },
+ "B": {
+  "text": "Mad Parfüm Q106 Selective, Tom Ford Vanille Fatale'in muadilidir (%77 nota benzerliği). İkisi de rom, safran ve kişnişle açılır; erik, gül, nergis, frangipani ve mür taşır, vanilya, tütün, maun ve paçuliyle biter. Fark: Q106'da Vanille Fatale'deki kahve, arpa ve süet yok, onun yerine mandalina, tütsü ve sandal ağacı var.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.93,
+    "confidence": 0.92,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.01,
+     "2": 0.03,
+     "3": 0.95
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.15
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.23
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.97,
+    "confidence": 0.96,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.98
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.05
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.58,
+    "confidence": 0.6,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.04,
+     "2": 0.32,
+     "3": 0.64
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 2.93,
+    "confidence": 0.94,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.01,
+     "2": 0.01,
+     "3": 0.97
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.69
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.99,
+    "confidence": 0.99,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.99
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 2.88,
+    "confidence": 0.89,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.11,
+     "3": 0.89
+    }
+   }
+  }
+ }
+}

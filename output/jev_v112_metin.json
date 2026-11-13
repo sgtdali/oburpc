@@ -1,0 +1,248 @@
+{
+ "eski": {
+  "text": "Victoria's Secret Tease Creme Cloud'un o eşsiz kremsi ve bulutsu tatlılığını sevenler için, V112 Selective büyüleyici bir muadil sunuyor. Üst notalardaki yumuşak geçişlerden dip notalardaki sıcak, sarıp sarmalayan kapanışa kadar, orijinalin zarif cazibesini yakalayan bu alternatif, lüks bir deneyimi daha erişilebilir bir fiyatla sunarak adeta onun parıltılı bir yansıması oluyor.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 1.42,
+    "confidence": 0.46,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.06,
+     "1": 0.57,
+     "2": 0.26,
+     "3": 0.11
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.88
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.74
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.47,
+    "confidence": 0.46,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.12,
+     "1": 0.02,
+     "2": 0.14,
+     "3": 0.72
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.71
+   },
+   "useful": {
+    "type": "score",
+    "score": 1.08,
+    "confidence": 0.81,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.06,
+     "1": 0.81,
+     "2": 0.13,
+     "3": 0.0
+    }
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.79,
+    "confidence": 0.79,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.02,
+     "2": 0.17,
+     "3": 0.81
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 1.74,
+    "confidence": 0.51,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.32,
+     "2": 0.54,
+     "3": 0.11
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 1.83,
+    "confidence": 0.3,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.09,
+     "1": 0.26,
+     "2": 0.39,
+     "3": 0.26
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.8
+   }
+  }
+ },
+ "yeni": {
+  "text": "Mad Parfüm V112 Selective, Victoria's Secret Tease Creme Cloud'un muadilidir (%83 nota benzerliği). V112'nin notaları: üstte kiraz, kalpte amber ve misk, dipte sandal ağacı ve vanilya. Vanilya, sandal ağacı, misk ve amber iki parfümde de ortak. Fark: V112 kirazla açılır; Tease Creme Cloud'daki beze notası V112'de yok.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.89,
+    "confidence": 0.89,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.01,
+     "2": 0.06,
+     "3": 0.92
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.16
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.29
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.9,
+    "confidence": 0.88,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.01,
+     "2": 0.01,
+     "3": 0.95
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.07
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.9,
+    "confidence": 0.91,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.09,
+     "3": 0.91
+    }
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.55,
+    "confidence": 0.56,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.04,
+     "2": 0.36,
+     "3": 0.6
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 2.76,
+    "confidence": 0.77,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.21,
+     "3": 0.78
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 2.97,
+    "confidence": 0.98,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.02,
+     "3": 0.98
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.71
+   }
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "slug": "cream-co-bha-pha-niacinamide-akne-gozenek-karsiti-tonik",
+ "brandSite": {
+  "url": "https://creamco.com.tr/products/bha-pha-niacinamide-toner",
+  "nameTr": "BHA/PHA Niacinamide Akne & Gözenek Karşıtı Tonik",
+  "inci": [
+   "AQUA",
+   "PENTYLENE GLYCOL",
+   "NIACINAMIDE",
+   "SALICYLIC ACID",
+   "GLUCONOLACTONE",
+   "PPG-26-BUTETH-26",
+   "POLYSORBATE 20",
+   "MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL",
+   "INULIN",
+   "FRUCTOSE",
+   "PHENOXYETHANOL",
+   "CAMELLIA SINENSIS LEAF EXTRACT",
+   "HAMAMELIS VIRGINIANA (WITCH HAZEL) LEAF EXTRACT",
+   "SODIUM HYDROXIDE",
+   "ETHYLHEXYLGLYCERIN"
+  ],
+  "inciSource": "cream-co",
+  "claims": null,
+  "howTo": [
+   "Gece rutininde cildi temizledikten sonra yüz ve boyun bölgesine ya da ihtiyaca göre bölgesel uygulayın.",
+   "Göz bölgesinden kaçının ve durulamayın.",
+   "Marka, AHA, BHA, PHA, LHA, C vitamini ve retinol ile aynı rutinde kullanılmamasını öneriyor."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/8683767633425-8KZlyDuUpE-01_1024x1024.jpg",
+  "title": "bha-pha-niacinamide-toner",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıda okundu (Python'a 429); liste Gratis'tekiyle aynı, kullanım talimatı marka sayfasından (tanıtım notları çıkarıldı)"
+ }
+}

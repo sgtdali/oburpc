@@ -1,0 +1,4236 @@
+[
+ {
+  "page": "https://uygunbakim.com/product/carlota-royal-jean-pierre-737-erkek-edp",
+  "impressions": 3510,
+  "ctr": 0.0373,
+  "position": 6.5,
+  "title": "Carlota Jean Pierre 737 Neyin Muadili? Jean Paul Gaultier Le Male Elixir",
+  "meta": "Carlota Jean Pierre 737, Jean Paul Gaultier Le Male Elixir parfümünün muadilidir. Nota benzerliği %69. Ortak notalar: Lavanta, Nane, Vanilya, Tütün.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 72,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 72 is over 60, so search results will cut it off"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.08
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.48
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 148,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 3,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.23
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.17
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.04
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.66,
+     "probabilities": {
+      "other": 0,
+      "transactional": 0.04,
+      "commercial": 0.22,
+      "navigational": 0.01,
+      "informational": 0.73
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/mad-parfum-y105-selective",
+  "impressions": 2504,
+  "ctr": 0.004,
+  "position": 6.7,
+  "title": "Mad Parfüm Y105 Selective Neyin Muadili? Elie Saab Le Parfum Bridal",
+  "meta": "Mad Parfüm Y105 Selective, Elie Saab Le Parfum Bridal parfümünün muadilidir. Nota benzerliği %60. Ortak notalar: Portakal, Portakal Çiçeği, Vanilya, Amber.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 67,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 67 is over 60, so search results will cut it off"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.91,
+     "confidence": 0.9,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.03,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.96
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.94,
+     "confidence": 0.93,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.01,
+      "2": 0.02,
+      "3": 0.96
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.09
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.49
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 155,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 3,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.14
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.19
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.05
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.71,
+     "probabilities": {
+      "other": 0,
+      "navigational": 0,
+      "commercial": 0.21,
+      "informational": 0.77,
+      "transactional": 0.02
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/mad-parfum-h103-selective",
+  "impressions": 2445,
+  "ctr": 0.0008,
+  "position": 9.8,
+  "title": "Mad Parfüm H103 Selective Neyin Muadili? Dior Hypnotic Poison (%82 benzer)",
+  "meta": "Mad Parfüm H103 Selective, Dior Hypnotic Poison parfümünün muadilidir. Nota benzerliği %82. Ortak notalar: Kayısı, Erik, Hindistancevizi, Sümbülteber.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 74,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 74 is over 60, so search results will cut it off"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 1.95,
+     "confidence": 0,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.15,
+      "1": 0.16,
+      "2": 0.27,
+      "3": 0.42
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.1
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.42
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 150,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 0.72,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.03,
+      "3": 0.97
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 1.35,
+     "confidence": 0.38,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.13,
+      "1": 0.49,
+      "2": 0.27,
+      "3": 0.11
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.21
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.14
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.69,
+     "probabilities": {
+      "commercial": 0.23,
+      "other": 0,
+      "informational": 0.75,
+      "transactional": 0.01,
+      "navigational": 0.01
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/carlota-overdose-875",
+  "impressions": 2149,
+  "ctr": 0.014,
+  "position": 6,
+  "title": "Carlota - OVERDOSE 875 | Notaları ve Yorumları",
+  "meta": "Carlota OVERDOSE, baştan çıkarıcı ve güçlü bir erkek parfümüdür. Yoğun tatlılığı, sıcak baharatları ve gurme dokusuyla dikkat çeker. Üst notalarda Tarçın, Hindi",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 46,
+    "status": "ok",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.88,
+     "confidence": 0.86,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.03,
+      "1": 0.01,
+      "2": 0.03,
+      "3": 0.9299999999999999
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.84,
+     "confidence": 0.84,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.02,
+      "1": 0.01,
+      "2": 0.08,
+      "3": 0.89
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.23
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.42
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 160,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 0.73,
+   "verdict": "rewrite",
+   "reasons": [
+    "accuracy 2.13 below 2.8",
+    "promises something the page does not contain (0.6)"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.13,
+     "confidence": 0.34,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.1,
+      "1": 0.07,
+      "2": 0.44,
+      "3": 0.39
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.24,
+     "confidence": 0.48,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0.14,
+      "2": 0.48,
+      "3": 0.38
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.31
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.14
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.6
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "commercial",
+     "confidence": 0.35,
+     "probabilities": {
+      "informational": 0.25,
+      "transactional": 0.23,
+      "navigational": 0.04,
+      "other": 0,
+      "commercial": 0.48
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/mad-parfum-b106-selective",
+  "impressions": 1977,
+  "ctr": 0.003,
+  "position": 8.7,
+  "title": "Mad Parfüm B106 Selective Neyin Muadili? Burberry Men (%97 benzer)",
+  "meta": "Mad Parfüm B106 Selective, Burberry Men parfümünün muadilidir. Nota benzerliği %97. Ortak notalar: Sedir Ağacı, Bergamot, Lavanta, Nane.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 66,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 66 is over 60, so search results will cut it off"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.11
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.46
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 136,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 3,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.27
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.17
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.75,
+     "probabilities": {
+      "transactional": 0.02,
+      "informational": 0.8,
+      "navigational": 0.01,
+      "commercial": 0.17,
+      "other": 0
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-226-kadin",
+  "impressions": 1804,
+  "ctr": 0,
+  "position": 8.7,
+  "title": "Bargello 226 Neyin Muadili? Yves Saint Laurent Black Opium (%94 benzer)",
+  "meta": "Bargello 226, Yves Saint Laurent Black Opium parfümünün muadilidir. Nota benzerliği %94. Ortak notalar: Sedir Ağacı, Portakal Çiçeği, Armut, Pembe Biber.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 71,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 71 is over 60, so search results will cut it off"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.89,
+     "confidence": 0.89,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.02,
+      "1": 0.01,
+      "2": 0.03,
+      "3": 0.94
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.08
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.4
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 153,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 0.97,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.84,
+     "confidence": 0.83,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.02,
+      "1": 0.02,
+      "2": 0.07,
+      "3": 0.89
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.24
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.16
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.56,
+     "probabilities": {
+      "other": 0,
+      "navigational": 0.02,
+      "informational": 0.65,
+      "commercial": 0.28,
+      "transactional": 0.04
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-585-erkek",
+  "impressions": 1600,
+  "ctr": 0.0019,
+  "position": 9.1,
+  "title": "Bargello 585 Neyin Muadili? Hugo Boss Boss Bottled (%95 benzer)",
+  "meta": "Bargello 585, Hugo Boss Boss Bottled parfümünün muadilidir. Nota benzerliği %95. Ortak notalar: Elma, Erik, Limon, Bergamot.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 63,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 63 is over 60, so search results will cut it off"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.81,
+     "confidence": 0.79,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.04,
+      "1": 0.02,
+      "2": 0.05,
+      "3": 0.89
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.1
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.41
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 124,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 0.97,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.81,
+     "confidence": 0.83,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.03,
+      "2": 0.08,
+      "3": 0.88
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.26
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.15
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.4,
+     "probabilities": {
+      "transactional": 0.09,
+      "informational": 0.52,
+      "commercial": 0.38,
+      "navigational": 0.01,
+      "other": 0
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/mad-parfum-p107-selective",
+  "impressions": 1475,
+  "ctr": 0.0027,
+  "position": 10.2,
+  "title": "Mad Parfüm P107 Selective Neyin Muadili? Prada Paradoxe (%100 benzer)",
+  "meta": "Mad Parfüm P107 Selective, Prada Paradoxe parfümünün muadilidir. Nota benzerliği %100. Ortak notalar: Armut, Mandalina, Bergamot, Portakal Çiçeği.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 69,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 69 is over 60, so search results will cut it off",
+    "keyword stuffed (0.62)"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.19
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.62
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 146,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.27
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.22
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.07
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.77,
+     "probabilities": {
+      "commercial": 0.14,
+      "transactional": 0.03,
+      "informational": 0.82,
+      "other": 0,
+      "navigational": 0.01
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/mad-parfum-w223-selective",
+  "impressions": 1440,
+  "ctr": 0.009,
+  "position": 7.9,
+  "title": "Mad Parfüm W223 Selective Neyin Muadili? Gucci Bamboo Eau De Toilette",
+  "meta": "Mad Parfüm W223 Selective, Gucci Bamboo Eau De Toilette parfümünün muadilidir. Nota benzerliği %77. Ortak notalar: Armut, Mandalina, Yasemin, Portakal Çiçeği.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 69,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 69 is over 60, so search results will cut it off"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.92,
+     "confidence": 0.93,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.02,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.97
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.08
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.46
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 158,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.12
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.19
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.07
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.71,
+     "probabilities": {
+      "commercial": 0.2,
+      "navigational": 0.01,
+      "informational": 0.77,
+      "transactional": 0.02,
+      "other": 0
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/mad-parfum-w183-selective",
+  "impressions": 1418,
+  "ctr": 0.0049,
+  "position": 8.3,
+  "title": "Mad Parfüm W183 Selective Neyin Muadili? Creed Aventus",
+  "meta": "Mad Parfüm W183 Selective, Creed Aventus parfümünün muadilidir. Ortak notalar: Bergamot, Yasemin, Paçuli.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 54,
+    "status": "ok",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.88,
+     "confidence": 0.89,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.02,
+      "1": 0.01,
+      "2": 0.03,
+      "3": 0.93
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.09
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.49
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 105,
+    "status": "short",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 0.99,
+   "verdict": "rewrite",
+   "reasons": [
+    "length 105 is short (target 120 to 160)"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 3,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.92,
+     "confidence": 0.93,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0.01,
+      "2": 0.05,
+      "3": 0.93
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.16
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.18
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.05
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.69,
+     "probabilities": {
+      "informational": 0.75,
+      "transactional": 0.01,
+      "other": 0,
+      "commercial": 0.23,
+      "navigational": 0.01
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-266-kadin",
+  "impressions": 1414,
+  "ctr": 0.0007,
+  "position": 8.4,
+  "title": "Bargello 266 Neyin Muadili? Cacharel Noa (%96 benzer)",
+  "meta": "Bargello 266, Cacharel Noa parfümünün muadilidir. Nota benzerliği %96. Ortak notalar: Beyaz Misk, Şakayık, Frezya, Yeşil Notalar.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 53,
+    "status": "ok",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 1,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.08
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.41
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 129,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "intent_match": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.28
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.17
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.76,
+     "probabilities": {
+      "transactional": 0.02,
+      "other": 0,
+      "navigational": 0.01,
+      "commercial": 0.16,
+      "informational": 0.81
+     }
+    },
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-254-kadin",
+  "impressions": 1351,
+  "ctr": 0.0007,
+  "position": 9.3,
+  "title": "Bargello 254 Neyin Muadili? Lancome Idole (%89 benzer)",
+  "meta": "Bargello 254, Lancome Idole parfümünün muadilidir. Nota benzerliği %89. Ortak notalar: Armut, Bergamot, Pembe Biber, Gül.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 54,
+    "status": "ok",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 1,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.08
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.37
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 121,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.16
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.13
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.7,
+     "probabilities": {
+      "commercial": 0.2,
+      "other": 0,
+      "informational": 0.76,
+      "transactional": 0.03,
+      "navigational": 0.01
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/carlota-hades-540",
+  "impressions": 1328,
+  "ctr": 0.0316,
+  "position": 7.4,
+  "title": "Carlota HADES 540 Neyin Muadili? Maison Francis Kurkdjian Baccarat Rouge 540",
+  "meta": "Carlota HADES 540, Maison Francis Kurkdjian Baccarat Rouge 540 parfümünün muadilidir. Nota benzerliği %64. Ortak notalar: Safran, Yasemin, Ambergris, Amberwood.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 76,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 76 is over 60, so search results will cut it off",
+    "keyword stuffed (0.51)"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.94,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.09
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.51
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 160,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.22
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.17
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.68,
+     "probabilities": {
+      "informational": 0.74,
+      "transactional": 0.04,
+      "other": 0,
+      "commercial": 0.22,
+      "navigational": 0
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-618-erkek",
+  "impressions": 1287,
+  "ctr": 0.0016,
+  "position": 9.7,
+  "title": "Bargello 618 Neyin Muadili? Carolina Herrera 212 Vip Men",
+  "meta": "Bargello 618, Carolina Herrera 212 Vip Men parfümünün muadilidir. Nota benzerliği %63. Ortak notalar: Biber, Zencefil, Nane, Baharatlı Notalar.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 56,
+    "status": "ok",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.09
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.36
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 143,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.17
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.19
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.07
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.75,
+     "probabilities": {
+      "commercial": 0.18,
+      "other": 0,
+      "informational": 0.8,
+      "transactional": 0.01,
+      "navigational": 0.01
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/mad-parfum-n105-selective",
+  "impressions": 1269,
+  "ctr": 0.0024,
+  "position": 9.9,
+  "title": "Mad Parfüm N105 Selective Neyin Muadili? Natura Luna Intenso (%88 benzer)",
+  "meta": "Mad Parfüm N105 Selective, Natura Luna Intenso parfümünün muadilidir. Nota benzerliği %88. Ortak notalar: Gül, Şeftali, Portakal Çiçeği, Misk.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 73,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 73 is over 60, so search results will cut it off"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.08
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.43
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 142,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.18
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.19
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.61,
+     "probabilities": {
+      "navigational": 0.01,
+      "commercial": 0.28,
+      "transactional": 0.02,
+      "other": 0,
+      "informational": 0.69
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-388-kadin",
+  "impressions": 1258,
+  "ctr": 0.0048,
+  "position": 6.1,
+  "title": "Bargello 388 Neyin Muadili? Victoria's Secret Night (%80 benzer)",
+  "meta": "Bargello 388, Victoria's Secret Night parfümünün muadilidir. Nota benzerliği %80. Ortak notalar: Elma, Orkide, Yasemin, Limon.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 64,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 64 is over 60, so search results will cut it off"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.09
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.41
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 126,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.16
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.17
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.05
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.71,
+     "probabilities": {
+      "other": 0,
+      "navigational": 0.01,
+      "informational": 0.77,
+      "commercial": 0.19,
+      "transactional": 0.03
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-707-erkek",
+  "impressions": 1135,
+  "ctr": 0,
+  "position": 8,
+  "title": "Bargello 707 Neyin Muadili? Yves Saint Laurent Y (%93 benzer)",
+  "meta": "Bargello 707, Yves Saint Laurent Y parfümünün muadilidir. Nota benzerliği %93. Ortak notalar: Aldehitler, Bergamot, Zencefil, Nane.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 61,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 61 is over 60, so search results will cut it off",
+    "keyword stuffed (0.52)"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.95,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.91,
+     "confidence": 0.9,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.02,
+      "1": 0.01,
+      "2": 0.02,
+      "3": 0.95
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.1
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.52
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 131,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 0.97,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.85,
+     "confidence": 0.86,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.02,
+      "2": 0.07,
+      "3": 0.9
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.2
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.15
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.05
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.34,
+     "probabilities": {
+      "commercial": 0.46,
+      "navigational": 0.01,
+      "informational": 0.47000000000000003,
+      "transactional": 0.06,
+      "other": 0
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/carlota-gold-rose-868",
+  "impressions": 1098,
+  "ctr": 0.0364,
+  "position": 6.4,
+  "title": "Carlota Gold Rose 868 Neyin Muadili? Paco Rabanne 1 Million (%84 benzer)",
+  "meta": "Carlota Gold Rose 868, Paco Rabanne 1 Million parfümünün muadilidir. Nota benzerliği %84. Ortak notalar: Greyfurt, Nane, Gül, Tarçın.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 72,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 72 is over 60, so search results will cut it off",
+    "keyword stuffed (0.51)"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.09
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.51
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 133,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 3,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.24
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.17
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.52,
+     "probabilities": {
+      "commercial": 0.29,
+      "transactional": 0.08,
+      "informational": 0.62,
+      "other": 0,
+      "navigational": 0.01
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-146-kadin",
+  "impressions": 1057,
+  "ctr": 0.0303,
+  "position": 4.8,
+  "title": "Bargello 146 Neyin Muadili? Chloe Nomade (%95 benzer)",
+  "meta": "Bargello 146, Chloe Nomade parfümünün muadilidir. Nota benzerliği %95. Ortak notalar: Bergamot, Limon, Portakal, Frezya.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 53,
+    "status": "ok",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.08
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.46
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 120,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.27
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.17
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.08
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.56,
+     "probabilities": {
+      "transactional": 0.03,
+      "informational": 0.65,
+      "commercial": 0.31,
+      "other": 0,
+      "navigational": 0.01
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/caos-920-erkek-parfum",
+  "impressions": 1039,
+  "ctr": 0.0221,
+  "position": 4.8,
+  "title": "Carlota CAOS 920 Neyin Muadili? Hugo Boss Boss Bottled Elixir (%90 benzer)",
+  "meta": "Carlota CAOS 920, Hugo Boss Boss Bottled Elixir parfümünün muadilidir. Nota benzerliği %90. Ortak notalar: Vetiver, Labdanum, Kakule, Sedir Ağacı.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 74,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 74 is over 60, so search results will cut it off",
+    "keyword stuffed (0.52)"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.58,
+     "confidence": 0.6,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.07,
+      "1": 0.04,
+      "2": 0.11,
+      "3": 0.78
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.12
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.52
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 146,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 0.94,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 3,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.62,
+     "confidence": 0.6,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.04,
+      "1": 0.07,
+      "2": 0.14,
+      "3": 0.75
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.3
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.18
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.05
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "commercial",
+     "confidence": 0.4,
+     "probabilities": {
+      "commercial": 0.52,
+      "informational": 0.29,
+      "navigational": 0.01,
+      "transactional": 0.18,
+      "other": 0
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-567-erkek",
+  "impressions": 1001,
+  "ctr": 0.004,
+  "position": 7.9,
+  "title": "Bargello 567 Neyin Muadili? Dior Sauvage (%100 benzer)",
+  "meta": "Bargello 567, Dior Sauvage parfümünün muadilidir. Nota benzerliği %100. Ortak notalar: Bergamot, Biber, Lavanta, Pembe Biber.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 54,
+    "status": "ok",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "keyword stuffed (0.56)"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.16
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.56
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 125,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 3,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.34
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.23
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.62,
+     "probabilities": {
+      "commercial": 0.26,
+      "navigational": 0.01,
+      "informational": 0.7,
+      "transactional": 0.03,
+      "other": 0
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-217-kadin",
+  "impressions": 978,
+  "ctr": 0.001,
+  "position": 8.5,
+  "title": "Bargello 217 Neyin Muadili? Jean Paul Gaultier Scandal (%97 benzer)",
+  "meta": "Bargello 217, Jean Paul Gaultier Scandal parfümünün muadilidir. Nota benzerliği %97. Ortak notalar: Kan Portakal, Mandalina, Bal, Gardenya.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 67,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 67 is over 60, so search results will cut it off",
+    "keyword stuffed (0.55)"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.09
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.55
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 139,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.23
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.21
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.68,
+     "probabilities": {
+      "informational": 0.74,
+      "commercial": 0.22,
+      "transactional": 0.03,
+      "navigational": 0.01,
+      "other": 0
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/mad-parfum-w165-selective",
+  "impressions": 936,
+  "ctr": 0.0043,
+  "position": 8.6,
+  "title": "Mad Parfüm W165 Selective Neyin Muadili? Gucci Guilty Platinum (%92 benzer)",
+  "meta": "Mad Parfüm W165 Selective, Gucci Guilty Platinum parfümünün muadilidir. Nota benzerliği %92. Ortak notalar: Pembe Biber, Leylak, Sardunya, Şeftali.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 75,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 75 is over 60, so search results will cut it off"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.93,
+     "confidence": 0.94,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.01,
+      "2": 0.01,
+      "3": 0.97
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.09
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.49
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 147,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 0.99,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.98,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.02,
+      "3": 0.98
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.98,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.02,
+      "3": 0.98
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.14
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.16
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.07
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.64,
+     "probabilities": {
+      "commercial": 0.25,
+      "other": 0,
+      "informational": 0.71,
+      "navigational": 0.01,
+      "transactional": 0.03
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-451-kadin",
+  "impressions": 916,
+  "ctr": 0.0033,
+  "position": 9.6,
+  "title": "Bargello 451 Neyin Muadili? Tiziana Terenzi Kirke",
+  "meta": "Bargello 451, Tiziana Terenzi Kirke parfümünün muadilidir. Nota benzerliği %68. Ortak notalar: Şeftali, Armut, Ahududu, Sandal Ağacı.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 49,
+    "status": "ok",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.94,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.93,
+     "confidence": 0.93,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.01,
+      "2": 0.02,
+      "3": 0.96
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.09
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.4
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 133,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.19
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.16
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.59,
+     "probabilities": {
+      "transactional": 0.02,
+      "informational": 0.67,
+      "other": 0,
+      "commercial": 0.3,
+      "navigational": 0.01
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/mad-parfum-v101-selective",
+  "impressions": 907,
+  "ctr": 0,
+  "position": 9.6,
+  "title": "Mad Parfüm V101 Selective Neyin Muadili? Victoria's Secret Scandalous",
+  "meta": "Mad Parfüm V101 Selective, Victoria's Secret Scandalous parfümünün muadilidir.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 69,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 69 is over 60, so search results will cut it off",
+    "accuracy 2.65 below 2.8",
+    "keyword stuffed (0.5)"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.65,
+     "confidence": 0.64,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.1,
+      "1": 0.01,
+      "2": 0.04,
+      "3": 0.85
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 1.34,
+     "confidence": 0,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.36,
+      "1": 0.22,
+      "2": 0.13,
+      "3": 0.29
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.11
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.5
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 78,
+    "status": "short",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 0.64,
+   "verdict": "rewrite",
+   "reasons": [
+    "length 78 is short (target 120 to 160)",
+    "accuracy and intent composite 0.64 below 0.66"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 0.84,
+     "confidence": 0.15,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.65,
+      "1": 0.05,
+      "2": 0.1,
+      "3": 0.2
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.17
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.12
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.04
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.57,
+     "probabilities": {
+      "other": 0.01,
+      "navigational": 0.01,
+      "commercial": 0.29,
+      "informational": 0.66,
+      "transactional": 0.03
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/mad-parfum-inviting",
+  "impressions": 832,
+  "ctr": 0.0048,
+  "position": 8.6,
+  "title": "Mad Parfüm Inviting Neyin Muadili? Yves Saint Laurent Supreme Bouquet",
+  "meta": "Mad Parfüm Inviting, Yves Saint Laurent Supreme Bouquet parfümünün muadilidir. Nota benzerliği %92. Ortak notalar: Meyveli Notalar, Armut, Sümbülteber, Yasemin.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 69,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 69 is over 60, so search results will cut it off",
+    "keyword stuffed (0.55)"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.94,
+     "confidence": 0.93,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.02,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.97
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.94,
+     "confidence": 0.93,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.01,
+      "2": 0.02,
+      "3": 0.96
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.09
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.55
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 160,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.32
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.21
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.76,
+     "probabilities": {
+      "navigational": 0,
+      "informational": 0.81,
+      "transactional": 0.01,
+      "other": 0,
+      "commercial": 0.17
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-597-erkek",
+  "impressions": 815,
+  "ctr": 0.0074,
+  "position": 6,
+  "title": "Bargello 597 Neyin Muadili? Jean Paul Gaultier Le Beau Le Parfum",
+  "meta": "Bargello 597, Jean Paul Gaultier Le Beau Le Parfum parfümünün muadilidir. Nota benzerliği %85. Ortak notalar: Ananas, İris, Selvi, Zencefil.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 64,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 64 is over 60, so search results will cut it off"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.94,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.08
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.4
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 140,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 0.99,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.95,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0.01,
+      "2": 0.03,
+      "3": 0.96
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.16
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.15
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.39,
+     "probabilities": {
+      "informational": 0.51,
+      "transactional": 0.04,
+      "other": 0,
+      "commercial": 0.43,
+      "navigational": 0.02
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-561-erkek",
+  "impressions": 774,
+  "ctr": 0.0026,
+  "position": 9.2,
+  "title": "Bargello 561 Neyin Muadili? Paco Rabanne Invictus (%100 benzer)",
+  "meta": "Bargello 561, Paco Rabanne Invictus parfümünün muadilidir. Nota benzerliği %100. Ortak notalar: Deniz Notaları, Greyfurt, Mandalina, Defne.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 63,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 63 is over 60, so search results will cut it off",
+    "keyword stuffed (0.52)"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.96,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.89,
+     "confidence": 0.9,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.02,
+      "1": 0.01,
+      "2": 0.02,
+      "3": 0.95
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.18
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.52
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 139,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 0.98,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.89,
+     "confidence": 0.88,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0.02,
+      "2": 0.05,
+      "3": 0.92
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.28
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.18
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.07
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.41,
+     "probabilities": {
+      "commercial": 0.34,
+      "navigational": 0.02,
+      "informational": 0.53,
+      "transactional": 0.11,
+      "other": 0
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-174-kadin",
+  "impressions": 771,
+  "ctr": 0.0065,
+  "position": 6.2,
+  "title": "Bargello 174 Neyin Muadili? Paris Hilton (%91 benzer)",
+  "meta": "Bargello 174, Paris Hilton parfümünün muadilidir. Nota benzerliği %91. Ortak notalar: Elma, Şeftali, Frezya, Mimoza.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 53,
+    "status": "ok",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 1,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 1
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.09
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.45
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 116,
+    "status": "short",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 1,
+   "verdict": "rewrite",
+   "reasons": [
+    "length 116 is short (target 120 to 160)"
+   ],
+   "answers": {
+    "intent_match": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.24
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.2
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.06
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.71,
+     "probabilities": {
+      "other": 0,
+      "transactional": 0.04,
+      "commercial": 0.18,
+      "navigational": 0.01,
+      "informational": 0.77
+     }
+    },
+    "accuracy": {
+     "type": "score",
+     "score": 2.99,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    }
+   }
+  }
+ },
+ {
+  "page": "https://uygunbakim.com/product/bargello-272-kadin",
+  "impressions": 771,
+  "ctr": 0.0039,
+  "position": 9.7,
+  "title": "Bargello 272 Neyin Muadili? Yves Rocher Comme Une Evidence (%100 benzer)",
+  "meta": "Bargello 272, Yves Rocher Comme Une Evidence parfümünün muadilidir. Nota benzerliği %100. Ortak notalar: Ravent, Menekşe Yaprağı, Gül, Meşe Yosunu.",
+  "title_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 72,
+    "status": "long",
+    "target": {
+     "min": 20,
+     "max": 60
+    }
+   },
+   "verdict": "rewrite",
+   "reasons": [
+    "length 72 is over 60, so search results will cut it off"
+   ],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.97,
+     "legend": {
+      "0": "Describes something the page does not cover",
+      "1": "Vague or generic",
+      "2": "Broadly right but misses the main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0,
+      "3": 0.99
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.97,
+     "confidence": 0.96,
+     "legend": {
+      "0": "Searcher would skip it",
+      "1": "Promise unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0.01,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.98
+     }
+    },
+    "overpromises": {
+     "type": "noul",
+     "noul": 0.21
+    },
+    "keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.48
+    }
+   }
+  },
+  "meta_check": {
+   "model": "jev-1.13.0",
+   "length": {
+    "chars": 147,
+    "status": "ok",
+    "target": {
+     "min": 120,
+     "max": 160
+    }
+   },
+   "composite": 0.99,
+   "verdict": "keep",
+   "reasons": [],
+   "answers": {
+    "accuracy": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.98,
+     "legend": {
+      "0": "Describes something the page does not cover, or is unrelated",
+      "1": "Vague or generic, could describe many pages",
+      "2": "Broadly right but misses the page's main point",
+      "3": "Accurately captures the page's main point"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.02,
+      "3": 0.98
+     }
+    },
+    "intent_match": {
+     "type": "score",
+     "score": 2.98,
+     "confidence": 0.99,
+     "legend": {
+      "0": "Searcher would skip it, no relevance to the keyword",
+      "1": "Keyword topic is mentioned but the promise is unclear",
+      "2": "Clear promise relevant to the keyword",
+      "3": "Clear, specific promise that directly matches the keyword's intent"
+     },
+     "probabilities": {
+      "0": 0,
+      "1": 0,
+      "2": 0.01,
+      "3": 0.99
+     }
+    },
+    "has_action_or_benefit": {
+     "type": "noul",
+     "noul": 0.22
+    },
+    "is_keyword_stuffed": {
+     "type": "noul",
+     "noul": 0.2
+    },
+    "unsupported_claim": {
+     "type": "noul",
+     "noul": 0.08
+    },
+    "page_intent": {
+     "type": "choice",
+     "choice": "informational",
+     "confidence": 0.79,
+     "probabilities": {
+      "informational": 0.83,
+      "commercial": 0.12,
+      "transactional": 0.04,
+      "navigational": 0.01,
+      "other": 0
+     }
+    }
+   }
+  }
+ }
+]

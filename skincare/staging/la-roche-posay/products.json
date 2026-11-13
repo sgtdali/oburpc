@@ -1,0 +1,354 @@
+[
+  {
+    "slug": "la-roche-posay-cicaplast-gel-b5",
+    "brand": "la-roche-posay",
+    "name": "Cicaplast Gel B5",
+    "nameTr": "Cicaplast Gel B5 Onarıcı Bakım Jeli",
+    "category": "onarici-krem",
+    "brandUrl": "https://www.laroche-posay.com.tr/cicaplast-gel-b5"
+  },
+  {
+    "slug": "la-roche-posay-cicaplast-levres",
+    "brand": "la-roche-posay",
+    "name": "Cicaplast Lèvres",
+    "nameTr": "Cicaplast Lèvres Dudak Bakım Kremi",
+    "category": "dudak-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/dudak-bakim-kremi-cicaplast-levres"
+  },
+  {
+    "slug": "la-roche-posay-cicaplast-mains",
+    "brand": "la-roche-posay",
+    "name": "Cicaplast Mains",
+    "nameTr": "Cicaplast Mains Bariyer Onarıcı El Kremi",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/cicaplast-main-bariyer-onarici-el-kremi"
+  },
+  {
+    "slug": "la-roche-posay-cicaplast-spray-b5",
+    "brand": "la-roche-posay",
+    "name": "Cicaplast Spray B5",
+    "nameTr": "Cicaplast Spray B5 Onarıcı Sprey",
+    "category": "onarici-krem",
+    "brandUrl": "https://www.laroche-posay.com.tr/cicaplast-spray-b5"
+  },
+  {
+    "slug": "la-roche-posay-effaclar-ai",
+    "brand": "la-roche-posay",
+    "name": "Effaclar A.I.",
+    "nameTr": "Effaclar A.I. Bölgesel Bakım Kremi",
+    "category": "akne-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/effaclar-ai-cilt-duzeltici-krem"
+  },
+  {
+    "slug": "la-roche-posay-effaclar-az-cream",
+    "brand": "la-roche-posay",
+    "name": "Effaclar A.Z. Cream",
+    "nameTr": "Effaclar A.Z. Akne Karşıtı Bakım Kremi",
+    "category": "akne-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/effaclar-az-cream"
+  },
+  {
+    "slug": "la-roche-posay-effaclar-duo-plus-m-patch",
+    "brand": "la-roche-posay",
+    "name": "Effaclar Duo+M Patch",
+    "nameTr": "Effaclar Duo+M Akne Karşıtı Bant",
+    "category": "akne-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/effaclar-duo-plus-m-patch"
+  },
+  {
+    "slug": "la-roche-posay-effaclar-h-cleansing-cream",
+    "brand": "la-roche-posay",
+    "name": "Effaclar H Cleansing Cream",
+    "nameTr": "Effaclar H Nemlendirici Temizleme Kremi",
+    "category": "yuz-temizleyici",
+    "brandUrl": "https://www.laroche-posay.com.tr/effaclar-h-krem-temizleyici"
+  },
+  {
+    "slug": "la-roche-posay-effaclar-h-iso-biome-cleanser",
+    "brand": "la-roche-posay",
+    "name": "Effaclar H Iso-Biome Cleanser",
+    "nameTr": "Effaclar H Iso-Biome Nemlendirici Temizleme Kremi",
+    "category": "yuz-temizleyici",
+    "brandUrl": "https://www.laroche-posay.com.tr/effaclar-h-iso-biome-lavant-cilt-temizleyici-krem"
+  },
+  {
+    "slug": "la-roche-posay-effaclar-h-iso-biome-moisturizer",
+    "brand": "la-roche-posay",
+    "name": "Effaclar H Iso-Biome Moisturizer",
+    "nameTr": "Effaclar H Iso-Biome Nemlendirici Bakım Kremi",
+    "category": "nemlendirici",
+    "brandUrl": "https://www.laroche-posay.com.tr/effaclar-h-iso-biome-nemlendirici-krem"
+  },
+  {
+    "slug": "la-roche-posay-effaclar-h",
+    "brand": "la-roche-posay",
+    "name": "Effaclar H",
+    "nameTr": "Effaclar H Nemlendirici Bakım Kremi",
+    "category": "nemlendirici",
+    "brandUrl": "https://www.laroche-posay.com.tr/effaclar-h"
+  },
+  {
+    "slug": "la-roche-posay-effaclar-k-plus",
+    "brand": "la-roche-posay",
+    "name": "Effaclar K (+)",
+    "nameTr": "Effaclar K (+) Siyah Nokta Karşıtı Bakım Kremi",
+    "category": "akne-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/yagli-ciltler-icin-effaclar-k-sebum-duzenleyici-krem"
+  },
+  {
+    "slug": "la-roche-posay-effaclar-micro-peeling",
+    "brand": "la-roche-posay",
+    "name": "Effaclar Micro-Peeling",
+    "nameTr": "Effaclar Mikro Peeling Arındırıcı Temizleme Jeli",
+    "category": "yuz-temizleyici",
+    "brandUrl": "https://www.laroche-posay.com.tr/effaclar-mikro-peeling-arindirici-jel"
+  },
+  {
+    "slug": "la-roche-posay-effaclar-supramolecular-care",
+    "brand": "la-roche-posay",
+    "name": "Effaclar Supramolecular Care",
+    "nameTr": "Effaclar Pürüz Karşıtı Bakım Kremi",
+    "category": "akne-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/effaclar-supramolecular-care"
+  },
+  {
+    "slug": "la-roche-posay-effaclar-toner",
+    "brand": "la-roche-posay",
+    "name": "Effaclar Toner",
+    "nameTr": "Effaclar Gözenek Sıkılaştırıcı Tonik",
+    "category": "tonik",
+    "brandUrl": "https://www.laroche-posay.com.tr/effaclar-gozenek-sikilastirma-etkili-tonik"
+  },
+  {
+    "slug": "la-roche-posay-effaclar-ultra-concentrated-serum",
+    "brand": "la-roche-posay",
+    "name": "Effaclar Ultra Concentrated Serum",
+    "nameTr": "Effaclar Ultra Konsantre Peeling Serum",
+    "category": "serum",
+    "brandUrl": "https://www.laroche-posay.com.tr/leke-karsiti-effaclar-ultra-konsantre-serum"
+  },
+  {
+    "slug": "la-roche-posay-hyalu-b5-eyes",
+    "brand": "la-roche-posay",
+    "name": "Hyalu B5 Eyes",
+    "nameTr": "Hyalu B5 Dolgunlaştırıcı Göz Kremi",
+    "category": "goz-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/hyalu-b5-eyes-goz-cevresi-kremi"
+  },
+  {
+    "slug": "la-roche-posay-hyalu-b5-riche-care",
+    "brand": "la-roche-posay",
+    "name": "Hyalu B5 Riche Care",
+    "nameTr": "Hyalu B5 Riche Yoğun Nemlendirici Bakım Kremi",
+    "category": "nemlendirici",
+    "brandUrl": "https://www.laroche-posay.com.tr/kirisiklik-karsiti-hyalu-b5-riche-care-krem"
+  },
+  {
+    "slug": "la-roche-posay-hyalu-b5-suractivated-cream",
+    "brand": "la-roche-posay",
+    "name": "Hyalu B5 Suractivated Cream",
+    "nameTr": "Hyalu B5 Dolgunlaştırıcı Nemlendirici Krem",
+    "category": "nemlendirici",
+    "brandUrl": "https://www.laroche-posay.com.tr/hyalu-b5-suractivated-cream"
+  },
+  {
+    "slug": "la-roche-posay-hyalu-b5-water-gel",
+    "brand": "la-roche-posay",
+    "name": "Hyalu B5 Water Gel",
+    "nameTr": "Hyalu B5 Su Bazlı Dolgunlaştırıcı Nemlendirici Jel",
+    "category": "nemlendirici",
+    "brandUrl": "https://www.laroche-posay.com.tr/hyalu-b5-water-gel"
+  },
+  {
+    "slug": "la-roche-posay-lipikar-baume-ap-plus-max",
+    "brand": "la-roche-posay",
+    "name": "Lipikar Baume AP+ M",
+    "nameTr": "Lipikar Baume AP+M Vücut Nemlendirici Krem",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/lipikar-baume-ap-plus-max"
+  },
+  {
+    "slug": "la-roche-posay-lipikar-gel-lavant",
+    "brand": "la-roche-posay",
+    "name": "Lipikar Gel Lavant",
+    "nameTr": "Lipikar Rahatlatıcı Temizleme Jeli",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/lipikar-gel-lavant"
+  },
+  {
+    "slug": "la-roche-posay-lipikar-huile-lavante-ap",
+    "brand": "la-roche-posay",
+    "name": "Lipikar Huile Lavante AP+",
+    "nameTr": "Lipikar Huile Lavante AP+ Vücut Temizleme Yağı",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/lipikar-huile-lavante-ap-temizleyici-yag"
+  },
+  {
+    "slug": "la-roche-posay-lipikar-pain-surgras",
+    "brand": "la-roche-posay",
+    "name": "Lipikar Pain Surgras",
+    "nameTr": "Lipikar Surgras Katı Temizleyici Sabun",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/lipikar-pain-surgras"
+  },
+  {
+    "slug": "la-roche-posay-lipikar-syndet-ap",
+    "brand": "la-roche-posay",
+    "name": "Lipikar Syndet AP+",
+    "nameTr": "Lipikar Syndet AP+ Yatıştırıcı Temizleme Jeli",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/lipikar-syndet-ap-vucut-yikama-jeli"
+  },
+  {
+    "slug": "la-roche-posay-lipikar-xerand",
+    "brand": "la-roche-posay",
+    "name": "Lipikar Xerand",
+    "nameTr": "Lipikar Xerand Onarıcı El Kremi",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/lipikar-xerand-onarici-el-kremi"
+  },
+  {
+    "slug": "la-roche-posay-lotion-apaisante",
+    "brand": "la-roche-posay",
+    "name": "Lotion Apaisante",
+    "nameTr": "Yatıştırıcı Yüz Toniği",
+    "category": "tonik",
+    "brandUrl": "https://www.laroche-posay.com.tr/yatistirici-tonik-losyon-apaisante"
+  },
+  {
+    "slug": "la-roche-posay-mela-b3-cleanser",
+    "brand": "la-roche-posay",
+    "name": "Mela B3 Cleanser",
+    "nameTr": "Mela B3 Leke Karşıtı Temizleme Jeli",
+    "category": "yuz-temizleyici",
+    "brandUrl": "https://www.laroche-posay.com.tr/mela-b3/mela-b3-cleanser"
+  },
+  {
+    "slug": "la-roche-posay-mela-b3-double-dose",
+    "brand": "la-roche-posay",
+    "name": "Mela B3 Double Dose",
+    "nameTr": "Mela B3 Leke Karşıtı Bakım Kremi",
+    "category": "nemlendirici",
+    "brandUrl": "https://www.laroche-posay.com.tr/mela-b3/mela-b3-double-dose"
+  },
+  {
+    "slug": "la-roche-posay-mela-b3-serum",
+    "brand": "la-roche-posay",
+    "name": "Mela B3 Serum",
+    "nameTr": "Mela B3 Leke Karşıtı Konsantre Serum",
+    "category": "serum",
+    "brandUrl": "https://www.laroche-posay.com.tr/mela-b3/mela-b3-serum"
+  },
+  {
+    "slug": "la-roche-posay-micellar-water-ultra-sensitive",
+    "brand": "la-roche-posay",
+    "name": "Micellar Water Ultra Sensitive",
+    "nameTr": "Hassas Ciltler İçin Misel Su",
+    "category": "misel-su",
+    "brandUrl": "https://www.laroche-posay.com.tr/misel-su-ultra-hassas-ciltler-icin-makyaj-temizleyici"
+  },
+  {
+    "slug": "la-roche-posay-micellar-water-ultra",
+    "brand": "la-roche-posay",
+    "name": "Micellar Water Ultra",
+    "nameTr": "Ultra Misel Su",
+    "category": "misel-su",
+    "brandUrl": "https://www.laroche-posay.com.tr/misel-su-ultra-makyaj-temizleyici"
+  },
+  {
+    "slug": "la-roche-posay-pigmentclar-eyes",
+    "brand": "la-roche-posay",
+    "name": "Pigmentclar Eyes",
+    "nameTr": "Pigmentclar Göz Çevresi Bakım Kremi",
+    "category": "goz-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/pigmentclar-eyes-goz-bakim-kremi"
+  },
+  {
+    "slug": "la-roche-posay-pure-vitamin-c-eyes",
+    "brand": "la-roche-posay",
+    "name": "Pure Vitamin C Eyes",
+    "nameTr": "Pure Vitamin C Göz Çevresi Bakım Kremi",
+    "category": "goz-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/pure-vitamin-c-eyes-bakim-kremi"
+  },
+  {
+    "slug": "la-roche-posay-redermic-c",
+    "brand": "la-roche-posay",
+    "name": "Redermic C",
+    "nameTr": "Redermic C Yaşlanma Karşıtı Bakım Kremi",
+    "category": "nemlendirici",
+    "brandUrl": "https://www.laroche-posay.com.tr/redermic-c-yaslanma-karsiti-krem"
+  },
+  {
+    "slug": "la-roche-posay-respectissime-eye-makeup-remover",
+    "brand": "la-roche-posay",
+    "name": "Respectissime Eye Makeup Remover",
+    "nameTr": "Respectissime Çift Fazlı Göz Makyaj Temizleyici",
+    "category": "makyaj-temizleyici",
+    "brandUrl": "https://www.laroche-posay.com.tr/respectissime-goz-makyaji-temizleyici"
+  },
+  {
+    "slug": "la-roche-posay-retinol-b3-serum",
+    "brand": "la-roche-posay",
+    "name": "Retinol B3 Serum",
+    "nameTr": "Retinol B3 Yaşlanma Karşıtı Gece Serumu",
+    "category": "serum",
+    "brandUrl": "https://www.laroche-posay.com.tr/retinol-b3-serum"
+  },
+  {
+    "slug": "la-roche-posay-toleriane-dermo-cleanser",
+    "brand": "la-roche-posay",
+    "name": "Toleriane Dermo-Cleanser",
+    "nameTr": "Toleriane Dermo-Cleanser Temizleme Sütü",
+    "category": "yuz-temizleyici",
+    "brandUrl": "https://www.laroche-posay.com.tr/tolerianedermo-cleanser-cilt-temizleyici"
+  },
+  {
+    "slug": "la-roche-posay-toleriane-double-cleanser",
+    "brand": "la-roche-posay",
+    "name": "Toleriane Double Cleanser",
+    "nameTr": "Toleriane Çift Aşamalı Yüz Yıkama Kremi",
+    "category": "yuz-temizleyici",
+    "brandUrl": "https://www.laroche-posay.com.tr/toleriane-foaming-gel-hydrating-purifying-double-cleanser"
+  },
+  {
+    "slug": "la-roche-posay-toleriane-hydrating-gel",
+    "brand": "la-roche-posay",
+    "name": "Toleriane Caring Wash",
+    "nameTr": "Toleriane Nemlendirici Yüz Temizleme Jeli",
+    "category": "yuz-temizleyici",
+    "brandUrl": "https://www.laroche-posay.com.tr/hassas-ciltler-icin-toleriane-nemlendirici-jel"
+  },
+  {
+    "slug": "la-roche-posay-toleriane-sensitive-riche",
+    "brand": "la-roche-posay",
+    "name": "Toleriane Sensitive Riche",
+    "nameTr": "Toleriane Sensitive Riche Yoğun Nemlendirici Krem",
+    "category": "nemlendirici",
+    "brandUrl": "https://www.laroche-posay.com.tr/toleriane-sensitive-riche-nemlendirici"
+  },
+  {
+    "slug": "la-roche-posay-toleriane-ultra-eyes",
+    "brand": "la-roche-posay",
+    "name": "Toleriane Ultra Eye Contour",
+    "nameTr": "Toleriane Ultra Göz Çevresi Bakım Kremi",
+    "category": "goz-bakimi",
+    "brandUrl": "https://www.laroche-posay.com.tr/toleriane-ultra-eye-contour-nemlendirici"
+  },
+  {
+    "slug": "la-roche-posay-toleriane-ultra-fluid",
+    "brand": "la-roche-posay",
+    "name": "Toleriane Ultra Fluid",
+    "nameTr": "Toleriane Ultra Fluid Hafif Nemlendirici",
+    "category": "nemlendirici",
+    "brandUrl": "https://www.laroche-posay.com.tr/toleriane-ultra-fluid-nemlendirici-krem"
+  },
+  {
+    "slug": "la-roche-posay-yatistirici-termal-su",
+    "brand": "la-roche-posay",
+    "name": "Thermal Spring Water",
+    "nameTr": "Yatıştırıcı Termal Su Sprey",
+    "category": "tonik",
+    "brandUrl": "https://www.laroche-posay.com.tr/la-roche-posay-yatistirici-termal-su"
+  }
+]

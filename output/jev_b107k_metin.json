@@ -1,0 +1,206 @@
+{
+ "eski": {
+  "text": "Guerlain Mon Guerlain L'Essence'ın zarif duruşunu arayanlar için B107 Selective, büyüleyici bir eşleşme. Orijinalin sofistike ruhunu başarıyla yakalayan bu muadil, cüzdan dostu bir lüks sunuyor. Etkileyici kalıcılığıyla tüm gün size eşlik eder.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 0.23,
+    "confidence": 0.78,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.78,
+     "1": 0.22,
+     "2": 0.0,
+     "3": 0.0
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.96
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.8
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 1.65,
+    "confidence": 0.0,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.41,
+     "1": 0.03,
+     "2": 0.06,
+     "3": 0.5
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.76
+   },
+   "useful": {
+    "type": "score",
+    "score": 0.64,
+    "confidence": 0.58,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.39,
+     "1": 0.58,
+     "2": 0.03,
+     "3": 0.0
+    }
+   }
+  }
+ },
+ "A": {
+  "text": "Mad Parfüm B107 Selective (kadın), Burberry Goddess'ın muadilidir. Goddess'ın imzası olan lavanta ve vanilya B107'de de var; Goddess'taki kakaonun yerini B107'de çikolata alır. Fark: Goddess zencefil ve üç katmanlı vanilyayla daha yoğun bir vanilya kokusu, B107 ise bergamot, beyaz çiçekler ve sandal ağacıyla daha çiçeksi ve odunsu bir yorum.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.32,
+    "confidence": 0.34,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.1,
+     "2": 0.43,
+     "3": 0.46
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.48
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.26
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.97,
+    "confidence": 0.97,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.0,
+     "3": 0.99
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.09
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.93,
+    "confidence": 0.94,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.06,
+     "3": 0.94
+    }
+   }
+  }
+ },
+ "B": {
+  "text": "Mad Parfüm B107 Selective (kadın), Burberry Goddess'ın muadilidir. İkisinde de lavanta ve vanilya var; Goddess'ta kakao, B107'de çikolata bulunur. Fark: Goddess'ta zencefil ve vanilla absolute, B107'de ise bergamot, beyaz çiçekler ve sandal ağacı var.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.93,
+    "confidence": 0.92,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.01,
+     "2": 0.03,
+     "3": 0.95
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.16
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.25
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.98,
+    "confidence": 0.97,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.0,
+     "3": 0.99
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.09
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.77,
+    "confidence": 0.77,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.03,
+     "2": 0.17,
+     "3": 0.8
+    }
+   }
+  }
+ }
+}

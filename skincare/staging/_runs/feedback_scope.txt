@@ -1,0 +1,22 @@
+DENETÇİ GERİ BİLDİRİMİ (tur 2, kapsam ve adlar) — metin düzeltmeleriyle birlikte uygula.
+
+1. excluded.json EKSİKSİZ olmalı: site haritasında/kategorilerde gördüğün ama eklemediğin HER ürün sayfası
+   (SPF/güneş, saç, set/kit/rutin, yedek dolum, parfüm/koku, renkli makyaj, içerik listesi çıkmayan, tutarsız liste,
+   aynı formülün başka boyutu…) url + ad + gerekçeyle yazılmalı. report.md'de sayım tutmalı:
+   "taranan ürün sayfası = eklenen + elenen + katalogda zaten olan".
+   - la-roche-posay: yalnızca 2 kayıt var; Anthelios ve diğer SPF'li ürünler, Kerium, deodorant vb. nerede?
+   - caudalie: hiç kayıt yok; güneş ürünleri, güneşsiz bronzlaştırıcı, rutin/ikili/kit (P1 kodlu), yedek, parfümler,
+     saç ürünleri vb. listelenmeli.
+   Taramada kaçırdığın kapsam içi ürün varsa (ör. LRP Substiane, Hydraphase, Iso-Urea, Redermic Retinol, Pure Vitamin C
+   serum, Lipikar AP+M; Caudalie Vinosource, Vine[Activ], Vinoperfect ürünleri vb. — sitede varsa) ekle.
+
+2. nameTr TÜRKÇE olmalı: "Effaclar H Cleansing Cream" değil "Effaclar H Iso-Biome Nemlendirici Temizleme Kremi" gibi;
+   seri adı + Türkçe ürün türü. Seri adı Türkçe adda bulunmalı ("Nem Maskesi" değil "Vinohydra Nem Maskesi",
+   "Dudak Bakım Kremi" değil "Vinothérapist Dudak Bakım Kremi"). Marka adı yazılmaz. ™/® işaretleri yazılmaz.
+   name (ambalaj adı) ayrı alan; orada orijinal ürün adı kalır.
+
+3. Slug yazım hatası: caudalie-vinoterapist-overnight-detox-oil → caudalie-vinotherapist-overnight-detox-oil
+   (raw dosya adını ve texts anahtarını da güncelle; fetch ile yeniden çekmek en güvenlisi).
+
+4. Kategori kontrolü: yüz yağı "serum" yerine uygunsa "nemlendirici"/"gece-kremi"; ürünün kendi sayfasındaki kullanım
+   biçimine göre karar ver, emin değilsen SORU sor.

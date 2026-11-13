@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-05",
+  "project": "wvnkyeafczmzgssdgzlq",
+  "addedProducts": 18,
+  "ceraveTotal": 23,
+  "addedIngredients": 59,
+  "addedIngredientLinks": 523,
+  "publicImagesVerified": 18,
+  "existingRowsPreserved": true,
+  "totals": {
+    "brands": 5,
+    "ingredients": 320,
+    "products": 43,
+    "product_ingredients": 1122
+  },
+  "products": [
+    {
+      "slug": "cerave-blemish-control-cleanser",
+      "name": "Blemish Control Cleanser",
+      "nameTr": "Akneye Eğilim Gösteren Ciltlere Özel Temizleyici",
+      "ingredients": 27,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/akne-salisilik-asit-temizleyici"
+    },
+    {
+      "slug": "cerave-skin-renewing-eye-cream",
+      "name": "Skin Renewing Eye Cream",
+      "nameTr": "Cilt Yenileyici Göz Kremi",
+      "ingredients": 33,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/cilt-yenileyici-goz-kremi"
+    },
+    {
+      "slug": "cerave-blemish-barrier-patches",
+      "name": "Blemish Barrier Patches",
+      "nameTr": "Blemish Barrier Patch Sivilce Bandı",
+      "ingredients": 17,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/blemish-barrier-patch-sivilce-bandi"
+    },
+    {
+      "slug": "cerave-advanced-repair-ointment",
+      "name": "Advanced Repair Ointment",
+      "nameTr": "Gelişmiş Onarıcı Bakım Kremi",
+      "ingredients": 23,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/gelismis-onarici-bakim-kremi"
+    },
+    {
+      "slug": "cerave-moisturising-lotion",
+      "name": "Moisturising Lotion",
+      "nameTr": "Nemlendirici Losyon",
+      "ingredients": 25,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/gunluk-nemlendirici-losyon"
+    },
+    {
+      "slug": "cerave-intensive-moisturising-lotion",
+      "name": "Intensive Moisturising Lotion",
+      "nameTr": "Yoğun Nemlendirici Losyon",
+      "ingredients": 45,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/yogunnemlendiricilosyon"
+    },
+    {
+      "slug": "cerave-hydrating-micellar-water",
+      "name": "Hydrating Micellar Water",
+      "nameTr": "Nemlendiren Misel Su",
+      "ingredients": 19,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/nemlendirici-misel-suyu"
+    },
+    {
+      "slug": "cerave-balancing-air-foam-cleanser",
+      "name": "Balancing Air Foam Cleanser",
+      "nameTr": "Airfoam Temizleyici Köpük",
+      "ingredients": 26,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/airfoam-temizleyici-kopuk"
+    },
+    {
+      "slug": "cerave-skin-renewing-vitamin-c-serum",
+      "name": "Skin Renewing Vitamin C Serum",
+      "nameTr": "Cilt Yenileyici Vitamin C Serum",
+      "ingredients": 26,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/skin-renewing-vitamin-c-serum"
+    },
+    {
+      "slug": "cerave-hydrating-hyaluronic-acid-serum",
+      "name": "Hydrating Hyaluronic Acid Serum",
+      "nameTr": "Nemlendiren Hyalüronik Asit Serum",
+      "ingredients": 25,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/cerave-nemlendiren-hyaluronik-asit-serum"
+    },
+    {
+      "slug": "cerave-skin-renewing-retinol-serum",
+      "name": "Skin Renewing Retinol Serum",
+      "nameTr": "Cilt Yenileyici Retinol Serum",
+      "ingredients": 39,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/skin-renewing-retinol-serum"
+    },
+    {
+      "slug": "cerave-blemish-control-gel",
+      "name": "Blemish Control Gel",
+      "nameTr": "Akneye Eğilim Gösteren Ciltler için Yüz Bakım Jeli",
+      "ingredients": 24,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/cerave-akneye-egilim-gosteren-ciltler-icin-yuz-bakim-jeli"
+    },
+    {
+      "slug": "cerave-facial-moisturising-lotion-spf-30",
+      "name": "Facial Moisturising Lotion SPF 30",
+      "nameTr": "Yüz Kremi SPF 30",
+      "ingredients": 36,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/nemlendirici-yuz-kremi-spf-30"
+    },
+    {
+      "slug": "cerave-facial-moisturising-lotion-spf-50",
+      "name": "Facial Moisturising Lotion SPF 50",
+      "nameTr": "Yüz Kremi SPF 50",
+      "ingredients": 40,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/nemlendirici-yuz-kremi-spf-50"
+    },
+    {
+      "slug": "cerave-eye-repair-cream",
+      "name": "Eye Repair Cream",
+      "nameTr": "Onarıcı Göz Kremi",
+      "ingredients": 41,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/onarici-goz-kremi"
+    },
+    {
+      "slug": "cerave-oil-control-moisturising-gel-cream",
+      "name": "Oil Control Moisturising Gel-Cream",
+      "nameTr": "Yağlanma Karşıtı Nemlendirici Yüz Kremi",
+      "ingredients": 28,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/yaglanma-karsiti-nemlendirici-yuz-kremi"
+    },
+    {
+      "slug": "cerave-reparative-hand-cream",
+      "name": "Reparative Hand Cream",
+      "nameTr": "Onarıcı El Kremi",
+      "ingredients": 24,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/onarici-el-kremi"
+    },
+    {
+      "slug": "cerave-sa-renewing-foot-cream",
+      "name": "SA Renewing Foot Cream",
+      "nameTr": "Yenileyen Ayak Kremi",
+      "ingredients": 25,
+      "source": "https://www.cerave.com.tr/cilt-bakimi/yenileyen-ayak-kremi"
+    }
+  ]
+}

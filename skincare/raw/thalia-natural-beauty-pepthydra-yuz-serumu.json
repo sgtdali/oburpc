@@ -1,0 +1,44 @@
+{
+ "slug": "thalia-natural-beauty-pepthydra-yuz-serumu",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/pepthydra-serum",
+  "nameTr": "Thalia Pepthydra Yüz Serumu",
+  "inci": [
+   "AQUA(WATER)",
+   "PROPANEDIOL",
+   "GLYCERIN",
+   "GLYCERYL GLUCOSIDE",
+   "SODIUM BENZOATE",
+   "POTASSIUM SORBATE",
+   "XANTHAN GUM",
+   "ACETYL HEXAPEPTIDE-8",
+   "SODIUM HYALURONATE",
+   "TETRASODIUM GLUTAMATE DIACETATE",
+   "ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER",
+   "PARFUM(FRAGRANCE)",
+   "PEG-40 HYDROGENATED CASTOR OIL",
+   "TRIDECETH-9",
+   "1,2-HEXANEDIOL",
+   "ETHYLHEXYLGLYCERIN",
+   "LINALOOL",
+   "HEXYL CINNAMAL",
+   "BENZYL SALICYLATE",
+   "HEXAMETHYLINDANOPYRAN",
+   "LIMONENE",
+   "TERPINEOL",
+   "CITRUS AURANTIUM PEEL OIL",
+   "ALPHA-ISOMETHYL IONONE"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Serumu sabah ve akşam temiz, kuru cilde uygulayın.",
+   "Birkaç damla ürünü yüz ve boyun bölgesine nazikçe yayarak emilmesini sağlayın.",
+   "Daha etkili sonuç için ardından gündüz kremi veya gece kremi ile rutininizi tamamlayın."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220267-gAFPA91dSF-01_1024x1024.jpg",
+  "title": "pepthydra-serum",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

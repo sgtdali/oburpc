@@ -1,0 +1,383 @@
+{
+  "date": "2026-10-05",
+  "project": "wvnkyeafczmzgssdgzlq",
+  "addedProducts": 61,
+  "biodermaTotal": 66,
+  "addedIngredientLinks": 1420,
+  "publicImagesVerified": 61,
+  "existingRowsPreserved": true,
+  "totals": {
+    "brands": 5,
+    "ingredients": 501,
+    "products": 104,
+    "product_ingredients": 2542
+  },
+  "products": [
+    {
+      "slug": "bioderma-cicabio-hand-cream",
+      "name": "Cicabio Hand Cream",
+      "category": "nemlendirici",
+      "ingredients": 20
+    },
+    {
+      "slug": "bioderma-sebium-kerato-plus",
+      "name": "Sébium Kerato+",
+      "category": "akne-bakimi",
+      "ingredients": 23
+    },
+    {
+      "slug": "bioderma-sebium-kerato-plus-body",
+      "name": "Sébium Kerato+ BODY",
+      "category": "akne-bakimi",
+      "ingredients": 21
+    },
+    {
+      "slug": "bioderma-sebium-kerato-plus-cover",
+      "name": "Sébium Kerato+ COVER",
+      "category": "akne-bakimi",
+      "ingredients": 31
+    },
+    {
+      "slug": "bioderma-matricium",
+      "name": "Matricium",
+      "category": "serum",
+      "ingredients": 58
+    },
+    {
+      "slug": "bioderma-atoderm-cream-ultra",
+      "name": "Atoderm Cream Ultra",
+      "category": "nemlendirici",
+      "ingredients": 24
+    },
+    {
+      "slug": "bioderma-abcderm-foaming-cleanser",
+      "name": "ABCDerm Foaming Cleanser",
+      "category": "yuz-temizleyici",
+      "ingredients": 12
+    },
+    {
+      "slug": "bioderma-pigmentbio-sensitive-areas",
+      "name": "Pigmentbio Sensitive Areas",
+      "category": "nemlendirici",
+      "ingredients": 32
+    },
+    {
+      "slug": "bioderma-cicabio-cleansing-balm",
+      "name": "Cicabio Cleansing Balm",
+      "category": "yuz-temizleyici",
+      "ingredients": 27
+    },
+    {
+      "slug": "bioderma-hydrabio-cream",
+      "name": "Hydrabio Cream",
+      "category": "nemlendirici",
+      "ingredients": 39
+    },
+    {
+      "slug": "bioderma-pigmentbio-foaming-cream",
+      "name": "Pigmentbio Foaming Cream",
+      "category": "yuz-temizleyici",
+      "ingredients": 30
+    },
+    {
+      "slug": "bioderma-sensibio-foaming-gel",
+      "name": "Sensibio Foaming Gel",
+      "category": "yuz-temizleyici",
+      "ingredients": 18
+    },
+    {
+      "slug": "bioderma-hydrabio-h2o",
+      "name": "Hydrabio H2O",
+      "category": "misel-su",
+      "ingredients": 15
+    },
+    {
+      "slug": "bioderma-abcderm-hydratant",
+      "name": "ABCDerm Hydratant",
+      "category": "nemlendirici",
+      "ingredients": 28
+    },
+    {
+      "slug": "bioderma-sensibio-micellar-cleansing-oil",
+      "name": "Sensibio Micellar Cleansing Oil",
+      "category": "yuz-temizleyici",
+      "ingredients": 12
+    },
+    {
+      "slug": "bioderma-atoderm-shower-oil",
+      "name": "Atoderm Shower Oil",
+      "category": "yuz-temizleyici",
+      "ingredients": 18
+    },
+    {
+      "slug": "bioderma-abcderm-change-intensive",
+      "name": "ABCDerm Change Intensive",
+      "category": "onarici-krem",
+      "ingredients": 8
+    },
+    {
+      "slug": "bioderma-pigmentbio-h2o",
+      "name": "Pigmentbio H2O",
+      "category": "misel-su",
+      "ingredients": 16
+    },
+    {
+      "slug": "bioderma-atoderm-shower-gel",
+      "name": "Atoderm Shower Gel",
+      "category": "yuz-temizleyici",
+      "ingredients": 23
+    },
+    {
+      "slug": "bioderma-sensibio-defensive-cream",
+      "name": "Sensibio Defensive Cream",
+      "category": "nemlendirici",
+      "ingredients": 24
+    },
+    {
+      "slug": "bioderma-atoderm-intensive-foaming-gel",
+      "name": "Atoderm Intensive Foaming Gel",
+      "category": "yuz-temizleyici",
+      "ingredients": 18
+    },
+    {
+      "slug": "bioderma-atoderm-2-in-1-body-oil",
+      "name": "Atoderm 2-in-1 Body Oil",
+      "category": "nemlendirici",
+      "ingredients": 13
+    },
+    {
+      "slug": "bioderma-pigmentbio-c-concentrate",
+      "name": "Pigmentbio C-Concentrate",
+      "category": "serum",
+      "ingredients": 30
+    },
+    {
+      "slug": "bioderma-sensibio-defensive-rich-cream",
+      "name": "Sensibio Defensive Rich Cream",
+      "category": "nemlendirici",
+      "ingredients": 28
+    },
+    {
+      "slug": "bioderma-sebium-pore-refiner",
+      "name": "Sébium Pore Refiner",
+      "category": "akne-bakimi",
+      "ingredients": 33
+    },
+    {
+      "slug": "bioderma-sensibio-defensive-serum",
+      "name": "Sensibio Defensive Serum",
+      "category": "serum",
+      "ingredients": 26
+    },
+    {
+      "slug": "bioderma-atoderm-intensive-eye",
+      "name": "Atoderm Intensive Eye",
+      "category": "nemlendirici",
+      "ingredients": 32
+    },
+    {
+      "slug": "bioderma-sebium-sensitive",
+      "name": "Sébium Sensitive",
+      "category": "akne-bakimi",
+      "ingredients": 25
+    },
+    {
+      "slug": "bioderma-sensibio-ar",
+      "name": "Sensibio AR",
+      "category": "nemlendirici",
+      "ingredients": 29
+    },
+    {
+      "slug": "bioderma-sebium-h2o",
+      "name": "Sébium H2O",
+      "category": "misel-su",
+      "ingredients": 15
+    },
+    {
+      "slug": "bioderma-atoderm-intensive-gel-cream",
+      "name": "Atoderm Intensive Gel-Cream",
+      "category": "nemlendirici",
+      "ingredients": 18
+    },
+    {
+      "slug": "bioderma-sensibio-ar-plus-micellar-gel",
+      "name": "Sensibio AR+ Micellar Gel",
+      "category": "yuz-temizleyici",
+      "ingredients": 17
+    },
+    {
+      "slug": "bioderma-atoderm-lip-balm",
+      "name": "Atoderm Lip Balm",
+      "category": "nemlendirici",
+      "ingredients": 23
+    },
+    {
+      "slug": "bioderma-sensibio-ar-plus-cream",
+      "name": "Sensibio AR+ Cream",
+      "category": "nemlendirici",
+      "ingredients": 29
+    },
+    {
+      "slug": "bioderma-sensibio-ar-plus-sos-spray",
+      "name": "Sensibio AR+ SOS Spray",
+      "category": "nemlendirici",
+      "ingredients": 13
+    },
+    {
+      "slug": "bioderma-atoderm-lip-stick",
+      "name": "Atoderm Lip Stick",
+      "category": "nemlendirici",
+      "ingredients": 9
+    },
+    {
+      "slug": "bioderma-sebium-mat-control",
+      "name": "Sébium Mat Control",
+      "category": "akne-bakimi",
+      "ingredients": 27
+    },
+    {
+      "slug": "bioderma-sensibio-ar-plus-bi-serum",
+      "name": "Sensibio AR+ BI-Serum",
+      "category": "serum",
+      "ingredients": 29
+    },
+    {
+      "slug": "bioderma-atoderm-hand-nail-cream",
+      "name": "Atoderm Hand & Nail Cream",
+      "category": "nemlendirici",
+      "ingredients": 20
+    },
+    {
+      "slug": "bioderma-sebium-serum",
+      "name": "Sébium Serum",
+      "category": "serum",
+      "ingredients": 17
+    },
+    {
+      "slug": "bioderma-atoderm-nutrition-cream",
+      "name": "Atoderm Nutritive",
+      "category": "nemlendirici",
+      "ingredients": 37
+    },
+    {
+      "slug": "bioderma-sensibio-eye-plus",
+      "name": "Sensibio Eye+",
+      "category": "nemlendirici",
+      "ingredients": 30
+    },
+    {
+      "slug": "bioderma-sebium-night-peel",
+      "name": "Sébium Night Peel",
+      "category": "gece-kremi",
+      "ingredients": 16
+    },
+    {
+      "slug": "bioderma-sensibio-ds-plus-cream",
+      "name": "Sensibio DS+ Cream",
+      "category": "nemlendirici",
+      "ingredients": 20
+    },
+    {
+      "slug": "bioderma-sensibio-h2o-eye",
+      "name": "Sensibio H2O Eye",
+      "category": "misel-su",
+      "ingredients": 17
+    },
+    {
+      "slug": "bioderma-cicabio-arnica-plus",
+      "name": "Cicabio Arnica+",
+      "category": "onarici-krem",
+      "ingredients": 31
+    },
+    {
+      "slug": "bioderma-sensibio-ds-plus-foaming-gel",
+      "name": "Sensibio DS+ Foaming Gel",
+      "category": "yuz-temizleyici",
+      "ingredients": 25
+    },
+    {
+      "slug": "bioderma-sebium-exfoliating-gel",
+      "name": "Sébium EXFOLIATING GEL",
+      "category": "yuz-temizleyici",
+      "ingredients": 18
+    },
+    {
+      "slug": "bioderma-sensibio-eye-contour-gel",
+      "name": "Sensibio Eye Contour Gel",
+      "category": "nemlendirici",
+      "ingredients": 23
+    },
+    {
+      "slug": "bioderma-hydrabio-foaming-gel",
+      "name": "Hydrabio Foaming Gel",
+      "category": "yuz-temizleyici",
+      "ingredients": 19
+    },
+    {
+      "slug": "bioderma-abcderm-h2o",
+      "name": "ABCDerm H2O",
+      "category": "misel-su",
+      "ingredients": 7
+    },
+    {
+      "slug": "bioderma-sebium-hydra-cleanser",
+      "name": "Sébium Hydra Cleanser",
+      "category": "yuz-temizleyici",
+      "ingredients": 23
+    },
+    {
+      "slug": "bioderma-atoderm-intensive-bar",
+      "name": "Atoderm Intensive Bar Kalıp Temizleyici",
+      "category": "yuz-temizleyici",
+      "ingredients": 15
+    },
+    {
+      "slug": "bioderma-hydrabio-light-cream",
+      "name": "Hydrabio Light Cream",
+      "category": "nemlendirici",
+      "ingredients": 30
+    },
+    {
+      "slug": "bioderma-cicabio-lip-repair",
+      "name": "Cicabio Lip Repair",
+      "category": "onarici-krem",
+      "ingredients": 26
+    },
+    {
+      "slug": "bioderma-sebium-lotion",
+      "name": "Sébium Lotion",
+      "category": "tonik",
+      "ingredients": 21
+    },
+    {
+      "slug": "bioderma-cicabio-lotion-spray",
+      "name": "Cicabio Lotion Spray",
+      "category": "onarici-krem",
+      "ingredients": 16
+    },
+    {
+      "slug": "bioderma-pigmentbio-night-renewer",
+      "name": "Pigmentbio Night Renewer",
+      "category": "gece-kremi",
+      "ingredients": 41
+    },
+    {
+      "slug": "bioderma-abcderm-relaxing-oil",
+      "name": "ABCDerm Relaxing Oil",
+      "category": "nemlendirici",
+      "ingredients": 6
+    },
+    {
+      "slug": "bioderma-hydrabio-rich-cream",
+      "name": "Hydrabio Rich Cream",
+      "category": "nemlendirici",
+      "ingredients": 36
+    },
+    {
+      "slug": "bioderma-hydrabio-serum",
+      "name": "Hydrabio Serum",
+      "category": "serum",
+      "ingredients": 33
+    }
+  ]
+}

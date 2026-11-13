@@ -1,0 +1,542 @@
+{
+ "mad-parfum-w212-selective": {
+  "verdict": "PASS",
+  "coverageState": "Submitted and indexed",
+  "lastCrawlTime": "2026-10-07T10:31:21Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-w212-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-p101-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-05-17T03:47:01Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-p101-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-r103-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-04-25T05:23:41Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-r103-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-w175-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Discovered - currently not indexed",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": null
+ },
+ "mad-parfum-w120-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-07-25T10:52:58Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-w120-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-229-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-l105-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-07-04T04:26:51Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-l105-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-a102-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-q106-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-c114-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-05-01T18:13:58Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-c114-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": [
+   "https://uygunbakim.com/catalog?page=0"
+  ]
+ },
+ "bargello-695-erkek": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Discovered - currently not indexed",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": [
+   "https://uygunbakim.com/sitemap.xml"
+  ]
+ },
+ "mad-parfum-w184-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-a117-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Discovered - currently not indexed",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": null
+ },
+ "mad-parfum-l113-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Discovered - currently not indexed",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": null
+ },
+ "bargello-175-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Discovered - currently not indexed",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": null
+ },
+ "mad-parfum-w143-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Excluded by ‘noindex’ tag",
+  "lastCrawlTime": "2026-04-25T01:53:15Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-w143-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "BLOCKED_BY_META_TAG",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": [
+   "https://uygunbakim.com/blog/mad-parfum-muadil-listesi"
+  ]
+ },
+ "bargello-125-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Discovered - currently not indexed",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": null
+ },
+ "mad-parfum-p103-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-05-23T07:20:02Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-p103-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-705-erkek": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-616-erkek": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-06-30T02:25:34Z",
+  "googleCanonical": "https://uygunbakim.com/product/bargello-616-erkek",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-776-erkek": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-t101-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Discovered - currently not indexed",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": null
+ },
+ "mad-parfum-w158-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-06-30T06:45:01Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-w158-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-293-unisex": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-180-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-07-04T20:20:09Z",
+  "googleCanonical": "https://uygunbakim.com/product/bargello-180-kadin",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-179-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-06-12T06:32:58Z",
+  "googleCanonical": "https://uygunbakim.com/product/bargello-179-kadin",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-252-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-427-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-06-21T06:04:55Z",
+  "googleCanonical": "https://uygunbakim.com/product/bargello-427-kadin",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-576-erkek": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-06-30T09:18:08Z",
+  "googleCanonical": "https://uygunbakim.com/product/bargello-576-erkek",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-236-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-04-26T06:18:51Z",
+  "googleCanonical": null,
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-w208-selective": {
+  "verdict": "PASS",
+  "coverageState": "Submitted and indexed",
+  "lastCrawlTime": "2026-10-07T08:52:14Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-w208-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-164-kadin": {
+  "verdict": "PASS",
+  "coverageState": "Submitted and indexed",
+  "lastCrawlTime": "2026-10-07T08:21:45Z",
+  "googleCanonical": "https://uygunbakim.com/product/bargello-164-kadin",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-110-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-07-03T18:12:42Z",
+  "googleCanonical": "https://uygunbakim.com/product/bargello-110-kadin",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-w150-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-04-18T08:34:32Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-w150-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-l103-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-593-unisex": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-298-unisex": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Discovered - currently not indexed",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": null
+ },
+ "mad-parfum-v106-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-w174-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-04-25T17:44:23Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-w174-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": null
+ },
+ "bargello-183-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-04-24T22:16:30Z",
+  "googleCanonical": "https://uygunbakim.com/product/bargello-183-kadin",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": null
+ },
+ "bargello-651-erkek": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-202-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-06-11T20:06:38Z",
+  "googleCanonical": "https://uygunbakim.com/product/bargello-202-kadin",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": null
+ },
+ "bargello-345-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-05-19T16:37:06Z",
+  "googleCanonical": "https://uygunbakim.com/product/bargello-345-kadin",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "bargello-381-kadin": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ },
+ "mad-parfum-g103-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "Crawled - currently not indexed",
+  "lastCrawlTime": "2026-07-03T11:02:54Z",
+  "googleCanonical": "https://uygunbakim.com/product/mad-parfum-g103-selective",
+  "robotsTxtState": "ALLOWED",
+  "indexingState": "INDEXING_ALLOWED",
+  "pageFetchState": "SUCCESSFUL",
+  "sitemap": [
+   "https://uygunbakim.com/sitemap.xml"
+  ],
+  "referringUrls": null
+ },
+ "mad-parfum-w209-selective": {
+  "verdict": "NEUTRAL",
+  "coverageState": "URL is unknown to Google",
+  "lastCrawlTime": null,
+  "googleCanonical": null,
+  "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+  "indexingState": "INDEXING_STATE_UNSPECIFIED",
+  "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+  "sitemap": null,
+  "referringUrls": null
+ }
+}

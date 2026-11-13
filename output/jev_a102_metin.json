@@ -1,0 +1,371 @@
+{
+ "eski": {
+  "text": "A102 Selective, Lanvin Eclat D'Arpege Sheer'ın o narin ve ışıltılı havasını ustaca yansıtan etkileyici bir muadil. Orijinalin büyülü notalarını ekonomik ve kalıcı bir deneyimle sunarak, zarif bir alternatif arayanları büyülüyor.",
+  "answers": {
+   "answers_query": {
+    "type": "score",
+    "score": 1.65,
+    "confidence": 0.0,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.42,
+     "1": 0.01,
+     "2": 0.09,
+     "3": 0.48
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.65
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.76,
+    "confidence": 0.75,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.04,
+     "2": 0.17,
+     "3": 0.79
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 0.44,
+    "confidence": 0.54,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.58,
+     "1": 0.39,
+     "2": 0.02,
+     "3": 0.01
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.82
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.96
+   },
+   "useful": {
+    "type": "score",
+    "score": 0.44,
+    "confidence": 0.57,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.58,
+     "1": 0.41,
+     "2": 0.01,
+     "3": 0.0
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 1.48,
+    "confidence": 0.0,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.32,
+     "1": 0.2,
+     "2": 0.16,
+     "3": 0.32
+    }
+   },
+   "accuracy": {
+    "type": "score",
+    "score": 0.13,
+    "confidence": 0.88,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.88,
+     "1": 0.12,
+     "2": 0.0,
+     "3": 0.0
+    }
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.75
+   }
+  }
+ },
+ "A": {
+  "text": "Mad Parfüm A102 Selective, Giorgio Armani Acqua di Giò'nun muadilidir. Acqua di Giò'nun kalbindeki muskat, muhabbet çiçeği ve kişniş A102'de de var; misket limonu ve beyaz misk de ortak. Fark: A102 deniz notaları yerine portakal ve mandalinayla açılır, dipte amber ve sedir ağacı taşır.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.89,
+    "confidence": 0.9,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.01,
+     "2": 0.05,
+     "3": 0.93
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.21
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.27
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.97,
+    "confidence": 0.96,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.98
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.08
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.82,
+    "confidence": 0.83,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.15,
+     "3": 0.84
+    }
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.73,
+    "confidence": 0.73,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.02,
+     "2": 0.23,
+     "3": 0.75
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 2.72,
+    "confidence": 0.73,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.25,
+     "3": 0.74
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 2.99,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.0,
+     "3": 1.0
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.62
+   }
+  }
+ },
+ "B": {
+  "text": "Mad Parfüm A102 Selective, Giorgio Armani Acqua di Giò'nun muadilidir. Misket limonu, muskat, muhabbet çiçeği, kişniş ve beyaz misk iki parfümde de ortak. Fark: A102'de Acqua di Giò'nun deniz notaları ve yasemini yok; onun yerine portakal, mandalina, amber ve sedir ağacı bulunur.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.82,
+    "confidence": 0.83,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.02,
+     "2": 0.07,
+     "3": 0.89
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.19
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.25
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.95,
+    "confidence": 0.96,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.98
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.08
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.91,
+    "confidence": 0.9,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.08,
+     "3": 0.91
+    }
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.64,
+    "confidence": 0.65,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.03,
+     "2": 0.29,
+     "3": 0.68
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 2.68,
+    "confidence": 0.7,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.28,
+     "3": 0.71
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 2.99,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.0,
+     "3": 1.0
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.63
+   }
+  }
+ }
+}

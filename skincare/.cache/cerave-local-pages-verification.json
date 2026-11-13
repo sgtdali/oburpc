@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "cerave-blemish-control-cleanser",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-skin-renewing-eye-cream",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-blemish-barrier-patches",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-advanced-repair-ointment",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-moisturising-lotion",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-intensive-moisturising-lotion",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-hydrating-micellar-water",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-balancing-air-foam-cleanser",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-skin-renewing-vitamin-c-serum",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-hydrating-hyaluronic-acid-serum",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-skin-renewing-retinol-serum",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-blemish-control-gel",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-facial-moisturising-lotion-spf-30",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-facial-moisturising-lotion-spf-50",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-eye-repair-cream",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-oil-control-moisturising-gel-cream",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-reparative-hand-cream",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "slug": "cerave-sa-renewing-foot-cream",
+    "status": 200,
+    "nameMatches": true,
+    "ingredientsPresent": true
+  },
+  {
+    "route": "/skincare/brands/cerave",
+    "status": 200,
+    "productLinks": 23,
+    "newProductLinks": 18
+  },
+  {
+    "route": "/skincare/catalog?marka=cerave",
+    "status": 200,
+    "productLinks": 23,
+    "newProductLinks": 18
+  }
+]

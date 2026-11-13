@@ -1,0 +1,40 @@
+{
+ "slug": "thalia-natural-beauty-cica-squa-vucut-losyonu",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/squa-body-lotion-cica-squa",
+  "nameTr": "Thalia Body Lotion Vücut Losyonu Cica-Squa",
+  "inci": [
+   "AQUA(WATER)",
+   "GLYCERIN",
+   "PROPYLENE GLYCOL",
+   "BIS-PEG-18 METHYL ETHER DIMETHYL SILANE",
+   "SQUALANE",
+   "TRIETHANOLAMINE",
+   "AVENA SATIVA(OAT) KERNEL EXTRACT",
+   "CENTELLA ASIATICA EXTRACT",
+   "CARBOMER",
+   "PHENOXYETHANOL",
+   "PARFUM(FRAGRANCE)",
+   "SODIUM PCA",
+   "TETRASODIUM EDTA",
+   "ETHYLHEXYLGLYCERIN",
+   "HEXAMETHYLINDANOPYRAN",
+   "HYDROXYCITRONELLAL",
+   "LIMONENE",
+   "DIMETHYL PHENETHYL ACETATE",
+   "CI 19140 (YELLOW 23)",
+   "CI 42051(BLUE 3)"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Duş sonrası hafif nemli cildinize nazikçe masaj yaparak uygulayın.",
+   "Durulamayın.",
+   "En iyi sonuç için sabah ve akşam düzenli olarak kullanın."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220258-0UNGW2Wgak-01_1024x1024.jpg",
+  "title": "squa-body-lotion-cica-squa",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

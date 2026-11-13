@@ -1,0 +1,37 @@
+{
+ "slug": "la-roche-posay-lipikar-huile-lavante-ap",
+ "brandSite": {
+  "url": "https://www.laroche-posay.com.tr/lipikar-huile-lavante-ap-temizleyici-yag",
+  "nameTr": "LIPIKAR HUILELAVANTE AP+",
+  "inci": [
+   "AQUA/WATER",
+   "GLYCERIN",
+   "SUCROSE",
+   "SODIUM LAURETH SULFATE",
+   "COCO-BETAINE",
+   "SODIUM CHLORIDE",
+   "CITRIC ACID",
+   "NIACINAMIDE",
+   "PARFUM/FRAGRANCE",
+   "PEG-75 SHEA BUTTER GLYCERIDES",
+   "POLYSORBATE 20",
+   "PPG-5-CETETH-20",
+   "SODIUMBENZOATE",
+   "SODIUM HYDROXIDE",
+   "VITREOSCILLA FERMENT"
+  ],
+  "inciSource": "ld+json",
+  "claims": "Lipikar Huile Lavante AP+ Temizleyici Yağ | La Roche-Posay | İçeriğe Git | Close | Loading...",
+  "howTo": [
+   "Islak cilde uygulayın.",
+   "Nazikçe masaj yapın ve durulayın.",
+   "Yavaşça kurulayın.",
+   "Cildi temizledikten sonra LIPIKAR Lait lipit yenileyici vücut sütü uygulayın."
+  ],
+  "image": "https://www.laroche-posay.com.tr/-/media/project/loreal/brand-sites/lrp/emea/tr/products/lipikar/lipikar-huile-lavante-ap-plus/larocheposay-productpage-eczema-lipikar-cleansing-oil-ap-400ml-3337875656764-front.png",
+  "title": "Lipikar Huile Lavante AP+ Temizleyici Yağ | La Roche-Posay",
+  "barcodes": [
+   "3337875656764"
+  ]
+ }
+}

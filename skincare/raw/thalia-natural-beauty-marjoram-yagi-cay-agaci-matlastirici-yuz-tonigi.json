@@ -1,0 +1,40 @@
+{
+ "slug": "thalia-natural-beauty-marjoram-yagi-cay-agaci-matlastirici-yuz-tonigi",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/marjoram-oil-tea-tree-mattifying-tonic",
+  "nameTr": "Thalia Marjoram Yağı & Çay Ağacı Matlaştırıcı Yüz Toniği",
+  "inci": [
+   "AQUA (WATER)",
+   "ALCOHOL DENAT",
+   "GLYCERIN",
+   "POLYSORBATE 20",
+   "PHENOXYETHANOL",
+   "PARFUM (FRAGRANCE)",
+   "ORIGANUM MAJORANA LEAF OIL",
+   "PEG-40 HYDROGENATED CASTOR OIL",
+   "TRIDECETH-9",
+   "ALLANTOIN",
+   "PANTHENOL",
+   "BENZOIC ACID",
+   "MELALEUCA ALTERNIFOLIA LEAF (TEA TREE) OIL",
+   "DEHYDROACETIC ACID",
+   "TETRASODIUM EDTA",
+   "TOCOPHERYL ACETATE",
+   "CITRIC ACID",
+   "LIMONENE",
+   "CITRAL",
+   "LINALOOL"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Cildinizi temizledikten sonra, pamuğa yeterli miktarda tonik dökün.",
+   "Nazik hareketlerle cildinize uygulayın.",
+   "Durulama gerektirmez."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220298-cJuYLm6Oth-01_1024x1024.jpg",
+  "title": "marjoram-oil-tea-tree-mattifying-tonic",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

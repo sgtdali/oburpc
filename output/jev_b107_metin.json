@@ -1,0 +1,206 @@
+{
+ "eski": {
+  "text": "Burberry Goddess'ın o bağımlılık yapan, çağdaş zarafetini ve ışıltılı amber vanilya imzasını teninde taşımak isteyenler için B107 Selective, bu büyüleyici auranın oldukça başarılı bir muadilini sunuyor.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 0.15,
+    "confidence": 0.86,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.86,
+     "1": 0.14,
+     "2": 0.0,
+     "3": 0.0
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.96
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.67
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 0.89,
+    "confidence": 0.11,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.62,
+     "1": 0.03,
+     "2": 0.19,
+     "3": 0.16
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.6
+   },
+   "useful": {
+    "type": "score",
+    "score": 0.36,
+    "confidence": 0.64,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.65,
+     "1": 0.34,
+     "2": 0.01,
+     "3": 0.0
+    }
+   }
+  }
+ },
+ "A": {
+  "text": "Mad Parfüm B107 Selective Erkek, Bvlgari Man In Black'in muadilidir (%70 nota benzerliği). Man In Black'in dokuz notasından yedisi B107'de de var: rom, baharat, iris, sümbülteber, guayak ağacı, benzoin ve tonka. Fark: Man In Black'teki tütün ve deri B107'de yok; B107'de bunların yerine tarçın, kakule, bergamot, sedir, paçuli ve misk bulunur.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.87,
+    "confidence": 0.87,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.02,
+     "2": 0.06,
+     "3": 0.91
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.21
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.27
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.92,
+    "confidence": 0.93,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.97
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.09
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.92,
+    "confidence": 0.92,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.06,
+     "3": 0.93
+    }
+   }
+  }
+ },
+ "B": {
+  "text": "Mad Parfüm B107 Selective Erkek, Bvlgari Man In Black'in muadilidir (%70 nota benzerliği). İkisi de rom ve baharatla açılır, kalpte iris ve sümbülteber, dipte guayak ağacı, benzoin ve tonka taşır. Fark: Man In Black'te tütün ve deri var; B107'de bunlar yok, onun yerine tarçın, kakule, bergamot, sedir, paçuli ve misk bulunur.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.91,
+    "confidence": 0.9,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.01,
+     "2": 0.05,
+     "3": 0.93
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.14
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.37
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.89,
+    "confidence": 0.89,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.0,
+     "2": 0.02,
+     "3": 0.95
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.08
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.95,
+    "confidence": 0.96,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.04,
+     "3": 0.96
+    }
+   }
+  }
+ }
+}

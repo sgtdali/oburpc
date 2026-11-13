@@ -1,0 +1,40 @@
+{
+ "slug": "thalia-natural-beauty-barrier-boosting-gel-yuz-serumu",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/barrier-boosting-jel-serum",
+  "nameTr": "Thalia Barrier Boosting Gel Yüz Serumu",
+  "inci": [
+   "AQUA(WATER)",
+   "GLYCERIN",
+   "NIACINAMIDE",
+   "TREHALOSE",
+   "GLYCERYL GLUCOSIDE",
+   "SODIUM BENZOATE",
+   "PARFUM(FRAGRANCE)",
+   "POTASSIUM SORBATE",
+   "ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER",
+   "LINALOOL",
+   "HEXYL CINNAMAL",
+   "BENZYL SALICYLATE",
+   "HEXAMETHYLINDANOPYRAN",
+   "LIMONENE",
+   "TERPINEOL",
+   "CITRUS AURANTIUM PEEL OIL",
+   "ALPHA-ISOMETHYL IONONE",
+   "COUMARIN",
+   "VANILLIN"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Her sabah ve akşam cilt temizliğinin ardından uygulayın.",
+   "Birkaç damla serumu tüm yüz ve boyun bölgesine yayın.",
+   "Tamamen emilene kadar nazikçe masaj yapın.",
+   "Ardından Nemlendirici Krem ile bakımı tamamlayın."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220268-T6CODRyiNg-01_1024x1024.jpg",
+  "title": "barrier-boosting-jel-serum",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

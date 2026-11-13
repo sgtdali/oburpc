@@ -1,0 +1,6 @@
+MARKA: la-roche-posay (La Roche-Posay). Hazırlık klasörün: scripts\skincare\staging\la-roche-posay\
+Türkiye sitesi: https://www.laroche-posay.com.tr  (ürün listesini site haritasından ya da kategori sayfalarından çıkar; sitemap.xml'e bak)
+Katalogdaki mevcut 5 ürün (tekrar ekleme): effaclar-purifying-foaming-gel, effaclar-duo-plus-m, cicaplast-baume-b5-plus, hyalu-b5-serum, toleriane-sensitive.
+İçerik listesi ld+json "Ingredients" alanından geliyor (çıkarıcı hazır). Bilinen yazım hataları analyze.py SYNONYMS'te (XANTHAGUM, POLOXAMER338...).
+Kapsam notları: Anthelios ve tüm SPF ürünleri HARİÇ; Kerium (saç) HARİÇ; deodorant HARİÇ. Lipikar (vücut), Cicaplast, Effaclar, Toleriane, Hyalu B5, Mela B3, Pure Vitamin C, Retinol B3, Redermic, Substiane, Hydraphase, Iso-Urea vb. kapsamda. Termal su spreyi için kategori net değilse SORU sor.
+Çok ürün olabilir: önce tam listeyi çıkar, excluded/kapsam ayrımını yap, sonra ürün ürün fetch et. Uzun sürerse kaldığın yeri report.md'ye yaz.

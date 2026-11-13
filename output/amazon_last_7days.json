@@ -1,0 +1,695 @@
+{
+  "total_clicks": 124,
+  "products": [
+    {
+      "product": "Jean Paul Gaultier - Le Male Elixir",
+      "clicks": 6,
+      "top_pages": {
+        "/product/jean-paul-gaultier-le-male-elixir": 6
+      }
+    },
+    {
+      "product": "Maison Alhambra - Toro Pour Homme",
+      "clicks": 6,
+      "top_pages": {
+        "/product/maison-alhambra-toro-pour-homme": 6
+      }
+    },
+    {
+      "product": "Maison Alhambra - Baroque Satin Oud",
+      "clicks": 3,
+      "top_pages": {
+        "/product/maison-francis-kurkdjian-oud-satin-mood": 3
+      }
+    },
+    {
+      "product": "Maison Alhambra - Tobacco Touch",
+      "clicks": 3,
+      "top_pages": {
+        "/product/maison-alhambra-tobacco-touch": 3
+      }
+    },
+    {
+      "product": "Bargello - 590",
+      "clicks": 2,
+      "top_pages": {
+        "/product/bargello-590-erkek": 2
+      }
+    },
+    {
+      "product": "French Avenue - FIERTE LUNA",
+      "clicks": 2,
+      "top_pages": {
+        "/product/xerjoff-xj-1861-naxos": 2
+      }
+    },
+    {
+      "product": "French Avenue - LIQUID BRUN",
+      "clicks": 2,
+      "top_pages": {
+        "/product/french-avenue-liquid-brun": 2
+      }
+    },
+    {
+      "product": "Loris - E-149 Frequence",
+      "clicks": 2,
+      "top_pages": {
+        "/product/paco-rabanne-1-million-1": 2
+      }
+    },
+    {
+      "product": "Mad Parfüm - W165 Selective",
+      "clicks": 2,
+      "top_pages": {
+        "/product/mad-parfum-w165-selective": 2
+      }
+    },
+    {
+      "product": "Mad Parfüm - W191 Selective",
+      "clicks": 2,
+      "top_pages": {
+        "/product/mad-parfum-w191-selective": 2
+      }
+    },
+    {
+      "product": "Mad Parfüm - W223 Selective",
+      "clicks": 2,
+      "top_pages": {
+        "/product/mad-parfum-w223-selective": 2
+      }
+    },
+    {
+      "product": "Maison Alhambra - Afro Leather",
+      "clicks": 2,
+      "top_pages": {
+        "/product/maison-alhambra-afro-leather": 2
+      }
+    },
+    {
+      "product": "Loris - E-333 Frequence",
+      "clicks": 2,
+      "top_pages": {
+        "/product/jean-paul-gaultier-le-male-elixir": 1,
+        "/product/loris-e-333-frequence": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - B108 Selective",
+      "clicks": 2,
+      "top_pages": {
+        "/product/bvlgari-bvlgari-man-terrae-essence": 1,
+        "/product/mad-parfum-b108-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - Inspiration",
+      "clicks": 2,
+      "top_pages": {
+        "/product/creed-spring-flower": 1,
+        "/product/mad-parfum-inspiration": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - Pera",
+      "clicks": 2,
+      "top_pages": {
+        "/product/giorgio-armani-emporio-armani-stronger-with-you-intensely": 1,
+        "/product/mad-parfum-pera": 1
+      }
+    },
+    {
+      "product": "Afnan - Cherry Bouquet",
+      "clicks": 1,
+      "top_pages": {
+        "/product/afnan-cherry-bouquet": 1
+      }
+    },
+    {
+      "product": "Afnan - Stardust",
+      "clicks": 1,
+      "top_pages": {
+        "/product/afnan-stardust": 1
+      }
+    },
+    {
+      "product": "Afnan - Violet Bouquet",
+      "clicks": 1,
+      "top_pages": {
+        "/product/afnan-violet-bouquet": 1
+      }
+    },
+    {
+      "product": "Bargello - 141",
+      "clicks": 1,
+      "top_pages": {
+        "/product/bargello-141-kadin": 1
+      }
+    },
+    {
+      "product": "Bargello - 575",
+      "clicks": 1,
+      "top_pages": {
+        "/product/bargello-575-erkek": 1
+      }
+    },
+    {
+      "product": "Bargello - 618",
+      "clicks": 1,
+      "top_pages": {
+        "/product/bargello-618-erkek": 1
+      }
+    },
+    {
+      "product": "Bargello - 695",
+      "clicks": 1,
+      "top_pages": {
+        "/product/bargello-695-erkek": 1
+      }
+    },
+    {
+      "product": "Bargello - NICHE PARADISE ELYSIAN",
+      "clicks": 1,
+      "top_pages": {
+        "/product/maison-francis-kurkdjian-oud-satin-mood": 1
+      }
+    },
+    {
+      "product": "Bargello - Niche Elegance White Contrast",
+      "clicks": 1,
+      "top_pages": {
+        "/product/bargello-niche-elegance-white-contrast-unisex": 1
+      }
+    },
+    {
+      "product": "Bargello - OPPOSITE",
+      "clicks": 1,
+      "top_pages": {
+        "/product/bargello-opposite-erkek": 1
+      }
+    },
+    {
+      "product": "Bargello - ZENITH VEGA",
+      "clicks": 1,
+      "top_pages": {
+        "/product/xerjoff-alexandria-ii": 1
+      }
+    },
+    {
+      "product": "Bargello ZENITH VEGA",
+      "clicks": 1,
+      "top_pages": {
+        "/blog/bargello-zenith-vega-neyin-muadili": 1
+      }
+    },
+    {
+      "product": "Bvlgari - Aqva Pour Homme",
+      "clicks": 1,
+      "top_pages": {
+        "/product/bvlgari-aqva-pour-homme": 1
+      }
+    },
+    {
+      "product": "Carolina Herrera - Good Girl",
+      "clicks": 1,
+      "top_pages": {
+        "/product/carolina-herrera-good-girl": 1
+      }
+    },
+    {
+      "product": "CeraVe - Hydrating Hyaluronic Acid Serum",
+      "clicks": 1,
+      "top_pages": {
+        "/skincare/product/cerave-hydrating-hyaluronic-acid-serum": 1
+      }
+    },
+    {
+      "product": "Dior - Sauvage Elixir",
+      "clicks": 1,
+      "top_pages": {
+        "/product/dior-sauvage-elixir": 1
+      }
+    },
+    {
+      "product": "French Avenue Miraj Absolu",
+      "clicks": 1,
+      "top_pages": {
+        "/blog/french-avenue-miraj-absolu-neyin-muadili": 1
+      }
+    },
+    {
+      "product": "Giorgio Armani - Acqua Di Gio",
+      "clicks": 1,
+      "top_pages": {
+        "/product/giorgio-armani-acqua-di-gio-1": 1
+      }
+    },
+    {
+      "product": "Giorgio Armani - Emporio Armani Stronger With You Absolutely",
+      "clicks": 1,
+      "top_pages": {
+        "/product/giorgio-armani-emporio-armani-stronger-with-you-absolutely": 1
+      }
+    },
+    {
+      "product": "Hugo Boss - Boss Alive Eau De Parfum",
+      "clicks": 1,
+      "top_pages": {
+        "/product/hugo-boss-boss-alive-eau-de-parfum": 1
+      }
+    },
+    {
+      "product": "Lattafa - Jasoor",
+      "clicks": 1,
+      "top_pages": {
+        "/product/valentino-valentino-uomo-born-in-roma-coral-fantasy": 1
+      }
+    },
+    {
+      "product": "Lattafa - Liam",
+      "clicks": 1,
+      "top_pages": {
+        "/product/bdk-parfums-gris-charnel": 1
+      }
+    },
+    {
+      "product": "Lattafa - Sherif",
+      "clicks": 1,
+      "top_pages": {
+        "/product/lattafa-sherif-erkek": 1
+      }
+    },
+    {
+      "product": "Lattafa - Taureau De Combat",
+      "clicks": 1,
+      "top_pages": {
+        "/product/creed-centaurus": 1
+      }
+    },
+    {
+      "product": "Lattafa - The Kingdom For Men",
+      "clicks": 1,
+      "top_pages": {
+        "/product/lattafa-the-kingdom-for-men-erkek": 1
+      }
+    },
+    {
+      "product": "Loris - Businessman Weekend",
+      "clicks": 1,
+      "top_pages": {
+        "/product/hugo-boss-boss-the-scent-elixir-for-him": 1
+      }
+    },
+    {
+      "product": "Loris - E-250 Frequence",
+      "clicks": 1,
+      "top_pages": {
+        "/product/loris-e-250-frequence": 1
+      }
+    },
+    {
+      "product": "Loris - K-448 Frequence",
+      "clicks": 1,
+      "top_pages": {
+        "/product/loris-k-448-frequence": 1
+      }
+    },
+    {
+      "product": "Loris - Smartwoman Majesty",
+      "clicks": 1,
+      "top_pages": {
+        "/product/paco-rabanne-million-gold-for-her": 1
+      }
+    },
+    {
+      "product": "Loris - U-13 Frequence",
+      "clicks": 1,
+      "top_pages": {
+        "/product/loris-u-13-frequence": 1
+      }
+    },
+    {
+      "product": "Loris - U-4 Frequence",
+      "clicks": 1,
+      "top_pages": {
+        "/product/xerjoff-alexandria-ii": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - A118 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-a118-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - A122 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-a122-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - B107 Selective Erkek",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-b107-selective-erkek": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - Bruno Gold",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-bruno-gold": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - C108 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-c108-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - D116 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-d116-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - D121 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/clinique-clinique-happy": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - F101 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-f101-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - Grande Notte",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-grande-notte": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - H104 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-h104-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - H105 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/hugo-boss-boss-intense": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - J107 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-j107-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - Kraken",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-kraken": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - Narcotic",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-narcotic": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - No:47",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-no7": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - P101 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-p101-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - P101 Selective Kadın",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-p101-selective-kadin": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - P102 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-p102-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - P104 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/lanvin-eclat-d-arpege-limited-edition": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - Q107 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/chanel-allure-homme-edition-blanche-eau-de-parfum": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - R103 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-r103-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - R105 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-r105-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - Sateen Oud",
+      "clicks": 1,
+      "top_pages": {
+        "/product/maison-francis-kurkdjian-oud-satin-mood": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - Trono",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-trono": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - W111 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-w111-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - W164 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-w164-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - W183 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-w183-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - W209 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-w209-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - W212 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-w212-selective": 1
+      }
+    },
+    {
+      "product": "Mad Parfüm - W214 Selective",
+      "clicks": 1,
+      "top_pages": {
+        "/product/mad-parfum-w214-selective": 1
+      }
+    },
+    {
+      "product": "Maison Alhambra - Alpine Homme Sport",
+      "clicks": 1,
+      "top_pages": {
+        "/product/maison-alhambra-alpine-homme-sport": 1
+      }
+    },
+    {
+      "product": "Maison Alhambra - Amber Leather",
+      "clicks": 1,
+      "top_pages": {
+        "/product/maison-alhambra-amber-leather": 1
+      }
+    },
+    {
+      "product": "Maison Alhambra - Delilah",
+      "clicks": 1,
+      "top_pages": {
+        "/product/maison-alhambra-delilah": 1
+      }
+    },
+    {
+      "product": "Maison Alhambra - Glacier Gold",
+      "clicks": 1,
+      "top_pages": {
+        "/product/maison-alhambra-glacier-gold": 1
+      }
+    },
+    {
+      "product": "Maison Alhambra - Infini Rose",
+      "clicks": 1,
+      "top_pages": {
+        "/product/maison-alhambra-infini-rose": 1
+      }
+    },
+    {
+      "product": "Maison Alhambra - Jean Lowe Ombre",
+      "clicks": 1,
+      "top_pages": {
+        "/product/maison-alhambra-jean-lowe-ombre": 1
+      }
+    },
+    {
+      "product": "Maison Alhambra - Libbra",
+      "clicks": 1,
+      "top_pages": {
+        "/product/maison-alhambra-libbra": 1
+      }
+    },
+    {
+      "product": "Maison Alhambra - Perseus",
+      "clicks": 1,
+      "top_pages": {
+        "/product/parfums-de-marly-pegasus": 1
+      }
+    },
+    {
+      "product": "Maison Alhambra - Porto Neroli",
+      "clicks": 1,
+      "top_pages": {
+        "/product/maison-alhambra-porto-neroli": 1
+      }
+    },
+    {
+      "product": "Maison Alhambra - Tabac",
+      "clicks": 1,
+      "top_pages": {
+        "/product/maison-alhambra-tabac": 1
+      }
+    },
+    {
+      "product": "Muscent - C031 S Royal",
+      "clicks": 1,
+      "top_pages": {
+        "/product/muscent-c031-s-royal-unisex": 1
+      }
+    },
+    {
+      "product": "Muscent - C066 Fruity Chypre",
+      "clicks": 1,
+      "top_pages": {
+        "/product/muscent-c066-fruity-chypre-unisex": 1
+      }
+    },
+    {
+      "product": "Muscent - F170 Lterdit",
+      "clicks": 1,
+      "top_pages": {
+        "/product/muscent-f170-lterdit-kadin": 1
+      }
+    },
+    {
+      "product": "Muscent - F373 MBSignture",
+      "clicks": 1,
+      "top_pages": {
+        "/product/muscent-f373-mbsignture-kadin": 1
+      }
+    },
+    {
+      "product": "Muscent - M010 One Million",
+      "clicks": 1,
+      "top_pages": {
+        "/product/paco-rabanne-1-million-1": 1
+      }
+    },
+    {
+      "product": "Muscent - N018 W Patchouli",
+      "clicks": 1,
+      "top_pages": {
+        "/product/tom-ford-white-patchouli": 1
+      }
+    },
+    {
+      "product": "Muscent - N041 BOrchid EDP",
+      "clicks": 1,
+      "top_pages": {
+        "/product/muscent-n041-borchid-edp-unisex": 1
+      }
+    },
+    {
+      "product": "Muscent - N088 Satin Mod",
+      "clicks": 1,
+      "top_pages": {
+        "/product/maison-francis-kurkdjian-oud-satin-mood": 1
+      }
+    },
+    {
+      "product": "Muscent - N185 Alian Es Abs",
+      "clicks": 1,
+      "top_pages": {
+        "/product/muscent-n185-alian-es-abs-kadin": 1
+      }
+    },
+    {
+      "product": "Muscent - N262 F Fabulous",
+      "clicks": 1,
+      "top_pages": {
+        "/product/tom-ford-fucking-fabulous": 1
+      }
+    },
+    {
+      "product": "Muscent - N356 Angle s Share",
+      "clicks": 1,
+      "top_pages": {
+        "/product/muscent-n356-angle-s-share-unisex": 1
+      }
+    }
+  ]
+}

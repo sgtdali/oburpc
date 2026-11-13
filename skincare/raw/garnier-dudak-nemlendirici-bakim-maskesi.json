@@ -1,0 +1,41 @@
+{
+ "slug": "garnier-dudak-nemlendirici-bakim-maskesi",
+ "brandSite": {
+  "url": "https://www.garnier.com.tr/dudak-nemlendirici-bakim-maskesi",
+  "nameTr": "Dudak Nemlendirici Bakım Maskesi",
+  "inci": [
+   "AQUA/WATER",
+   "GLYCERIN",
+   "PROPANEDIOL",
+   "PENTYLENE GLYCOL",
+   "ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER",
+   "ALCOHOL",
+   "CALCIUM PCA",
+   "CAPRYLYL/CAPRYL GLUCOSIDE",
+   "CARBOMER",
+   "CITRIC ACID",
+   "HYDROXYACETOPHENONE",
+   "PANTHENOL",
+   "POTASSIUM SORBATE",
+   "PRUNUS CERASUS FRUIT EXTRACT/BITTER CHERRY FRUIT EXTRACT",
+   "SODIUM BENZOATE",
+   "SODIUM HYALURONATE",
+   "SODIUM PHYTATE",
+   "TROMETHAMINE",
+   "PARFUM/FRAGRANCE"
+  ],
+  "inciSource": "metin",
+  "claims": null,
+  "howTo": [
+   "Maskeyi dudak çevresini kaplayacak şekilde yerleştirin.",
+   "15 dakika bekleyin; bu sürede rahatça hareket edebilirsiniz.",
+   "Maskeyi çıkarın, kalan fazla ürünü dudaklarınıza masaj yaparak yedirin."
+  ],
+  "image": "https://www.garnier.com.tr/-/media/project/loreal/brand-sites/garnier/emea/tr/tr-tr/prd-facecare/3600542413619.png?rev=44ad3d3f2d2e45a09f2a9d363654bfa9&sc_lang=tr-tr",
+  "title": "Doğal Dudak Nemlendirici Bakım Maskesi Serisi | Garnier",
+  "barcodes": [
+   "3600542413619"
+  ],
+  "note": "2026-11-13: kullanım talimatı denetim/kullanim_loreal_garnier_20261113.py'den (sayfadaki tek parça metin adımlara bölündü; başlık, ürün önerisi ve etki cümleleri çıkarıldı)."
+ }
+}

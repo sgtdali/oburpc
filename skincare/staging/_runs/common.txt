@@ -1,0 +1,4 @@
+Depo kökü: C:\Users\tvural.REPKON\Desktop\parfüm\uygun-bakim
+Önce scripts\skincare\staging\BRIEF.md dosyasını baştan sona oku ve harfiyen uygula; sonra docs\skincare-veri-kaynaklari.md (bölüm 1, 2, 4, 5).
+Tüm komutları depo kökünde çalıştır (cd "C:\Users\tvural.REPKON\Desktop\parfüm\uygun-bakim").
+Yalnızca scripts\skincare\staging\<marka>\ altına yaz. Denetçi Claude; sorun ya da karar gerekirse dur ve "DURUM: SORU" ile sor.

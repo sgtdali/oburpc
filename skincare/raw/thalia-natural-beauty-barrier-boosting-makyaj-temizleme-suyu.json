@@ -1,0 +1,41 @@
+{
+ "slug": "thalia-natural-beauty-barrier-boosting-makyaj-temizleme-suyu",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/barrier-boosting-cift-asamali-makyaj-temizleyici",
+  "nameTr": "Thalia Barrier Boosting Makyaj Temizleme Suyu",
+  "inci": [
+   "AQUA(WATER)",
+   "PEG-7 GLYCERYL COCOATE",
+   "DISODIUM COCOAMPHODIACETATE",
+   "OLIVE OIL PEG-7 ESTERS",
+   "POLOXAMER 184",
+   "COCO-GLUCOSIDE",
+   "GLYCERIN",
+   "GLYCERYL GLUCOSIDE",
+   "GLYCERYL OLEATE",
+   "SODIUM PCA",
+   "SODIUM BENZOATE",
+   "NIACINAMIDE",
+   "PEG-120 METHYL GLUCOSE DIOLEATE",
+   "POTASSIUM SORBATE",
+   "POLYSORBATE 20",
+   "PARFUM(FRAGRANCE)",
+   "PEG-40 HYDROGENATED CASTOR OIL",
+   "TRIDECETH-9",
+   "LACTIC ACID"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Maskara, suya dayanıklı makyaj veya güneş koruyucu kullandığınızda uygulayın.",
+   "İster elinizle ister pamuk yardımıyla nazikçe cildinize sürün.",
+   "Ovalamadan, hafif hareketlerle makyaj kalıntılarını çözün.",
+   "Bol su ile durulayın.",
+   "Ardından Temizleme Jeli ile temizliği tamamlayın."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220270-ragpf3SSLY-01_1024x1024.jpg",
+  "title": "barrier-boosting-cift-asamali-makyaj-temizleyici",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

@@ -1,0 +1,17 @@
+DENETÇİ (tur 2): Metinler artık ürüne özgü, teşekkürler; check 0 hata. Şunları da yap:
+
+1. C:\Users\tvural.REPKON\Desktop\parfüm\uygun-bakim\scripts\skincare\staging\_runs\feedback_scope.txt dosyasındaki
+   kapsam ve ad maddelerini uygula: excluded.json eksiksiz (Anthelios ve tüm SPF'liler, Kerium, deodorant, set, aynı
+   formülün başka boyutu, içerik listesi çıkmayanlar — url + ad + gerekçe), report.md'de sayım; kaçırılan kapsam içi
+   ürün varsa ekle; nameTr Türkçe (seri adı + Türkçe ürün türü; ör. "Effaclar H Iso-Biome Nemlendirici Temizleme Kremi",
+   "Lipikar Syndet AP+ Yatıştırıcı Temizleme Jeli", "Micellar Water Ultra Sensitive" → "Hassas Ciltler İçin Misel Su").
+
+2. Güvenlik/tıbbi iddia yok: "hassas ciltler için güvenlidir", "hassas ciltlere uyumludur", "tahriş hissini yatıştırır",
+   "kızarıklık görünümünü azaltmaya yardımcı olur" gibi kesin sonuç vaatleri yerine madde düzeyinde ölçülü yaz
+   ("pantenol yatıştırıcı etkisiyle bilinir"). Tüm 44 açıklamayı bu açıdan tara.
+
+3. Madde nameTr: "Silikon Türevi" gibi genel adlar olmaz; maddenin kendi adını yaz ("Bis-PEG-18 metil eter dimetil
+   silan"). "Akrilat Kopolimeri" de belirsiz → "Akrilonitril/metil metakrilat/viniliden klorür kopolimeri".
+   Tüm madde adlarını bu açıdan gözden geçir.
+
+4. check → 0 HATA; report.md güncel; son satır DURUM: BİTTİ / DEVAM / SORU.

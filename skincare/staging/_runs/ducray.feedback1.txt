@@ -1,0 +1,26 @@
+DENETÇİ GERİ BİLDİRİMİ (Ducray, tur 1) — aşağıdakileri düzelt, sonra check çalıştır ve DURUM ile bitir.
+
+1. HAM VERİYE ELLE MÜDAHALE YASAK. ducray-kertyol-pso-temizleme-jeli ve ducray-kertyol-pso-balsam raw dosyalarında
+   INCI'yi elle kısaltmışsın (parantez içindeki tekrar adları silmişsin). Bunu geri al: iki ürünü `tools.py fetch` ile
+   yeniden çek; liste kaynakta nasılsa öyle kalmalı. Parantezli uzun BÜYÜK HARF adlar meşru, analiz motoru onları
+   çözüyor; tools.py'deki 70 karakter uyarısı yanlıştı ve düzeltildi (artık yalnızca düz yazı karışmış öğeyi işaretler).
+
+2. DEXYANE: İki sayfa FARKLI formül (biri propylene glycol + disodium EDTA içeriyor, diğeri içermiyor). BRIEF'e göre
+   farklı formül = ayrı ürün. İki sayfayı da aç:
+   - .../p/dexyane-med-dexyane-med-yatistirici-onarim-kremi-3282770148114-89ed5d25
+   - .../p/yatistirici-onarici-krem-3282770073355-89ed5d25
+   Her biri için sayfadaki ürün adına göre doğru slug/name/nameTr ver, ikisini de fetch et, ikisine de açıklama yaz.
+   Sayfalardan biri eski/satıştan kalkmış bir ürünse ya da aynı ürünün eski sayfasıysa bunu kanıtıyla report.md'ye yaz
+   ve "DURUM: SORU" ile sor; tahminle eleme.
+
+3. TIBBİ İFADE YOK: nameTr'de "Egzama Tedavisi" olmaz (ör. "Dexyane MeD Yatıştırıcı Onarım Kremi"). Açıklamalarda
+   "egzama lezyonları", "tıbbi cihaz", "tedavi", "kaşıntıyı yatıştırır", "3 aydan itibaren / bebeklere uygun" gibi
+   teşhis/tedavi/yaş-güvenlik ifadeleri kullanma. "Çok kuru, kaşıntılı hissedilen, atopiye eğilimli cilt için onarıcı
+   krem" gibi nötr ve içerik listesine dayalı yaz.
+
+4. MADDE METNİ: 10-hydroxydecenoic-acid → nameTr "10-Hidroksidesenoik asit" (decenoic = desenoik). Açıklamadaki
+   "sebum dengesini sağlar, cildi onarır" kanıtsız; yalnızca "arı sütünde bulunan bir yağ asidi; cilt bakım maddesi
+   olarak kullanılır" düzeyinde, doğrulanabilir yaz.
+
+5. `python -X utf8 scripts/skincare/staging/tools.py check ducray` → 0 HATA. report.md'yi güncelle (Dexyane kararı,
+   raw geri alındı notu). Son satır: DURUM: BİTTİ ya da DURUM: SORU.

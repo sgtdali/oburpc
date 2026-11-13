@@ -1,0 +1,329 @@
+{
+  "checkedProducts": 61,
+  "passedProducts": 61,
+  "products": [
+    {
+      "slug": "bioderma-cicabio-hand-cream",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sebium-kerato-plus",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sebium-kerato-plus-body",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sebium-kerato-plus-cover",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-matricium",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-atoderm-cream-ultra",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-abcderm-foaming-cleanser",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-pigmentbio-sensitive-areas",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-cicabio-cleansing-balm",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-hydrabio-cream",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-pigmentbio-foaming-cream",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-foaming-gel",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-hydrabio-h2o",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-abcderm-hydratant",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-micellar-cleansing-oil",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-atoderm-shower-oil",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-abcderm-change-intensive",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-pigmentbio-h2o",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-atoderm-shower-gel",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-defensive-cream",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-atoderm-intensive-foaming-gel",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-atoderm-2-in-1-body-oil",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-pigmentbio-c-concentrate",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-defensive-rich-cream",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sebium-pore-refiner",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-defensive-serum",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-atoderm-intensive-eye",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sebium-sensitive",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-ar",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sebium-h2o",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-atoderm-intensive-gel-cream",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-ar-plus-micellar-gel",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-atoderm-lip-balm",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-ar-plus-cream",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-ar-plus-sos-spray",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-atoderm-lip-stick",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sebium-mat-control",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-ar-plus-bi-serum",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-atoderm-hand-nail-cream",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sebium-serum",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-atoderm-nutrition-cream",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-eye-plus",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sebium-night-peel",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-ds-plus-cream",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-h2o-eye",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-cicabio-arnica-plus",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-ds-plus-foaming-gel",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sebium-exfoliating-gel",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sensibio-eye-contour-gel",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-hydrabio-foaming-gel",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-abcderm-h2o",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sebium-hydra-cleanser",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-atoderm-intensive-bar",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-hydrabio-light-cream",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-cicabio-lip-repair",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-sebium-lotion",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-cicabio-lotion-spray",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-pigmentbio-night-renewer",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-abcderm-relaxing-oil",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-hydrabio-rich-cream",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "slug": "bioderma-hydrabio-serum",
+      "status": 200,
+      "errors": []
+    }
+  ],
+  "indexes": [
+    {
+      "path": "/skincare/brands/bioderma",
+      "status": 200,
+      "productLinks": 66
+    },
+    {
+      "path": "/skincare/catalog?marka=bioderma",
+      "status": 200,
+      "productLinks": 48
+    },
+    {
+      "path": "/skincare/catalog?marka=bioderma&sayfa=2",
+      "status": 200,
+      "productLinks": 18
+    }
+  ],
+  "catalogTotal": 66
+}

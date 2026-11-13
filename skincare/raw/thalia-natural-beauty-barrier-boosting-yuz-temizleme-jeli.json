@@ -1,0 +1,41 @@
+{
+ "slug": "thalia-natural-beauty-barrier-boosting-yuz-temizleme-jeli",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/barrier-boosting-temizleme-jeli",
+  "nameTr": "Thalia Barrier Boosting Yüz Temizleme Jeli",
+  "inci": [
+   "AQUA(WATER)",
+   "DECYL GLUCOSIDE",
+   "COCAMIDOPROPYL BETAINE",
+   "GLYCERIN",
+   "SORBITOL",
+   "SODIUM BENZOATE",
+   "XANTHAN GUM",
+   "PARFUM(FRAGRANCE)",
+   "POTASSIUM SORBATE",
+   "GLYCERYL GLUCOSIDE",
+   "PEG-40 HYDROGENATED CASTOR OIL",
+   "TRIDECETH-9",
+   "ALLANTOIN",
+   "INULIN",
+   "SACCHARUM OFFICINARUM EXTRACT",
+   "FRUCTOSE",
+   "LINALOOL",
+   "HEXYL CINNAMAL",
+   "BENZYL SALICYLATE"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Günlük temizleyici olarak bir miktar ürünü nemli cildinize alın.",
+   "Ovalamadan, hafif hareketlerle köpürterek cildinizi masaj yapın.",
+   "Bol su ile durulayın.",
+   "Sabah ve akşam günlük kullanıma uygundur.",
+   "Suya dayanıklı makyaj veya güneş koruyucu varsa, önce Makeup Remover ile makyajı temizleyip ardından bu ürünle devam edin."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220272-uU6hafcWku-01_1024x1024.jpg",
+  "title": "barrier-boosting-temizleme-jeli",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

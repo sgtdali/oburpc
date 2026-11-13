@@ -1,0 +1,48 @@
+{
+ "slug": "thalia-natural-beauty-barrier-boosting-nemlendirici-yuz-kremi",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/barrier-boosting-nemlendirici-krem",
+  "nameTr": "Thalia Barrier Boosting Nemlendirici Yüz Kremi",
+  "inci": [
+   "AQUA(WATER)",
+   "GLYCERIN",
+   "POLYGLYCERYL-4 OLIVATE/POLYRICINOLEATE",
+   "CAPRYLIC/CAPRIC TRIGLYCERIDE",
+   "AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER",
+   "GLYCERYL GLUCOSIDE",
+   "HYDROGENATED ETHYLHEXYL OLIVATE",
+   "SORBITAN CAPRYLATE",
+   "SORBITAN OLIVATE",
+   "PARFUM(FRAGRANCE)",
+   "CERAMIDE NP",
+   "PROPANEDIOL",
+   "BENZOIC ACID",
+   "HYDROGENATED OLIVE OIL UNSAPONIFIABLES",
+   "CENTELLA ASIATICA EXTRACT",
+   "PEG-7 GLYCERYL COCOATE",
+   "PHENOXYETHANOL",
+   "LINALOOL",
+   "HEXYL CINNAMAL",
+   "BENZYL SALICYLATE",
+   "HEXAMETHYLINDANOPYRAN",
+   "LIMONENE",
+   "TERPINEOL",
+   "CITRUS AURANTIUM PEEL OIL",
+   "ALPHA-ISOMETHYL IONONE",
+   "COUMARIN",
+   "VANILLIN"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Temizlenmiş yüz ve boyun bölgesine sabah ve akşam uygulayın.",
+   "Nazikçe masaj yaparak yedirin.",
+   "Daha etkili sonuç için krem öncesi Jel Serum kullanılması önerilir.",
+   "Göz çevresine uygulamaktan kaçının."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220269-2856dyEE3F-01_1024x1024.jpg",
+  "title": "barrier-boosting-nemlendirici-krem",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

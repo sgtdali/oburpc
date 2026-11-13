@@ -1,0 +1,38 @@
+{
+ "slug": "thalia-natural-beauty-epilasyon-sonrasi-vucut-jeli",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/tuy-bakimi-tuy-azaltici-jel-krem",
+  "nameTr": "Thalia After Epilation Body Gel Vücut Losyonu",
+  "inci": [
+   "AQUA (WATER)",
+   "PROPYLENE GLYCOL",
+   "GYMNEMA SYLVESTRE LEAF EXTRACT",
+   "ALOE BARBADENSIS LEAF JUICE",
+   "PHENOXYETHANOL",
+   "PEG-40 HYDROGENATED CASTOR OIL",
+   "CARBOMER",
+   "TRIETHANOLAMINE",
+   "PARFUM (FRAGRANCE)",
+   "ETHYLHEXYLGLYCERIN",
+   "CITRIC ACID",
+   "SODIUM BENZOATE",
+   "POTASSIUM SORBATE",
+   "GLYCERIN",
+   "PANTHENOL",
+   "BENZYL SALICYLATE",
+   "CITRONELLOL"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Epilasyon sonrası veya tüy döküm işlemi sonrasında cilt temiz ve kuruken uygulayın.",
+   "Yeterli miktarı ince tabaka halinde hedef bölgeye yayın.",
+   "Durulama gerekmez; emilmesini bekleyin.",
+   "Sonuç için her gün düzenli olarak kullanmaya devam edin."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220915-ruKlYUmFBd-01_1024x1024.jpg",
+  "title": "tuy-bakimi-tuy-azaltici-jel-krem",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "slug": "ducray-keracnyl-glycolic",
+  "brand": "ducray",
+  "name": "Keracnyl Glycolic+",
+  "nameTr": "Keracnyl Glycolic+ Siyah Nokta Karşıtı Bakım Kremi",
+  "category": "akne-bakimi",
+  "brandUrl": "https://www.ducray.com/tr-tr/p/keracnyl-glycolic-krem-3282770141467-89ed5d25"
+ },
+ {
+  "slug": "ducray-melascreen-anti-spots-concentrate",
+  "brand": "ducray",
+  "name": "Melascreen Anti-Spots Concentrate",
+  "nameTr": "Melascreen Leke Karşıtı Konsantre Krem",
+  "category": "serum",
+  "brandUrl": "https://www.ducray.com/tr-tr/p/melascreen-melascreen-anti-spots-concentrate-3282770389197-89ed5d25"
+ },
+ {
+  "slug": "ducray-melascreen-eye-contour-anti-spots",
+  "brand": "ducray",
+  "name": "Melascreen Eye Contour Anti-Spots",
+  "nameTr": "Melascreen Leke Karşıtı Göz Çevresi Kremi",
+  "category": "goz-bakimi",
+  "brandUrl": "https://www.ducray.com/tr-tr/p/melascreen-melascreen-eye-contour-anti-spots-3282770389234-89ed5d25"
+ },
+ {
+  "slug": "ducray-kelual-ds-krem",
+  "brand": "ducray",
+  "name": "Kelual DS Krem",
+  "nameTr": "Kelual DS Pullanma Karşıtı Yüz Bakım Kremi",
+  "category": "onarici-krem",
+  "brandUrl": "https://www.ducray.com/tr-tr/p/kelual-ds-pullanmaya-karsi-krem-3282770202267-89ed5d25"
+ },
+ {
+  "slug": "ducray-kertyol-pso-temizleme-jeli",
+  "brand": "ducray",
+  "name": "Kertyol P.S.O. Temizleme Jeli",
+  "nameTr": "Kertyol P.S.O. Yoğun Pullanma Karşıtı Temizleme Jeli",
+  "category": "yuz-temizleyici",
+  "brandUrl": "https://www.ducray.com/tr-tr/p/kertyol-pso-ultra-zengin-temizleme-jeli-3282770148435-89ed5d25"
+ },
+ {
+  "slug": "ducray-kertyol-pso-balsam",
+  "brand": "ducray",
+  "name": "Kertyol P.S.O. Balsam",
+  "nameTr": "Kertyol P.S.O. Yoğun Pullanma Karşıtı Vücut Balsamı",
+  "category": "vucut-bakimi",
+  "brandUrl": "https://www.ducray.com/tr-tr/p/kertyol-p-s-o--guenluek-nemlendirici-balsam-3282770148459-89ed5d25"
+ },
+ {
+  "slug": "ducray-dexyane-med-onarici-krem",
+  "brand": "ducray",
+  "name": "Dexyane MeD",
+  "nameTr": "Dexyane MeD Onarıcı Krem",
+  "category": "onarici-krem",
+  "brandUrl": "https://www.ducray.com/tr-tr/p/yatistirici-onarici-krem-3282770073355-89ed5d25"
+ },
+ {
+  "slug": "ducray-dexyane-med-onarim-kremi",
+  "brand": "ducray",
+  "name": "Dexyane MeD",
+  "nameTr": "Dexyane MeD Yatıştırıcı Onarım Kremi",
+  "category": "onarici-krem",
+  "brandUrl": "https://www.ducray.com/tr-tr/p/dexyane-med-dexyane-med-yatistirici-onarim-kremi-3282770148114-89ed5d25"
+ }
+]

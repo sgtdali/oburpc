@@ -1,0 +1,399 @@
+[
+  {
+    "slug": "caudalie-vinoclean-gentle-buffing-cream",
+    "brand": "caudalie",
+    "name": "Vinoclean Gentle Buffing Cream",
+    "nameTr": "Vinoclean Hassas Temizleyici Peeling",
+    "category": "peeling",
+    "brandUrl": "https://tr.caudalie.com/p/303/vinoclean-hassas-temizleyici-peeling-303.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinoclean_cre_me_gommante_caudalie_packshot_offwhite.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinoclean-instant-foaming-cleanser",
+    "brand": "caudalie",
+    "name": "Vinoclean Instant Foaming Cleanser",
+    "nameTr": "Vinoclean Temizleme Köpüğü",
+    "category": "yuz-temizleyici",
+    "brandUrl": "https://tr.caudalie.com/p/307C/vinoclean-temizleme-kopugu-307c.html"
+  },
+  {
+    "slug": "caudalie-beauty-elixir",
+    "brand": "caudalie",
+    "name": "Beauty Elixir",
+    "nameTr": "Beauty Elixir",
+    "category": "tonik",
+    "brandUrl": "https://tr.caudalie.com/p/319C/guzellik-iksiri-319c.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_beauty_elixir_edb_2_caudalie_packshot_offwhite_travel-size_1.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-grape-water",
+    "brand": "caudalie",
+    "name": "Grape Water",
+    "nameTr": "Organik Üzüm Suyu",
+    "category": "tonik",
+    "brandUrl": "https://tr.caudalie.com/p/320/grape-water-mist-75ml-320.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_eau_de_raisin_2_caudalie_packshot_offwhite_travel-size.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinoperfect-glycolic-peel-mask",
+    "brand": "caudalie",
+    "name": "Vinoperfect Glycolic Peel Mask",
+    "nameTr": "Vinoperfect Glikolik Maske",
+    "category": "maske",
+    "brandUrl": "https://tr.caudalie.com/p/328/glikolik-maske-vinoperfect-328.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinoperfect_maks_pack_caudalie_2025.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinoperfect-brightening-eye-cream",
+    "brand": "caudalie",
+    "name": "Vinoperfect Brightening Eye Cream",
+    "nameTr": "Vinoperfect Işıltı Verici Göz Bakım Kremi",
+    "category": "goz-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/329/vinoperfect-brightening-eye-cream-329.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinoperfect_eyecream_pack-open_caudalie_2025.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinotherapist-lip-conditioner",
+    "brand": "caudalie",
+    "name": "Vinotherapist Lip Conditioner",
+    "nameTr": "Vinothérapist Dudak Bakım Kremi",
+    "category": "dudak-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/359/vinotherapist-dudak-bakim-kremi-359.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_body_2026_lipstick_packshot_caudalie.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinotherapist-replenishing-vegan-body-butter",
+    "brand": "caudalie",
+    "name": "Vinotherapist Replenishing Vegan Body Butter",
+    "nameTr": "Vinothérapist Yenileyici Vegan Vücut Balmı",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/362/yenileyici-vegan-vucut-balmi-362.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_body_2026_butter_packshot_caudalie.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinotherapist-hyaluronic-nourishing-body-lotion",
+    "brand": "caudalie",
+    "name": "Vinotherapist Hyaluronic Nourishing Body Lotion",
+    "nameTr": "Vinothérapist Besleyici Hiyalüronik Vücut Losyonu",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/363C/besleyici-hiyaluronik-vucut-losyonu-363c.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_body_2026_lotion_packshot_caudalie.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-the-des-vignes-hyaluronic-nourishing-body-lotion",
+    "brand": "caudalie",
+    "name": "The Des Vignes Hyaluronic Nourishing Body Lotion",
+    "nameTr": "Thé des Vignes Besleyici Hiyalüronik Vücut Losyonu",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/369C/hyaluronic-nourishing-body-lotion-the-des-vignes-369c.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_the_des_vignes_soin_corps_nourrissant_1_caudalie_packshot_offwhite.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-fleur-de-vigne-shower-gel",
+    "brand": "caudalie",
+    "name": "Fleur De Vigne Shower Gel",
+    "nameTr": "Fleur de Vigne Duş Jeli",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/381/dus-jeli-fleur-de-vigne-381.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_gd_fdv_caudalie_packshot_offwhite.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-the-des-vignes-shower-gel",
+    "brand": "caudalie",
+    "name": "The Des Vignes Shower Gel",
+    "nameTr": "Thé des Vignes Duş Jeli",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/382/the-des-vignes-dus-jeli-200ml-382.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_the_des_vignes_gel_douche_200ml_caudalie_packshot_offwhite_1.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-rose-de-vigne-shower-gel",
+    "brand": "caudalie",
+    "name": "Rose De Vigne Shower Gel",
+    "nameTr": "Rose de Vigne Duş Jeli",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/384/dus-jeli-rose-de-vigne-384.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_gd_rdv_caudalie_packshot_offwhite.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-eau-des-vignes-shower-gel",
+    "brand": "caudalie",
+    "name": "Eau Des Vignes Shower Gel",
+    "nameTr": "Eau des Vignes Duş Jeli",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/386/dus-jeli-eau-des-vignes-386.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_gd_edv_caudalie_packshot_offwhite.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinoperfect-concentrated-brightening-glycolic-essence",
+    "brand": "caudalie",
+    "name": "Vinoperfect Concentrated Brightening Glycolic Essence",
+    "nameTr": "Vinoperfect Leke Karşıtı Işıltı Verici Esans",
+    "category": "tonik",
+    "brandUrl": "https://tr.caudalie.com/p/401C/leke-karsiti-ve-isilti-verici-esans-401c.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinoperfect_essence_pack_caudalie_1.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinoperfect-illuminating-micropeel-cleansing-foam",
+    "brand": "caudalie",
+    "name": "Vinoperfect Illuminating Micropeel Cleansing Foam",
+    "nameTr": "Vinoperfect Işıltı Verici Mikro Peeling Temizleme Köpüğü",
+    "category": "yuz-temizleyici",
+    "brandUrl": "https://tr.caudalie.com/p/431C/mousse-eclat-micro-peeling-vinoperfect-431c.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinoperfect_foam_pack-50ml_caudalie-vignettes-off-white_travel-size.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinoperfect-complexion-correcting-radiance-serum",
+    "brand": "caudalie",
+    "name": "Vinoperfect Complexion Correcting Radiance Serum",
+    "nameTr": "Vinoperfect Leke Karşıtı Işıltı Verici Serum",
+    "category": "serum",
+    "brandUrl": "https://tr.caudalie.com/p/432C/leke-karsiti-isilti-verici-serum-30ml-432c.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinoperfect_serum_pack_caudalie_3.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinotherapist-overnight-detox-oil",
+    "brand": "caudalie",
+    "name": "Vinoterapist Overnight Detox Oil",
+    "nameTr": "Detoks Etkili Gece Bakım Yağı",
+    "category": "serum",
+    "brandUrl": "https://tr.caudalie.com/p/433/detoks-etkili-gece-bakim-yagi-433.html"
+  },
+  {
+    "slug": "caudalie-vinoclean-instant-detox-mask",
+    "brand": "caudalie",
+    "name": "Vinoclean Instant Detox Mask",
+    "nameTr": "Vinoclean Detoks Maskesi",
+    "category": "maske",
+    "brandUrl": "https://tr.caudalie.com/p/434C/detoks-maskesi-435.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinoclean_mask_75ml_pack_caudalie.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinohydra-sos-intense-moisturizing-cream",
+    "brand": "caudalie",
+    "name": "Vinohydra Sos Intense Moisturizing Cream",
+    "nameTr": "Vinohydra Yoğun Nemlendirici Bakım Kremi",
+    "category": "nemlendirici",
+    "brandUrl": "https://tr.caudalie.com/p/435/sos-yogun-nemlendirici-bakim-kremi-vinohydra-335.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinohydra_cre_me_intense_pot_packshot_caudalie.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinohydra-moisturizing-mask",
+    "brand": "caudalie",
+    "name": "Vinohydra Moisturizing Mask",
+    "nameTr": "Vinohydra Nem Maskesi",
+    "category": "maske",
+    "brandUrl": "https://tr.caudalie.com/p/437/nem-maskesi-vinosource-hydra-437.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinohydra_mask_pack_caudalie.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinohydra-moisturizing-sorbet",
+    "brand": "caudalie",
+    "name": "Vinohydra Moisturizing Sorbet",
+    "nameTr": "Vinohydra Nemlendirici Bakım Kremi",
+    "category": "nemlendirici",
+    "brandUrl": "https://tr.caudalie.com/p/438/nemlendirici-bakim-kremi-vinosource-hydra-438.html"
+  },
+  {
+    "slug": "caudalie-vinohydra-grape-water-gel-moisturizer",
+    "brand": "caudalie",
+    "name": "Vinohydra Grape Water Gel Moisturizer",
+    "nameTr": "Vinohydra Nemlendirici Jel",
+    "category": "nemlendirici",
+    "brandUrl": "https://tr.caudalie.com/p/439/nemlendirici-jel-vinohydra-439.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinohydra_gel_e_packshot_caudalie.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-ange-des-vignes-shower-gel",
+    "brand": "caudalie",
+    "name": "Ange Des Vignes Shower Gel",
+    "nameTr": "Ange des Vignes Duş Jeli",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/441/ange-des-vignes-shower-gel-441.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_advgel_packshot_caudalie.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-moisturizing-oil-elixir",
+    "brand": "caudalie",
+    "name": "Moisturizing Oil Elixir",
+    "nameTr": "Besleyici Elixir Yağ",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/442/besleyici-elixir-yag-442.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_moisturizing-oil-elixir_packshot_100ml_caudalie_fr_1.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-resveratrol-lift-lightweight-firming-cashmere-cream",
+    "brand": "caudalie",
+    "name": "Resveratrol Lift Lightweight Firming Cashmere Cream",
+    "nameTr": "Resveratrol-Lift Sıkılaştırıcı Etkili Hafif Dokulu Kaşmir Gündüz Bakım Kremi",
+    "category": "nemlendirici",
+    "brandUrl": "https://tr.caudalie.com/p/452/dokulu-sikilastirici-gunduz-bakim-kremi-resveratrol-lift-452.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/0/_/0_rvlift_fluid_packshot.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-premier-cru-the-eye-cream",
+    "brand": "caudalie",
+    "name": "Premier Cru The Eye Cream",
+    "nameTr": "Premier Cru Kapsamlı Yaşlanma Karşıtı Göz Bakım Kremi",
+    "category": "goz-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/455/premier-cru-the-eye-cream-455.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_premier_cru_eye_cream_caudalie_packshot_offwhite_353.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-premier-cru-the-serum",
+    "brand": "caudalie",
+    "name": "Premier Cru The Serum",
+    "nameTr": "Premier Cru Kapsamlı Yaşlanma Karşıtı Serum",
+    "category": "serum",
+    "brandUrl": "https://tr.caudalie.com/p/456/the-serum-premier-cru-456.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_premiercru_serum_caudalie_packshot_456.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-premier-cru-the-cream",
+    "brand": "caudalie",
+    "name": "Premier Cru The Cream",
+    "nameTr": "Premier Cru Kapsamlı Yaşlanma Karşıtı Gündüz Bakım Kremi",
+    "category": "nemlendirici",
+    "brandUrl": "https://tr.caudalie.com/p/457C/premier-cru-kapsamli-yaslanma-karsiti-gunduz-bakim-kremi-459.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_premiercru_lacreme_caudalie_packshot.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-premier-cru-the-rich-cream",
+    "brand": "caudalie",
+    "name": "Premier Cru The Rich Cream",
+    "nameTr": "Premier Cru Kapsamlı Yaşlanma Karşıtı Yoğun Bakım Kremi",
+    "category": "nemlendirici",
+    "brandUrl": "https://tr.caudalie.com/p/459C/premier-cru-kapsamli-yaslanma-karsiti-yogun-bakim-kremi-459c.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_premiercru_lacremeriche_caudalie_packshot.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinoperfect-dark-spot-correcting-hand-cream",
+    "brand": "caudalie",
+    "name": "Vinoperfect Dark Spot Correcting Hand Cream",
+    "nameTr": "Vinoperfect Leke Karşıtı El Bakım Kremi",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/463/leke-karsiti-el-bakim-kremi-vinoperfect-463.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinoperfect_hands_pack_caudalie.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinoperfect-instant-brightening-moisturizer",
+    "brand": "caudalie",
+    "name": "Vinoperfect Instant Brightening Moisturizer",
+    "nameTr": "Vinoperfect Leke Karşıtı Niasinamid Gündüz Bakım Kremi",
+    "category": "nemlendirici",
+    "brandUrl": "https://tr.caudalie.com/p/464C/vinoperfect-aninda-isilti-veren-gunduz-bakim-kremi-464c.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinoperfect_daycream_pack_caudalie_1.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinoperfect-dark-spot-correcting-glycolic-night-cream",
+    "brand": "caudalie",
+    "name": "Vinoperfect Dark Spot Correcting Glycolic Night Cream",
+    "nameTr": "Vinoperfect Leke Karşıtı Glikolik Gece Bakım Kremi",
+    "category": "gece-kremi",
+    "brandUrl": "https://tr.caudalie.com/p/465C/vinoperfect-leke-karsiti-glikolik-gece-bakim-kremi-465c.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinoperfect_nightcream_pack_caudalie-_1.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinopure-moisturizing-mattifying-fluid",
+    "brand": "caudalie",
+    "name": "Vinopure Moisturizing Mattifying Fluid",
+    "nameTr": "Vinopure Matlaştırıcı Fluid Krem",
+    "category": "nemlendirici",
+    "brandUrl": "https://tr.caudalie.com/p/501R1/vinopure-akne-karsiti-matlastirici-fluid-krem-501r1.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinopure_fluide_packshot_caudalie_2.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinopure-salicylic-spot-solution",
+    "brand": "caudalie",
+    "name": "Vinopure Salicylic Spot Solution",
+    "nameTr": "Vinopure Akne Karşıtı Salisilik Spot Krem",
+    "category": "akne-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/502R1/vinopure-akne-karsiti-salisilik-spot-krem-502r1.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinopure_stopbouton_packshot_caudalie.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinopure-purifying-gel-cleanser",
+    "brand": "caudalie",
+    "name": "Vinopure Purifying Gel Cleanser",
+    "nameTr": "Vinopure Arındırıcı Temizleme Jeli",
+    "category": "yuz-temizleyici",
+    "brandUrl": "https://tr.caudalie.com/p/505R1C/salisilik-asit-arindirici-temizleme-jeli-vinopure-505r1c.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinopure_gele_e_75ml_caudalie_packshot_offwhite_travel-size.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinotherapist-tinted-lip-balm",
+    "brand": "caudalie",
+    "name": "Vinotherapist Tinted Lip Balm",
+    "nameTr": "Vinothérapist Renkli Dudak Nemlendiricisi",
+    "category": "dudak-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/508R1/vinotherapist-renkli-dudak-nemlendiricisi-508r1.html"
+  },
+  {
+    "slug": "caudalie-resveratrol-lift-firming-cashmere-body-cream",
+    "brand": "caudalie",
+    "name": "Resveratrol Lift Firming Cashmere Body Cream",
+    "nameTr": "Resveratrol-Lift Sıkılaştırıcı Etkili Kaşmir Vücut Bakım Kremi",
+    "category": "vucut-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/550R1/sikilastirici-kasmir-vucut-bakim-kremi-resveratrol-lift-550r1.html"
+  },
+  {
+    "slug": "caudalie-vinoclean-moisturizing-toner",
+    "brand": "caudalie",
+    "name": "Vinoclean Moisturizing Toner",
+    "nameTr": "Vinoclean Nemlendirici Tonik",
+    "category": "tonik",
+    "brandUrl": "https://tr.caudalie.com/p/556R1/nemlendirici-tonik-100ml-556r1.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_vinoclean_lotion_tonique_100ml_caudalie_packshot_offwhite_new.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinoclean-micellar-cleansing-water",
+    "brand": "caudalie",
+    "name": "Vinoclean Micellar Cleansing Water",
+    "nameTr": "Vinoclean Misel Temizleyici Üzüm Suyu",
+    "category": "misel-su",
+    "brandUrl": "https://tr.caudalie.com/p/559R1C/vinoclean-misel-temizleyici-uzum-suyu-559r1c.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_packshot_eau_micellaire-400ml_1.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinoclean-cleansing-almond-milk",
+    "brand": "caudalie",
+    "name": "Vinoclean Cleansing Almond Milk",
+    "nameTr": "Vinoclean Badem Yağlı Temizleme Sütü",
+    "category": "yuz-temizleyici",
+    "brandUrl": "https://tr.caudalie.com/p/561R1/vinoclean-badem-yagli-temizleme-sutu-200ml-561r1.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_packshot_lait_demaquillant_200ml.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-vinoclean-makeup-removing-cleansing-oil",
+    "brand": "caudalie",
+    "name": "Vinoclean Makeup Removing Cleansing Oil",
+    "nameTr": "Vinoclean Makyaj Temizleme Yağı",
+    "category": "makyaj-temizleyici",
+    "brandUrl": "https://tr.caudalie.com/p/566R1C/vinoclean-makyaj-temizleme-yagi-566r1c.html",
+    "imageUrl": "https://caudalie-europe.imgix.net/media/catalog/product/1/_/1_packshot_huile_demaquillante_mini.jpg?auto=format,compress&cs=srgb&fm=auto&w=1200"
+  },
+  {
+    "slug": "caudalie-resveratrol-lift-instant-firming-serum",
+    "brand": "caudalie",
+    "name": "Resveratrol Lift Instant Firming Serum",
+    "nameTr": "Resveratrol-Lift Anında Sıkılaştırıcı Etkili Serum",
+    "category": "serum",
+    "brandUrl": "https://tr.caudalie.com/p/570R1C/resveratrol-lift-aninda-sikilastirici-etkili-serum-570r1c.html"
+  },
+  {
+    "slug": "caudalie-resveratrol-lift-firming-cashmere-cream",
+    "brand": "caudalie",
+    "name": "Resveratrol Lift Firming Cashmere Cream",
+    "nameTr": "Resveratrol-Lift Sıkılaştırıcı Etkili Kaşmir Gündüz Bakım Kremi",
+    "category": "nemlendirici",
+    "brandUrl": "https://tr.caudalie.com/p/574R1C/sikilastirici-ve-yaslanma-karsiti-gunduz-bakim-resveratrol-lift-574r1c.html"
+  },
+  {
+    "slug": "caudalie-resveratrol-lift-firming-eye-gel-cream",
+    "brand": "caudalie",
+    "name": "Resveratrol Lift Firming Eye Gel Cream",
+    "nameTr": "Resveratrol-Lift Sıkılaştırıcı Etkili Jel Göz Bakım Kremi",
+    "category": "goz-bakimi",
+    "brandUrl": "https://tr.caudalie.com/p/577R1/resveratrol-lift-sikilastirici-etkili-jel-goz-bakim-kremi-577r1.html"
+  }
+]

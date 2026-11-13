@@ -1,0 +1,13 @@
+with sel(ga,link) as (values
+('Prada - Paradigme','https://www.amazon.com.tr/s?k=Prada%20Paradigme&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&tag=uygunbakim-21&linkCode=ll2&linkId=de1dc8e81340bfd582812fbd5704562f&language=tr_TR&ref_=as_li_ss_tl'),
+('Carolina Herrera - La Bomba','https://www.amazon.com.tr/s?k=Carolina%20Herrera%20La%20Bomba&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&tag=uygunbakim-21&linkCode=ll2&linkId=de1dc8e81340bfd582812fbd5704562f&language=tr_TR&ref_=as_li_ss_tl'),
+('Lancome - La Vie Est Belle Vanille Nude','https://www.amazon.com.tr/s?k=Lancome%20La%20Vie%20Est%20Belle%20Vanille%20Nude&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&tag=uygunbakim-21&linkCode=ll2&linkId=de1dc8e81340bfd582812fbd5704562f&language=tr_TR&ref_=as_li_ss_tl'),
+('Yves Saint Laurent - Libre Flowers & Flames','https://www.amazon.com.tr/s?k=Yves%20Saint%20Laurent%20Libre%20Flowers%20%26%20Flames&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&tag=uygunbakim-21&linkCode=ll2&linkId=de1dc8e81340bfd582812fbd5704562f&language=tr_TR&ref_=as_li_ss_tl'),
+('Lancome - La Vie Est Belle L''Elixir','https://www.amazon.com.tr/s?k=Lancome%20La%20Vie%20Est%20Belle%20L%27Elixir&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&tag=uygunbakim-21&linkCode=ll2&linkId=de1dc8e81340bfd582812fbd5704562f&language=tr_TR&ref_=as_li_ss_tl'),
+('Giorgio Armani - Acqua Di Gio Elixir','https://www.amazon.com.tr/s?k=Giorgio%20Armani%20Acqua%20Di%20Gio%20Elixir&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&tag=uygunbakim-21&linkCode=ll2&linkId=de1dc8e81340bfd582812fbd5704562f&language=tr_TR&ref_=as_li_ss_tl'),
+('Joop! - Joop! Homme','https://www.amazon.com.tr/s?k=Joop%21%20Joop%21%20Homme&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&tag=uygunbakim-21&linkCode=ll2&linkId=de1dc8e81340bfd582812fbd5704562f&language=tr_TR&ref_=as_li_ss_tl'),
+('Britney Spears - Fantasy','https://www.amazon.com.tr/s?k=Britney%20Spears%20Fantasy&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&tag=uygunbakim-21&linkCode=ll2&linkId=de1dc8e81340bfd582812fbd5704562f&language=tr_TR&ref_=as_li_ss_tl'),
+('Gissah - Imperial Valley','https://www.amazon.com.tr/s?k=Gissah%20Imperial%20Valley&__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&tag=uygunbakim-21&linkCode=ll2&linkId=de1dc8e81340bfd582812fbd5704562f&language=tr_TR&ref_=as_li_ss_tl'))
+update products p set affiliate_link=s.link from sel s, brands b
+where b.id=p.brand_id and lower(b.name||' - '||p.name)=lower(s.ga) and p.affiliate_link is null
+returning p.id, p.slug;

@@ -1,0 +1,767 @@
+{
+ "erkek-v1": {
+  "text": "Listede 63 erkek Mad kodu var. Orijinali en bilinen erkek kodları W191 (Dior Sauvage), W174 (Versace Eros), W183 (Creed Aventus) ve A102 (Giorgio Armani Acqua Di Gio). Kodların tamamı sayfadaki Mad Erkek Parfüm Kodları tablosunda.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.6,
+    "confidence": 0.58,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.08,
+     "2": 0.2,
+     "3": 0.7
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.3
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.09
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 0.77,
+    "confidence": 0.45,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.39,
+     "1": 0.48,
+     "2": 0.1,
+     "3": 0.03
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.19
+   },
+   "natural_turkish": {
+    "type": "score",
+    "score": 1.95,
+    "confidence": 0.33,
+    "legend": {
+     "0": "Awkward",
+     "1": "Stiff",
+     "2": "Mostly natural",
+     "3": "Plain and natural"
+    },
+    "probabilities": {
+     "0": 0.05,
+     "1": 0.26,
+     "2": 0.38,
+     "3": 0.31
+    }
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.92,
+    "confidence": 0.93,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, gives concrete codes and where to find the rest"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.02,
+     "2": 0.03,
+     "3": 0.95
+    }
+   }
+  }
+ },
+ "erkek-v2": {
+  "text": "Mad'in listemizdeki erkek parfüm kodu sayısı 63. Bunlardan orijinali en bilinenler W191 (Dior Sauvage), W174 (Versace Eros), W183 (Creed Aventus) ve A102 (Giorgio Armani Acqua Di Gio). 63 kodun tamamını Mad Erkek Parfüm Kodları tablosunda görebilirsin.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.55,
+    "confidence": 0.55,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.11,
+     "2": 0.2,
+     "3": 0.68
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.27
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.08
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 0.64,
+    "confidence": 0.35,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.52,
+     "1": 0.34,
+     "2": 0.11,
+     "3": 0.03
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.21
+   },
+   "natural_turkish": {
+    "type": "score",
+    "score": 2.2,
+    "confidence": 0.21,
+    "legend": {
+     "0": "Awkward",
+     "1": "Stiff",
+     "2": "Mostly natural",
+     "3": "Plain and natural"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.18,
+     "2": 0.37,
+     "3": 0.43
+    }
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.96,
+    "confidence": 0.97,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, gives concrete codes and where to find the rest"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.01,
+     "3": 0.98
+    }
+   }
+  }
+ },
+ "kadin-v1": {
+  "text": "Listede 112 kadın Mad kodu var. Orijinali en bilinen kadın kodları A112 (Mugler Alien), C120 (Chanel Coco Mademoiselle), W213 (Yves Saint Laurent Black Opium), H103 (Dior Hypnotic Poison) ve J101 (Dior J'Adore). Kodların tamamı sayfadaki Mad Kadın Parfüm Kodları tablosunda.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.64,
+    "confidence": 0.65,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.08,
+     "2": 0.16,
+     "3": 0.75
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.24
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.07
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 0.8,
+    "confidence": 0.65,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.28,
+     "1": 0.67,
+     "2": 0.03,
+     "3": 0.02
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.19
+   },
+   "natural_turkish": {
+    "type": "score",
+    "score": 2.01,
+    "confidence": 0.32,
+    "legend": {
+     "0": "Awkward",
+     "1": "Stiff",
+     "2": "Mostly natural",
+     "3": "Plain and natural"
+    },
+    "probabilities": {
+     "0": 0.04,
+     "1": 0.25,
+     "2": 0.36,
+     "3": 0.35
+    }
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.94,
+    "confidence": 0.94,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, gives concrete codes and where to find the rest"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.02,
+     "2": 0.02,
+     "3": 0.96
+    }
+   }
+  }
+ },
+ "kadin-v2": {
+  "text": "Mad'in listemizdeki kadın parfüm kodu sayısı 112. Bunlardan orijinali en bilinenler A112 (Mugler Alien), C120 (Chanel Coco Mademoiselle), W213 (Yves Saint Laurent Black Opium), H103 (Dior Hypnotic Poison) ve J101 (Dior J'Adore). 112 kodun tamamını Mad Kadın Parfüm Kodları tablosunda görebilirsin.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.75,
+    "confidence": 0.73,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.06,
+     "2": 0.12,
+     "3": 0.81
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.17
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.06
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 0.68,
+    "confidence": 0.44,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.44,
+     "1": 0.47,
+     "2": 0.06,
+     "3": 0.03
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.22
+   },
+   "natural_turkish": {
+    "type": "score",
+    "score": 2.27,
+    "confidence": 0.27,
+    "legend": {
+     "0": "Awkward",
+     "1": "Stiff",
+     "2": "Mostly natural",
+     "3": "Plain and natural"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.17,
+     "2": 0.33,
+     "3": 0.48
+    }
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.96,
+    "confidence": 0.97,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, gives concrete codes and where to find the rest"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.01,
+     "3": 0.98
+    }
+   }
+  }
+ },
+ "unisex-v1": {
+  "text": "Evet, listede 29 unisex Mad kodu var. Bunlardan ikisi Mad Rouge (Maison Francis Kurkdjian Baccarat Rouge 540) ve Mad Narcotic (Ex Nihilo Fleur Narcotique). Kodların tamamı sayfadaki Mad Unisex Parfüm Kodları tablosunda.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.46,
+    "confidence": 0.48,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.09,
+     "2": 0.25,
+     "3": 0.63
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.61
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.1
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.98,
+    "confidence": 0.99,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.99
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.17
+   },
+   "natural_turkish": {
+    "type": "score",
+    "score": 1.94,
+    "confidence": 0.27,
+    "legend": {
+     "0": "Awkward",
+     "1": "Stiff",
+     "2": "Mostly natural",
+     "3": "Plain and natural"
+    },
+    "probabilities": {
+     "0": 0.07,
+     "1": 0.26,
+     "2": 0.34,
+     "3": 0.33
+    }
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.83,
+    "confidence": 0.84,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, gives concrete codes and where to find the rest"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.05,
+     "2": 0.06,
+     "3": 0.89
+    }
+   }
+  }
+ },
+ "unisex-v2": {
+  "text": "Evet, Mad'in listemizde 29 unisex kodu var. Örneğin Mad Rouge, Maison Francis Kurkdjian Baccarat Rouge 540'ın; Mad Narcotic ise Ex Nihilo Fleur Narcotique'in muadili. 29 kodun tamamını Mad Unisex Parfüm Kodları tablosunda görebilirsin.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.8,
+    "confidence": 0.81,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.03,
+     "2": 0.13,
+     "3": 0.84
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.12
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.25
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.97,
+    "confidence": 0.95,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.02,
+     "3": 0.97
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.16
+   },
+   "natural_turkish": {
+    "type": "score",
+    "score": 2.39,
+    "confidence": 0.4,
+    "legend": {
+     "0": "Awkward",
+     "1": "Stiff",
+     "2": "Mostly natural",
+     "3": "Plain and natural"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.13,
+     "2": 0.31,
+     "3": 0.55
+    }
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.87,
+    "confidence": 0.86,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, gives concrete codes and where to find the rest"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.03,
+     "2": 0.08,
+     "3": 0.89
+    }
+   }
+  }
+ },
+ "erkek-v3": {
+  "text": "Mad'in erkek parfüm kodları arasında orijinali en bilinenler W191 (Dior Sauvage), W174 (Versace Eros), W183 (Creed Aventus) ve A102 (Giorgio Armani Acqua Di Gio). Listede toplam 63 erkek kodu var. Tamamını Mad Erkek Parfüm Kodları tablosunda görebilirsin.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.7,
+    "confidence": 0.69,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.07,
+     "2": 0.11,
+     "3": 0.8
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.2
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.1
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 1.99,
+    "confidence": 0.0,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.2,
+     "1": 0.01,
+     "2": 0.38,
+     "3": 0.41
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.17
+   },
+   "natural_turkish": {
+    "type": "score",
+    "score": 2.38,
+    "confidence": 0.39,
+    "legend": {
+     "0": "Awkward",
+     "1": "Stiff",
+     "2": "Mostly natural",
+     "3": "Plain and natural"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.12,
+     "2": 0.34,
+     "3": 0.53
+    }
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.96,
+    "confidence": 0.96,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, gives concrete codes and where to find the rest"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.02,
+     "3": 0.97
+    }
+   }
+  }
+ },
+ "kadin-v3": {
+  "text": "Mad'in kadın parfüm kodları arasında orijinali en bilinenler A112 (Mugler Alien), C120 (Chanel Coco Mademoiselle), W213 (Yves Saint Laurent Black Opium), H103 (Dior Hypnotic Poison) ve J101 (Dior J'Adore). Listede toplam 112 kadın kodu var. Tamamını Mad Kadın Parfüm Kodları tablosunda görebilirsin.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.66,
+    "confidence": 0.67,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.06,
+     "2": 0.15,
+     "3": 0.77
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.2
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.08
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.7,
+    "confidence": 0.69,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.06,
+     "1": 0.01,
+     "2": 0.11,
+     "3": 0.82
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.21
+   },
+   "natural_turkish": {
+    "type": "score",
+    "score": 2.31,
+    "confidence": 0.31,
+    "legend": {
+     "0": "Awkward",
+     "1": "Stiff",
+     "2": "Mostly natural",
+     "3": "Plain and natural"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.14,
+     "2": 0.35,
+     "3": 0.49
+    }
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.96,
+    "confidence": 0.96,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, gives concrete codes and where to find the rest"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.02,
+     "3": 0.97
+    }
+   }
+  }
+ },
+ "unisex-v3": {
+  "text": "Evet, listede 29 unisex Mad kodu var. Örneğin Mad Rouge, Maison Francis Kurkdjian Baccarat Rouge 540'ın muadili. Mad Narcotic de Ex Nihilo Fleur Narcotique'in muadili. Tamamını Mad Unisex Parfüm Kodları tablosunda görebilirsin.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.83,
+    "confidence": 0.83,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.03,
+     "2": 0.11,
+     "3": 0.86
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.13
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.16
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.97,
+    "confidence": 0.96,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.98
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.18
+   },
+   "natural_turkish": {
+    "type": "score",
+    "score": 2.46,
+    "confidence": 0.45,
+    "legend": {
+     "0": "Awkward",
+     "1": "Stiff",
+     "2": "Mostly natural",
+     "3": "Plain and natural"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.11,
+     "2": 0.27,
+     "3": 0.6
+    }
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.82,
+    "confidence": 0.83,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, gives concrete codes and where to find the rest"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.04,
+     "2": 0.09,
+     "3": 0.87
+    }
+   }
+  }
+ }
+}

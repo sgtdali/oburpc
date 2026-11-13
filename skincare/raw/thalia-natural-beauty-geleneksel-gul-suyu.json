@@ -1,0 +1,41 @@
+{
+ "slug": "thalia-natural-beauty-geleneksel-gul-suyu",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/geleneksel-gul-suyu-250-ml-arindirici-etkili",
+  "nameTr": "Thalia Traditional Rose Water Gül Suyu",
+  "inci": [
+   "AQUA (WATER)",
+   "ETHOXYDIGLYCOL",
+   "PHENOXYETHANOL",
+   "PARFUM (FRAGRANCE)",
+   "PROPYLENE GLYCOL",
+   "PEG-40 HYDROGENATED CASTOR OIL",
+   "1,2-HEXANEDIOL",
+   "DIAZOLIDINYL UREA",
+   "ETHYLHEXYLGLYCERIN",
+   "GLYCERETH-7",
+   "PEG-7 GLYCERYL COCOATE",
+   "ROSA CENTIFOLIA FLOWER OIL",
+   "CITRIC ACID",
+   "IODOPROPYNYL BUTYLCARBAMATE",
+   "CITRONELLOL",
+   "GERANIOL",
+   "EUGENOL",
+   "LINALOOL",
+   "ALPHA-ISOMETHYL IONONE"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Sabah ve/veya akşam yüzünüzü temizleyin.",
+   "Pamuk veya pedisyon üzerine uygun miktarda gül suyu alın.",
+   "Yüz ve boyuna nazikçe silerek uygulayın.",
+   "Durulamayın; kurumaya bırakın.",
+   "Ardından serum veya nemlendirici ile rutini tamamlayın."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220294-PMjdRQAsWP-01_1024x1024.jpg",
+  "title": "geleneksel-gul-suyu-250-ml-arindirici-etkili",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

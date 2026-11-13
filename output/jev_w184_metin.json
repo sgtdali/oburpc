@@ -1,0 +1,248 @@
+{
+ "eski": {
+  "text": "Just Jack Tobacco Leaf'in odunsu tütün yapraklarının derin ve sarmalayıcı sıcaklığını arayanlar için 'W184 Selective', aynı büyüleyici atmosferi kendi özgün dokunuşuyla yeniden canlandırıyor. Adeta eski bir deri koltukta, loş ışıklar altında, elinizde viskinizle anılarınıza daldığınız bir akşam gibi; 'W184 Selective', Just Jack Tobacco Leaf'in o sofistike ve rahatlatıcı ruhunu yakalayarak, parfümeri dünyasında unutulmaz bir deneyim sunan harika bir eşleşme.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 1.41,
+    "confidence": 0.53,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.64,
+     "2": 0.22,
+     "3": 0.11
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.9
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.67
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 1.86,
+    "confidence": 0.0,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.27,
+     "1": 0.07,
+     "2": 0.19,
+     "3": 0.47
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.4
+   },
+   "useful": {
+    "type": "score",
+    "score": 1.04,
+    "confidence": 0.79,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.09,
+     "1": 0.79,
+     "2": 0.12,
+     "3": 0.0
+    }
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.66,
+    "confidence": 0.66,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.04,
+     "2": 0.26,
+     "3": 0.7
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 1.07,
+    "confidence": 0.67,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.13,
+     "1": 0.69,
+     "2": 0.16,
+     "3": 0.02
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 1.64,
+    "confidence": 0.18,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.15,
+     "1": 0.29,
+     "2": 0.33,
+     "3": 0.23
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.8
+   }
+  }
+ },
+ "yeni": {
+  "text": "Mad Parfüm W184 Selective (erkek), Tom Ford Tobacco Vanille'in muadilidir (%93 nota benzerliği). Tütünlü ve baharatlı açılış, tonka fasulyesi, kakao ve vanilyalı kalp, kurutulmuş meyveler ve odunsu notalı dip iki parfümde de ortak. Tek fark: Tobacco Vanille'deki tütün çiçeği W184'te yok.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.84,
+    "confidence": 0.85,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.02,
+     "2": 0.08,
+     "3": 0.89
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.15
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.36
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.96,
+    "confidence": 0.96,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.98
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.05
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.77,
+    "confidence": 0.76,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.22,
+     "3": 0.77
+    }
+   },
+   "grammar": {
+    "type": "score",
+    "score": 2.66,
+    "confidence": 0.66,
+    "legend": {
+     "0": "Many errors, hard to read",
+     "1": "Several errors",
+     "2": "Minor issues",
+     "3": "Flawless, natural Turkish"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.03,
+     "2": 0.28,
+     "3": 0.69
+    }
+   },
+   "seo": {
+    "type": "score",
+    "score": 2.88,
+    "confidence": 0.89,
+    "legend": {
+     "0": "Poor",
+     "1": "Weak",
+     "2": "Good",
+     "3": "Excellent"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.11,
+     "3": 0.89
+    }
+   },
+   "geo": {
+    "type": "score",
+    "score": 2.95,
+    "confidence": 0.96,
+    "legend": {
+     "0": "Not extractable",
+     "1": "Hard to extract",
+     "2": "Extractable with effort",
+     "3": "Directly quotable answer"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.98
+    }
+   },
+   "ai_written": {
+    "type": "noul",
+    "noul": 0.66
+   }
+  }
+ }
+}

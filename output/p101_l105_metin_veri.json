@@ -1,0 +1,174 @@
+{
+ "mad-parfum-p101-selective": {
+  "id": 24401,
+  "name": "P101 Selective",
+  "gender": "Erkek",
+  "score": 90,
+  "original": "Parfums De Marly Pegasus",
+  "dupe_notes": {
+   "top": [
+    "Bergamot",
+    "Kimyon",
+    "Heliotrop"
+   ],
+   "middle": [
+    "Yasemin",
+    "Badem",
+    "Lavanta"
+   ],
+   "base": [
+    "Amber",
+    "Sandal Ağacı",
+    "Vanilya"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Heliotrop",
+    "Kimyon",
+    "Bergamot",
+    "Pembe Biber"
+   ],
+   "middle": [
+    "Acı Badem",
+    "Lavanta",
+    "Yasemin"
+   ],
+   "base": [
+    "Sandal Ağacı",
+    "Vanilya",
+    "Amber",
+    "Ada Miski",
+    "Sedir Ağacı"
+   ]
+  },
+  "old": "Parfums De Marly Pegasus'un sofistike ve zamansız çekiciliğini modern bir yorumla günümüze taşıyan P101 Selective, bu ikonik kokunun büyüleyici bir yansımasıdır. Klasik notaların çağdaş bir dokunuşla harmanlandığı P101 Selective, lüks koku deneyimini uygun fiyatla arayanlar için Parfums De Marly Pegasus tarzında, oldukça etkileyici bir eşdeğer sunuyor."
+ },
+ "mad-parfum-l105-selective": {
+  "id": 24325,
+  "name": "L105 Selective",
+  "gender": "Erkek",
+  "score": 74,
+  "original": "Lacoste Fragrances Eau De Lacoste L 12 12 Rouge",
+  "dupe_notes": {
+   "top": [
+    "Mandalina",
+    "Mango",
+    "Rooibos Çayı"
+   ],
+   "middle": [
+    "Biber",
+    "Zencefil",
+    "Kakule"
+   ],
+   "base": [
+    "Benzoin",
+    "Siyah Akasya Ağacı",
+    "Odunsu Notalar"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Mango",
+    "Rooibos Çayı",
+    "Portakal"
+   ],
+   "middle": [
+    "Kakule",
+    "Zencefil",
+    "Biber"
+   ],
+   "base": [
+    "Kara Çekirge",
+    "Ormanlık Notlar",
+    "Benzoin"
+   ]
+  },
+  "old": "Lacoste Eau De Lacoste Rouge Energetic'in enerjik ve modern ruhunu çağdaş bir yorumla yakalayan L105 Selective, şehirli ve dinamik notaların çarpıcı bir buluşmasını sunuyor. Orijinalin çekici karakterini bütçe dostu bir alternatifle deneyimlemek isteyenler için L105 Selective, benzer bir tazelik ve canlılık sunarak modern stilinizi tamamlamanın büyüleyici bir yolu."
+ },
+ "mad-parfum-p101-selective-kadin": {
+  "id": 26527,
+  "name": "P101 Selective Kadın",
+  "gender": "Kadın",
+  "score": 91,
+  "original": "Parfums De Marly Oriana",
+  "dupe_notes": {
+   "top": [
+    "Mandalina",
+    "Greyfurt",
+    "Bergamot"
+   ],
+   "middle": [
+    "Portakal Çiçeği",
+    "Ahududu",
+    "Siyah Frenk Üzümü"
+   ],
+   "base": [
+    "Marshmallow",
+    "Krema",
+    "Misk",
+    "Amber",
+    "Vanilya"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Bergamot",
+    "Greyfurt",
+    "Mandalina"
+   ],
+   "middle": [
+    "Portakal Çiçeği",
+    "Ahududu",
+    "Siyah Frenk Üzümü"
+   ],
+   "base": [
+    "Misk",
+    "Marshmallow",
+    "Ambrette",
+    "Vanilya",
+    "Krema"
+   ]
+  },
+  "old": null
+ },
+ "mad-parfum-l105-selective-kadin": {
+  "id": 26528,
+  "name": "L105 Selective Kadın",
+  "gender": "Kadın",
+  "score": 84,
+  "original": "Lancome La Vie Est Belle L'Elixir",
+  "dupe_notes": {
+   "top": [
+    "Ahududu",
+    "Meyan Kökü",
+    "Bergamot"
+   ],
+   "middle": [
+    "Menekşe Yaprağı",
+    "Gül"
+   ],
+   "base": [
+    "Deri",
+    "Kakao",
+    "Sedir Ağacı"
+   ]
+  },
+  "original_notes": {
+   "top": [
+    "Ahududu",
+    "Bergamot"
+   ],
+   "middle": [
+    "Menekşe Yaprağı",
+    "Gül"
+   ],
+   "base": [
+    "Deri",
+    "Kakao Yağı",
+    "Sedir Ağacı"
+   ]
+  },
+  "old": null
+ }
+}

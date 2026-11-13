@@ -1,0 +1,257 @@
+{
+ "erkek": {
+  "text": "Sansiro'nun erkek parfüm kodları arasında orijinali en bilinenler E-530 (Dior Sauvage), E-157 (Versace Eros), E-184 (Creed Aventus), E-14 (Giorgio Armani Acqua Di Gio) ve M-636 (Chanel Bleu De Chanel). Listede toplam 77 erkek kodu var. Tamamını Sansiro Erkek Parfüm Kodları tablosunda bulabilirsiniz.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.63,
+    "confidence": 0.63,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.08,
+     "2": 0.15,
+     "3": 0.75
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.2
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.1
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 1.58,
+    "confidence": 0.16,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.3,
+     "1": 0.03,
+     "2": 0.46,
+     "3": 0.21
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.18
+   },
+   "natural_turkish": {
+    "type": "score",
+    "score": 2.24,
+    "confidence": 0.23,
+    "legend": {
+     "0": "Awkward",
+     "1": "Stiff",
+     "2": "Mostly natural",
+     "3": "Plain and natural"
+    },
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.17,
+     "2": 0.34,
+     "3": 0.46
+    }
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.97,
+    "confidence": 0.97,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, gives concrete codes and where to find the rest"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.01,
+     "3": 0.98
+    }
+   }
+  }
+ },
+ "kadin": {
+  "text": "Sansiro'nun kadın parfüm kodları arasında orijinali en bilinenler K-225 (Lancome La Vie Est Belle), K-95 (Chanel Coco Mademoiselle), K-238 (Yves Saint Laurent Black Opium), K-31 (Dior J'Adore) ve K-64 (Dior Hypnotic Poison). Listede toplam 97 kadın kodu var. Tamamını Sansiro Kadın Parfüm Kodları tablosunda bulabilirsiniz.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.79,
+    "confidence": 0.78,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.05,
+     "2": 0.09,
+     "3": 0.85
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.18
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.07
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 1.45,
+    "confidence": 0.0,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.39,
+     "1": 0.03,
+     "2": 0.31,
+     "3": 0.27
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.19
+   },
+   "natural_turkish": {
+    "type": "score",
+    "score": 2.4,
+    "confidence": 0.42,
+    "legend": {
+     "0": "Awkward",
+     "1": "Stiff",
+     "2": "Mostly natural",
+     "3": "Plain and natural"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.12,
+     "2": 0.31,
+     "3": 0.56
+    }
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.97,
+    "confidence": 0.97,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, gives concrete codes and where to find the rest"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.01,
+     "3": 0.98
+    }
+   }
+  }
+ },
+ "unisex": {
+  "text": "Evet, listede 23 unisex Sansiro kodu var. Örneğin U-19, Tom Ford Black Orchid'in; U-12, Tom Ford Lost Cherry'nin; U-15 ise Tom Ford Oud Wood'un muadili. Tamamını Sansiro Unisex Parfüm Kodları tablosunda bulabilirsiniz.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.87,
+    "confidence": 0.89,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.02,
+     "2": 0.07,
+     "3": 0.91
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.14
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.19
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.98,
+    "confidence": 0.99,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.99
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.17
+   },
+   "natural_turkish": {
+    "type": "score",
+    "score": 2.58,
+    "confidence": 0.57,
+    "legend": {
+     "0": "Awkward",
+     "1": "Stiff",
+     "2": "Mostly natural",
+     "3": "Plain and natural"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.08,
+     "2": 0.24,
+     "3": 0.67
+    }
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.97,
+    "confidence": 0.96,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, gives concrete codes and where to find the rest"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.02,
+     "3": 0.97
+    }
+   }
+  }
+ }
+}

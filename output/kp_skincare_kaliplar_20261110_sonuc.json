@@ -1,0 +1,1090 @@
+[
+ {
+  "kalip": "products-with-<içerik>",
+  "sorgu": 2819,
+  "tekil": 2819,
+  "hacimli": 417,
+  "100+": 222,
+  "1000+": 94,
+  "toplam_aylik": 993750,
+  "top": [
+   [
+    "antioksidan nedir",
+    50000,
+    "Düşük"
+   ],
+   [
+    "salisilik asit ne işe yarar",
+    50000,
+    "Düşük"
+   ],
+   [
+    "glikolik asit ne işe yarar",
+    50000,
+    "Düşük"
+   ],
+   [
+    "retinol ne işe yarar",
+    50000,
+    "Düşük"
+   ],
+   [
+    "retinol nedir",
+    50000,
+    "Orta"
+   ],
+   [
+    "üre nedir",
+    50000,
+    "Düşük"
+   ],
+   [
+    "gliserin nedir",
+    50000,
+    "Düşük"
+   ],
+   [
+    "kolesterol nedir",
+    50000,
+    "Düşük"
+   ],
+   [
+    "çinko ne işe yarar",
+    50000,
+    "Düşük"
+   ],
+   [
+    "resveratrol nedir",
+    50000,
+    "Düşük"
+   ],
+   [
+    "salisilik asit içeren ürünler",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "salisilik asit içeren krem",
+    5000,
+    "Orta"
+   ],
+   [
+    "seramid içeren krem",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "titanyum dioksit nedir",
+    5000,
+    "Düşük"
+   ],
+   [
+    "alkol nedir",
+    5000,
+    "Düşük"
+   ],
+   [
+    "sls nedir",
+    5000,
+    "Düşük"
+   ],
+   [
+    "sülfat nedir",
+    5000,
+    "Düşük"
+   ],
+   [
+    "vazelin ne işe yarar",
+    5000,
+    "Düşük"
+   ],
+   [
+    "vazelinli krem",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "e vitamini ne işe yarar",
+    5000,
+    "Düşük"
+   ],
+   [
+    "hyaluronik asit ne işe yarar",
+    5000,
+    "Düşük"
+   ],
+   [
+    "hyaluronik asit nedir",
+    5000,
+    "Düşük"
+   ],
+   [
+    "niasinamid ne işe yarar",
+    5000,
+    "Düşük"
+   ],
+   [
+    "niasinamid nedir",
+    5000,
+    "Orta"
+   ],
+   [
+    "niacinamide ne işe yarar",
+    5000,
+    "Düşük"
+   ]
+  ]
+ },
+ {
+  "kalip": "<marka>-<kategori>",
+  "sorgu": 2987,
+  "tekil": 2980,
+  "hacimli": 529,
+  "100+": 175,
+  "1000+": 48,
+  "toplam_aylik": 816200,
+  "top": [
+   [
+    "avene güneş kremi",
+    50000,
+    "Yüksek"
+   ],
+   [
+    "bioderma nemlendirici",
+    50000,
+    "Yüksek"
+   ],
+   [
+    "bioderma güneş kremi",
+    50000,
+    "Yüksek"
+   ],
+   [
+    "nivea güneş kremi",
+    50000,
+    "Yüksek"
+   ],
+   [
+    "bioderma yüz yıkama jeli",
+    50000,
+    "Yüksek"
+   ],
+   [
+    "la roche posay güneş kremi",
+    50000,
+    "Yüksek"
+   ],
+   [
+    "cerave nemlendirici",
+    50000,
+    "Yüksek"
+   ],
+   [
+    "cerave nemlendirici krem",
+    50000,
+    "Yüksek"
+   ],
+   [
+    "la roche posay yüz yıkama jeli",
+    50000,
+    "Yüksek"
+   ],
+   [
+    "sinoz güneş kremi",
+    50000,
+    "Yüksek"
+   ],
+   [
+    "caudalie güneş kremi",
+    50000,
+    "Yüksek"
+   ],
+   [
+    "bioderma nemlendirici krem",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "bioderma yüz nemlendirici",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "bioderma yüz kremi",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "bioderma renkli güneş kremi",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "avene nemlendirici",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "bioderma temizleme jeli",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "cerave yüz nemlendirici",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "cerave yüz kremi",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "la roche posay nemlendirici",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "caudalie nemlendirici",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "avene yüz yıkama jeli",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "bioderma serum",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "bioderma misel su",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "caudalie serum",
+    5000,
+    "Yüksek"
+   ]
+  ]
+ },
+ {
+  "kalip": "<kategori>-for-<sorun>",
+  "sorgu": 2938,
+  "tekil": 2913,
+  "hacimli": 304,
+  "100+": 60,
+  "1000+": 12,
+  "toplam_aylik": 96200,
+  "top": [
+   [
+    "kuru cilt için nemlendirici",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "kuru ciltler için nemlendirici",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "nemlendirici yüz kremi",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "yağlı cilt için nemlendirici",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "yağlı ciltler için nemlendirici",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "karma cilt için nemlendirici",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "gözenek sıkılaştırıcı serum",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "yağlı cilt için güneş kremi",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "yağlı ciltler için güneş kremi",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "leke karşıtı güneş kremi",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "hassas cilt için güneş kremi",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "gözenek sıkılaştırıcı tonik",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "kuru cilt için güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "nemlendirici güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "kuru cilt için nemlendirici krem",
+    500,
+    "Yüksek"
+   ],
+   [
+    "kuru cilt için yüz nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "çok kuru cilt için nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "nemlendirici yüz yıkama jeli",
+    500,
+    "Yüksek"
+   ],
+   [
+    "bariyer onarıcı nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "nemlendirici serum",
+    500,
+    "Yüksek"
+   ],
+   [
+    "yağlı cilt için nemlendirici krem",
+    500,
+    "Yüksek"
+   ],
+   [
+    "yağlı ciltler için nemlendirici krem",
+    500,
+    "Yüksek"
+   ],
+   [
+    "cilt lekesi için serum",
+    500,
+    "Yüksek"
+   ],
+   [
+    "bariyer onarıcı serum",
+    500,
+    "Yüksek"
+   ],
+   [
+    "aydınlatıcı serum",
+    500,
+    "Yüksek"
+   ]
+  ]
+ },
+ {
+  "kalip": "<kategori>-with-<içerik>",
+  "sorgu": 2999,
+  "tekil": 2999,
+  "hacimli": 163,
+  "100+": 40,
+  "1000+": 7,
+  "toplam_aylik": 57650,
+  "top": [
+   [
+    "salisilik asitli yüz yıkama jeli",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "c vitaminli serum",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "salisilik asitli tonik",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "glikolik asitli tonik",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "retinollü göz kremi",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "arbutinli serum",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "serum arbutin",
+    5000,
+    "Yüksek"
+   ],
+   [
+    "hyaluronik asit içeren nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "hyaluronik asitli nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "hyaluronik asitli nemlendirici krem",
+    500,
+    "Yüksek"
+   ],
+   [
+    "hyaluronik asitli serum",
+    500,
+    "Yüksek"
+   ],
+   [
+    "çinko oksit içeren güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "çinko oksitli güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "titanyum dioksit içeren güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "seramid içeren nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "seramidli nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "glikolik asitli serum",
+    500,
+    "Yüksek"
+   ],
+   [
+    "peptitli nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "salisilik asit içeren yüz yıkama jeli",
+    500,
+    "Yüksek"
+   ],
+   [
+    "salisilik asitli temizleme jeli",
+    500,
+    "Yüksek"
+   ],
+   [
+    "salisilik asitli nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "serum c vitamini",
+    500,
+    "Yüksek"
+   ],
+   [
+    "c vitaminli yüz serumu",
+    500,
+    "Yüksek"
+   ],
+   [
+    "salisilik asitli serum",
+    500,
+    "Yüksek"
+   ],
+   [
+    "serum salicylic acid",
+    500,
+    "Yüksek"
+   ]
+  ]
+ },
+ {
+  "kalip": "<özellik>-<kategori>",
+  "sorgu": 2999,
+  "tekil": 1630,
+  "hacimli": 117,
+  "100+": 19,
+  "1000+": 0,
+  "toplam_aylik": 14400,
+  "top": [
+   [
+    "komedojenik olmayan güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "sivilce yapmayan güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "non komedojenik güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "alkolsüz güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "komedojenik olmayan nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "sivilce yapmayan nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "non komedojenik nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "yağsız güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "oil free güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "parfümsüz güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "kokusuz güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "parfümsüz nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "parfümsüz nemlendirici krem",
+    500,
+    "Yüksek"
+   ],
+   [
+    "kokusuz nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "kokusuz nemlendirici krem",
+    500,
+    "Yüksek"
+   ],
+   [
+    "yağsız nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "yağsız nemlendirici krem",
+    500,
+    "Yüksek"
+   ],
+   [
+    "yağsız yüz nemlendirici",
+    500,
+    "Düşük"
+   ],
+   [
+    "oil free nemlendirici",
+    500,
+    "Yüksek"
+   ],
+   [
+    "parabensiz güneş kremi",
+    50,
+    ""
+   ],
+   [
+    "parabensiz güneş koruyucu",
+    50,
+    ""
+   ],
+   [
+    "paraben içermeyen güneş kremi",
+    50,
+    "Orta"
+   ],
+   [
+    "paraben içermeyen güneş koruyucu",
+    50,
+    ""
+   ],
+   [
+    "reef safe güneş kremi",
+    50,
+    "Yüksek"
+   ],
+   [
+    "parabensiz nemlendirici",
+    50,
+    "Yüksek"
+   ]
+  ]
+ },
+ {
+  "kalip": "<kategori>-from-<ülke>-brands",
+  "sorgu": 3000,
+  "tekil": 2837,
+  "hacimli": 38,
+  "100+": 5,
+  "1000+": 0,
+  "toplam_aylik": 4150,
+  "top": [
+   [
+    "alman krem",
+    500,
+    "Düşük"
+   ],
+   [
+    "alman güneş kremi",
+    500,
+    "Yüksek"
+   ],
+   [
+    "alman markası güneş kremi",
+    500,
+    "Düşük"
+   ],
+   [
+    "en iyi alman markası cilt bakım ürünleri",
+    500,
+    "Düşük"
+   ],
+   [
+    "alman güneş kremi markaları",
+    500,
+    "Orta"
+   ],
+   [
+    "fransız güneş kremi",
+    50,
+    "Yüksek"
+   ],
+   [
+    "fransız markası güneş kremi",
+    50,
+    "Yüksek"
+   ],
+   [
+    "fransız cilt bakım ürünleri",
+    50,
+    "Düşük"
+   ],
+   [
+    "fransız krem",
+    50,
+    "Düşük"
+   ],
+   [
+    "amerikan cilt bakım ürünleri",
+    50,
+    "Düşük"
+   ],
+   [
+    "amerikan krem",
+    50,
+    "Düşük"
+   ],
+   [
+    "yerli cilt bakım ürünleri",
+    50,
+    "Düşük"
+   ],
+   [
+    "yerli kozmetik ürünler",
+    50,
+    "Düşük"
+   ],
+   [
+    "türk markası cilt bakım ürünleri",
+    50,
+    "Düşük"
+   ],
+   [
+    "alman cilt bakım ürünleri",
+    50,
+    "Orta"
+   ],
+   [
+    "alman markası cilt bakım ürünleri",
+    50,
+    "Düşük"
+   ],
+   [
+    "alman markası güneş koruyucu",
+    50,
+    ""
+   ],
+   [
+    "yerli güneş kremi",
+    50,
+    "Düşük"
+   ],
+   [
+    "türk markası güneş kremi",
+    50,
+    "Orta"
+   ],
+   [
+    "yerli üretim güneş kremi",
+    50,
+    "Yüksek"
+   ],
+   [
+    "alman nemlendirici krem",
+    50,
+    "Düşük"
+   ],
+   [
+    "yerli yüz yıkama jeli",
+    50,
+    "Düşük"
+   ],
+   [
+    "yerli nemlendirici",
+    50,
+    ""
+   ],
+   [
+    "yerli nemlendirici krem",
+    50,
+    "Orta"
+   ],
+   [
+    "türk markası nemlendirici",
+    50,
+    "Düşük"
+   ]
+  ]
+ },
+ {
+  "kalip": "<kategori>-for-<sorun>-from-<ülke>",
+  "sorgu": 3000,
+  "tekil": 2970,
+  "hacimli": 0,
+  "100+": 0,
+  "1000+": 0,
+  "toplam_aylik": 0,
+  "top": [
+   [
+    "kuru cilt için fransız nemlendirici",
+    0,
+    ""
+   ],
+   [
+    "fransız nemlendirici kuru cilt",
+    0,
+    ""
+   ],
+   [
+    "kuru cilt için fransız nemlendirici krem",
+    0,
+    ""
+   ],
+   [
+    "fransız nemlendirici krem kuru cilt",
+    0,
+    ""
+   ],
+   [
+    "kuru cilt için fransız yüz nemlendirici",
+    0,
+    ""
+   ],
+   [
+    "fransız yüz nemlendirici kuru cilt",
+    0,
+    ""
+   ],
+   [
+    "kuru cilt için fransız yüz kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız yüz kremi kuru cilt",
+    0,
+    ""
+   ],
+   [
+    "kuru cilt için fransız nemlendirici jel",
+    0,
+    ""
+   ],
+   [
+    "fransız nemlendirici jel kuru cilt",
+    0,
+    ""
+   ],
+   [
+    "kuru cilt için fransız eczane nemlendirici",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane nemlendirici kuru cilt",
+    0,
+    ""
+   ],
+   [
+    "kuru cilt için fransız eczane nemlendirici krem",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane nemlendirici krem kuru cilt",
+    0,
+    ""
+   ],
+   [
+    "kuru cilt için fransız eczane yüz nemlendirici",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane yüz nemlendirici kuru cilt",
+    0,
+    ""
+   ],
+   [
+    "kuru cilt için fransız eczane yüz kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane yüz kremi kuru cilt",
+    0,
+    ""
+   ],
+   [
+    "kuru cilt için fransız eczane nemlendirici jel",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane nemlendirici jel kuru cilt",
+    0,
+    ""
+   ],
+   [
+    "kuru cilt için fransız markası nemlendirici",
+    0,
+    ""
+   ],
+   [
+    "fransız markası nemlendirici kuru cilt",
+    0,
+    ""
+   ],
+   [
+    "kuru cilt için fransız markası nemlendirici krem",
+    0,
+    ""
+   ],
+   [
+    "fransız markası nemlendirici krem kuru cilt",
+    0,
+    ""
+   ],
+   [
+    "kuru cilt için fransız markası yüz nemlendirici",
+    0,
+    ""
+   ]
+  ]
+ },
+ {
+  "kalip": "<kategori>-with-<içerik>-from-<ülke>",
+  "sorgu": 3000,
+  "tekil": 3000,
+  "hacimli": 0,
+  "100+": 0,
+  "1000+": 0,
+  "toplam_aylik": 0,
+  "top": [
+   [
+    "fransız e vitamini içeren güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız e vitaminli güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız e vitamini içeren yüz güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız e vitaminli yüz güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız e vitamini içeren güneş koruyucu",
+    0,
+    ""
+   ],
+   [
+    "fransız e vitaminli güneş koruyucu",
+    0,
+    ""
+   ],
+   [
+    "fransız e vitamini içeren spf 50 güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız e vitaminli spf 50 güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız e vitamini içeren renkli güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız e vitaminli renkli güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane e vitamini içeren güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane e vitaminli güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane e vitamini içeren yüz güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane e vitaminli yüz güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane e vitamini içeren güneş koruyucu",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane e vitaminli güneş koruyucu",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane e vitamini içeren spf 50 güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane e vitaminli spf 50 güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane e vitamini içeren renkli güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız eczane e vitaminli renkli güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız markası e vitamini içeren güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız markası e vitaminli güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız markası e vitamini içeren yüz güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız markası e vitaminli yüz güneş kremi",
+    0,
+    ""
+   ],
+   [
+    "fransız markası e vitamini içeren güneş koruyucu",
+    0,
+    ""
+   ]
+  ]
+ }
+]

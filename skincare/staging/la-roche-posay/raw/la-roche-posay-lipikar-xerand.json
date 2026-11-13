@@ -1,0 +1,38 @@
+{
+ "slug": "la-roche-posay-lipikar-xerand",
+ "brandSite": {
+  "url": "https://www.laroche-posay.com.tr/lipikar-xerand-onarici-el-kremi",
+  "nameTr": "LIPIKAR XERAND",
+  "inci": [
+   "AQUA/WATER",
+   "GLYCERIN",
+   "OCTYLDODECANOL",
+   "STEARIC ACID",
+   "PEG-100 STEARATE",
+   "GLYCERYL STEARATE",
+   "PALMITIC ACID",
+   "STEARETH-10",
+   "PARAFFINUM LIQUIDUM/MINERAL OIL",
+   "DIMETHICONE",
+   "ALLANTOIN",
+   "MYRISTIC ACID",
+   "CAPRYLOYL GLYCINE",
+   "TETRASODIUM EDTA",
+   "XANTHAN GUM",
+   "CETYL ALCOHOL",
+   "SODIUM BENZOATE",
+   "PHENOXYETHANOL",
+   "PARFUM/FRAGRANCE"
+  ],
+  "inciSource": "ld+json",
+  "claims": "Lipikar Xerand Onarıcı El Bakım Kremi | La Roche-Posay | İçeriğe Git | Close | Loading...",
+  "howTo": [
+   "Kremden elinize gerektiği kadar alın.",
+   "Gerektiği kadar uygulayın.",
+   "Eller için",
+   "Ürün iyice emilene kadar masaj yapın."
+  ],
+  "image": "https://www.laroche-posay.com.tr/-/media/project/loreal/brand-sites/lrp/emea/tr/products/lipikar/lipikar-xerand/body-care/la-roche-posay-body-care-lipikar-xerand-50ml-3337872412684-front.png",
+  "title": "Lipikar Xerand Onarıcı El Bakım Kremi | La Roche-Posay"
+ }
+}

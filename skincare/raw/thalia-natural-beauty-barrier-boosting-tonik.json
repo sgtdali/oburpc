@@ -1,0 +1,43 @@
+{
+ "slug": "thalia-natural-beauty-barrier-boosting-tonik",
+ "brandSite": {
+  "url": "https://www.thalia.com.tr/products/barrier-boosting-tonik",
+  "nameTr": "Thalia Barrier Boosting Tonik",
+  "inci": [
+   "AQUA(WATER)",
+   "GLYCERIN",
+   "GLYCERYL GLUCOSIDE",
+   "PANTHENOL",
+   "SODIUM BENZOATE",
+   "PEG-40 HYDROGENATED CASTOR OIL",
+   "TRIDECETH-9",
+   "POTASSIUM SORBATE",
+   "PARFUM(FRAGRANCE)",
+   "SODIUM GLUCONATE",
+   "TREHALOSE",
+   "HYALURONIC ACID",
+   "LINALOOL",
+   "HEXYL CINNAMAL",
+   "BENZYL SALICYLATE",
+   "HEXAMETHYLINDANOPYRAN",
+   "LIMONENE",
+   "TERPINEOL",
+   "CITRUS AURANTIUM PEEL OIL",
+   "ALPHA-ISOMETHYL IONONE",
+   "COUMARIN"
+  ],
+  "inciSource": "thalia",
+  "claims": null,
+  "howTo": [
+   "Sabah ve akşam, cildinizi temizledikten sonra uygulayın.",
+   "Parmak uçları veya pamuk yardımıyla temiz cildinize nazikçe uygulayın.",
+   "Durulama gerektirmez.",
+   "Ardından Jel Serum ile bakıma devam edin.",
+   "Günlük kullanıma uygundur."
+  ],
+  "image": "https://api.gratis.retter.io/1oakekr4e/CALL/Image/getImage/10220271-lCBSLYREjj-01_1024x1024.jpg",
+  "title": "barrier-boosting-tonik",
+  "barcodes": [],
+  "note": "2026-11-12 marka sayfası tarayıcıdan okundu (Python isteklerine 429); veri SHA-256 ile doğrulandı"
+ }
+}

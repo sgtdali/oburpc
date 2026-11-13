@@ -1,0 +1,2906 @@
+{
+  "glycol-palmitate": {
+    "inci": "GLYCOL PALMITATE",
+    "cosingId": "34140",
+    "functions": [
+      "SURFACTANT - EMULSIFYING",
+      "OPACIFYING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "4219-49-2",
+    "classes": [
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "dipalmitoyl-hydroxyproline": {
+    "inci": "DIPALMITOYL HYDROXYPROLINE",
+    "cosingId": "75923",
+    "functions": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "41672-81-5",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "polyquaternium-51": {
+    "inci": "POLYQUATERNIUM-51",
+    "cosingId": "58830",
+    "functions": [
+      "FILM FORMING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "125275-25-4",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "di-c12-13-alkyl-malate": {
+    "inci": "DI-C12-13 ALKYL MALATE",
+    "cosingId": "33234",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "propylheptyl-caprylate": {
+    "inci": "PROPYLHEPTYL CAPRYLATE",
+    "cosingId": "83771",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT"
+    ],
+    "cas": "868839-23-0",
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "sodium-polyacryloyldimethyl-taurate": {
+    "inci": "SODIUM POLYACRYLOYLDIMETHYL TAURATE",
+    "cosingId": "59549",
+    "functions": [
+      "EMULSION STABILISING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "arachidyl-alcohol": {
+    "inci": "ARACHIDYL ALCOHOL",
+    "cosingId": "74355",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "EMULSION STABILISING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "629-96-9",
+    "classes": [
+      "emollient",
+      "fatty-alcohol"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "arachidyl-glucoside": {
+    "inci": "ARACHIDYL GLUCOSIDE",
+    "cosingId": "54563",
+    "functions": [
+      "SURFACTANT - EMULSIFYING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "chondrus-crispus-extract": {
+    "inci": "CHONDRUS CRISPUS EXTRACT",
+    "cosingId": "75010",
+    "functions": [
+      "SKIN CONDITIONING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "244023-79-8",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "sodium-metabisulfite": {
+    "inci": "SODIUM METABISULFITE",
+    "cosingId": "37956",
+    "functions": [
+      "ANTIOXIDANT",
+      "PRESERVATIVE",
+      "REDUCING"
+    ],
+    "cas": "7681-57-4 / 7757-74-6",
+    "classes": [
+      "antioxidant",
+      "preservative"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": [
+      {
+        "annex": [
+          "V"
+        ],
+        "ref": "9",
+        "maxConcentration": "0.2% (as free SO2)",
+        "conditional": false
+      },
+      {
+        "annex": [
+          "III"
+        ],
+        "ref": "99",
+        "maxConcentration": "(a) 0.67% (as free SO2)\r\n(b) 6.7% (as free SO2)\r\n(c) 0.45% (as free SO2)\r\n(d) 0.40% (as free SO2)",
+        "conditional": false
+      }
+    ]
+  },
+  "syringa-vulgaris-extract": {
+    "inci": "SYRINGA VULGARIS EXTRACT",
+    "cosingId": "80551",
+    "functions": [
+      "SKIN CONDITIONING",
+      "TONIC"
+    ],
+    "cas": "90063-50-6",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "aminoethanesulfinic-acid": {
+    "inci": "AMINOETHANESULFINIC ACID",
+    "cosingId": "74252",
+    "functions": [
+      "ANTIOXIDANT",
+      "REDUCING"
+    ],
+    "cas": "300-84-5",
+    "classes": [
+      "antioxidant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "dicaprylyl-carbonate": {
+    "inci": "DICAPRYLYL CARBONATE",
+    "cosingId": "55832",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "1680-31-5",
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "titanium-dioxide": {
+    "inci": "TITANIUM DIOXIDE",
+    "cosingId": "38617",
+    "functions": [
+      "COLORANT",
+      "OPACIFYING",
+      "UV ABSORBER",
+      "UV FILTER"
+    ],
+    "cas": "13463-67-7",
+    "classes": [
+      "uv-filter"
+    ],
+    "fungalAcne": null,
+    "comedogenic": "0",
+    "irritancy": "0",
+    "restrictions": [
+      {
+        "annex": [
+          "VI"
+        ],
+        "ref": "27",
+        "maxConcentration": "25%*\r\n*: In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g (Maximum concen­tration in ready for use preparation)",
+        "conditional": false
+      },
+      {
+        "annex": [
+          "III"
+        ],
+        "ref": "321",
+        "maxConcentration": "(a) 25 %;\r\n\r\n(b) 1,4 % for general consu­mers, and 1.1 % for  pro­fessional use.",
+        "conditional": false
+      }
+    ]
+  },
+  "polyglyceryl-3-ricinoleate": {
+    "inci": "POLYGLYCERYL-3 RICINOLEATE",
+    "cosingId": "78903",
+    "functions": [
+      "SURFACTANT - EMULSIFYING"
+    ],
+    "cas": null,
+    "classes": [
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "sorbitan-isostearate": {
+    "inci": "SORBITAN ISOSTEARATE",
+    "cosingId": "38179",
+    "functions": [
+      "SURFACTANT - EMULSIFYING"
+    ],
+    "cas": "71902-01-7",
+    "classes": [
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": "1-2",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "stearalkonium-hectorite": {
+    "inci": "STEARALKONIUM HECTORITE",
+    "cosingId": "38239",
+    "functions": [
+      "GEL FORMING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "71011-26-2 / 94891-33-5 / 12691-60-0",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "ci-77492": {
+    "inci": "CI 77492",
+    "cosingId": "32830",
+    "functions": [
+      "COLORANT"
+    ],
+    "cas": "51274-00-1 / 1345-27-3 / 20344-49-4 / 52357-70-7",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": [
+      {
+        "annex": [
+          "IV"
+        ],
+        "ref": "136",
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ]
+  },
+  "ci-77491": {
+    "inci": "CI 77491",
+    "cosingId": "32829",
+    "functions": [
+      "COLORANT"
+    ],
+    "cas": "1309-37-1 / 1317-61-9 / 1345-27-3 / 52357-70-7 / 1345-25-1",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": [
+      {
+        "annex": [
+          "IV"
+        ],
+        "ref": "135",
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ]
+  },
+  "propylene-carbonate": {
+    "inci": "PROPYLENE CARBONATE",
+    "cosingId": "37268",
+    "functions": [
+      "SOLVENT",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "108-32-7",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "ci-77499": {
+    "inci": "CI 77499",
+    "cosingId": "32831",
+    "functions": [
+      "COLORANT"
+    ],
+    "cas": "12227-89-3 / 1309-37-1 / 1317-61-9 / 1345-25-1 / 1345-27-3 / 52357-70-7",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": [
+      {
+        "annex": [
+          "IV"
+        ],
+        "ref": "137",
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ]
+  },
+  "sodium-lauroyl-glutamate": {
+    "inci": "SODIUM LAUROYL GLUTAMATE",
+    "cosingId": "79683",
+    "functions": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": "29923-31-7 / 29923-34-0 / 42926-22-7 / 98984-78-2",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "lysine": {
+    "inci": "LYSINE",
+    "cosingId": "35064",
+    "functions": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "56-87-1",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "magnesium-chloride": {
+    "inci": "MAGNESIUM CHLORIDE",
+    "cosingId": "35088",
+    "functions": [
+      "VISCOSITY CONTROLLING",
+      "FLAVOURING"
+    ],
+    "cas": "7786-30-3/ 7791-18-6 (hydrate)",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glucose": {
+    "inci": "GLUCOSE",
+    "cosingId": "34012",
+    "functions": [
+      "HUMECTANT"
+    ],
+    "cas": "50-99-7",
+    "classes": [
+      "humectant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "alanyl-glutamine": {
+    "inci": "ALANYL GLUTAMINE",
+    "cosingId": "54278",
+    "functions": [
+      "HUMECTANT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "39537-23-0",
+    "classes": [
+      "humectant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "disodium-phosphate": {
+    "inci": "DISODIUM PHOSPHATE",
+    "cosingId": "33650",
+    "functions": [
+      "ANTICORROSIVE",
+      "BUFFERING",
+      "FRAGRANCE"
+    ],
+    "cas": "7558-79-4 / 7782-85-6",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "arginine-hcl": {
+    "inci": "ARGININE HCL",
+    "cosingId": "31985",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "1119-34-2",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "lactose": {
+    "inci": "LACTOSE",
+    "cosingId": "34832",
+    "functions": [
+      "HUMECTANT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "63-42-3",
+    "classes": [
+      "humectant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "leucine": {
+    "inci": "LEUCINE",
+    "cosingId": "35003",
+    "functions": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "61-90-5",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "potassium-chloride": {
+    "inci": "POTASSIUM CHLORIDE",
+    "cosingId": "36948",
+    "functions": [
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "7447-40-7",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "sodium-pyruvate": {
+    "inci": "SODIUM PYRUVATE",
+    "cosingId": "59554",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "113-24-6",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "lysine-hcl": {
+    "inci": "LYSINE HCL",
+    "cosingId": "84654",
+    "functions": [
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "657-27-2 / 10098-89-2 / 22834-80-6",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "histidine-hcl": {
+    "inci": "HISTIDINE HCL",
+    "cosingId": "84658",
+    "functions": [
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "645-35-2 / 5934-29-2",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "cysteine-hcl": {
+    "inci": "CYSTEINE HCL",
+    "cosingId": "75423",
+    "functions": [
+      "ANTIOXIDANT",
+      "HAIR CONDITIONING",
+      "HAIR WAVING OR STRAIGHTENING",
+      "REDUCING"
+    ],
+    "cas": "52-89-1",
+    "classes": [
+      "antioxidant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "whey-protein": {
+    "inci": "WHEY PROTEIN",
+    "cosingId": "60187",
+    "functions": [
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "84082-51-9",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "hydroxyproline": {
+    "inci": "HYDROXYPROLINE",
+    "cosingId": "34525",
+    "functions": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": "51-35-4",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glutamic-acid": {
+    "inci": "GLUTAMIC ACID",
+    "cosingId": "34017",
+    "functions": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "HUMECTANT"
+    ],
+    "cas": "56-86-0",
+    "classes": [
+      "humectant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "asparagine": {
+    "inci": "ASPARAGINE",
+    "cosingId": "74335",
+    "functions": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "FRAGRANCE",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "70-47-3 / 3130-87-8",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "inositol": {
+    "inci": "INOSITOL",
+    "cosingId": "34573",
+    "functions": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "HUMECTANT"
+    ],
+    "cas": "87-89-8",
+    "classes": [
+      "humectant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "adenine": {
+    "inci": "ADENINE",
+    "cosingId": "54413",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "73-24-5",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "methionine": {
+    "inci": "METHIONINE",
+    "cosingId": "35259",
+    "functions": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "59-51-8",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "tyrosine": {
+    "inci": "TYROSINE",
+    "cosingId": "38806",
+    "functions": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "FRAGRANCE",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "556-02-5 / 556-03-6 / 60-18-4",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "tryptophan": {
+    "inci": "TRYPTOPHAN",
+    "cosingId": "38801",
+    "functions": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "FRAGRANCE"
+    ],
+    "cas": "54-12-6 / 73-22-3",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "sodium-sulfate": {
+    "inci": "SODIUM SULFATE",
+    "cosingId": "38093",
+    "functions": [
+      "BULKING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "7727-73-3 / 7757-82-6",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "folic-acid": {
+    "inci": "FOLIC ACID",
+    "cosingId": "33946",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "59-30-3",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "ferrous-sulfate": {
+    "inci": "FERROUS SULFATE",
+    "cosingId": "33930",
+    "functions": [
+      "ASTRINGENT"
+    ],
+    "cas": "7720-78-7",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "calcium-pantothenate": {
+    "inci": "CALCIUM PANTOTHENATE",
+    "cosingId": "74910",
+    "functions": [
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "cas": "137-08-6",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "thiamine-hcl": {
+    "inci": "THIAMINE HCL",
+    "cosingId": "38580",
+    "functions": [
+      "FRAGRANCE",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "67-03-8",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "pyridoxine-hcl": {
+    "inci": "PYRIDOXINE HCL",
+    "cosingId": "37388",
+    "functions": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "58-56-0 / 12001-77-3",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "cyanocobalamin": {
+    "inci": "CYANOCOBALAMIN",
+    "cosingId": "33091",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "68-19-9",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "thioctic-acid": {
+    "inci": "THIOCTIC ACID",
+    "cosingId": "60299",
+    "functions": [
+      "ANTIOXIDANT"
+    ],
+    "cas": "1077-28-7",
+    "classes": [
+      "antioxidant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "riboflavin": {
+    "inci": "RIBOFLAVIN",
+    "cosingId": "37498",
+    "functions": [
+      "COLORANT",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "cas": "83-88-5",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": [
+      {
+        "annex": [
+          "IV"
+        ],
+        "ref": "145",
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ]
+  },
+  "sodium-metasilicate": {
+    "inci": "SODIUM METASILICATE",
+    "cosingId": "79774",
+    "functions": [
+      "ANTICORROSIVE",
+      "BUFFERING",
+      "CHELATING"
+    ],
+    "cas": "6834-92-0",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "guanine": {
+    "inci": "GUANINE",
+    "cosingId": "34175",
+    "functions": [
+      "COLORANT",
+      "OPACIFYING"
+    ],
+    "cas": "73-40-5",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": [
+      {
+        "annex": [
+          "IV"
+        ],
+        "ref": "113",
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ]
+  },
+  "biotin": {
+    "inci": "BIOTIN",
+    "cosingId": "32188",
+    "functions": [
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "cas": "58-85-5",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "manganese-chloride": {
+    "inci": "MANGANESE CHLORIDE",
+    "cosingId": "35156",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "7773-01-5",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "xylitylglucoside": {
+    "inci": "XYLITYLGLUCOSIDE",
+    "cosingId": "60201",
+    "functions": [
+      "HUMECTANT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [
+      "humectant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "anhydroxylitol": {
+    "inci": "ANHYDROXYLITOL",
+    "cosingId": "54477",
+    "functions": [
+      "HUMECTANT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "53448-53-6",
+    "classes": [
+      "humectant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "peg-90-glyceryl-isostearate": {
+    "inci": "PEG-90 GLYCERYL ISOSTEARATE",
+    "cosingId": "57522",
+    "functions": [
+      "CLEANSING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "polymethylsilsesquioxane": {
+    "inci": "POLYMETHYLSILSESQUIOXANE",
+    "cosingId": "79017",
+    "functions": [
+      "OPACIFYING"
+    ],
+    "cas": "68554-70-1",
+    "classes": [
+      "silicone"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "hdi-trimethylol-hexyllactone-crosspolymer": {
+    "inci": "HDI/TRIMETHYLOL HEXYLLACTONE CROSSPOLYMER",
+    "cosingId": "34225",
+    "functions": [
+      "ANTICAKING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "polysilicone-11": {
+    "inci": "POLYSILICONE-11",
+    "cosingId": "79220",
+    "functions": [
+      "FILM FORMING"
+    ],
+    "cas": "63394-02-5",
+    "classes": [
+      "silicone"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "ammonium-acryloyldimethyltaurate-vp-copolymer": {
+    "inci": "AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER",
+    "cosingId": "54593",
+    "functions": [
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "azelaic-acid": {
+    "inci": "AZELAIC ACID",
+    "cosingId": "74538",
+    "functions": [
+      "BUFFERING",
+      "FRAGRANCE"
+    ],
+    "cas": "123-99-9",
+    "classes": [
+      "active:azelaic-acid"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "andrographis-paniculata-leaf-extract": {
+    "inci": "ANDROGRAPHIS PANICULATA LEAF EXTRACT",
+    "cosingId": "54460",
+    "functions": [
+      "ASTRINGENT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "90244-84-1",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glycyrrhiza-glabra-root-extract": {
+    "inci": "GLYCYRRHIZA GLABRA ROOT EXTRACT",
+    "cosingId": "76485",
+    "functions": [
+      "BLEACHING",
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING",
+      "SMOOTHING",
+      "SOOTHING",
+      "PERFUMING"
+    ],
+    "cas": "84775-66-6",
+    "classes": [
+      "active:brightener",
+      "emollient",
+      "soothing"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "caprylyl-capryl-glucoside": {
+    "inci": "CAPRYLYL/CAPRYL GLUCOSIDE",
+    "cosingId": "32427",
+    "functions": [
+      "CLEANSING",
+      "FOAMING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": "68515-73-1",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "butyrospermum-parkii-oil": {
+    "inci": "BUTYROSPERMUM PARKII OIL",
+    "cosingId": "55026",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "91080-23-8",
+    "classes": [
+      "emollient",
+      "plant-oil"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "benzotriazolyl-dodecyl-p-cresol": {
+    "inci": "BENZOTRIAZOLYL DODECYL P-CRESOL",
+    "cosingId": "54653",
+    "functions": [
+      "UV ABSORBER"
+    ],
+    "cas": "125304-04-3",
+    "classes": [
+      "uv-filter"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "isododecane": {
+    "inci": "ISODODECANE",
+    "cosingId": "34648",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SOLVENT",
+      "PERFUMING"
+    ],
+    "cas": "31807-55-3 / 93685-81-5 / 13475-82-6",
+    "classes": [
+      "emollient",
+      "mineral-oil"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "propylene-glycol-dicaprylate-dicaprate": {
+    "inci": "PROPYLENE GLYCOL DICAPRYLATE/DICAPRATE",
+    "cosingId": "78795",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT"
+    ],
+    "cas": "68583-51-7 / 58748-27-9 / 68988-72-7",
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": "1",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "cetyl-palmitate": {
+    "inci": "CETYL PALMITATE",
+    "cosingId": "74965",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "FRAGRANCE",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "540-10-3",
+    "classes": [
+      "emollient",
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": "0",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "hydrogenated-polydecene": {
+    "inci": "HYDROGENATED POLYDECENE",
+    "cosingId": "76642",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "HAIR CONDITIONING",
+      "FRAGRANCE",
+      "SKIN CONDITIONING",
+      "SOLVENT",
+      "PERFUMING"
+    ],
+    "cas": "68037-01-4",
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "tridecyl-trimellitate": {
+    "inci": "TRIDECYL TRIMELLITATE",
+    "cosingId": "38699",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "94109-09-8",
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glyceryl-dibehenate": {
+    "inci": "GLYCERYL DIBEHENATE",
+    "cosingId": "34055",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT"
+    ],
+    "cas": "94201-62-4",
+    "classes": [
+      "emollient",
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "tribehenin": {
+    "inci": "TRIBEHENIN",
+    "cosingId": "38647",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "18641-57-1",
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": "0",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "hydroxyethyl-acrylate-sodium-acryloyldimethyl-taurate-copolymer": {
+    "inci": "HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
+    "cosingId": "56798",
+    "functions": [
+      "EMULSION STABILISING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "111286-86-3",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glyceryl-behenate": {
+    "inci": "GLYCERYL BEHENATE",
+    "cosingId": "76196",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SURFACTANT - EMULSIFYING"
+    ],
+    "cas": "30233-64-8 / 6916-74-1",
+    "classes": [
+      "emollient",
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "polysorbate-60": {
+    "inci": "POLYSORBATE 60",
+    "cosingId": "79321",
+    "functions": [
+      "SURFACTANT - EMULSIFYING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": "9005-67-8",
+    "classes": [
+      "polysorbate"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "magnesium-laureth-sulfate": {
+    "inci": "MAGNESIUM LAURETH SULFATE",
+    "cosingId": "77630",
+    "functions": [
+      "CLEANSING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": "62755-21-9",
+    "classes": [
+      "sulfate"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "cellulose-acetate": {
+    "inci": "CELLULOSE ACETATE",
+    "cosingId": "32481",
+    "functions": [
+      "FILM FORMING"
+    ],
+    "cas": "9004-35-7",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glyceryl-oleate": {
+    "inci": "GLYCERYL OLEATE",
+    "cosingId": "76237",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SURFACTANT - EMULSIFYING",
+      "PERFUMING"
+    ],
+    "cas": "25496-72-4 / 111-03-5",
+    "classes": [
+      "emollient",
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "acrylates-vinyl-isodecanoate-crosspolymer": {
+    "inci": "ACRYLATES/VINYL ISODECANOATE CROSSPOLYMER",
+    "cosingId": "31667",
+    "functions": [
+      "EMULSION STABILISING",
+      "FILM FORMING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "hydrogenated-palm-glycerides-citrate": {
+    "inci": "HYDROGENATED PALM GLYCERIDES CITRATE",
+    "cosingId": "34371",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "91744-68-2",
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "ascorbyl-palmitate": {
+    "inci": "ASCORBYL PALMITATE",
+    "cosingId": "32007",
+    "functions": [
+      "ANTIOXIDANT",
+      "FRAGRANCE"
+    ],
+    "cas": "137-66-6",
+    "classes": [
+      "active:vitamin-c",
+      "antioxidant",
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": "2",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "sucrose-stearate": {
+    "inci": "SUCROSE STEARATE",
+    "cosingId": "80469",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SURFACTANT - EMULSIFYING",
+      "SKIN CONDITIONING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": "25168-73-4 / 37318-31-3",
+    "classes": [
+      "emollient",
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": "0",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "canola-oil": {
+    "inci": "CANOLA OIL",
+    "cosingId": "74796",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "120962-03-0",
+    "classes": [
+      "emollient",
+      "plant-oil"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "polyglyceryl-4-oleate": {
+    "inci": "POLYGLYCERYL-4 OLEATE",
+    "cosingId": "78913",
+    "functions": [
+      "SURFACTANT - EMULSIFYING"
+    ],
+    "cas": "9007-48-1 / 71012-10-7",
+    "classes": [
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "stearyl-glycyrrhetinate": {
+    "inci": "STEARYL GLYCYRRHETINATE",
+    "cosingId": "38334",
+    "functions": [
+      "SKIN CONDITIONING",
+      "SOOTHING"
+    ],
+    "cas": "13832-70-7",
+    "classes": [
+      "soothing"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "kaolin": {
+    "inci": "KAOLIN",
+    "cosingId": "34795",
+    "functions": [
+      "ABRASIVE",
+      "ABSORBENT",
+      "ANTICAKING",
+      "BULKING",
+      "COLORANT",
+      "OPACIFYING"
+    ],
+    "cas": "1332-58-7",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": "0",
+    "irritancy": "0",
+    "restrictions": [
+      {
+        "annex": [
+          "IV"
+        ],
+        "ref": "119",
+        "maxConcentration": null,
+        "conditional": false
+      }
+    ]
+  },
+  "hexapeptide-2": {
+    "inci": "HEXAPEPTIDE-2",
+    "cosingId": "56381",
+    "functions": [
+      "BLEACHING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [
+      "active:peptide"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "dicaprylyl-ether": {
+    "inci": "DICAPRYLYL ETHER",
+    "cosingId": "75672",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING",
+      "SOLVENT"
+    ],
+    "cas": "629-82-3",
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glyceryl-stearate-citrate": {
+    "inci": "GLYCERYL STEARATE CITRATE",
+    "cosingId": "76253",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SURFACTANT - EMULSIFYING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "55840-13-6 / 86418-55-5",
+    "classes": [
+      "emollient",
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "mangifera-indica-seed-butter": {
+    "inci": "MANGIFERA INDICA SEED BUTTER",
+    "cosingId": "57696",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "90063-86-8",
+    "classes": [
+      "plant-oil"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "salvia-miltiorrhiza-flower-leaf-root-extract": {
+    "inci": "SALVIA MILTIORRHIZA FLOWER/LEAF/ROOT EXTRACT",
+    "cosingId": "59695",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "90106-50-6",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glycine-soja-oil": {
+    "inci": "GLYCINE SOJA OIL",
+    "cosingId": "34121",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING",
+      "PERFUMING"
+    ],
+    "cas": "8001-22-7",
+    "classes": [
+      "emollient",
+      "plant-oil"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": "3",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "palmitoyl-tetrapeptide-10": {
+    "inci": "PALMITOYL TETRAPEPTIDE-10",
+    "cosingId": "83399",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [
+      "active:peptide"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "peg-200-hydrogenated-glyceryl-palmate": {
+    "inci": "PEG-200 HYDROGENATED GLYCERYL PALMATE",
+    "cosingId": "78063",
+    "functions": [
+      "CLEANSING",
+      "SURFACTANT - EMULSIFYING",
+      "SOLVENT",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "limnanthes-alba-seed-oil": {
+    "inci": "LIMNANTHES ALBA SEED OIL",
+    "cosingId": "35012",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "153065-40-8",
+    "classes": [
+      "plant-oil"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "pongamia-glabra-seed-oil": {
+    "inci": "PONGAMIA GLABRA SEED OIL",
+    "cosingId": "85050",
+    "functions": [
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [
+      "plant-oil"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "bixa-orellana-seed-extract": {
+    "inci": "BIXA ORELLANA SEED EXTRACT",
+    "cosingId": "74509",
+    "functions": [
+      "FRAGRANCE",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "89957-43-7",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "ascorbyl-glucoside": {
+    "inci": "ASCORBYL GLUCOSIDE",
+    "cosingId": "54531",
+    "functions": [
+      "ANTIOXIDANT"
+    ],
+    "cas": "129499-78-1",
+    "classes": [
+      "active:vitamin-c",
+      "antioxidant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "sorbitan-sesquioleate": {
+    "inci": "SORBITAN SESQUIOLEATE",
+    "cosingId": "38185",
+    "functions": [
+      "SURFACTANT - EMULSIFYING"
+    ],
+    "cas": "8007-43-0",
+    "classes": [
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": "0-1",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "methyl-methacrylate-crosspolymer": {
+    "inci": "METHYL METHACRYLATE CROSSPOLYMER",
+    "cosingId": "78369",
+    "functions": [
+      "FILM FORMING"
+    ],
+    "cas": "25777-71-3",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "cyclohexasiloxane": {
+    "inci": "CYCLOHEXASILOXANE",
+    "cosingId": "75406",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "HAIR CONDITIONING",
+      "SOLVENT"
+    ],
+    "cas": "540-97-6",
+    "classes": [
+      "emollient",
+      "silicone"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "fomes-officinalis-extract": {
+    "inci": "FOMES OFFICINALIS EXTRACT",
+    "cosingId": "33947",
+    "functions": [
+      "SKIN PROTECTING"
+    ],
+    "cas": "94465-74-4",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "trideceth-6": {
+    "inci": "TRIDECETH-6",
+    "cosingId": "80330",
+    "functions": [
+      "SURFACTANT - EMULSIFYING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": "24938-91-8 / 69011-36-5",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "c30-45-alkyl-cetearyl-dimethicone-crosspolymer": {
+    "inci": "C30-45 ALKYL CETEARYL DIMETHICONE CROSSPOLYMER",
+    "cosingId": "55035",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "FILM FORMING",
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "443892-05-5",
+    "classes": [
+      "emollient",
+      "silicone"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "lauryl-peg-ppg-18-18-methicone": {
+    "inci": "LAURYL PEG/PPG-18/18 METHICONE",
+    "cosingId": "57048",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [
+      "silicone"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "peg-ppg-18-18-dimethicone": {
+    "inci": "PEG/PPG-18/18 DIMETHICONE",
+    "cosingId": "57121",
+    "functions": [
+      "SURFACTANT - EMULSIFYING"
+    ],
+    "cas": null,
+    "classes": [
+      "silicone"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "dodecyl-gallate": {
+    "inci": "DODECYL GALLATE",
+    "cosingId": "33728",
+    "functions": [
+      "ANTIOXIDANT"
+    ],
+    "cas": "1166-52-5",
+    "classes": [
+      "antioxidant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "c20-22-alkyl-phosphate": {
+    "inci": "C20-22 ALKYL PHOSPHATE",
+    "cosingId": "85205",
+    "functions": [
+      "SURFACTANT - EMULSIFYING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "c20-22-alcohols": {
+    "inci": "C20-22 ALCOHOLS",
+    "cosingId": "54907",
+    "functions": [
+      "BINDING",
+      "EMULSION STABILISING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "90604-34-5",
+    "classes": [
+      "fatty-alcohol"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "salvia-miltiorrhiza-root-extract": {
+    "inci": "SALVIA MILTIORRHIZA ROOT EXTRACT",
+    "cosingId": "83570",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "90106-50-6",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "biosaccharide-gum-1": {
+    "inci": "BIOSACCHARIDE GUM-1",
+    "cosingId": "32187",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "194237-89-3",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "coco-caprylate-caprate": {
+    "inci": "COCO-CAPRYLATE/CAPRATE",
+    "cosingId": "75266",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "vinyl-dimethicone-methicone-silsesquioxane-crosspolymer": {
+    "inci": "VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER",
+    "cosingId": "60095",
+    "functions": [
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": null,
+    "classes": [
+      "silicone"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "bakuchiol": {
+    "inci": "BAKUCHIOL",
+    "cosingId": "32053",
+    "functions": [
+      "ANTIMICROBIAL",
+      "ANTIOXIDANT",
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "10309-37-2",
+    "classes": [
+      "active:bakuchiol",
+      "antioxidant",
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "triceteareth-4-phosphate": {
+    "inci": "TRICETEARETH-4 PHOSPHATE",
+    "cosingId": "80304",
+    "functions": [
+      "SURFACTANT - EMULSIFYING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": "119415-05-3",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glycine-soja-germ-extract": {
+    "inci": "GLYCINE SOJA GERM EXTRACT",
+    "cosingId": "98579",
+    "functions": [
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glycol-stearate": {
+    "inci": "GLYCOL STEARATE",
+    "cosingId": "34143",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SURFACTANT - EMULSIFYING",
+      "OPACIFYING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": "111-60-4",
+    "classes": [
+      "emollient",
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": "0",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "peg-2-stearate": {
+    "inci": "PEG-2 STEARATE",
+    "cosingId": "77937",
+    "functions": [
+      "SURFACTANT - EMULSIFYING",
+      "OPACIFYING"
+    ],
+    "cas": "106-11-6",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "maltooligosyl-glucoside": {
+    "inci": "MALTOOLIGOSYL GLUCOSIDE",
+    "cosingId": "57616",
+    "functions": [
+      "BINDING",
+      "FILM FORMING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "1-methylhydantoin-2-imide": {
+    "inci": "1-METHYLHYDANTOIN-2-IMIDE",
+    "cosingId": "54178",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "60-27-5",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "hexyl-laurate": {
+    "inci": "HEXYL LAURATE",
+    "cosingId": "34269",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "34316-64-8",
+    "classes": [
+      "emollient",
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "ethylene-propylene-styrene-copolymer": {
+    "inci": "ETHYLENE/PROPYLENE/STYRENE COPOLYMER",
+    "cosingId": "56078",
+    "functions": [
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "persea-gratissima-oil": {
+    "inci": "PERSEA GRATISSIMA OIL",
+    "cosingId": "79502",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "8024-32-6",
+    "classes": [
+      "plant-oil"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": "3(2)",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "butylene-ethylene-styrene-copolymer": {
+    "inci": "BUTYLENE/ETHYLENE/STYRENE COPOLYMER",
+    "cosingId": "55019",
+    "functions": [
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "bht": {
+    "inci": "BHT",
+    "cosingId": "32185",
+    "functions": [
+      "ANTIOXIDANT",
+      "FRAGRANCE"
+    ],
+    "cas": "128-37-0",
+    "classes": [
+      "antioxidant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": [
+      {
+        "annex": [
+          "III"
+        ],
+        "ref": "325",
+        "maxConcentration": "a) 0,001 %\r\n\r\nb) 0,1 %\r\n\r\nc) 0,8 %",
+        "conditional": false
+      }
+    ]
+  },
+  "c10-18-triglycerides": {
+    "inci": "C10-18 TRIGLYCERIDES",
+    "cosingId": "74614",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING",
+      "SOLVENT"
+    ],
+    "cas": "85665-33-4",
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "helianthus-annuus-seed-wax": {
+    "inci": "HELIANTHUS ANNUUS SEED WAX",
+    "cosingId": "92561",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "1286686-34-7",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "corn-starch-modified": {
+    "inci": "CORN STARCH MODIFIED",
+    "cosingId": "55700",
+    "functions": [
+      "ABSORBENT",
+      "FILM FORMING",
+      "SKIN CONDITIONING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "cocos-nucifera-oil": {
+    "inci": "COCOS NUCIFERA OIL",
+    "cosingId": "75444",
+    "functions": [
+      "HAIR CONDITIONING",
+      "FRAGRANCE",
+      "SKIN CONDITIONING",
+      "PERFUMING"
+    ],
+    "cas": "8001-31-8",
+    "classes": [
+      "plant-oil"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": "4",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "glyceryl-caprylate-caprate": {
+    "inci": "GLYCERYL CAPRYLATE/CAPRATE",
+    "cosingId": "34050",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SURFACTANT - EMULSIFYING"
+    ],
+    "cas": null,
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "o-cymen-5-ol": {
+    "inci": "O-CYMEN-5-OL",
+    "cosingId": "35637",
+    "functions": [
+      "ANTIMICROBIAL",
+      "DEODORANT",
+      "PRESERVATIVE"
+    ],
+    "cas": "3228-02-2 / 39660-61-2",
+    "classes": [
+      "preservative"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": [
+      {
+        "annex": [
+          "V"
+        ],
+        "ref": "38",
+        "maxConcentration": "0.1%",
+        "conditional": false
+      }
+    ]
+  },
+  "peg-10-dimethicone": {
+    "inci": "PEG-10 DIMETHICONE",
+    "cosingId": "57344",
+    "functions": [
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [
+      "silicone"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "triheptanoin": {
+    "inci": "TRIHEPTANOIN",
+    "cosingId": "80359",
+    "functions": [
+      "VISCOSITY CONTROLLING",
+      "SKIN CONDITIONING - OCCLUSIVE"
+    ],
+    "cas": "620-67-7",
+    "classes": [
+      "occlusive"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "c13-15-alkane": {
+    "inci": "C13-15 ALKANE",
+    "cosingId": "54884",
+    "functions": [
+      "SOLVENT"
+    ],
+    "cas": "64742-46-7;",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "natto-gum": {
+    "inci": "NATTO GUM",
+    "cosingId": "77334",
+    "functions": [
+      "FILM FORMING"
+    ],
+    "cas": "9079-02-1",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "polyglyceryl-10-laurate": {
+    "inci": "POLYGLYCERYL-10 LAURATE",
+    "cosingId": "78761",
+    "functions": [
+      "SKIN CONDITIONING - MISCELLANEOUS",
+      "SURFACTANT - EMULSIFYING"
+    ],
+    "cas": "74504-64-6 (generic)/ 34406-66-1",
+    "classes": [
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glutamylamidoethyl-indole": {
+    "inci": "GLUTAMYLAMIDOETHYL INDOLE",
+    "cosingId": "56227",
+    "functions": [
+      "SKIN PROTECTING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "sorbitan-stearate": {
+    "inci": "SORBITAN STEARATE",
+    "cosingId": "38187",
+    "functions": [
+      "SURFACTANT - EMULSIFYING"
+    ],
+    "cas": "1338-41-6",
+    "classes": [
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": "0",
+    "irritancy": "1",
+    "restrictions": []
+  },
+  "glyceryl-polyacrylate": {
+    "inci": "GLYCERYL POLYACRYLATE",
+    "cosingId": "76245",
+    "functions": [
+      "FILM FORMING"
+    ],
+    "cas": "104365-75-5",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "isostearyl-alcohol": {
+    "inci": "ISOSTEARYL ALCOHOL",
+    "cosingId": "34752",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "27458-93-1",
+    "classes": [
+      "emollient",
+      "fatty-alcohol"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "butylene-glycol-cocoate": {
+    "inci": "BUTYLENE GLYCOL COCOATE",
+    "cosingId": "55010",
+    "functions": [
+      "SURFACTANT - EMULSIFYING",
+      "EMULSION STABILISING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": null,
+    "classes": [
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "ethylcellulose": {
+    "inci": "ETHYLCELLULOSE",
+    "cosingId": "33853",
+    "functions": [
+      "BINDING",
+      "FILM FORMING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "9004-57-3",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glabridin": {
+    "inci": "GLABRIDIN",
+    "cosingId": "84479",
+    "functions": [
+      "BLEACHING"
+    ],
+    "cas": "59870-68-7",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "acetyl-tetrapeptide-5": {
+    "inci": "ACETYL TETRAPEPTIDE-5",
+    "cosingId": "54142",
+    "functions": [
+      "HUMECTANT"
+    ],
+    "cas": null,
+    "classes": [
+      "active:peptide",
+      "humectant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "undecylenic-glycerides": {
+    "inci": "UNDECYLENIC GLYCERIDES",
+    "cosingId": "88806",
+    "functions": [],
+    "cas": "65684-27-7 ;93802-96-1 ; 171675-63-1",
+    "classes": [],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "climbazole": {
+    "inci": "CLIMBAZOLE",
+    "cosingId": "32909",
+    "functions": [
+      "ANTI-SEBORRHEIC",
+      "ANTIMICROBIAL",
+      "PRESERVATIVE"
+    ],
+    "cas": "38083-17-9",
+    "classes": [
+      "preservative"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": [
+      {
+        "annex": [
+          "V"
+        ],
+        "ref": "32",
+        "maxConcentration": "(a) 0,2 %\r\n(b) 0,2 %\r\n(c) 0,2 %\r\n(d) 0,5 %",
+        "conditional": false
+      },
+      {
+        "annex": [
+          "III"
+        ],
+        "ref": "310",
+        "maxConcentration": "2,0 %",
+        "conditional": false
+      }
+    ]
+  },
+  "glucosyl-hesperidin": {
+    "inci": "GLUCOSYL HESPERIDIN",
+    "cosingId": "56193",
+    "functions": [
+      "HUMECTANT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [
+      "humectant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "sodium-stearoyl-glutamate": {
+    "inci": "SODIUM STEAROYL GLUTAMATE",
+    "cosingId": "80093",
+    "functions": [
+      "CLEANSING",
+      "SURFACTANT - EMULSIFYING",
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "38517-23-6 / 79811-24-8",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "arnica-montana-flower-extract": {
+    "inci": "ARNICA MONTANA FLOWER EXTRACT",
+    "cosingId": "74322",
+    "functions": [
+      "FRAGRANCE",
+      "SKIN CONDITIONING",
+      "PERFUMING"
+    ],
+    "cas": "68990-11-4",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "decylene-glycol": {
+    "inci": "DECYLENE GLYCOL",
+    "cosingId": "55718",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "1119-86-4",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "ammonium-glycyrrhizate": {
+    "inci": "AMMONIUM GLYCYRRHIZATE",
+    "cosingId": "74398",
+    "functions": [
+      "FRAGRANCE",
+      "FLAVOURING",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "cas": "53956-04-0",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "lysine-azelate": {
+    "inci": "LYSINE AZELATE",
+    "cosingId": "57471",
+    "functions": [
+      "BLEACHING",
+      "CHELATING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "undecyl-alcohol": {
+    "inci": "UNDECYL ALCOHOL",
+    "cosingId": "80494",
+    "functions": [
+      "ANTI-SEBUM",
+      "SKIN CONDITIONING - EMOLLIENT",
+      "FRAGRANCE",
+      "SKIN CONDITIONING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "112-42-5",
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "polyethylene": {
+    "inci": "POLYETHYLENE",
+    "cosingId": "78649",
+    "functions": [
+      "ABRASIVE",
+      "FILM FORMING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "9002-88-4",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "sodium-palmate": {
+    "inci": "SODIUM PALMATE",
+    "cosingId": "38009",
+    "functions": [
+      "CLEANSING",
+      "SURFACTANT - EMULSIFYING",
+      "SURFACTANT - CLEANSING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "61790-79-2",
+    "classes": [
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "sodium-palm-kernelate": {
+    "inci": "SODIUM PALM KERNELATE",
+    "cosingId": "79901",
+    "functions": [
+      "CLEANSING",
+      "SURFACTANT - EMULSIFYING",
+      "SURFACTANT - CLEANSING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "61789-89-7",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "tetrasodium-etidronate": {
+    "inci": "TETRASODIUM ETIDRONATE",
+    "cosingId": "38570",
+    "functions": [
+      "CHELATING",
+      "EMULSION STABILISING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "3794-83-0",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": [
+      {
+        "annex": [
+          "III"
+        ],
+        "ref": "53",
+        "maxConcentration": "(a) 1.5% (as etidronic acid)\r\n(b) 0.2% (as etidronic acid)",
+        "conditional": false
+      }
+    ]
+  },
+  "lauroyl-lysine": {
+    "inci": "LAUROYL LYSINE",
+    "cosingId": "34940",
+    "functions": [
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "cas": "52315-75-0",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "polyglyceryl-3-methylglucose-distearate": {
+    "inci": "POLYGLYCERYL-3 METHYLGLUCOSE DISTEARATE",
+    "cosingId": "78897",
+    "functions": [
+      "SURFACTANT - EMULSIFYING"
+    ],
+    "cas": null,
+    "classes": [
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "ricinus-communis-seed-oil": {
+    "inci": "RICINUS COMMUNIS SEED OIL",
+    "cosingId": "37514",
+    "functions": [
+      "FRAGRANCE",
+      "SKIN CONDITIONING",
+      "PERFUMING"
+    ],
+    "cas": "8001-79-4",
+    "classes": [
+      "plant-oil"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": "1",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "polyglycerin-3": {
+    "inci": "POLYGLYCERIN-3",
+    "cosingId": "36714",
+    "functions": [
+      "HUMECTANT"
+    ],
+    "cas": "56090-54-1",
+    "classes": [
+      "humectant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "acacia-decurrens-flower-wax": {
+    "inci": "ACACIA DECURRENS FLOWER WAX",
+    "cosingId": "92818",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "peg-11-methyl-ether-dimethicone": {
+    "inci": "PEG-11 METHYL ETHER DIMETHICONE",
+    "cosingId": "57428",
+    "functions": [
+      "SURFACTANT - EMULSIFYING",
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [
+      "silicone"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "vitis-vinifera-vine-extract": {
+    "inci": "VITIS VINIFERA VINE EXTRACT",
+    "cosingId": "60144",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "85594-37-2 / 84929-27-1",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "asiaticoside": {
+    "inci": "ASIATICOSIDE",
+    "cosingId": "54535",
+    "functions": [
+      "ANTIOXIDANT",
+      "SKIN CONDITIONING",
+      "PERFUMING"
+    ],
+    "cas": "16830-15-2",
+    "classes": [
+      "active:centella",
+      "antioxidant"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "madecassic-acid": {
+    "inci": "MADECASSIC ACID",
+    "cosingId": "57486",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": "18449-41-7",
+    "classes": [
+      "active:centella"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "asiatic-acid": {
+    "inci": "ASIATIC ACID",
+    "cosingId": "32009",
+    "functions": [
+      "SKIN CONDITIONING",
+      "LIGHT STABILIZER"
+    ],
+    "cas": "464-92-6",
+    "classes": [
+      "active:centella"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "glyceryl-caprylate": {
+    "inci": "GLYCERYL CAPRYLATE",
+    "cosingId": "34049",
+    "functions": [
+      "DEODORANT",
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SURFACTANT - EMULSIFYING"
+    ],
+    "cas": "26402-26-6",
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "sodium-anisate": {
+    "inci": "SODIUM ANISATE",
+    "cosingId": "82817",
+    "functions": [
+      "ANTIMICROBIAL",
+      "FRAGRANCE",
+      "FLAVOURING",
+      "pH ADJUSTERS"
+    ],
+    "cas": "536-45-8",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "sodium-levulinate": {
+    "inci": "SODIUM LEVULINATE",
+    "cosingId": "37948",
+    "functions": [
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "cas": "19856-23-6",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "prunus-armeniaca-kernel-oil": {
+    "inci": "PRUNUS ARMENIACA KERNEL OIL",
+    "cosingId": "78931",
+    "functions": [
+      "FRAGRANCE",
+      "SKIN CONDITIONING"
+    ],
+    "cas": "68650-44-2 / 72869-69-3",
+    "classes": [
+      "plant-oil"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": "2(1)",
+    "irritancy": "0",
+    "restrictions": []
+  },
+  "peg-40-sorbitan-peroleate": {
+    "inci": "PEG-40 SORBITAN PEROLEATE",
+    "cosingId": "76901",
+    "functions": [
+      "SURFACTANT - EMULSIFYING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "triethylhexanoin": {
+    "inci": "TRIETHYLHEXANOIN",
+    "cosingId": "80354",
+    "functions": [
+      "HAIR CONDITIONING",
+      "FRAGRANCE",
+      "SKIN CONDITIONING",
+      "PERFUMING"
+    ],
+    "cas": "7360-38-5",
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "dextrin-palmitate": {
+    "inci": "DEXTRIN PALMITATE",
+    "cosingId": "75625",
+    "functions": [
+      "ANTICAKING",
+      "SURFACTANT - EMULSIFYING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": "83271-10-7",
+    "classes": [
+      "fatty-ester"
+    ],
+    "fungalAcne": "trigger",
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "diisostearyl-malate": {
+    "inci": "DIISOSTEARYL MALATE",
+    "cosingId": "75620",
+    "functions": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "cas": "67763-18-2 / 81230-05-9",
+    "classes": [
+      "emollient"
+    ],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  },
+  "lactobacillus-ferment": {
+    "inci": "LACTOBACILLUS FERMENT",
+    "cosingId": "34816",
+    "functions": [
+      "SKIN CONDITIONING"
+    ],
+    "cas": null,
+    "classes": [],
+    "fungalAcne": null,
+    "comedogenic": null,
+    "irritancy": null,
+    "restrictions": []
+  }
+}

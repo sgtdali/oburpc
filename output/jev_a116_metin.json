@@ -1,0 +1,138 @@
+{
+ "A": {
+  "text": "Mad Parfüm A116 Selective, Giorgio Armani Emporio Armani Stronger With You Powerfully'nin muadilidir (%62 nota benzerliği). İkisinde de mandalina, lavanta, baharatlı notalar ve vanilya var; A116'nın açılışındaki kiraz, Powerfully'deki vişneye yakın bir meyve notası. Fark dipte: A116'da muskat ve amber ağacı, Powerfully'de kestane ve ambergris bulunur.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.62,
+    "confidence": 0.63,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.35,
+     "3": 0.64
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.2
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.24
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.9,
+    "confidence": 0.9,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.96
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.09
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.79,
+    "confidence": 0.8,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.18,
+     "3": 0.81
+    }
+   }
+  }
+ },
+ "B": {
+  "text": "Mad Parfüm A116 Selective, Giorgio Armani Emporio Armani Stronger With You Powerfully'nin muadilidir (%62 nota benzerliği). Mandalina, lavanta, baharatlı notalar ve vanilya iki parfümde de var. Fark açılışta ve dipte: A116 kiraz ve portakalla açılıp muskat ve amber ağacıyla biterken, Powerfully vişneyle açılır, dipte kestane ve ambergris taşır.",
+  "answers": {
+   "accuracy": {
+    "type": "score",
+    "score": 2.95,
+    "confidence": 0.93,
+    "legend": {
+     "0": "Contradicts the facts",
+     "1": "Several claims not in the facts",
+     "2": "Mostly consistent, one minor stretch",
+     "3": "Fully consistent with the facts"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.01,
+     "2": 0.02,
+     "3": 0.96
+    }
+   },
+   "unsupported": {
+    "type": "noul",
+    "noul": 0.14
+   },
+   "overpromise": {
+    "type": "noul",
+    "noul": 0.28
+   },
+   "answers_query": {
+    "type": "score",
+    "score": 2.89,
+    "confidence": 0.9,
+    "legend": {
+     "0": "No",
+     "1": "Only later in the text",
+     "2": "Yes but vaguely",
+     "3": "Yes, clearly and immediately"
+    },
+    "probabilities": {
+     "0": 0.03,
+     "1": 0.0,
+     "2": 0.01,
+     "3": 0.96
+    }
+   },
+   "generic": {
+    "type": "noul",
+    "noul": 0.11
+   },
+   "useful": {
+    "type": "score",
+    "score": 2.8,
+    "confidence": 0.81,
+    "legend": {
+     "0": "Not useful",
+     "1": "Slightly useful",
+     "2": "Useful",
+     "3": "Very useful, concrete differences explained"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.02,
+     "2": 0.15,
+     "3": 0.83
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,24 @@
+DENETÇİ (Caudalie, tur 3) — METİNLER İKİNCİ KEZ REDDEDİLDİ.
+
+Kapsam ve adlar artık iyi (excluded.json 58 kayıt, Türkçe adlar düzgün). Ama metinler yine kodla/şablonla üretilmiş:
+- 14 madde açıklaması aynı iskelet: "Kozmetik ürünlerin kıvamını, stabilitesini veya dokusunu iyileştirmek amacıyla
+  formüllere eklenen X bileşenidir." Bu kamfor (camphor), anetol (anethole), benzaldehit gibi KOKU maddeleri için
+  düpedüz YANLIŞ bilgi.
+- Ürün açıklamalarına teknik kodlar ve kırık parçalar yapışmış: "mentha-piperita-oil", "…alerjenlerdendir (lixir)",
+  "(r-gel)", "Premier alırken dikkat etmesi".
+tools.py check artık bunları yakalıyor: şu an 122 HATA.
+
+KESİN KURAL: Metin üretmek için Python ya da başka bir kod, döngü, şablon, f-string KULLANMA. texts.json'u doğrudan
+düzenle ve her metni tek tek, o ürünü/maddeyi düşünerek yaz. Kod yalnızca tools.py komutlarını çalıştırmak için.
+
+Yöntem:
+1. Maddeler: `python -X utf8 scripts/skincare/staging/tools.py ingredients caudalie` her madde için CosIng işlevini,
+   sınıfını ve Fulton puanını verir. Açıklamayı BU bilgiye dayanarak yaz (ör. CAMPHOR işlevi: denaturant, perfuming,
+   refreshing → "Kâfur: serinlik hissi veren ve koku katan bir madde; hassas ciltlerde tahriş edebilir").
+   Türkçe ad: Türkçe yaygın adı (Kâfur, Anetol, Benzaldehit, Kalsiyum sitrat, Etil oleat, Bentonit kili…).
+   Koku alerjenlerinde "AB'de etikette belirtilmesi gereken koku alerjeni" bilgisi.
+2. Ürünler: her ürün için `tools.py summary caudalie <slug>` oku; 3–5 cümle, o ürüne özgü. Madde adlarını Türkçe yaz
+   (ör. "nane yağı, limon kabuğu yağı"; asla "mentha-piperita-oil"). Alerjenleri birkaç örnekle yaz, tam liste dökme.
+   Dikkat noktasını anlamlı Türkçe kur ("…içerdiği için fungal akneye yatkın ciltler dikkat etmeli").
+3. Partiler: bu turda en az 15 ürün + o ürünlerin maddeleri. Her partide check çalıştır. Bitiremezsen DURUM: DEVAM;
+   denetçi aynı oturumda devam ettirecek. Bitince check 0 HATA ve DURUM: BİTTİ.
